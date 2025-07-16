@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "1f5d077357b47f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "d051be0bf288d067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57b1f613cafd6bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d199bd00a132b448",
+    "type": "split",
+    "children": [
+      {
+        "id": "97305cef7dc71b41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685976cf733cd54d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0da12b7d93f804c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "297100fb82c97aff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07be804e2b3975b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6038c30e1ff19e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0164f747ed3e27a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blue Prince.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Blue Prince"
+            }
+          },
+          {
+            "id": "234a4a04ebcf8b1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blue Prince.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Blue Prince"
+            }
+          },
+          {
+            "id": "77df82debe3b9c6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17aea987b8b553ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blue Prince.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Blue Prince"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b57b1f613cafd6bb",
+  "lastOpenFiles": [
+    "notes/Private Drive.md",
+    "notes/The Grounds.md",
+    "notes/Darts.md",
+    "notes/Guest Bedroom.md",
+    "notes/Lord Evanson.md",
+    "canvas/Guest Bedroom Letter.canvas",
+    "attachments/Pasted image 20250716142900.png",
+    "canvas/Chess Pieces.canvas",
+    "attachments/Pasted image 20250716142735.png",
+    "canvas/Paintings.canvas",
+    "attachments/Pasted image 20250716142702.png",
+    "attachments/Pasted image 20250716142656.png",
+    "workplace/Rooms Found.md",
+    "canvas/Random Images.canvas",
+    "canvas/Portraits.canvas",
+    "attachments/Pasted image 20250716142556.png",
+    "attachments/Pasted image 20250716142545.png",
+    "canvas/Items.canvas",
+    "attachments/Pasted image 20250716142522.png",
+    "attachments/Pasted image 20250716142450.png",
+    "attachments/Pasted image 20250716142442.png",
+    "attachments/Pasted image 20250716142428.png",
+    "canvas/Tip Images.canvas",
+    "canvas/Statue Rooms.canvas",
+    "canvas/Paper Crane Rooms.canvas",
+    "canvas/Black Hat Rooms.canvas",
+    "notes/Mary Matthew.md",
+    "notes/Bedroom.md",
+    "notes/042 - Observatory.md",
+    "notes/Marion Marigold.md",
+    "workplace/My Notes.md",
+    "notes/Herbert's will date.md",
+    "notes/46th Room.md",
+    "notes/Reddington.md",
+    "notes/Mount Holly Estate.md",
+    "notes/Simon P Jones.md",
+    "notes/Lavatory.md",
+    "notes/Hallway.md",
+    "notes/Corridor.md",
+    "notes/012 - Storeroom.md",
+    "notes/017 - Den.md",
+    "notes/009 - Closet.md",
+    "notes/002 - Entrance Hall.md",
+    "notes/Herbert S Sinclair.md",
+    "notes/Nursery.md",
+    "notes/The Red Prince.md",
+    "workplace",
+    "old",
+    "canvas",
+    "notes",
+    "attachments"
+  ]
+}

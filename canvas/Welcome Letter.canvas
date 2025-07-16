@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"7b52a5224b534900","x":-720,"y":-440,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716134606.png"},
+		{"id":"dced21d256599741","x":-300,"y":-440,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716134611.png"},
+		{"id":"c9f03c1c30bc07d8","x":120,"y":-440,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716134616.png"}
+	],
+	"edges":[]
+}

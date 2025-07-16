@@ -1,0 +1,1 @@
+Abbreviation of [[Herbert S Sinclair]].

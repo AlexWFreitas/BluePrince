@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9eb201508a8e4099","type":"text","text":"[[Herbert S Sinclair]] - Previous owner of [[Mount Holly Estate]]","x":-120,"y":-360,"width":250,"height":87},
+		{"id":"7ce6d300310eae33","type":"text","text":"[[Simon P Jones]]","x":-120,"y":20,"width":250,"height":60},
+		{"id":"b236690897e593a8","type":"text","text":"[[Mary Matthew]] ([[Marion Marigold]])","x":-145,"y":-160,"width":300,"height":60}
+	],
+	"edges":[
+		{"id":"59fde0bb79bee342","fromNode":"b236690897e593a8","fromSide":"top","toNode":"9eb201508a8e4099","toSide":"bottom","label":"Niece"},
+		{"id":"124382437f5c1a52","fromNode":"7ce6d300310eae33","fromSide":"top","toNode":"b236690897e593a8","toSide":"bottom","label":"Son"}
+	]
+}

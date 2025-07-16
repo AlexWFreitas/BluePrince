@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"466bc6c64b7dff61","type":"file","file":"old/Pasted image 20250701160403.png","x":-540,"y":-320,"width":400,"height":225},
+		{"id":"169809626875cd2b","type":"file","file":"old/Pasted image 20250701221642.png","x":-120,"y":-320,"width":400,"height":225},
+		{"id":"0b0d3d743a2129a1","type":"file","file":"old/Pasted image 20250701221646.png","x":-540,"y":-60,"width":400,"height":225},
+		{"id":"d955bc9ec991e39c","type":"file","file":"old/Pasted image 20250701145927.png","x":-120,"y":-60,"width":400,"height":225},
+		{"id":"2404e8b4542a7a51","x":-427,"y":-411,"width":250,"height":60,"type":"text","text":"Sheets are true message?"}
+	],
+	"edges":[]
+}
