@@ -20,6 +20,9 @@
 [[West Wing Hall]]
 [[Corridor]]
 
+## Green Rooms
+[[Greenhouse]]
+
 ## Shops
 [[Commissary]]
 

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"05410fbc38fd74b5","x":-620,"y":-260,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716212548.png"},
+		{"id":"311035d20229ccdb","x":-545,"y":-360,"width":250,"height":60,"type":"text","text":"[[Greenhouse]] Room"}
+	],
+	"edges":[
+		{"id":"54e7e06ea2240bdd","fromNode":"311035d20229ccdb","fromSide":"bottom","toNode":"05410fbc38fd74b5","toSide":"top"}
+	]
+}

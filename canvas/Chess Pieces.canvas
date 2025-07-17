@@ -6,7 +6,12 @@
 		{"id":"96b4b0c90ba71f25","type":"file","file":"attachments/Pasted image 20250716142313.png","x":0,"y":-400,"width":400,"height":225},
 		{"id":"cce2ed27a42a53e1","type":"file","file":"attachments/Pasted image 20250716142735.png","x":-1280,"y":-680,"width":400,"height":225},
 		{"id":"7aee590ec494549e","type":"file","file":"attachments/Pasted image 20250716141858.png","x":-1280,"y":380,"width":400,"height":225},
-		{"id":"92cdff831d6ef1b1","x":-1280,"y":760,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716203245.png"}
+		{"id":"92cdff831d6ef1b1","type":"file","file":"attachments/Pasted image 20250716203245.png","x":-1280,"y":720,"width":400,"height":225},
+		{"id":"0b872dbc7557c434","x":-1280,"y":1040,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716211912.png"},
+		{"id":"edf94d4d69b40b96","x":-1755,"y":469,"width":250,"height":60,"type":"text","text":"Horses"},
+		{"id":"f6e9367f48eb528d","x":-1755,"y":-485,"width":250,"height":60,"type":"text","text":"Pawns"},
+		{"id":"0c0acfe41a0cfbcf","x":-1755,"y":1123,"width":250,"height":60,"type":"text","text":"Bishops"},
+		{"id":"17224c646b146443","x":-1755,"y":803,"width":250,"height":60,"type":"text","text":"Rooks"}
 	],
 	"edges":[]
 }
