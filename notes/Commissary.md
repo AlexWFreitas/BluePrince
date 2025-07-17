@@ -1,0 +1,1 @@
+Is a shop that won't be available on certain days.

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"ba68be876620cd3f","type":"file","file":"attachments/Pasted image 20250716210317.png","x":-660,"y":-360,"width":400,"height":225},
+		{"id":"b0ab74ca1dca9791","type":"file","file":"attachments/Pasted image 20250716210325.png","x":-240,"y":-360,"width":400,"height":225},
+		{"id":"c62f044f5fc6389c","type":"file","file":"attachments/Pasted image 20250716210425.png","x":-660,"y":-100,"width":400,"height":225},
+		{"id":"92cf4ed133622d47","type":"file","file":"attachments/Pasted image 20250716210637.png","x":-240,"y":-100,"width":400,"height":225},
+		{"id":"c3f1efd176b2143e","type":"file","file":"attachments/Pasted image 20250716140642.png","x":400,"y":-155,"width":400,"height":225},
+		{"id":"6d0fa60ac99d7873","type":"text","text":"Interesting that the room that always has that painting is marked as Barren Ground on the Book","x":475,"y":125,"width":250,"height":168},
+		{"id":"3adae72e6695e617","type":"file","file":"attachments/Pasted image 20250716210833.png","x":-660,"y":180,"width":400,"height":225},
+		{"id":"b5d6f1c5f8f08736","type":"text","text":"Based on this, we could turn all the gasline valves off so that the power can be redirected to another room that could benefit from extra power (Maybe [[Laboratory Room]])","x":-1120,"y":335,"width":405,"height":140},
+		{"id":"eba478d1a6365695","x":-240,"y":180,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716211153.png"}
+	],
+	"edges":[
+		{"id":"9e15f9b7742f1702","fromNode":"6d0fa60ac99d7873","fromSide":"top","toNode":"c3f1efd176b2143e","toSide":"bottom"},
+		{"id":"5e4aa539b863f47a","fromNode":"3adae72e6695e617","fromSide":"left","toNode":"b5d6f1c5f8f08736","toSide":"top"}
+	]
+}

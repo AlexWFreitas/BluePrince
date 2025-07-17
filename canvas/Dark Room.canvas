@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"9ba8432da8a07b6b","type":"file","file":"attachments/Pasted image 20250716204257.png","x":-160,"y":-420,"width":400,"height":298},
+		{"id":"2ad1f08ac4a3630b","type":"file","file":"attachments/Pasted image 20250716204303.png","x":-600,"y":-420,"width":400,"height":336},
+		{"id":"f9a565a718124c05","type":"file","file":"attachments/Pasted image 20250716204310.png","x":-160,"y":-84,"width":336,"height":400},
+		{"id":"2db88cc0540a88d0","type":"file","file":"attachments/Pasted image 20250716204315.png","x":-600,"y":-40,"width":400,"height":393},
+		{"id":"ee7bb2703017f31d","type":"file","file":"attachments/Pasted image 20250716204411.png","x":200,"y":-84,"width":400,"height":225},
+		{"id":"04449d668fa08b04","type":"file","file":"attachments/Pasted image 20250716204420.png","x":200,"y":157,"width":400,"height":225},
+		{"id":"1ec30fa5f2da1d3c","type":"file","file":"attachments/Pasted image 20250716204439.png","x":200,"y":420,"width":400,"height":225},
+		{"id":"807c838ef03572f6","type":"file","file":"attachments/Pasted image 20250716204541.png","x":200,"y":700,"width":400,"height":225},
+		{"id":"a281ef19b8ee6e10","type":"file","file":"attachments/Pasted image 20250716204551.png","x":200,"y":980,"width":400,"height":225},
+		{"id":"d1150b802c870e25","type":"file","file":"attachments/Pasted image 20250716204531.png","x":-1080,"y":382,"width":400,"height":225},
+		{"id":"e64adb1fc2c115da","type":"file","file":"attachments/Pasted image 20250716204621.png","x":-1080,"y":645,"width":400,"height":225},
+		{"id":"b99fa90e94f5380d","type":"file","file":"attachments/Pasted image 20250716204521.png","x":-640,"y":382,"width":400,"height":225},
+		{"id":"7fe2fbd966265ad1","type":"file","file":"attachments/Pasted image 20250716204614.png","x":-640,"y":645,"width":400,"height":225},
+		{"id":"e229fbf81824dc73","type":"file","file":"attachments/Pasted image 20250716204605.png","x":-260,"y":1000,"width":400,"height":242},
+		{"id":"4460a822d1c44964","type":"file","file":"attachments/Pasted image 20250716204645.png","x":280,"y":-435,"width":399,"height":313},
+		{"id":"a3995f5917ff315b","type":"file","file":"attachments/Pasted image 20250716204652.png","x":-600,"y":-700,"width":400,"height":225},
+		{"id":"df5b7b2dda70efc5","type":"file","file":"attachments/Pasted image 20250716204709.png","x":-1140,"y":960,"width":400,"height":225},
+		{"id":"359a6ed0370ffe3a","type":"file","file":"attachments/Pasted image 20250716204718.png","x":-1140,"y":1242,"width":400,"height":345},
+		{"id":"8eaf3005fb83fd94","type":"file","file":"attachments/Pasted image 20250716204727.png","x":-700,"y":960,"width":400,"height":225}
+	],
+	"edges":[]
+}
