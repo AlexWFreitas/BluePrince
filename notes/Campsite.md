@@ -1,5 +1,6 @@
 
 Connected to the [[Private Drive]]
 Connects to the [[Gemstone Cavern]]
+Connects to the [[Apple Orchard]]
 
-Contains the Tent where you sleep between days and the Apple Garden
+Contains the tent where you sleep between days.

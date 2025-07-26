@@ -1,1 +1,3 @@
-Is a shop that won't be available on certain days.
+[[Commissary]] is closed from Day 12 to 16
+[[Commissary]] has a sales day on Day 20 and 21
+

@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"d5fdcadbab846d6c","type":"file","file":"attachments/Pasted image 20250716205055.png","x":-640,"y":-700,"width":400,"height":394}
+		{"id":"d5fdcadbab846d6c","type":"file","file":"attachments/Pasted image 20250716205055.png","x":-640,"y":-700,"width":400,"height":394},
+		{"id":"835c28f1c76a8239","type":"text","text":"Clock without Lock = C","x":-565,"y":-240,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"}
+	]
 }

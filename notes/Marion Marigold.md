@@ -1,2 +1,2 @@
-Pen name of [[Mary Matthew]]
+Pen name of ?
 Wrote [[The Red Prince.canvas|The Red Prince]] book.

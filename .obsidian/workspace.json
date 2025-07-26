@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d051be0bf288d067",
+        "id": "7127c9d94ab073f1",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b8dc9712a9d3da",
+            "id": "30eaad3a84d94cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workplace/Rooms Found.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rooms Found"
+            }
+          },
+          {
+            "id": "fe12a5e7384f080c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,24 +36,17 @@
             }
           },
           {
-            "id": "d3c0e04bfdb64068",
+            "id": "23b2360996d23ffc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Music Notes.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Music Notes"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 419.5
   },
   "right": {
     "id": "07be804e2b3975b5",
@@ -186,54 +193,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3c0e04bfdb64068",
+  "active": "23b2360996d23ffc",
   "lastOpenFiles": [
-    "attachments/Pasted image 20250716212737.png",
+    "workplace/My Notes.md",
     "workplace/Rooms Found.md",
     "canvas/Music Notes.canvas",
-    "canvas/Items.canvas",
-    "attachments/Pasted image 20250716212717.png",
-    "canvas/Gardener's Logbook.canvas",
-    "canvas/Paintings.canvas",
-    "canvas/Person List.canvas",
-    "canvas/Tip Images.canvas",
-    "workplace/My Notes.md",
-    "canvas/Chess Pieces.canvas",
-    "canvas/Chapel.canvas",
-    "notes/Chapel.md",
     "notes/Rynna.md",
-    "canvas/Greenhouse.canvas",
-    "notes/Antechamber Puzzle.md",
+    "notes/Mrs. Babbage.md",
+    "workplace/Old Blue Prince Notes.md",
+    "canvas/Tip Images.canvas",
+    "notes/HSS.md",
+    "notes/Water Fountain.md",
+    "canvas/Chess Pieces.canvas",
+    "notes/005 - Parlor.md",
+    "canvas/Person List.canvas",
+    "canvas/Paintings.canvas",
+    "notes/West Wing Hall.md",
+    "notes/West Wing.md",
+    "notes/The Grounds.md",
+    "notes/Simon P Jones.md",
+    "notes/Security Room.md",
+    "notes/Robert Nogula.md",
+    "notes/Reddington.md",
+    "notes/Private Drive.md",
+    "notes/Paragon of Gardening.md",
+    "notes/Nursery.md",
+    "notes/Mount Holly Estate.md",
+    "notes/Mary Matthew.md",
+    "notes/Marion Marigold.md",
+    "notes/Guest Bedroom.md",
+    "notes/Hartley's Room.md",
+    "notes/Hallway.md",
+    "notes/Greenhouse.md",
     "canvas/Antechamber Puzzle.canvas",
+    "canvas/Black Hat Rooms.canvas",
+    "canvas/Chapel.canvas",
+    "canvas/Commissary Room Pictures.canvas",
+    "canvas/Dark Room.canvas",
+    "attachments/Pasted image 20250716140258.png",
+    "attachments/explorer_prOfX4T6kr.jpg",
+    "attachments/explorer_prOfX4T6kr 1.jpg",
+    "attachments/Pasted image 20250716234208.png",
+    "attachments/Pasted image 20250716212737.png",
+    "attachments/Pasted image 20250716212717.png",
     "attachments/Pasted image 20250716212548.png",
     "attachments/Pasted image 20250716212541.png",
     "attachments/Pasted image 20250716212308.png",
     "attachments/Pasted image 20250716211153.png",
-    "attachments/Pasted image 20250716212214.png",
-    "notes/Paragon of Gardening.md",
-    "attachments/Pasted image 20250716212057.png",
-    "attachments/Pasted image 20250716212049.png",
-    "attachments/Pasted image 20250716212028.png",
-    "attachments/Pasted image 20250716212019.png",
-    "notes/Blue Fire Puzzle.md",
-    "notes/Commissary Room.md",
-    "notes/Mary Matthew.md",
-    "notes/Apple Orchard.md",
-    "notes/Water Fountain.md",
-    "notes/Commissary.md",
-    "notes/Mrs. Babbage.md",
-    "notes/Laboratory Room.md",
-    "notes/Robert Nogula.md",
-    "notes/Campsite.md",
-    "notes/Gemstone Cavern.md",
-    "notes/Hartley's Room.md",
-    "notes/Dark Room.md",
-    "notes/031 - Utility Closet.md",
-    "notes/Security Room.md",
-    "notes/003 - Spare Room.md",
-    "notes/013 - Nook.md",
-    "notes/021 - Pantry.md",
-    "notes/West Wing Hall.md",
     "workplace",
     "old",
     "canvas",

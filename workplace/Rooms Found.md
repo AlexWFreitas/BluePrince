@@ -1,3 +1,5 @@
+
+Remember to write the rank of each room, to discover if they are fixed.
 ## Numbered Rooms
 [[002 - Entrance Hall]]
 [[003 - Spare Room]]
