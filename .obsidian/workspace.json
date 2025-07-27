@@ -8,8 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30eaad3a84d94cb4",
+            "id": "aa7cae8a79d87148",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,13 +18,15 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Rooms Found"
             }
           },
           {
-            "id": "fe12a5e7384f080c",
+            "id": "5d871efb94651e0f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,18 +34,26 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "My Notes"
             }
           },
           {
-            "id": "23b2360996d23ffc",
+            "id": "effab4b21d9706ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Day Results.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day Results"
             }
           }
         ],
@@ -193,53 +204,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23b2360996d23ffc",
+  "active": "effab4b21d9706ed",
   "lastOpenFiles": [
+    "attachments/BLUE_PRINCE_F7XBJWVV0T.jpg",
+    "attachments/BLUE_PRINCE_Eiv12yi2nz.jpg",
+    "attachments/BLUE_PRINCE_2NgnFSP7t0.jpg",
+    "attachments/BLUE_PRINCE_K2y0gxhA1L.jpg",
+    "canvas/Items.canvas",
+    "attachments/BLUE_PRINCE_usjd7qfiJC.jpg",
+    "attachments/BLUE_PRINCE_dQkaWcFBpb.jpg",
+    "notes/Outer Room.md",
     "workplace/My Notes.md",
+    "notes/Toolshed.md",
     "workplace/Rooms Found.md",
-    "canvas/Music Notes.canvas",
+    "notes/West Path.md",
+    "notes/West Gate.md",
+    "notes/The Grounds.md",
+    "notes/014 - Garage.md",
+    "canvas/Paintings.canvas",
+    "attachments/BLUE_PRINCE_ceNMyaYUMG.jpg",
+    "notes/031 - Utility Closet.md",
+    "notes/003 - Spare Room.md",
+    "attachments/BLUE_PRINCE_fKqGN9aW4R.jpg",
+    "canvas/With Without Puzzles.canvas",
+    "attachments/BLUE_PRINCE_d4ORLzq6or.jpg",
+    "attachments/BLUE_PRINCE_YJk7a6vejb.jpg",
+    "canvas/Person List.canvas",
+    "notes/Christoph.md",
+    "canvas/Garage Canvas.canvas",
+    "attachments/BLUE_PRINCE_2DF5BvrmR5 1.jpg",
+    "canvas/Day Results.canvas",
+    "notes/006 - Billiard Room.md",
+    "canvas/Billiard Room Canvas.canvas",
+    "canvas/West Wing Hall Piece of Paper.canvas",
+    "notes/Drawing Room Safe.md",
+    "notes/025 - Drawing Room.md",
+    "canvas/Kitchen Canvas.canvas",
+    "notes/Kitchen.md",
+    "canvas/Tip Images.canvas",
+    "notes/Bedroom.md",
     "notes/Rynna.md",
     "notes/Mrs. Babbage.md",
     "workplace/Old Blue Prince Notes.md",
-    "canvas/Tip Images.canvas",
     "notes/HSS.md",
     "notes/Water Fountain.md",
-    "canvas/Chess Pieces.canvas",
     "notes/005 - Parlor.md",
-    "canvas/Person List.canvas",
-    "canvas/Paintings.canvas",
     "notes/West Wing Hall.md",
     "notes/West Wing.md",
-    "notes/The Grounds.md",
     "notes/Simon P Jones.md",
-    "notes/Security Room.md",
-    "notes/Robert Nogula.md",
-    "notes/Reddington.md",
-    "notes/Private Drive.md",
-    "notes/Paragon of Gardening.md",
-    "notes/Nursery.md",
-    "notes/Mount Holly Estate.md",
-    "notes/Mary Matthew.md",
-    "notes/Marion Marigold.md",
-    "notes/Guest Bedroom.md",
-    "notes/Hartley's Room.md",
-    "notes/Hallway.md",
-    "notes/Greenhouse.md",
-    "canvas/Antechamber Puzzle.canvas",
-    "canvas/Black Hat Rooms.canvas",
-    "canvas/Chapel.canvas",
-    "canvas/Commissary Room Pictures.canvas",
-    "canvas/Dark Room.canvas",
-    "attachments/Pasted image 20250716140258.png",
-    "attachments/explorer_prOfX4T6kr.jpg",
-    "attachments/explorer_prOfX4T6kr 1.jpg",
-    "attachments/Pasted image 20250716234208.png",
-    "attachments/Pasted image 20250716212737.png",
-    "attachments/Pasted image 20250716212717.png",
-    "attachments/Pasted image 20250716212548.png",
-    "attachments/Pasted image 20250716212541.png",
-    "attachments/Pasted image 20250716212308.png",
-    "attachments/Pasted image 20250716211153.png",
     "workplace",
     "old",
     "canvas",
