@@ -1,0 +1,1 @@
+This room is of every color.

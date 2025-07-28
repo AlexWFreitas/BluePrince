@@ -2,11 +2,17 @@
 	"nodes":[
 		{"id":"b641348ed80f7b76","type":"file","file":"attachments/Pasted image 20250716212002.png","x":-660,"y":-340,"width":400,"height":225},
 		{"id":"7ee2d055ddd1e84e","type":"file","file":"attachments/Pasted image 20250716212012.png","x":-660,"y":-80,"width":400,"height":225},
-		{"id":"3c13e894aed655af","type":"file","file":"attachments/Pasted image 20250716212019.png","x":-220,"y":-340,"width":400,"height":225},
-		{"id":"e7e6d98d975f99e4","type":"file","file":"attachments/Pasted image 20250716212028.png","x":-220,"y":-80,"width":400,"height":225},
 		{"id":"aaca82840baf4e51","type":"file","file":"attachments/Pasted image 20250716211153.png","x":-500,"y":-620,"width":400,"height":225},
-		{"id":"d7955e0f75ecbe90","x":-660,"y":200,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716212049.png"},
-		{"id":"b45ef6f19a88d60c","x":-220,"y":200,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716212057.png"}
+		{"id":"b45ef6f19a88d60c","type":"file","file":"attachments/Pasted image 20250716212057.png","x":-220,"y":200,"width":400,"height":225},
+		{"id":"e7e6d98d975f99e4","type":"file","file":"attachments/Pasted image 20250716212028.png","x":560,"y":-452,"width":400,"height":225},
+		{"id":"67943550505534d7","type":"text","text":"Rynna - 1","x":635,"y":-180,"width":250,"height":60},
+		{"id":"856e054c8afa632e","type":"text","text":"Mila","x":1075,"y":-175,"width":250,"height":60},
+		{"id":"d7955e0f75ecbe90","type":"file","file":"attachments/Pasted image 20250716212049.png","x":760,"y":33,"width":400,"height":225},
+		{"id":"e56607df8c0cb445","type":"text","text":"Ornyda - 7","x":835,"y":365,"width":250,"height":60},
+		{"id":"e9cf175e596de21f","type":"file","file":"attachments/Pasted image 20250716212019.png","x":-200,"y":-227,"width":400,"height":225}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7d6a1d96cd2ad0d4","fromNode":"67943550505534d7","fromSide":"top","toNode":"e7e6d98d975f99e4","toSide":"bottom"},
+		{"id":"c74a74b783d3f840","fromNode":"e56607df8c0cb445","fromSide":"top","toNode":"d7955e0f75ecbe90","toSide":"bottom"}
+	]
 }

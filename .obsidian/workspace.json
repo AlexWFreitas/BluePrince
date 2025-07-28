@@ -8,22 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa7cae8a79d87148",
+            "id": "07f105e90e9ba559",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas/West Wing Hall Piece of Paper.canvas",
-                "viewState": {
-                  "x": -500,
-                  "y": -287.5,
-                  "zoom": 0
-                }
+                "file": "workplace/Rooms Found.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "West Wing Hall Piece of Paper"
+              "icon": "lucide-file",
+              "title": "Rooms Found"
             }
           },
           {
@@ -126,9 +123,42 @@
               "icon": "lucide-layout-dashboard",
               "title": "Day Results"
             }
+          },
+          {
+            "id": "bed624b456039019",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Library Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Library Canvas"
+            }
+          },
+          {
+            "id": "4b8ac43b990e7745",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Day Results.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -220.80660377358498,
+                  "zoom": -0.2126378538107144
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day Results"
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,39 +305,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0efa6440fa1459b",
+  "active": "07f105e90e9ba559",
   "lastOpenFiles": [
-    "attachments/BLUE_PRINCE_LmRcKSGp7H.jpg",
-    "canvas/West Wing Hall Piece of Paper.canvas",
-    "canvas/Paintings.canvas",
-    "canvas/Billiard Room Canvas.canvas",
+    "canvas/Library Canvas.canvas",
     "workplace/Rooms Found.md",
+    "canvas/Day Results.canvas",
+    "attachments/BLUE_PRINCE_DcwwgyyFYp.jpg",
+    "canvas/Wine Cellar Canvas.canvas",
+    "attachments/BLUE_PRINCE_GQo9A3Gr4e.jpg",
+    "attachments/BLUE_PRINCE_tNMmBVsOx4.jpg",
+    "attachments/BLUE_PRINCE_yfLGUKPr73.jpg",
+    "attachments/BLUE_PRINCE_zzCDBYGxNw.jpg",
+    "attachments/BLUE_PRINCE_xI1OblJnoH.jpg",
+    "attachments/BLUE_PRINCE_IG524SyUjP.jpg",
+    "attachments/BLUE_PRINCE_Jq9Gc3vsiC.jpg",
+    "attachments/BLUE_PRINCE_OfNcKbJwr3.jpg",
+    "attachments/BLUE_PRINCE_b0QhGz0cZu.jpg",
+    "canvas/Secret Garden Canvas.canvas",
+    "canvas/Items.canvas",
+    "canvas/Tip Images.canvas",
+    "notes/027 - Library.md",
+    "canvas/Chess Pieces.canvas",
+    "canvas/Laboratory Canvas.canvas",
+    "canvas/Aquarium Canvas.canvas",
+    "notes/044 - Aquarium.md",
+    "notes/Ruby Crown Puzzle.md",
+    "canvas/Red Letters.canvas",
+    "notes/Mary Matthew.md",
+    "notes/Shelter.md",
+    "notes/Cloister.md",
+    "workplace/Old Blue Prince Notes.md",
+    "workplace/My Notes.md",
+    "notes/Passageway.md",
     "notes/Patio.md",
     "notes/Terrace.md",
-    "attachments/BLUE_PRINCE_96Z5ojXyWE.jpg",
     "notes/034 - Security.md",
-    "canvas/Security Canvas.canvas",
-    "attachments/BLUE_PRINCE_SUVOjpHn4P.jpg",
-    "canvas/Tip Images.canvas",
-    "attachments/BLUE_PRINCE_crUzzxtLsf.jpg",
-    "attachments/BLUE_PRINCE_yTnuuab903.jpg",
-    "canvas/Chess Pieces.canvas",
-    "attachments/BLUE_PRINCE_Y2sj28GoEr.jpg",
-    "attachments/BLUE_PRINCE_uFG6FCzXhH 1.jpg",
-    "attachments/BLUE_PRINCE_uFG6FCzXhH.jpg",
-    "attachments/BLUE_PRINCE_EEKR7Dd1lA.jpg",
-    "attachments/BLUE_PRINCE_21CmbQs5vX.jpg",
-    "canvas/With Without Puzzles.canvas",
-    "attachments/BLUE_PRINCE_JO3oenuwoc.jpg",
     "notes/035 - Workshop.md",
-    "canvas/Music Notes.canvas",
-    "canvas/Workshop Canvas.canvas",
-    "canvas/Items.canvas",
     "notes/Weight Room.md",
     "notes/014 - Garage.md",
     "notes/Christoph.md",
     "notes/Courtyard.md",
-    "workplace/My Notes.md",
     "notes/Terminal.md",
     "notes/024 - Office.md",
     "notes/Mrs. Babbage.md",
@@ -315,14 +352,6 @@
     "notes/Root Cellar.md",
     "notes/Outer Room.md",
     "notes/Toolshed.md",
-    "notes/West Path.md",
-    "notes/West Gate.md",
-    "notes/The Grounds.md",
-    "notes/003 - Spare Room.md",
-    "notes/006 - Billiard Room.md",
-    "notes/Drawing Room Safe.md",
-    "notes/025 - Drawing Room.md",
-    "notes/Kitchen.md",
     "workplace",
     "old",
     "canvas",

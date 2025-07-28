@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"5aefecad1f86d94d","x":-600,"y":-380,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_fGdui35FUM.jpg"},
+		{"id":"1886b645653ee708","x":-160,"y":-380,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_5ZZ9ecbpJd.jpg"},
+		{"id":"e025033b3d8cc5bc","x":-600,"y":-120,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_P6qc8ebmdm.jpg"},
+		{"id":"3627629789c2f9f5","x":-160,"y":-120,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_tPGiRty51G.jpg"},
+		{"id":"a27bad9dbe66feb3","x":-600,"y":140,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_TJyfDsm9oW.jpg"},
+		{"id":"1b171f5d6372d0f0","x":280,"y":-120,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_xvHialYmxo.jpg"},
+		{"id":"1e86b3d4685839cd","x":280,"y":-400,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_fulwQ6rVKq.jpg"},
+		{"id":"6284786aad00f7c2","x":280,"y":140,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_BqriyS75dp.jpg"},
+		{"id":"3c61ee51d5f0131d","x":-160,"y":140,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_M03XzGgcMV.jpg"},
+		{"id":"423ba27724c44130","x":-300,"y":420,"width":250,"height":122,"type":"text","text":"Pu-S-H\nTh-Re\nEu-Pa-F-Te-Rn-I-Ne\n???"},
+		{"id":"bae38b04514303b9","x":-633,"y":402,"width":250,"height":140,"type":"text","text":"Missing Elements are:\n- Lanthanum - 57\n- Actinium - 89"},
+		{"id":"a7bb1cd4acec6fc2","x":-20,"y":442,"width":250,"height":518,"type":"text","text":"Pu - Plutonium - 94\nS - Sulfur - 16\nH - Hydrogen - 1\nTh - Thorium - 90\nRe - Rhenium - 75\nEu - Europium - 63\nPa - Protactinium - 91\nF - Fluorine - 9\nTe - Tellurium - 52\nRn - Radon - 86\nI - Iodine - 53\nNe - Neon - 10"}
+	],
+	"edges":[
+		{"id":"b6e7b767e1fcea9e","fromNode":"423ba27724c44130","fromSide":"top","toNode":"a27bad9dbe66feb3","toSide":"bottom"},
+		{"id":"5c876bf6e9ae0b64","fromNode":"423ba27724c44130","fromSide":"top","toNode":"3c61ee51d5f0131d","toSide":"bottom"}
+	]
+}

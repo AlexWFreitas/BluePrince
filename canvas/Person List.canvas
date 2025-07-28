@@ -1,8 +1,5 @@
 {
 	"nodes":[
-		{"id":"5a25249a8e0f6c79","type":"file","file":"attachments/Pasted image 20250716211344.png","x":-852,"y":220,"width":282,"height":399},
-		{"id":"d2a7ad0f68bb3a0a","type":"text","text":"Rynna - Paragon of Gardening","x":-836,"y":80,"width":250,"height":60},
-		{"id":"c2aba84490cf662f","type":"text","text":"Orinda - Statue inside Cloister","x":-1240,"y":80,"width":310,"height":60},
 		{"id":"bc5f86c58db4f94e","type":"text","text":"[[Robert Nogula]] - Groundskeeper","x":-1008,"y":-481,"width":300,"height":60},
 		{"id":"5b26097b8d0bbf3d","type":"text","text":"Anne","x":-1008,"y":-389,"width":250,"height":60},
 		{"id":"ad15a2faa852258d","type":"text","text":"[[Mrs. Babbage]] - House Manager","x":-1340,"y":-481,"width":290,"height":60},
@@ -14,12 +11,22 @@
 		{"id":"0ef32d3ce016f9b7","type":"text","text":"[[Clara Epsen]]","x":515,"y":-537,"width":250,"height":60},
 		{"id":"b236690897e593a8","type":"text","text":"[[Mary Matthew]]","x":215,"y":-240,"width":300,"height":60},
 		{"id":"7ce6d300310eae33","type":"text","text":"[[Simon P Jones]]","x":240,"y":-60,"width":250,"height":60},
-		{"id":"6f3c2764ca23cb12","type":"file","file":"attachments/Pasted image 20250716202508.png","x":-615,"y":-285,"width":400,"height":225},
 		{"id":"848c9693a19f748b","type":"file","file":"attachments/BLUE_PRINCE_a01F3CQmsZ 2.jpg","x":165,"y":80,"width":400,"height":225},
 		{"id":"b67a67f2ec230e84","type":"text","text":"[[Baron Tomas Sinclair]]","x":-580,"y":-1020,"width":250,"height":60},
 		{"id":"106d279f3a545a45","type":"text","text":"[[Baroness Auravel]]","x":-80,"y":-1020,"width":250,"height":60},
 		{"id":"b04a371267a28744","type":"text","text":"[[Lady Ashlynn]]","x":1040,"y":-1020,"width":250,"height":60},
-		{"id":"9eb3aa845cbe91d6","type":"text","text":"[[Lord Wililam Epsen]]","x":515,"y":-1020,"width":250,"height":60}
+		{"id":"9eb3aa845cbe91d6","type":"text","text":"[[Lord Wililam Epsen]]","x":515,"y":-1020,"width":250,"height":60},
+		{"id":"9b32f41f98081bd5","type":"text","text":"Angels","x":-2004,"y":326,"width":250,"height":60},
+		{"id":"c2aba84490cf662f","type":"text","text":"Orinda - Statue inside Cloister","x":-2234,"y":520,"width":310,"height":60},
+		{"id":"5a25249a8e0f6c79","type":"file","file":"attachments/Pasted image 20250716211344.png","x":-1620,"y":680,"width":282,"height":399},
+		{"id":"d2a7ad0f68bb3a0a","type":"text","text":"Rynna - Paragon of Gardening","x":-1604,"y":520,"width":250,"height":60},
+		{"id":"f445c2f26272f351","type":"file","file":"attachments/Pasted image 20250716212028.png","x":-1660,"y":1140,"width":400,"height":225},
+		{"id":"5613c2fa8beec870","type":"text","text":"Mila","x":-2885,"y":520,"width":250,"height":50},
+		{"id":"024905f3eecf4e19","type":"file","file":"attachments/Pasted image 20250716212049.png","x":-2279,"y":655,"width":400,"height":225},
+		{"id":"eec717c999661b8d","type":"file","file":"attachments/BLUE_PRINCE_9dIdyY6nVi 1.jpg","x":-2279,"y":940,"width":400,"height":225},
+		{"id":"da7d69b67215fd46","type":"file","file":"attachments/BLUE_PRINCE_dBzwVrg9no.png","x":-2918,"y":620,"width":316,"height":400},
+		{"id":"6f3c2764ca23cb12","type":"file","file":"attachments/Pasted image 20250716202508.png","x":-858,"y":-112,"width":400,"height":225},
+		{"id":"13bb56cf6a7b714f","type":"text","text":"[[Courtney]]","x":-245,"y":-240,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"59fde0bb79bee342","fromNode":"b236690897e593a8","fromSide":"top","toNode":"9eb201508a8e4099","toSide":"bottom","label":"Niece"},
@@ -43,6 +50,13 @@
 		{"id":"fbe580101e94262c","fromNode":"9eb3aa845cbe91d6","fromSide":"bottom","toNode":"ac28588f0cff1010","toSide":"top"},
 		{"id":"2e05d28c5ab54345","fromNode":"b04a371267a28744","fromSide":"bottom","toNode":"ac28588f0cff1010","toSide":"top"},
 		{"id":"3970a6e8be6371bc","fromNode":"9eb3aa845cbe91d6","fromSide":"right","toNode":"b04a371267a28744","toSide":"left","label":"Married"},
-		{"id":"d41c1e0f89d08466","fromNode":"b04a371267a28744","fromSide":"left","toNode":"9eb3aa845cbe91d6","toSide":"right"}
+		{"id":"d41c1e0f89d08466","fromNode":"b04a371267a28744","fromSide":"left","toNode":"9eb3aa845cbe91d6","toSide":"right"},
+		{"id":"c06ab1d8b03b104d","fromNode":"9b32f41f98081bd5","fromSide":"bottom","toNode":"d2a7ad0f68bb3a0a","toSide":"top"},
+		{"id":"2c950b9827387a8c","fromNode":"9b32f41f98081bd5","fromSide":"bottom","toNode":"c2aba84490cf662f","toSide":"top"},
+		{"id":"fa9cfb4dde6c6efa","fromNode":"c2aba84490cf662f","fromSide":"bottom","toNode":"024905f3eecf4e19","toSide":"top"},
+		{"id":"c2b706c859f719b2","fromNode":"024905f3eecf4e19","fromSide":"bottom","toNode":"eec717c999661b8d","toSide":"top"},
+		{"id":"bca7e8f79972ac53","fromNode":"5613c2fa8beec870","fromSide":"bottom","toNode":"da7d69b67215fd46","toSide":"top"},
+		{"id":"26d8a61974da1136","fromNode":"b236690897e593a8","fromSide":"left","toNode":"13bb56cf6a7b714f","toSide":"right","label":"Cousin"},
+		{"id":"cae6d474552f3fb2","fromNode":"13bb56cf6a7b714f","fromSide":"right","toNode":"b236690897e593a8","toSide":"left"}
 	]
 }

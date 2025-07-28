@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"58b9aba40e6211a2","x":-520,"y":-220,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_sUmlE58mjG.jpg"},
+		{"id":"7baab242fc646a89","x":-100,"y":-220,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_YRYFdMSvRz.jpg"},
+		{"id":"812a8427f9c2c012","x":-520,"y":40,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_QFEBTrXvQU.jpg"},
+		{"id":"d9ad5c079a4300f1","x":-100,"y":40,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_OQ4XkLuyk8.jpg"},
+		{"id":"02093041213afd50","x":-460,"y":-440,"width":250,"height":60,"type":"text","text":"May be related to the [[Ruby Crown Puzzle]]"}
+	],
+	"edges":[]
+}

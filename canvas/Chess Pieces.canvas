@@ -3,7 +3,6 @@
 		{"id":"3a05f274d0c0ba67","type":"file","file":"attachments/Pasted image 20250716140155.png","x":-1280,"y":-400,"width":400,"height":225},
 		{"id":"aa8794dc3a8f6523","type":"file","file":"attachments/Pasted image 20250716135604.png","x":-860,"y":-400,"width":400,"height":225},
 		{"id":"2e6d266958728d55","type":"file","file":"attachments/Pasted image 20250716141022.png","x":-440,"y":-400,"width":400,"height":225},
-		{"id":"96b4b0c90ba71f25","type":"file","file":"attachments/Pasted image 20250716142313.png","x":0,"y":-400,"width":400,"height":225},
 		{"id":"cce2ed27a42a53e1","type":"file","file":"attachments/Pasted image 20250716142735.png","x":-1280,"y":-680,"width":400,"height":225},
 		{"id":"7aee590ec494549e","type":"file","file":"attachments/Pasted image 20250716141858.png","x":-1280,"y":380,"width":400,"height":225},
 		{"id":"92cdff831d6ef1b1","type":"file","file":"attachments/Pasted image 20250716203245.png","x":-1280,"y":720,"width":400,"height":225},
@@ -15,7 +14,12 @@
 		{"id":"70c0645d8252c624","type":"file","file":"attachments/BLUE_PRINCE_WAVHm1PLBW 1.jpg","x":-860,"y":-680,"width":400,"height":225},
 		{"id":"7b4f05a7a4c1e83c","type":"text","text":"King","x":-1755,"y":1440,"width":250,"height":60},
 		{"id":"900f0c97c5f24c21","type":"file","file":"attachments/BLUE_PRINCE_f1Opql70VW 1.jpg","x":-1280,"y":1388,"width":400,"height":225},
-		{"id":"201c7e60542b1230","x":-860,"y":380,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Y2sj28GoEr.jpg"}
+		{"id":"201c7e60542b1230","type":"file","file":"attachments/BLUE_PRINCE_Y2sj28GoEr.jpg","x":-860,"y":380,"width":400,"height":225},
+		{"id":"96b4b0c90ba71f25","type":"file","file":"attachments/Pasted image 20250716142313.png","x":-440,"y":-680,"width":400,"height":225},
+		{"id":"05bee6a25abce5e3","type":"text","text":"Black Pawns","x":-1755,"y":-1147,"width":250,"height":60},
+		{"id":"6e2fe919c4f645db","type":"file","file":"attachments/BLUE_PRINCE_vvDayyp9Ib.jpg","x":-1280,"y":-1259,"width":400,"height":225},
+		{"id":"3042c91e782c1c88","type":"file","file":"attachments/BLUE_PRINCE_QIt4JRNUed.jpg","x":-840,"y":-1259,"width":400,"height":225},
+		{"id":"d0eff98b0a65283b","x":0,"y":-400,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_EWXLVamvOd.jpg"}
 	],
 	"edges":[]
 }

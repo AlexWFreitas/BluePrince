@@ -13,8 +13,9 @@
 		{"id":"d9eaccff5895cc56","type":"file","file":"attachments/BLUE_PRINCE_TGkOTn4xyP 1.jpg","x":-1133,"y":240,"width":400,"height":225},
 		{"id":"89b451324cd1df74","type":"file","file":"attachments/BLUE_PRINCE_uFG6FCzXhH 1.jpg","x":-280,"y":353,"width":400,"height":225},
 		{"id":"377ff4655094ad4e","type":"file","file":"attachments/Pasted image 20250716211628.png","x":-2480,"y":-552,"width":400,"height":225},
-		{"id":"fee2e5186a4f0014","x":-1533,"y":-60,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_yTnuuab903.jpg"},
-		{"id":"85479eb7fdc2098a","x":-2480,"y":-292,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_crUzzxtLsf.jpg"}
+		{"id":"fee2e5186a4f0014","type":"file","file":"attachments/BLUE_PRINCE_yTnuuab903.jpg","x":-1533,"y":-60,"width":400,"height":225},
+		{"id":"85479eb7fdc2098a","type":"file","file":"attachments/BLUE_PRINCE_crUzzxtLsf.jpg","x":-2480,"y":-292,"width":400,"height":225},
+		{"id":"0cd56f37dc744bee","x":-640,"y":-440,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_J17v72FTAb 1.jpg"}
 	],
 	"edges":[]
 }
