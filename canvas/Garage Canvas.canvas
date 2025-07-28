@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"4d93e5781b8af7e1","x":-460,"y":-320,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_2DF5BvrmR5 1.jpg"}
+		{"id":"4d93e5781b8af7e1","type":"file","file":"attachments/BLUE_PRINCE_2DF5BvrmR5 1.jpg","x":-820,"y":-560,"width":400,"height":225},
+		{"id":"68cfac1360aab38c","x":-400,"y":-560,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_5haWlSQhPB.jpg"}
 	],
 	"edges":[]
 }

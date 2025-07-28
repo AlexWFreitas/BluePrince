@@ -18,7 +18,7 @@ Terminal password is **Swansong**
 - [[031 - Utility Closet]]
 - [[Commissary]]
 - The majority of the green rooms are only draftable on the perimeter of the house along the East and West Wings.
-	- [[The Terrace]], [[Patio]], [[Veranda]], [[Morning Room]], [[Greenhouse]] and [[Secret Garden]]
+	- [[Terrace]], [[Patio]], [[Veranda]], [[Morning Room]], [[Greenhouse]] and [[Secret Garden]]
 - There are more locked doors and key card doors the deeper you are in the house.
 
 ### Clues

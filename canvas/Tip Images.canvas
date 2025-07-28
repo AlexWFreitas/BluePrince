@@ -5,8 +5,16 @@
 		{"id":"a2bb951e7dbdb3c8","type":"file","file":"attachments/Pasted image 20250716203328.png","x":-1080,"y":-180,"width":347,"height":400},
 		{"id":"cdc24890f2c3fe2d","type":"file","file":"attachments/Pasted image 20250716203338.png","x":-700,"y":-180,"width":390,"height":400},
 		{"id":"b46c6dad8d60fd71","type":"file","file":"attachments/Pasted image 20250716205916.png","x":-640,"y":-700,"width":400,"height":225},
-		{"id":"377ff4655094ad4e","type":"file","file":"attachments/Pasted image 20250716211628.png","x":-640,"y":-440,"width":400,"height":225},
-		{"id":"79c1e82291406b43","type":"file","file":"attachments/BLUE_PRINCE_6F1awhxRPq.jpg","x":-280,"y":-180,"width":400,"height":225}
+		{"id":"79c1e82291406b43","type":"file","file":"attachments/BLUE_PRINCE_6F1awhxRPq.jpg","x":-280,"y":-180,"width":400,"height":225},
+		{"id":"c1043b2f2755ea60","type":"file","file":"attachments/BLUE_PRINCE_zpQhFUQIdc 1.jpg","x":-220,"y":-440,"width":400,"height":225},
+		{"id":"f49a8c661472e59a","type":"file","file":"attachments/BLUE_PRINCE_a01F3CQmsZ.jpg","x":-280,"y":80,"width":400,"height":225},
+		{"id":"2a614f4581ef751b","type":"file","file":"attachments/BLUE_PRINCE_9qwjMgCTzn.jpg","x":-220,"y":-700,"width":400,"height":225},
+		{"id":"31c454eb45499c75","type":"file","file":"attachments/BLUE_PRINCE_2JocOkUq0w.jpg","x":-710,"y":240,"width":400,"height":225},
+		{"id":"d9eaccff5895cc56","type":"file","file":"attachments/BLUE_PRINCE_TGkOTn4xyP 1.jpg","x":-1133,"y":240,"width":400,"height":225},
+		{"id":"89b451324cd1df74","type":"file","file":"attachments/BLUE_PRINCE_uFG6FCzXhH 1.jpg","x":-280,"y":353,"width":400,"height":225},
+		{"id":"377ff4655094ad4e","type":"file","file":"attachments/Pasted image 20250716211628.png","x":-2480,"y":-552,"width":400,"height":225},
+		{"id":"fee2e5186a4f0014","x":-1533,"y":-60,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_yTnuuab903.jpg"},
+		{"id":"85479eb7fdc2098a","x":-2480,"y":-292,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_crUzzxtLsf.jpg"}
 	],
 	"edges":[]
 }

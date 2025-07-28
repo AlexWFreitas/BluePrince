@@ -14,3 +14,8 @@ This room allows you to control many things related to energy through a breaker 
 	- Then you need to set the correct pattern to open the hidden room switch
 		- **Off - Blue - Green - White - Red - Purple**
 	- The hidden room has a switch that opens the [[Gemstone Cavern]]
+
+
+![[BLUE_PRINCE_RzJuAk2dlA 1.jpg]]
+
+![[BLUE_PRINCE_a8ftsfb9z7 1.jpg]]

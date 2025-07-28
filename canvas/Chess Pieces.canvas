@@ -12,7 +12,10 @@
 		{"id":"f6e9367f48eb528d","type":"text","text":"Pawns","x":-1755,"y":-485,"width":250,"height":60},
 		{"id":"0c0acfe41a0cfbcf","type":"text","text":"Bishops","x":-1755,"y":1123,"width":250,"height":60},
 		{"id":"17224c646b146443","type":"text","text":"Rooks","x":-1755,"y":803,"width":250,"height":60},
-		{"id":"70c0645d8252c624","x":-860,"y":-680,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_WAVHm1PLBW 1.jpg"}
+		{"id":"70c0645d8252c624","type":"file","file":"attachments/BLUE_PRINCE_WAVHm1PLBW 1.jpg","x":-860,"y":-680,"width":400,"height":225},
+		{"id":"7b4f05a7a4c1e83c","type":"text","text":"King","x":-1755,"y":1440,"width":250,"height":60},
+		{"id":"900f0c97c5f24c21","type":"file","file":"attachments/BLUE_PRINCE_f1Opql70VW 1.jpg","x":-1280,"y":1388,"width":400,"height":225},
+		{"id":"201c7e60542b1230","x":-860,"y":380,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Y2sj28GoEr.jpg"}
 	],
 	"edges":[]
 }

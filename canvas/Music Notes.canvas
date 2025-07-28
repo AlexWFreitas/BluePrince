@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"33a82878499457b2","x":-640,"y":-360,"width":400,"height":225,"type":"file","file":"attachments/Pasted image 20250716212737.png"}
+		{"id":"33a82878499457b2","type":"file","file":"attachments/Pasted image 20250716212737.png","x":-1040,"y":-360,"width":400,"height":225},
+		{"id":"b5d9f2b6f08f7492","x":-240,"y":-360,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_vS4dwQo0kQ 1.jpg"}
 	],
 	"edges":[]
 }

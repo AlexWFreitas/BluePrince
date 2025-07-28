@@ -2,11 +2,16 @@
 	"nodes":[
 		{"id":"d5fdcadbab846d6c","type":"file","file":"attachments/Pasted image 20250716205055.png","x":-640,"y":-700,"width":400,"height":394},
 		{"id":"835c28f1c76a8239","type":"text","text":"Clock without Lock = C","x":-565,"y":-240,"width":250,"height":60},
-		{"id":"1a5c058113daf82e","x":-1080,"y":-700,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_d4ORLzq6or.jpg"},
-		{"id":"46bc648a20db20ee","x":-1005,"y":-400,"width":250,"height":60,"type":"text","text":"Road without Rod = A"}
+		{"id":"1a5c058113daf82e","type":"file","file":"attachments/BLUE_PRINCE_d4ORLzq6or.jpg","x":-1080,"y":-700,"width":400,"height":225},
+		{"id":"46bc648a20db20ee","type":"text","text":"Road without Rod = A","x":-1005,"y":-400,"width":250,"height":60},
+		{"id":"cbc874c250888e03","type":"file","file":"attachments/BLUE_PRINCE_4BIflHvw3U.jpg","x":-1080,"y":-260,"width":400,"height":225},
+		{"id":"c06c51ec717b2a1a","x":-180,"y":-860,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_62U5JJb54L.jpg"},
+		{"id":"fa82b48af4adb8c6","x":-180,"y":-598,"width":400,"height":388,"type":"file","file":"attachments/BLUE_PRINCE_JO3oenuwoc.jpg"},
+		{"id":"82ddb8c4b58f1f97","x":-214,"y":-147,"width":250,"height":60,"type":"text","text":"Theather without ??? = ?"}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},
-		{"id":"3348a88db2603bac","fromNode":"1a5c058113daf82e","fromSide":"bottom","toNode":"46bc648a20db20ee","toSide":"top"}
+		{"id":"3348a88db2603bac","fromNode":"1a5c058113daf82e","fromSide":"bottom","toNode":"46bc648a20db20ee","toSide":"top"},
+		{"id":"018595c93d118c50","fromNode":"cbc874c250888e03","fromSide":"top","toNode":"46bc648a20db20ee","toSide":"bottom"}
 	]
 }
