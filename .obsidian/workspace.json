@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07f105e90e9ba559",
+            "id": "bb4c15be1b8b16ae",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workplace/Rooms Found.md",
+                "file": "workplace/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Rooms Found"
+              "title": "TODO"
             }
           },
           {
@@ -40,83 +40,31 @@
             }
           },
           {
-            "id": "5565977cdb1884a5",
+            "id": "07f105e90e9ba559",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas/With Without Puzzles.canvas",
-                "viewState": {
-                  "x": -660,
-                  "y": -440,
-                  "zoom": 0
-                }
+                "file": "workplace/Rooms Found.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "With Without Puzzles"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Rooms Found"
             }
           },
           {
-            "id": "453a70702409b8db",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Room Upgrades.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Room Upgrades"
-            }
-          },
-          {
-            "id": "f9b682253d15d0ec",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/With Without Puzzles.canvas",
-                "viewState": {
-                  "x": 260,
-                  "y": -417.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "With Without Puzzles"
-            }
-          },
-          {
-            "id": "7a8b81f23a637f82",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Tip Images.canvas",
-                "viewState": {
-                  "x": -1617.8817501809915,
-                  "y": -61,
-                  "zoom": -0.5593301886914179
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tip Images"
-            }
-          },
-          {
-            "id": "b0efa6440fa1459b",
+            "id": "8ce97f2d7a87204d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "canvas/Day Results.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": 530.5,
+                  "x": -360,
+                  "y": -457.5,
                   "zoom": 0
                 }
               },
@@ -125,12 +73,26 @@
             }
           },
           {
-            "id": "bed624b456039019",
+            "id": "3dc804c9bd7093be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/004 - Rotunda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "004 - Rotunda"
+            }
+          },
+          {
+            "id": "b5b763207ed969fd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/Library Canvas.canvas",
+                "file": "canvas/Gymnasium Canvas.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -138,27 +100,132 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Library Canvas"
+              "title": "Gymnasium Canvas"
             }
           },
           {
-            "id": "4b8ac43b990e7745",
+            "id": "07b44a203985651e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Treasure Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Treasure Map"
+            }
+          },
+          {
+            "id": "a7d2f78aafbf6a39",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/Day Results.canvas",
+                "file": "canvas/Drawing Room Canvas.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -220.80660377358498,
-                  "zoom": -0.2126378538107144
+                  "x": 180,
+                  "y": -987.0204402515722,
+                  "zoom": -0.4982241016343564
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Day Results"
+              "title": "Drawing Room Canvas"
+            }
+          },
+          {
+            "id": "4adbda7b358e8d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Drawing Room Safe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drawing Room Safe"
+            }
+          },
+          {
+            "id": "e3128110b93fee25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/025 - Drawing Room.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "025 - Drawing Room"
+            }
+          },
+          {
+            "id": "256160b5459131a3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Portraits.canvas",
+                "viewState": {
+                  "x": -640,
+                  "y": -7.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Portraits"
+            }
+          },
+          {
+            "id": "5eefea07937ad872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Trading Post.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trading Post"
+            }
+          },
+          {
+            "id": "da3babf2e531ba35",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Trading Post Canvas.canvas",
+                "viewState": {
+                  "x": -100,
+                  "y": 510.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Trading Post Canvas"
+            }
+          },
+          {
+            "id": "ff9687145088c040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Treasure Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Treasure Map"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +257,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Laboratory Room",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -305,53 +372,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f105e90e9ba559",
+  "active": "8ce97f2d7a87204d",
   "lastOpenFiles": [
-    "canvas/Library Canvas.canvas",
-    "workplace/Rooms Found.md",
-    "canvas/Day Results.canvas",
-    "attachments/BLUE_PRINCE_DcwwgyyFYp.jpg",
-    "canvas/Wine Cellar Canvas.canvas",
-    "attachments/BLUE_PRINCE_GQo9A3Gr4e.jpg",
-    "attachments/BLUE_PRINCE_tNMmBVsOx4.jpg",
-    "attachments/BLUE_PRINCE_yfLGUKPr73.jpg",
-    "attachments/BLUE_PRINCE_zzCDBYGxNw.jpg",
-    "attachments/BLUE_PRINCE_xI1OblJnoH.jpg",
-    "attachments/BLUE_PRINCE_IG524SyUjP.jpg",
-    "attachments/BLUE_PRINCE_Jq9Gc3vsiC.jpg",
-    "attachments/BLUE_PRINCE_OfNcKbJwr3.jpg",
-    "attachments/BLUE_PRINCE_b0QhGz0cZu.jpg",
-    "canvas/Secret Garden Canvas.canvas",
-    "canvas/Items.canvas",
-    "canvas/Tip Images.canvas",
-    "notes/027 - Library.md",
+    "attachments/BLUE_PRINCE_G2Aw5J2G87.png",
+    "canvas/Gemstone Cavern.canvas",
+    "attachments/BLUE_PRINCE_mZNYB9zJWB.png",
+    "attachments/BLUE_PRINCE_Dz94JHw8Pl.png",
+    "canvas/Bunk Room Canvas.canvas",
+    "canvas/Person List.canvas",
+    "attachments/BLUE_PRINCE_SkbDT36nW3.png",
+    "attachments/BLUE_PRINCE_cWIqXlbqIr.png",
+    "attachments/BLUE_PRINCE_eKQffYpKSh.png",
+    "attachments/BLUE_PRINCE_7Ky9JwZ36z.png",
+    "attachments/BLUE_PRINCE_o1CMhxhKTM.png",
+    "attachments/BLUE_PRINCE_AYgjJBW5az.png",
+    "attachments/BLUE_PRINCE_OHDpkgq3yo.png",
+    "attachments/BLUE_PRINCE_dCG4dxRdBl.png",
+    "notes/Bunk Room.md",
     "canvas/Chess Pieces.canvas",
-    "canvas/Laboratory Canvas.canvas",
-    "canvas/Aquarium Canvas.canvas",
-    "notes/044 - Aquarium.md",
-    "notes/Ruby Crown Puzzle.md",
-    "canvas/Red Letters.canvas",
+    "workplace/Rooms Found.md",
+    "notes/004 - Rotunda.md",
+    "notes/Gymnasium.md",
+    "canvas/Gymnasium Canvas.canvas",
+    "canvas/With Without Puzzles.canvas",
+    "canvas/Storeroom Canvas.canvas",
+    "canvas/Archives Canvas.canvas",
+    "notes/Archives.md",
     "notes/Mary Matthew.md",
-    "notes/Shelter.md",
-    "notes/Cloister.md",
-    "workplace/Old Blue Prince Notes.md",
+    "notes/RLCF.md",
+    "notes/025 - Drawing Room.md",
+    "notes/Drawing Room Safe.md",
+    "canvas/Drawing Room Canvas.canvas",
     "workplace/My Notes.md",
-    "notes/Passageway.md",
-    "notes/Patio.md",
-    "notes/Terrace.md",
-    "notes/034 - Security.md",
-    "notes/035 - Workshop.md",
-    "notes/Weight Room.md",
-    "notes/014 - Garage.md",
-    "notes/Christoph.md",
-    "notes/Courtyard.md",
-    "notes/Terminal.md",
-    "notes/024 - Office.md",
-    "notes/Mrs. Babbage.md",
-    "notes/031 - Utility Closet.md",
-    "notes/Root Cellar.md",
-    "notes/Outer Room.md",
-    "notes/Toolshed.md",
+    "workplace/TODO.md",
+    "notes/Great Hall.md",
+    "canvas/Portraits.canvas",
+    "notes/010 - Walk-in Closet.md",
+    "notes/Treasure Map.md",
+    "notes/Trading Post.md",
+    "notes/Maid's Chamber.md",
+    "notes/Secret Passage.md",
+    "notes/045 - Antechamber.md",
+    "notes/041 - Dining Room.md",
+    "notes/Laboratory Room.md",
+    "notes/Blue Fire Puzzle.md",
+    "notes/036 - Laboratory.md",
+    "notes/018 - Wine Cellar.md",
+    "notes/027 - Library.md",
+    "notes/044 - Aquarium.md",
     "workplace",
     "old",
     "canvas",

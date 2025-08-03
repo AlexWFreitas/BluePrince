@@ -1,0 +1,2 @@
+	
+![[BLUE_PRINCE_EKS5Se1Xtf 1.jpg]]

@@ -10,8 +10,9 @@
 		{"id":"64bcd4ef1efe27d8","type":"file","file":"attachments/BLUE_PRINCE_1kTJNsNVxg 1.jpg","x":260,"y":-100,"width":400,"height":225},
 		{"id":"efc0c822d6f93494","type":"file","file":"attachments/BLUE_PRINCE_9unJHdPVvh.jpg","x":200,"y":-680,"width":400,"height":225},
 		{"id":"95a4ab04e0fc0f69","type":"file","file":"attachments/BLUE_PRINCE_k0nLQsmcPu.jpg","x":640,"y":-680,"width":400,"height":225},
-		{"id":"e56a02e0523ed9ff","x":-340,"y":320,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_38MyE5YQdi.jpg"},
-		{"id":"1c7673c19eea0039","x":100,"y":320,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_duXqvhb3FX.jpg"}
+		{"id":"e56a02e0523ed9ff","type":"file","file":"attachments/BLUE_PRINCE_38MyE5YQdi.jpg","x":-340,"y":320,"width":400,"height":225},
+		{"id":"1c7673c19eea0039","type":"file","file":"attachments/BLUE_PRINCE_duXqvhb3FX.jpg","x":100,"y":320,"width":400,"height":225},
+		{"id":"5198c1166b29ff7a","x":-442,"y":-1206,"width":250,"height":60,"type":"text","text":"[[Drawing Room Safe]]"}
 	],
 	"edges":[]
 }

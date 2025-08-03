@@ -3,13 +3,16 @@ Remember to write the rank of each room, to discover if they are fixed.
 ## Numbered Rooms
 [[002 - Entrance Hall]]
 [[003 - Spare Room]]
+[[004 - Rotunda]]
 [[005 - Parlor]]
 [[006 - Billiard Room]]
 [[009 - Closet]]
+[[010 - Walk-in Closet]]
 [[012 - Storeroom]]
 [[013 - Nook]]
 [[014 - Garage]]
 [[017 - Den]]
+[[018 - Wine Cellar]]
 [[021 - Pantry]]
 [[024 - Office]]
 [[025 - Drawing Room]]
@@ -17,17 +20,23 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[031 - Utility Closet]]
 [[034 - Security]]
 [[035 - Workshop]]
+[[036 - Laboratory]]
+[[041 - Dining Room]]
 [[042 - Observatory]]
 [[044 - Aquarium]]
+[[045 - Antechamber]]
 ## Bedrooms
 [[Bedroom]]
 [[Guest Bedroom]]
 [[Nursery]]
+[[Bunk Room]]
 ## Hallways
 [[Hallway]]
 [[West Wing Hall]]
 [[Corridor]]
 [[Passageway]]
+[[Secret Passage]]
+[[Great Hall]]
 ## Green Rooms
 [[Terrace]]
 [[Patio]]
@@ -40,13 +49,17 @@ Remember to write the rank of each room, to discover if they are fixed.
 ## Red Rooms
 [[Lavatory]]
 [[Chapel]]
+[[Maid's Chamber]]
 [[Dark Room]]
 [[Weight Room]]
+[[Archives]]
+[[Gymnasium]]
 
 ## [[Outer Room]]
 [[Toolshed]]
 [[Root Cellar]]
 [[Shelter]]
+[[Trading Post]]
 
 ## Outside
 [[The Grounds]]

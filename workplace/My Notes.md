@@ -1,4 +1,6 @@
 
+## Notes
+
 [[Herbert S Sinclair]] - Previous Owner of the Mansion
 [[Mary Matthew]]- Niece of [[Herbert S Sinclair]] and Mom of [[Simon P Jones]]
 [[Simon P Jones]] -  You, heir to the mansion, provided you find the Room 46th
@@ -8,7 +10,7 @@
 [[Herbert's will date]] - 1993/03/18
 Password on [[Apple Orchard]] Lock is 1128
 Terminal password is **Swansong**
-Starting Date is November 6
+Starting Date (Day 0) is November 6
 
 ## Gameplay
 - Moving into a room uses a step

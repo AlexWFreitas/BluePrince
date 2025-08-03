@@ -1,0 +1,1 @@
+Empty room that allows you to rotate it to reach all four sides to unlock two sides at the same time.

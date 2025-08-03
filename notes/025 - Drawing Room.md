@@ -22,3 +22,10 @@ Old Man -  -11 + 4
 Gentleman -  -4 +7
 Kid - -1 +4
 Horse - -3 +3
+
+
+Old Man -  -11 + 4
+Woman - -2 +2
+Gentleman -  -4 +7
+Kid - -1 +4
+Horse - -3 +3

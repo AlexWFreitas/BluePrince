@@ -19,7 +19,9 @@
 		{"id":"05bee6a25abce5e3","type":"text","text":"Black Pawns","x":-1755,"y":-1147,"width":250,"height":60},
 		{"id":"6e2fe919c4f645db","type":"file","file":"attachments/BLUE_PRINCE_vvDayyp9Ib.jpg","x":-1280,"y":-1259,"width":400,"height":225},
 		{"id":"3042c91e782c1c88","type":"file","file":"attachments/BLUE_PRINCE_QIt4JRNUed.jpg","x":-840,"y":-1259,"width":400,"height":225},
-		{"id":"d0eff98b0a65283b","x":0,"y":-400,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_EWXLVamvOd.jpg"}
+		{"id":"d0eff98b0a65283b","type":"file","file":"attachments/BLUE_PRINCE_EWXLVamvOd.jpg","x":0,"y":-400,"width":400,"height":225},
+		{"id":"79dfca79b840beca","type":"file","file":"attachments/BLUE_PRINCE_ZzTEWyqMrC.png","x":-400,"y":-1259,"width":400,"height":225},
+		{"id":"b704c8373f9c24b5","x":40,"y":-1259,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_TAqPRkU9Mz.png"}
 	],
 	"edges":[]
 }

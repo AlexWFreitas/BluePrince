@@ -5,13 +5,17 @@
 		{"id":"1a5c058113daf82e","type":"file","file":"attachments/BLUE_PRINCE_d4ORLzq6or.jpg","x":-1080,"y":-700,"width":400,"height":225},
 		{"id":"46bc648a20db20ee","type":"text","text":"Road without Rod = A","x":-1005,"y":-400,"width":250,"height":60},
 		{"id":"cbc874c250888e03","type":"file","file":"attachments/BLUE_PRINCE_4BIflHvw3U.jpg","x":-1080,"y":-260,"width":400,"height":225},
-		{"id":"c06c51ec717b2a1a","x":-180,"y":-860,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_62U5JJb54L.jpg"},
-		{"id":"fa82b48af4adb8c6","x":-180,"y":-598,"width":400,"height":388,"type":"file","file":"attachments/BLUE_PRINCE_JO3oenuwoc.jpg"},
-		{"id":"82ddb8c4b58f1f97","x":-214,"y":-147,"width":250,"height":60,"type":"text","text":"Theather without ??? = ?"}
+		{"id":"c06c51ec717b2a1a","type":"file","file":"attachments/BLUE_PRINCE_62U5JJb54L.jpg","x":-180,"y":-860,"width":400,"height":225},
+		{"id":"fa82b48af4adb8c6","type":"file","file":"attachments/BLUE_PRINCE_JO3oenuwoc.jpg","x":-180,"y":-598,"width":400,"height":388},
+		{"id":"82ddb8c4b58f1f97","type":"text","text":"Theather without ??? = ?","x":-105,"y":-147,"width":250,"height":60},
+		{"id":"b3f84464d183a60f","x":-620,"y":-87,"width":400,"height":390,"type":"file","file":"attachments/BLUE_PRINCE_xPcgMe0c5e.png"},
+		{"id":"60f216964a7b4932","x":-520,"y":360,"width":245,"height":80,"type":"text","text":"Chart without Track - H?\nChart without Kart - CH?"}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},
 		{"id":"3348a88db2603bac","fromNode":"1a5c058113daf82e","fromSide":"bottom","toNode":"46bc648a20db20ee","toSide":"top"},
-		{"id":"018595c93d118c50","fromNode":"cbc874c250888e03","fromSide":"top","toNode":"46bc648a20db20ee","toSide":"bottom"}
+		{"id":"018595c93d118c50","fromNode":"cbc874c250888e03","fromSide":"top","toNode":"46bc648a20db20ee","toSide":"bottom"},
+		{"id":"9c0fe3c4db55aa63","fromNode":"82ddb8c4b58f1f97","fromSide":"top","toNode":"fa82b48af4adb8c6","toSide":"bottom"},
+		{"id":"d23ea577b6c2e385","fromNode":"60f216964a7b4932","fromSide":"top","toNode":"b3f84464d183a60f","toSide":"bottom"}
 	]
 }
