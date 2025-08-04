@@ -11,6 +11,7 @@
 Password on [[Apple Orchard]] Lock is 1128
 Terminal password is **Swansong**
 Starting Date (Day 0) is November 6
+Central Server Site Admin Key password is RuotH (Hartley Ruota)
 
 ## Gameplay
 - Moving into a room uses a step

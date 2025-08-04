@@ -1,27 +1,72 @@
 ### Find the Crown Jewels and Red Letters
-- [x] [[Shelter]] - Timelocked Safe
+- [x] [[Shelter]] - Timelocked Safe - 6 November + Days
+- [x] [[Boudoir]] - Christmas Safe - 1225
 - [ ] ?
 - [ ] ?
 - [ ] ?
 - [ ] ?
 - [ ] ?
+
+### Open the 4 Blue Flame Gas Valves
+- [x] [[Gemstone Cavern]] - Valve
+- [x] [[031 - Utility Closet]] - Valve
+- [x] [[Hovel]] - Valve
 - [ ] ?
-### Identify the Angels Puzzle
-- [ ] Seven [[Chapel]] Statues
+### Enter Antechamber Room
+### Obtain Stars on Observatory
+- Cumulative Task
+- More Stars - More Bonuses on Observatory Visits
+### Find the Central Server Site and solve the Puzzle
+- Use password RuotH (Hartley Ruota) to enable admin privilege?
+- Obtained on [[Servant's Quarters]]
+- [ ] Done
+### Open the Basement Door under the Well
+- Try to use Special Key from [[Locksmith]]
+### Solve the Pump Room Setup
+### Solve the Boiler Room
+
+### Open the Safe on Office Room
+- Turn the dial on the Desk to show the Lock
+- [[Foyer Canvas.canvas|Foyer Canvas]] statues might be a clue to how to solve it
+
+### Open the Safe on Drawing Room
+- Pull one of the Candlelight hands to show the Safe
+- The code might be related to the paintings in the room, some type of math based on direction and the distance between the feet.
+-
+
+
+### Identify the Angels
+- [[Angels Puzzle Canvas.canvas|Angels Puzzle Canvas]]
+- [[Tomb Canvas.canvas|Tomb Canvas]]
+- Seven [[Chapel]] Statues
 - [x] Mila
 - [x] Orinda
 - [x] Rynna
+- [ ] ?
+- [ ] ?
+- [ ] ?
+- [ ] ?
+- [x] Tomb Puzzle Solved
 
+
+### Solve [[029 - The Pool]] Room Set
+- [x] The Pool
+- [ ] [[Pump Room]]
 ### Find the Secret Garden
 - [x] Discovered Secret Garden Key - Item
 - [ ] Found [[Secret Garden]]
 ### Solve the Treasure Map Puzzle
 - [ ] [[Treasure Map]]
-### Open the 4 Blue Flame Gas Valves
-- [x] [[Gemstone Cavern]] - Valve
-- [x] [[031 - Utility Closet]] - Valve
-- [ ] ?
-- [ ] ?
+
+
+
+
+# DONE
+### Solve the Statue Puzzle on the Tomb
+- The statues from the Chapel are a clue to solving this
+- This opens a path to the Abandoned Mine, which will need to use the [[Pump Room Canvas.canvas|Pump Room Canvas]]to remove water.
+- [x] Done
+
 ### Open the Garage Door
 - [x] Open the Garage Door
 - [x] Open the Garage Car Door and Box
@@ -41,12 +86,12 @@
 ### Discovered Terminal Password
 - [x] Done
 - Swansong
-
-### Solve Drawing Room Puzzle / Safe
-- [ ] Done
-- 
-### Solved Fountain of Wishes Puzzle
-- [ ] Done
+### Discover the purpose of the Well
+- [x] Throw coins into the Well
+- [x] Use the Pump Room to drain the Well
+- [x] You can get thrown coins if you drain the Well
+- There is a special locked door to [[Basement]] below the Well
+- [x] Done
 ### Solve the Utility Box Closet Puzzle
 - [x] Done
 

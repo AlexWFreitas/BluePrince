@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d2b58326a57f80c3","x":-600,"y":-320,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_evyr1ZEWnL.png"},
+		{"id":"0b21bcf0fd5901be","x":-600,"y":-40,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_AwmzRepKZp.png"},
+		{"id":"71993cfda3ec75b7","x":-600,"y":240,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Y5ANmZvPTh.png"},
+		{"id":"070f58ae6f415b2e","x":-149,"y":-24,"width":250,"height":184,"type":"text","text":"1 Fountain\n2 Reservoir\n3 Aquarium\n4 Kitchen\n5 Greenhouse\n6 Pool"}
+	],
+	"edges":[]
+}

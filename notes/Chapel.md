@@ -1,3 +1,4 @@
+[[Chapel.canvas|Chapel]]
 
 Red room that makes you lose gold everytime you enter.
 

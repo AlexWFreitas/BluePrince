@@ -14,21 +14,27 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[017 - Den]]
 [[018 - Wine Cellar]]
 [[021 - Pantry]]
+[[022 - Rumpus Room]]
 [[024 - Office]]
 [[025 - Drawing Room]]
 [[027 - Library]]
+[[029 - The Pool]]
 [[031 - Utility Closet]]
+[[033 - Pump Room]]
 [[034 - Security]]
 [[035 - Workshop]]
 [[036 - Laboratory]]
+[[037 - Sauna]]
 [[041 - Dining Room]]
 [[042 - Observatory]]
 [[044 - Aquarium]]
 [[045 - Antechamber]]
 ## Bedrooms
 [[Bedroom]]
+[[Boudoir]]
 [[Guest Bedroom]]
 [[Nursery]]
+[[Servant's Quarters]]
 [[Bunk Room]]
 ## Hallways
 [[Hallway]]
@@ -37,6 +43,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Passageway]]
 [[Secret Passage]]
 [[Great Hall]]
+[[Foyer]]
 ## Green Rooms
 [[Terrace]]
 [[Patio]]
@@ -46,6 +53,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 ## Shops
 [[Commissary]]
 [[Kitchen]]
+[[Locksmith]]
 ## Red Rooms
 [[Lavatory]]
 [[Chapel]]
@@ -60,6 +68,8 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Root Cellar]]
 [[Shelter]]
 [[Trading Post]]
+[[Hovel]]
+[[Tomb]]
 
 ## Outside
 [[The Grounds]]

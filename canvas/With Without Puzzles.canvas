@@ -8,14 +8,39 @@
 		{"id":"c06c51ec717b2a1a","type":"file","file":"attachments/BLUE_PRINCE_62U5JJb54L.jpg","x":-180,"y":-860,"width":400,"height":225},
 		{"id":"fa82b48af4adb8c6","type":"file","file":"attachments/BLUE_PRINCE_JO3oenuwoc.jpg","x":-180,"y":-598,"width":400,"height":388},
 		{"id":"82ddb8c4b58f1f97","type":"text","text":"Theather without ??? = ?","x":-105,"y":-147,"width":250,"height":60},
-		{"id":"b3f84464d183a60f","x":-620,"y":-87,"width":400,"height":390,"type":"file","file":"attachments/BLUE_PRINCE_xPcgMe0c5e.png"},
-		{"id":"60f216964a7b4932","x":-520,"y":360,"width":245,"height":80,"type":"text","text":"Chart without Track - H?\nChart without Kart - CH?"}
+		{"id":"b3f84464d183a60f","type":"file","file":"attachments/BLUE_PRINCE_xPcgMe0c5e.png","x":-620,"y":-87,"width":400,"height":390},
+		{"id":"60f216964a7b4932","type":"text","text":"Chart without Track - H?\nChart without Kart - CH?","x":-520,"y":360,"width":245,"height":80},
+		{"id":"3c01d09da733f5ff","type":"file","file":"attachments/BLUE_PRINCE_E3EcQ7x6bl.png","x":-1280,"y":60,"width":400,"height":178},
+		{"id":"613f2e0688f0681a","type":"text","text":"Pine - Pin = E?","x":-1205,"y":330,"width":250,"height":60},
+		{"id":"deec02a9978cedc6","type":"file","file":"attachments/BLUE_PRINCE_vY5rSqfnFA.png","x":-1780,"y":35,"width":400,"height":203},
+		{"id":"8114865ab486a821","type":"text","text":"Kart - Car = T?","x":-1730,"y":327,"width":250,"height":60},
+		{"id":"b8775cd8b1a7ab47","type":"file","file":"attachments/BLUE_PRINCE_kZuoZwesQy.png","x":-1730,"y":-531,"width":400,"height":225},
+		{"id":"a7501e030b37fa51","type":"text","text":"Stair - Star = I?","x":-1655,"y":-240,"width":250,"height":60},
+		{"id":"a7c72a2f187278c0","type":"file","file":"attachments/BLUE_PRINCE_oIeYCwagdw.png","x":-1780,"y":-1085,"width":400,"height":225},
+		{"id":"249e91cd0c99d73e","type":"text","text":"Bridge - Bride = G?","x":-1705,"y":-777,"width":250,"height":60},
+		{"id":"306b5b9c621908dc","type":"file","file":"attachments/BLUE_PRINCE_Qr0vUcBbuA.png","x":-1730,"y":520,"width":399,"height":224},
+		{"id":"2bd7fc3cf6dfb1a3","type":"text","text":"Tube - Tub = E?","x":-1705,"y":820,"width":250,"height":60},
+		{"id":"ff17fb1fa87858d3","type":"file","file":"attachments/BLUE_PRINCE_3acCR8xZvT.png","x":-597,"y":595,"width":400,"height":225},
+		{"id":"fcbba8ae847edfe4","type":"file","file":"attachments/BLUE_PRINCE_c0uqPjdFHc.png","x":-105,"y":595,"width":400,"height":225},
+		{"id":"c0e32ab63a7be37b","type":"text","text":"Card - Car = D","x":-260,"y":920,"width":250,"height":60},
+		{"id":"ec2c3b70f84f5afe","x":480,"y":78,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_qeV74izR7T.png"},
+		{"id":"67aa1444fad68d76","x":555,"y":440,"width":250,"height":50,"type":"text","text":"Spine - Pine = S"}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},
 		{"id":"3348a88db2603bac","fromNode":"1a5c058113daf82e","fromSide":"bottom","toNode":"46bc648a20db20ee","toSide":"top"},
 		{"id":"018595c93d118c50","fromNode":"cbc874c250888e03","fromSide":"top","toNode":"46bc648a20db20ee","toSide":"bottom"},
 		{"id":"9c0fe3c4db55aa63","fromNode":"82ddb8c4b58f1f97","fromSide":"top","toNode":"fa82b48af4adb8c6","toSide":"bottom"},
-		{"id":"d23ea577b6c2e385","fromNode":"60f216964a7b4932","fromSide":"top","toNode":"b3f84464d183a60f","toSide":"bottom"}
+		{"id":"d23ea577b6c2e385","fromNode":"60f216964a7b4932","fromSide":"top","toNode":"b3f84464d183a60f","toSide":"bottom"},
+		{"id":"f3bbc0cae9812302","fromNode":"613f2e0688f0681a","fromSide":"top","toNode":"3c01d09da733f5ff","toSide":"bottom"},
+		{"id":"b7ed45c63cb1624d","fromNode":"8114865ab486a821","fromSide":"top","toNode":"deec02a9978cedc6","toSide":"bottom"},
+		{"id":"7073253d1851c48b","fromNode":"a7501e030b37fa51","fromSide":"top","toNode":"b8775cd8b1a7ab47","toSide":"bottom"},
+		{"id":"389ffbc3624bef77","fromNode":"249e91cd0c99d73e","fromSide":"top","toNode":"a7c72a2f187278c0","toSide":"bottom"},
+		{"id":"ca284f692300708c","fromNode":"2bd7fc3cf6dfb1a3","fromSide":"top","toNode":"306b5b9c621908dc","toSide":"bottom"},
+		{"id":"c5fc72d0d10bd753","fromNode":"c0e32ab63a7be37b","fromSide":"top","toNode":"ff17fb1fa87858d3","toSide":"bottom"},
+		{"id":"6292e4d9f63e4c45","fromNode":"fcbba8ae847edfe4","fromSide":"left","toNode":"ff17fb1fa87858d3","toSide":"right"},
+		{"id":"1d9aa44b3a593671","fromNode":"c0e32ab63a7be37b","fromSide":"top","toNode":"fcbba8ae847edfe4","toSide":"bottom"},
+		{"id":"53fd5dd06f935bb0","fromNode":"ff17fb1fa87858d3","fromSide":"right","toNode":"fcbba8ae847edfe4","toSide":"left"},
+		{"id":"3b2f8f87baaec1d4","fromNode":"67aa1444fad68d76","fromSide":"top","toNode":"ec2c3b70f84f5afe","toSide":"bottom"}
 	]
 }
