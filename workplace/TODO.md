@@ -77,12 +77,13 @@
 - [x] Obtained 2 Gems for each run
 - [x] Turned Gas Valve for [[Blue Fire Puzzle]]
 ### Solve [[Trading Post]] Puzzle
+- This increases my allowance by 2 coins.
 - [x] Done
-- [x] Obtained 2 Coins for each Run
 ### Unlocked Apple Orchard Area
-- [x] Done
 - Password is 1128
-- [x] Obtained 20 extra steps for each run
+- The password is found on the Dark Room with the Magnifying Glass
+- Obtained 20 extra steps for each run
+- [x] Done
 ### Discovered Terminal Password
 - [x] Done
 - Swansong
