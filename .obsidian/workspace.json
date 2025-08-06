@@ -76,17 +76,14 @@
             "id": "92155c98efc2593f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas/Day Results.canvas",
-                "viewState": {
-                  "x": -360,
-                  "y": 323.5,
-                  "zoom": 0
-                }
+                "file": "notes/Mrs. Hannah Peterson.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Day Results"
+              "icon": "lucide-file",
+              "title": "Mrs. Hannah Peterson"
             }
           }
         ],
@@ -239,8 +236,10 @@
   },
   "active": "92155c98efc2593f",
   "lastOpenFiles": [
-    "attachments/BLUE_PRINCE_URUiNifqgt.png",
+    "canvas/Person List.canvas",
     "canvas/Classroom Canvas.canvas",
+    "canvas/Day Results.canvas",
+    "attachments/BLUE_PRINCE_URUiNifqgt.png",
     "attachments/Obsidian_afLQtIHPvs.png",
     "attachments/Obsidian_TM0efnRcxz.png",
     "attachments/Obsidian_TLjADyVQLP.png",
@@ -252,7 +251,6 @@
     "canvas/With Without Puzzles.canvas",
     "attachments/BLUE_PRINCE_PXI0G4ST6J.png",
     "attachments/BLUE_PRINCE_VAH7dZkwQQ.png",
-    "attachments/BLUE_PRINCE_Qf0PwfztQP.png",
     "notes/Classroom.md",
     "workplace/Rooms Found.md",
     "canvas/Chess Pieces.canvas",
@@ -263,12 +261,10 @@
     "workplace/My Notes.md",
     "canvas/Schoolhouse Canvas.canvas",
     "notes/Schoolhouse.md",
-    "canvas/Person List.canvas",
-    "notes/Mrs. Peterson.md",
+    "notes/Mrs. Hannah Peterson.md",
     "workplace/TODO.md",
     "canvas/Laboratory Canvas.canvas",
     "canvas/Library Canvas.canvas",
-    "canvas/Day Results.canvas",
     "notes/Danny Revane.md",
     "notes/Mrs. Babbage.md",
     "notes/Furnace.md",
