@@ -180,10 +180,27 @@
             "state": {
               "type": "canvas",
               "state": {
+                "file": "canvas/With Without Puzzles.canvas",
+                "viewState": {
+                  "x": -2938.5588887715553,
+                  "y": 160.3716384870594,
+                  "zoom": 0.8642891718729235
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "With Without Puzzles"
+            }
+          },
+          {
+            "id": "4bb7abbfabf164a8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
                 "file": "canvas/Day Results.canvas",
                 "viewState": {
                   "x": -360,
-                  "y": -197.5,
+                  "y": 341.3443396226416,
                   "zoom": -0.2126378538107144
                 }
               },
@@ -192,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -339,33 +356,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4907afa07d751cb",
+  "active": "4bb7abbfabf164a8",
   "lastOpenFiles": [
-    "attachments/BLUE_PRINCE_INQ1FLBlKI.png",
-    "canvas/Library Canvas.canvas",
-    "attachments/BLUE_PRINCE_BrzJbmn4hU.png",
-    "attachments/BLUE_PRINCE_9fBgd18iuh.png",
-    "attachments/BLUE_PRINCE_Vfwu4nryk7.png",
-    "attachments/BLUE_PRINCE_FTolReCLvn.png",
-    "attachments/BLUE_PRINCE_dL8MxqHvjR.png",
-    "canvas/Antechamber Puzzle.canvas",
-    "attachments/BLUE_PRINCE_HYaUJoxAnC.png",
-    "canvas/Chess Pieces.canvas",
-    "attachments/BLUE_PRINCE_mjpnGTo5C1.png",
+    "attachments/BLUE_PRINCE_I9hSlHavNd.png",
     "canvas/Conservatory Canvas.canvas",
-    "attachments/BLUE_PRINCE_Ycb8xubRul.png",
-    "attachments/BLUE_PRINCE_o6OQ41lHfL.png",
-    "notes/Conservatory.md",
+    "canvas/With Without Puzzles.canvas",
+    "attachments/BLUE_PRINCE_XhQq5dwyF0.png",
+    "attachments/BLUE_PRINCE_mtfWE1Geh1.png",
+    "attachments/BLUE_PRINCE_Xilh8BWIAh.png",
+    "attachments/BLUE_PRINCE_E9oPdA6sWl.png",
+    "canvas/Classroom Canvas.canvas",
+    "attachments/BLUE_PRINCE_Fjjm81nvJw.png",
+    "attachments/BLUE_PRINCE_9tAOAV0AtI.png",
+    "attachments/BLUE_PRINCE_H6FYXm9Yuo.png",
+    "attachments/BLUE_PRINCE_lCUoYN2rY3.png",
+    "canvas/The Foundation Canvas.canvas",
+    "attachments/BLUE_PRINCE_AdfuQA0T4Q.png",
     "workplace/Rooms Found.md",
-    "canvas/Locker Room Canvas.canvas",
-    "attachments/BLUE_PRINCE_0EMEXnW7B9.png",
+    "attachments/BLUE_PRINCE_EObdrM7pXi.png",
+    "canvas/Servant's Quarters Canvas.canvas",
+    "canvas/Dark Room.canvas",
+    "canvas/Music Room Canvas.canvas",
+    "canvas/Day Results.canvas",
+    "canvas/Library Canvas.canvas",
+    "canvas/Antechamber Puzzle.canvas",
+    "notes/Conservatory.md",
     "notes/016 - Locker Room.md",
-    "canvas/Vault Canvas.canvas",
     "notes/023 - Vault.md",
-    "canvas/Items.canvas",
-    "canvas/Alzara.canvas",
-    "canvas/Rumpus Room Canvas.canvas",
-    "canvas/Kitchen Canvas.canvas",
     "attachments/BLUE_PRINCE_PKhAxU6KYc.mp4",
     "notes/038 - Coat Check.md",
     "notes/Mary Matthew Jones.md",

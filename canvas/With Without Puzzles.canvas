@@ -34,7 +34,22 @@
 		{"id":"677f88bf724ff5a6","type":"text","text":"Coast - Coat  = S","x":-1780,"y":1880,"width":250,"height":60},
 		{"id":"179be36f1d0296ee","type":"file","file":"attachments/BLUE_PRINCE_PXI0G4ST6J.png","x":-1155,"y":1600,"width":400,"height":225},
 		{"id":"d3e3e2e1ce8cc4a4","type":"text","text":"Flan - Fan = N","x":-1100,"y":1860,"width":250,"height":60},
-		{"id":"23ff757a3eff0204","type":"text","text":"Plane - Plan = E?","x":-440,"y":1480,"width":250,"height":60}
+		{"id":"23ff757a3eff0204","type":"text","text":"Plane - Plan = E?","x":-440,"y":1480,"width":250,"height":60},
+		{"id":"baa17da69fc495a3","type":"file","file":"attachments/BLUE_PRINCE_s2UldzlOwZ.png","x":-3000,"y":-210,"width":400,"height":225},
+		{"id":"e5279eac15f1ffb5","type":"file","file":"attachments/BLUE_PRINCE_EObdrM7pXi.png","x":-3460,"y":-210,"width":400,"height":225},
+		{"id":"ab0c98364a4f7eae","type":"text","text":"Paint - Pint = A?","x":-3160,"y":120,"width":250,"height":60},
+		{"id":"5541cb288e77b68b","type":"file","file":"attachments/BLUE_PRINCE_lCUoYN2rY3.png","x":-3200,"y":370,"width":400,"height":225},
+		{"id":"89a918f40ab57c2b","type":"text","text":"Crown - Crow = N","x":-3160,"y":640,"width":250,"height":60},
+		{"id":"24b0eecd0da27b78","type":"file","file":"attachments/BLUE_PRINCE_9tAOAV0AtI.png","x":-2835,"y":854,"width":400,"height":225},
+		{"id":"1f92d33a38afb171","x":-2835,"y":1130,"width":400,"height":130,"type":"text","text":"Clock Lock - C\nPlane Pane - L\nHouse Hose - U\nStage Stag - E"},
+		{"id":"2d45ec8824c304b0","x":-3360,"y":854,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_E9oPdA6sWl.png"},
+		{"id":"6a550c857d38b37b","x":-2360,"y":880,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Xilh8BWIAh.png"},
+		{"id":"0d01cc35ffe94659","x":-3360,"y":1220,"width":172,"height":400,"type":"file","file":"attachments/BLUE_PRINCE_mtfWE1Geh1.png"},
+		{"id":"ff5a9caa657e3f6c","x":-2820,"y":1332,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_XhQq5dwyF0.png"},
+		{"id":"0dbf3196243f2cda","x":-2820,"y":1620,"width":299,"height":100,"type":"text","text":"Crown crow - N\nBoat Bat - O\nStage Sage - T"},
+		{"id":"b2cefc11a7098afb","x":-3120,"y":1332,"width":250,"height":60,"type":"text","text":"Stage Stag"},
+		{"id":"995445dbefb99ea0","x":-3285,"y":1105,"width":250,"height":60,"type":"text","text":"Acorn - Corn = A"},
+		{"id":"38295b384025fd8b","x":-2320,"y":1165,"width":250,"height":60,"type":"text","text":"Robot - Root - B"}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},
@@ -56,6 +71,13 @@
 		{"id":"750e532ebc3a8730","fromNode":"23ff757a3eff0204","fromSide":"top","toNode":"8f88d92b96fb1fd0","toSide":"bottom"},
 		{"id":"5b80fc0485a9ee68","fromNode":"c0b2c51ef64ac666","fromSide":"top","toNode":"6b972e130ee530b4","toSide":"bottom"},
 		{"id":"b2658298dfcecc4f","fromNode":"677f88bf724ff5a6","fromSide":"top","toNode":"2f433a60aaddbde1","toSide":"bottom"},
-		{"id":"09a5ed2661a76484","fromNode":"d3e3e2e1ce8cc4a4","fromSide":"top","toNode":"179be36f1d0296ee","toSide":"bottom"}
+		{"id":"09a5ed2661a76484","fromNode":"d3e3e2e1ce8cc4a4","fromSide":"top","toNode":"179be36f1d0296ee","toSide":"bottom"},
+		{"id":"dc1616491e3c00f8","fromNode":"ab0c98364a4f7eae","fromSide":"top","toNode":"e5279eac15f1ffb5","toSide":"bottom"},
+		{"id":"d0f0c6a721937a37","fromNode":"ab0c98364a4f7eae","fromSide":"top","toNode":"baa17da69fc495a3","toSide":"bottom"},
+		{"id":"8538499f0850fcf9","fromNode":"89a918f40ab57c2b","fromSide":"top","toNode":"5541cb288e77b68b","toSide":"bottom"},
+		{"id":"bd218f5d5b688f47","fromNode":"0dbf3196243f2cda","fromSide":"top","toNode":"ff5a9caa657e3f6c","toSide":"bottom"},
+		{"id":"dcad5db7c38b87ac","fromNode":"b2cefc11a7098afb","fromSide":"left","toNode":"0d01cc35ffe94659","toSide":"right"},
+		{"id":"803943c0e8ce6c7f","fromNode":"995445dbefb99ea0","fromSide":"top","toNode":"2d45ec8824c304b0","toSide":"bottom"},
+		{"id":"7ba8d1faeb279722","fromNode":"38295b384025fd8b","fromSide":"top","toNode":"6a550c857d38b37b","toSide":"bottom"}
 	]
 }
