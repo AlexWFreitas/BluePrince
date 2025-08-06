@@ -24,17 +24,36 @@
 ### Find the Central Server Site and solve the Puzzle
 - Use password RuotH (Hartley Ruota) to enable admin privilege?
 	- Maybe I am using the wrong name, but its the four laters of the surname + the first letter of the first name.
+	- Obtained on [[Servant's Quarters]]
 - Obtained another password saying RevaD on the Freezer
 	- Denny Revane
 - Maybe I should try Anne Babbage
 	- BabbA
-- Obtained on [[Servant's Quarters]]
+- I tried three passwords on the terminal and it isn't working, maybe I need to go somewhere else or I need the name of another person instead.
 - [ ] Done
 ### Open the Basement Door under the Well
 - Try to use Special Key from [[Locksmith]]
 ### Solve the Pump Room Setup
+- [x] Test it on the Pool
+	- Found a random amount of coins when there is no water
+	- Maybe if the Boiler Room gives power, it could cause something to happen
+		- Maybe I need the water emptied and the boiler room energy to make this thing happen
+- [ ] Test it on the Reservoir
+- [x] Test it on the Aquarium
+	- Found some marked symbols
+	- Two X and one Arrow referring to other rooms.
+- [x] Test it on the Well
+	- Found a stairs going down into a special locked room called Basement
+	- Found coins that I threw earlier at the Well
 ### Solve the Boiler Room
-
+- [x] Started the Boiler Room correctly 
+- [ ] Used it on Pump Room
+- [ ] Used it on Laboratory Room
+- [ ] Used it on Furnace
+- [ ] Used it on Laundry Room
+- [ ] Used it on Garage
+	- Maybe not needed on this one, since I can use the Utility Box?
+ 
 ### Open the Safe on Office Room
 - Turn the dial on the Desk to show the Lock
 - [[Foyer Canvas.canvas|Foyer Canvas]] statues might be a clue to how to solve it
@@ -43,7 +62,7 @@
 	- 6083 F
 	- 3806 F
 	- 3809 F
-- Need to test 1213 from [[Wine Cellar Canvas.canvas|Wine Cellar Room]]
+	- Need to test 1213 from [[Wine Cellar Canvas.canvas|Wine Cellar Room]]
 
 ### Open the Safe on Drawing Room
 - Pull one of the Candlelight hands to show the Safe

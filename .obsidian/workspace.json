@@ -255,9 +255,25 @@
               "icon": "lucide-layout-dashboard",
               "title": "With Without Puzzles"
             }
+          },
+          {
+            "id": "fb7ac09dd3231a73",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Laboratory Canvas.canvas",
+                "viewState": {
+                  "x": -176.5,
+                  "y": 402.5,
+                  "zoom": -0.8880156497540891
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Laboratory Canvas"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -404,10 +420,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95e5daea04d03b2b",
+  "active": "bb4c15be1b8b16ae",
   "lastOpenFiles": [
-    "attachments/BLUE_PRINCE_a01F3CQmsZ 2.jpg",
+    "canvas/Laboratory Canvas.canvas",
+    "canvas/Library Canvas.canvas",
+    "workplace/TODO.md",
     "canvas/Person List.canvas",
+    "attachments/BLUE_PRINCE_a01F3CQmsZ 2.jpg",
     "canvas/Day Results.canvas",
     "attachments/BLUE_PRINCE_JU3SCQCKh5.png",
     "notes/Danny Revane.md",
@@ -415,18 +434,15 @@
     "canvas/Room Upgrades.canvas",
     "attachments/BLUE_PRINCE_oQecUyVeQg.png",
     "attachments/BLUE_PRINCE_LG0a5AJ4wX.png",
-    "canvas/Laboratory Canvas.canvas",
     "canvas/Freezer Canvas.canvas",
     "attachments/BLUE_PRINCE_yIQiVfpKRa.png",
     "attachments/BLUE_PRINCE_w79Ky9MVQg.png",
-    "workplace/TODO.md",
     "canvas/Chess Pieces.canvas",
     "attachments/BLUE_PRINCE_fpZs2xA13g.png",
     "notes/Furnace.md",
     "attachments/BLUE_PRINCE_xa2RlQKHVO.png",
     "attachments/BLUE_PRINCE_Yo6InYGu1H 1.png",
     "attachments/BLUE_PRINCE_Yo6InYGu1H.png",
-    "attachments/BLUE_PRINCE_gApfODTB8T.png",
     "notes/040 - Freezer.md",
     "workplace/Rooms Found.md",
     "canvas/With Without Puzzles.canvas",
