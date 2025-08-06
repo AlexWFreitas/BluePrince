@@ -56,6 +56,40 @@
             }
           },
           {
+            "id": "07858dcd613761a4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Vault Canvas.canvas",
+                "viewState": {
+                  "x": -480,
+                  "y": 317.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Vault Canvas"
+            }
+          },
+          {
+            "id": "c273d1de1a5810a9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Coat Check Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Coat Check Canvas"
+            }
+          },
+          {
             "id": "6cb370cee3c1f937",
             "type": "leaf",
             "state": {
@@ -76,18 +110,89 @@
             "id": "92155c98efc2593f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "notes/Mrs. Hannah Peterson.md",
-                "mode": "source",
-                "source": false
+                "file": "canvas/With Without Puzzles.canvas",
+                "viewState": {
+                  "x": -324.7491913593637,
+                  "y": 1406.792789255921,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Mrs. Hannah Peterson"
+              "icon": "lucide-layout-dashboard",
+              "title": "With Without Puzzles"
+            }
+          },
+          {
+            "id": "e173805353ad11cc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Items.canvas",
+                "viewState": {
+                  "x": -563.0028301886794,
+                  "y": 1642.426422617671,
+                  "zoom": -1.3144685289048774
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Items"
+            }
+          },
+          {
+            "id": "79f308d6e8c001a2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Locker Room Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Locker Room Canvas"
+            }
+          },
+          {
+            "id": "d4d63e1a382769cf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Conservatory Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Conservatory Canvas"
+            }
+          },
+          {
+            "id": "d4907afa07d751cb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Day Results.canvas",
+                "viewState": {
+                  "x": -360,
+                  "y": -197.5,
+                  "zoom": -0.2126378538107144
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day Results"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -119,7 +224,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Laborat",
+                "query": "Plane",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,37 +339,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92155c98efc2593f",
+  "active": "d4907afa07d751cb",
   "lastOpenFiles": [
-    "canvas/Person List.canvas",
-    "canvas/Classroom Canvas.canvas",
-    "canvas/Day Results.canvas",
-    "attachments/BLUE_PRINCE_URUiNifqgt.png",
-    "attachments/Obsidian_afLQtIHPvs.png",
-    "attachments/Obsidian_TM0efnRcxz.png",
-    "attachments/Obsidian_TLjADyVQLP.png",
-    "attachments/Obsidian_kvFckztqjd.png",
-    "attachments/Obsidian_KzgMmZTgWl.png",
-    "canvas/The Precipice Canvas.canvas",
-    "attachments/BLUE_PRINCE_FahXADEXnP.png",
-    "attachments/BLUE_PRINCE_wClh6Eardm.png",
-    "canvas/With Without Puzzles.canvas",
-    "attachments/BLUE_PRINCE_PXI0G4ST6J.png",
-    "attachments/BLUE_PRINCE_VAH7dZkwQQ.png",
-    "notes/Classroom.md",
-    "workplace/Rooms Found.md",
+    "attachments/BLUE_PRINCE_INQ1FLBlKI.png",
+    "canvas/Library Canvas.canvas",
+    "attachments/BLUE_PRINCE_BrzJbmn4hU.png",
+    "attachments/BLUE_PRINCE_9fBgd18iuh.png",
+    "attachments/BLUE_PRINCE_Vfwu4nryk7.png",
+    "attachments/BLUE_PRINCE_FTolReCLvn.png",
+    "attachments/BLUE_PRINCE_dL8MxqHvjR.png",
+    "canvas/Antechamber Puzzle.canvas",
+    "attachments/BLUE_PRINCE_HYaUJoxAnC.png",
     "canvas/Chess Pieces.canvas",
+    "attachments/BLUE_PRINCE_mjpnGTo5C1.png",
+    "canvas/Conservatory Canvas.canvas",
+    "attachments/BLUE_PRINCE_Ycb8xubRul.png",
+    "attachments/BLUE_PRINCE_o6OQ41lHfL.png",
+    "notes/Conservatory.md",
+    "workplace/Rooms Found.md",
+    "canvas/Locker Room Canvas.canvas",
+    "attachments/BLUE_PRINCE_0EMEXnW7B9.png",
+    "notes/016 - Locker Room.md",
+    "canvas/Vault Canvas.canvas",
+    "notes/023 - Vault.md",
+    "canvas/Items.canvas",
+    "canvas/Alzara.canvas",
+    "canvas/Rumpus Room Canvas.canvas",
+    "canvas/Kitchen Canvas.canvas",
+    "attachments/BLUE_PRINCE_PKhAxU6KYc.mp4",
+    "notes/038 - Coat Check.md",
+    "notes/Mary Matthew Jones.md",
+    "notes/Morning Room.md",
+    "notes/Mrs. Hannah Peterson.md",
+    "notes/Classroom.md",
     "notes/The Precipice.md",
     "notes/Blue Fire Puzzle.md",
-    "canvas/The Grounds Canvas.canvas",
     "workplace/Old Blue Prince Notes.md",
     "workplace/My Notes.md",
-    "canvas/Schoolhouse Canvas.canvas",
     "notes/Schoolhouse.md",
-    "notes/Mrs. Hannah Peterson.md",
     "workplace/TODO.md",
-    "canvas/Laboratory Canvas.canvas",
-    "canvas/Library Canvas.canvas",
     "notes/Danny Revane.md",
     "notes/Mrs. Babbage.md",
     "notes/Furnace.md",
@@ -275,13 +388,7 @@
     "notes/015 - Music Room.md",
     "notes/Shrine.md",
     "notes/037 - Sauna.md",
-    "notes/Locksmith.md",
-    "notes/Foyer.md",
     "attachments/BLUE_PRINCE_u6ANmm1l0y.mp4",
-    "notes/022 - Rumpus Room.md",
-    "notes/Servant's Quarters.md",
-    "notes/Abandoned Mine.md",
-    "notes/Tomb.md",
     "workplace",
     "old",
     "canvas",

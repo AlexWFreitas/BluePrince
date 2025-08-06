@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"6c0dddd2e088f8bd","x":-680,"y":-420,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_o6OQ41lHfL.png"},
+		{"id":"46efcb5e3132d3e5","x":-266,"y":-421,"width":250,"height":114,"type":"text","text":"Secret Room found by digging near the White Trees on the Campsite"},
+		{"id":"52d972e0037a2349","x":-680,"y":-160,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Ycb8xubRul.png"}
+	],
+	"edges":[]
+}

@@ -2,7 +2,7 @@
 ## Notes
 
 [[Herbert S Sinclair]] - Previous Owner of the Mansion
-[[Mary Matthew]]- Niece of [[Herbert S Sinclair]] and Mom of [[Simon P Jones]]
+[[Mary Matthew Jones]]- Niece of [[Herbert S Sinclair]] and Mom of [[Simon P Jones]]
 [[Simon P Jones]] -  You, heir to the mansion, provided you find the Room 46th
 [[Mount Holly Estate]] - The Mansion from Blue Prince
 [[Reddington]] - Location where the Mansion is located
