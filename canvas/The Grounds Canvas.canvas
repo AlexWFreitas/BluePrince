@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"062ac3400f885c0f","x":-580,"y":-420,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_4jcNR7hnFA.png"},
+		{"id":"bfeba172e9ed716a","x":-505,"y":-140,"width":250,"height":60,"type":"text","text":"[[Blue Fire Puzzle]]"}
+	],
+	"edges":[
+		{"id":"17ba651c7d94e3d5","fromNode":"bfeba172e9ed716a","fromSide":"top","toNode":"062ac3400f885c0f","toSide":"bottom"}
+	]
+}

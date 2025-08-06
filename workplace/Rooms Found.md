@@ -68,6 +68,9 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Gymnasium]]
 [[Furnace]]
 
+## Other Rooms
+[[Classroom]]
+
 ## [[Outer Room]]
 [[Toolshed]]
 [[Root Cellar]]
@@ -76,9 +79,11 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Hovel]]
 [[Tomb]]
 [[Shrine]]
+[[Schoolhouse]]
 
 ## Outside
 [[The Grounds]]
 [[Private Drive]]
 [[Apple Orchard]]
 [[Water Fountain]]
+[[The Precipice]]

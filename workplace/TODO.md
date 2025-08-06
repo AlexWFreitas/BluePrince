@@ -12,11 +12,12 @@
 - [[Antechamber Puzzle]]
 - [ ] Greenhouse Room Lever - South
 
-### Open the 4 Blue Flame Gas Valves
+### Turn the 4 Blue Flame gas valves on
 - [x] [[Gemstone Cavern]] - Valve
 - [x] [[031 - Utility Closet]] - Valve
 - [x] [[Hovel]] - Valve
-- [ ] ?
+- [x] [[Schoolhouse]] - Valve
+- Reward is an Elevator
 ### Enter Antechamber Room
 ### Obtain Stars on Observatory
 - Cumulative Task

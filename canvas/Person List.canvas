@@ -31,7 +31,8 @@
 		{"id":"79de97dd4101e289","type":"text","text":"[[Daniel (Jones)]]","x":720,"y":-240,"width":250,"height":60},
 		{"id":"89052285674e6af8","type":"text","text":"[[Christoph]] - Valet / Driver of the Mount Holly Estate?","x":-1340,"y":-295,"width":250,"height":95},
 		{"id":"8b1994d816f52aa9","type":"text","text":"[[Hartley Ruota]] - Previous Valet","x":-1680,"y":-295,"width":250,"height":60},
-		{"id":"df8cd1327fdfdccb","type":"text","text":"[[Kimberly Thompson]] - Scientist at SYNKA Labs?","x":-1680,"y":-451,"width":250,"height":60}
+		{"id":"df8cd1327fdfdccb","type":"text","text":"[[Kimberly Thompson]] - Scientist at SYNKA Labs?","x":-1680,"y":-451,"width":250,"height":60},
+		{"id":"70d3432235c76af8","x":-1680,"y":-800,"width":250,"height":60,"type":"text","text":"[[Mrs. Peterson]]"}
 	],
 	"edges":[
 		{"id":"59fde0bb79bee342","fromNode":"b236690897e593a8","fromSide":"top","toNode":"9eb201508a8e4099","toSide":"bottom","label":"Niece"},

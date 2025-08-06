@@ -8,7 +8,8 @@
 		{"id":"62aa7ae586efcd2d","type":"file","file":"attachments/BLUE_PRINCE_G2Aw5J2G87.png","x":-140,"y":-440,"width":400,"height":225},
 		{"id":"26232f2319902eda","type":"file","file":"attachments/BLUE_PRINCE_Eu1HMf3NIe.png","x":-980,"y":-180,"width":400,"height":225},
 		{"id":"c5010310044a2482","type":"file","file":"attachments/BLUE_PRINCE_NOd3VKuTJ0.png","x":-560,"y":-180,"width":400,"height":225},
-		{"id":"ab3befc8fde8e450","x":-140,"y":-180,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_JU3SCQCKh5.png"}
+		{"id":"ab3befc8fde8e450","type":"file","file":"attachments/BLUE_PRINCE_JU3SCQCKh5.png","x":-140,"y":-180,"width":400,"height":225},
+		{"id":"01dfbac37c1157b3","x":-980,"y":80,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_URUiNifqgt.png"}
 	],
 	"edges":[]
 }
