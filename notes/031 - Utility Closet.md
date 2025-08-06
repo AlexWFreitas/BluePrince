@@ -3,7 +3,9 @@ This room allows you to control many things related to energy through a breaker 
 ## Recommended Breaker Box Setup
 - Turn Keycard Entry System Off if you found the [[Security Room]]
 - Turn Gymnasium Off to disable penalty from Gymnasium
-- Turn Dark Room On to be able to see what's inside and maybe disable the penalty (?)
+- Turn Dark Room On to be able to see what's inside and maybe disable the penalty
+	- The Dark Room actually turns off the first time you enter it
+	- You can then turn it on by going to the Utility Closet room
 - Turn Garage On to enable electricity on Garage Room
 - Turn VAC Indicators on the Correct Pattern to open hidden room
 	- Turn everything into green

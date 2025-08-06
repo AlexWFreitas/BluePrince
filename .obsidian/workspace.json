@@ -54,8 +54,210 @@
               "icon": "lucide-file",
               "title": "Rooms Found"
             }
+          },
+          {
+            "id": "a2247b3ea80d51bb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Chess Pieces.canvas",
+                "viewState": {
+                  "x": 459.4153033488633,
+                  "y": -485.5750904028376,
+                  "zoom": -0.060831434900808445
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Chess Pieces"
+            }
+          },
+          {
+            "id": "95e5daea04d03b2b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Person List.canvas",
+                "viewState": {
+                  "x": 415.5357110220806,
+                  "y": 44.54828298641738,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Person List"
+            }
+          },
+          {
+            "id": "3c04e37e1f2b45e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Mrs. Babbage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mrs. Babbage"
+            }
+          },
+          {
+            "id": "831a5d5fc441df2e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Boiler Room Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -82.5703125,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Boiler Room Canvas"
+            }
+          },
+          {
+            "id": "802ae1ec69c0ea03",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Aquarium Canvas.canvas",
+                "viewState": {
+                  "x": -63.48005806740298,
+                  "y": 623.6807124073811,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Aquarium Canvas"
+            }
+          },
+          {
+            "id": "bdc7676d169775c9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Laboratory Canvas.canvas",
+                "viewState": {
+                  "x": -176.5,
+                  "y": 574.6084905660377,
+                  "zoom": -0.8880156497540891
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Laboratory Canvas"
+            }
+          },
+          {
+            "id": "43660ff37b717e3e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Hovel Canvas.canvas",
+                "viewState": {
+                  "x": -499,
+                  "y": -178,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Hovel Canvas"
+            }
+          },
+          {
+            "id": "38aa9f46b08f26e6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Antechamber Puzzle.canvas",
+                "viewState": {
+                  "x": -392.77329125101545,
+                  "y": -186.05602090032238,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Antechamber Puzzle"
+            }
+          },
+          {
+            "id": "b24e96d0a97a8351",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Chess Pieces.canvas",
+                "viewState": {
+                  "x": -431.03543461235967,
+                  "y": -308.182376335887,
+                  "zoom": -0.39416476823414176
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Chess Pieces"
+            }
+          },
+          {
+            "id": "840a1b0fb9ac5ba0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/With Without Puzzles.canvas",
+                "viewState": {
+                  "x": 450.54768439564197,
+                  "y": 1418.95399758399,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "With Without Puzzles"
+            }
+          },
+          {
+            "id": "65276dbe39599e76",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/The Fixed Stars - Constellations.canvas",
+                "viewState": {
+                  "x": -80,
+                  "y": 2.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Fixed Stars - Constellations"
+            }
+          },
+          {
+            "id": "12989c180870a4ca",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/With Without Puzzles.canvas",
+                "viewState": {
+                  "x": -818.019935266868,
+                  "y": -358.8666856668019,
+                  "zoom": -0.46904416146040967
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "With Without Puzzles"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,37 +404,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb4c15be1b8b16ae",
+  "active": "95e5daea04d03b2b",
   "lastOpenFiles": [
-    "attachments/Pasted image 20250716212028.png",
-    "workplace/TODO.md",
-    "workplace/Rooms Found.md",
-    "notes/037 - Sauna.md",
+    "attachments/BLUE_PRINCE_a01F3CQmsZ 2.jpg",
+    "canvas/Person List.canvas",
     "canvas/Day Results.canvas",
-    "canvas/Drawing Room Canvas.canvas",
-    "attachments/BLUE_PRINCE_NOd3VKuTJ0.png",
-    "canvas/Foyer Canvas.canvas",
-    "canvas/Angels Puzzle Canvas.canvas",
-    "canvas/Locksmith Canvas.canvas",
-    "notes/Locksmith.md",
-    "attachments/BLUE_PRINCE_ipkmVdrqwJ.png",
-    "canvas/Gardener's Logbook.canvas",
-    "notes/Blue Fire Puzzle.md",
+    "attachments/BLUE_PRINCE_JU3SCQCKh5.png",
+    "notes/Danny Revane.md",
+    "notes/Mrs. Babbage.md",
+    "canvas/Room Upgrades.canvas",
+    "attachments/BLUE_PRINCE_oQecUyVeQg.png",
+    "attachments/BLUE_PRINCE_LG0a5AJ4wX.png",
     "canvas/Laboratory Canvas.canvas",
-    "attachments/BLUE_PRINCE_XZPTv6iwFM.png",
-    "attachments/BLUE_PRINCE_7Qy86TPEPL.png",
-    "canvas/Items.canvas",
-    "attachments/BLUE_PRINCE_zu971kuhqK.png",
-    "attachments/BLUE_PRINCE_sYwzpF9U6n.png",
-    "attachments/BLUE_PRINCE_69kbyVyeUD.png",
-    "attachments/BLUE_PRINCE_2vviOwzqCD.png",
-    "attachments/BLUE_PRINCE_tjl1F7n2vM.png",
-    "notes/Foyer.md",
+    "canvas/Freezer Canvas.canvas",
+    "attachments/BLUE_PRINCE_yIQiVfpKRa.png",
+    "attachments/BLUE_PRINCE_w79Ky9MVQg.png",
+    "workplace/TODO.md",
+    "canvas/Chess Pieces.canvas",
+    "attachments/BLUE_PRINCE_fpZs2xA13g.png",
+    "notes/Furnace.md",
+    "attachments/BLUE_PRINCE_xa2RlQKHVO.png",
+    "attachments/BLUE_PRINCE_Yo6InYGu1H 1.png",
+    "attachments/BLUE_PRINCE_Yo6InYGu1H.png",
+    "attachments/BLUE_PRINCE_gApfODTB8T.png",
+    "notes/040 - Freezer.md",
+    "workplace/Rooms Found.md",
     "canvas/With Without Puzzles.canvas",
-    "canvas/Rumpus Room Canvas.canvas",
+    "canvas/Wine Cellar Canvas.canvas",
+    "canvas/West Wing Hall Piece of Paper.canvas",
+    "canvas/Well Canvas.canvas",
+    "notes/031 - Utility Closet.md",
+    "notes/032 - Boiler Room.md",
+    "workplace/My Notes.md",
+    "notes/043 - Conference Room.md",
+    "notes/015 - Music Room.md",
+    "notes/Shrine.md",
+    "notes/037 - Sauna.md",
+    "notes/Locksmith.md",
+    "notes/Blue Fire Puzzle.md",
+    "notes/Foyer.md",
     "attachments/BLUE_PRINCE_u6ANmm1l0y.mp4",
     "notes/022 - Rumpus Room.md",
-    "workplace/My Notes.md",
     "notes/Servant's Quarters.md",
     "notes/Abandoned Mine.md",
     "notes/Tomb.md",
@@ -241,15 +453,6 @@
     "notes/033 - Pump Room.md",
     "notes/Boudoir.md",
     "notes/004 - Rotunda.md",
-    "notes/Treasure Map.md",
-    "notes/Drawing Room Safe.md",
-    "notes/025 - Drawing Room.md",
-    "notes/Trading Post.md",
-    "notes/Pump Room.md",
-    "notes/029 - The Pool.md",
-    "notes/Revane.md",
-    "notes/Apple Orchard.md",
-    "notes/Hovel.md",
     "workplace",
     "old",
     "canvas",

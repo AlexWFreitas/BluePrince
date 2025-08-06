@@ -7,6 +7,11 @@
 - [ ] ?
 - [ ] ?
 
+### Place the Levers for the Antechamber Room
+- Levers can be found as [[Items.canvas|Items]] on random rooms.
+- [[Antechamber Puzzle]]
+- [ ] Greenhouse Room Lever - South
+
 ### Open the 4 Blue Flame Gas Valves
 - [x] [[Gemstone Cavern]] - Valve
 - [x] [[031 - Utility Closet]] - Valve
@@ -18,6 +23,11 @@
 - More Stars - More Bonuses on Observatory Visits
 ### Find the Central Server Site and solve the Puzzle
 - Use password RuotH (Hartley Ruota) to enable admin privilege?
+	- Maybe I am using the wrong name, but its the four laters of the surname + the first letter of the first name.
+- Obtained another password saying RevaD on the Freezer
+	- Denny Revane
+- Maybe I should try Anne Babbage
+	- BabbA
 - Obtained on [[Servant's Quarters]]
 - [ ] Done
 ### Open the Basement Door under the Well
@@ -28,6 +38,12 @@
 ### Open the Safe on Office Room
 - Turn the dial on the Desk to show the Lock
 - [[Foyer Canvas.canvas|Foyer Canvas]] statues might be a clue to how to solve it
+- [[Conference Room Canvas.canvas|Conference Room Canvas]] says that the code might be 9083, but the card color means it is probably a lie.
+	- 9083 F, trying other versions by flipping the numbers horizontally and vertically
+	- 6083 F
+	- 3806 F
+	- 3809 F
+- Need to test 1213 from [[Wine Cellar Canvas.canvas|Wine Cellar Room]]
 
 ### Open the Safe on Drawing Room
 - Pull one of the Candlelight hands to show the Safe

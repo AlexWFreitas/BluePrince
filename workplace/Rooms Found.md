@@ -11,6 +11,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[012 - Storeroom]]
 [[013 - Nook]]
 [[014 - Garage]]
+[[015 - Music Room]]
 [[017 - Den]]
 [[018 - Wine Cellar]]
 [[021 - Pantry]]
@@ -20,13 +21,16 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[027 - Library]]
 [[029 - The Pool]]
 [[031 - Utility Closet]]
+[[032 - Boiler Room]]
 [[033 - Pump Room]]
 [[034 - Security]]
 [[035 - Workshop]]
 [[036 - Laboratory]]
 [[037 - Sauna]]
+[[040 - Freezer]]
 [[041 - Dining Room]]
 [[042 - Observatory]]
+[[043 - Conference Room]]
 [[044 - Aquarium]]
 [[045 - Antechamber]]
 ## Bedrooms
@@ -62,6 +66,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Weight Room]]
 [[Archives]]
 [[Gymnasium]]
+[[Furnace]]
 
 ## [[Outer Room]]
 [[Toolshed]]
@@ -70,6 +75,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Trading Post]]
 [[Hovel]]
 [[Tomb]]
+[[Shrine]]
 
 ## Outside
 [[The Grounds]]

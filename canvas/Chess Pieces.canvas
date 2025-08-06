@@ -23,7 +23,8 @@
 		{"id":"79dfca79b840beca","type":"file","file":"attachments/BLUE_PRINCE_ZzTEWyqMrC.png","x":-400,"y":-1259,"width":400,"height":225},
 		{"id":"b704c8373f9c24b5","type":"file","file":"attachments/BLUE_PRINCE_TAqPRkU9Mz.png","x":40,"y":-1259,"width":400,"height":225},
 		{"id":"aa72b15659a32453","type":"file","file":"attachments/BLUE_PRINCE_UkpZmzJ2U4.png","x":0,"y":-680,"width":400,"height":225},
-		{"id":"f4c801e0de3b0fec","x":-840,"y":1040,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_2n3ZOY5byF.png"}
+		{"id":"f4c801e0de3b0fec","type":"file","file":"attachments/BLUE_PRINCE_2n3ZOY5byF.png","x":-840,"y":1040,"width":400,"height":225},
+		{"id":"d8e94ff342e9eaec","x":440,"y":-680,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Yo6InYGu1H 1.png"}
 	],
 	"edges":[]
 }

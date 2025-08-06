@@ -23,8 +23,16 @@
 		{"id":"ff17fb1fa87858d3","type":"file","file":"attachments/BLUE_PRINCE_3acCR8xZvT.png","x":-597,"y":595,"width":400,"height":225},
 		{"id":"fcbba8ae847edfe4","type":"file","file":"attachments/BLUE_PRINCE_c0uqPjdFHc.png","x":-105,"y":595,"width":400,"height":225},
 		{"id":"c0e32ab63a7be37b","type":"text","text":"Card - Car = D","x":-260,"y":920,"width":250,"height":60},
-		{"id":"ec2c3b70f84f5afe","x":480,"y":78,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_qeV74izR7T.png"},
-		{"id":"67aa1444fad68d76","x":555,"y":440,"width":250,"height":50,"type":"text","text":"Spine - Pine = S"}
+		{"id":"ec2c3b70f84f5afe","type":"file","file":"attachments/BLUE_PRINCE_qeV74izR7T.png","x":480,"y":78,"width":400,"height":225},
+		{"id":"67aa1444fad68d76","type":"text","text":"Spine - Pine = S","x":555,"y":440,"width":250,"height":50},
+		{"id":"ece41c6aba51184a","type":"file","file":"attachments/BLUE_PRINCE_PI0KAgkb1h.png","x":-1530,"y":1040,"width":400,"height":225},
+		{"id":"e2f6ccf6407b1833","type":"text","text":"Bath - Bat = H","x":-1455,"y":1300,"width":250,"height":60},
+		{"id":"8f88d92b96fb1fd0","type":"file","file":"attachments/BLUE_PRINCE_NHrOjkfOmB.png","x":-505,"y":1218,"width":400,"height":225},
+		{"id":"23ff757a3eff0204","type":"text","text":"PLane - Plan = E?","x":-440,"y":1480,"width":250,"height":60},
+		{"id":"6b972e130ee530b4","type":"file","file":"attachments/BLUE_PRINCE_HfZHXGSGl9.png","x":355,"y":1106,"width":400,"height":225},
+		{"id":"c0b2c51ef64ac666","type":"text","text":"Planet - Plane = T","x":400,"y":1360,"width":250,"height":60},
+		{"id":"2f433a60aaddbde1","type":"file","file":"attachments/BLUE_PRINCE_g6HtNXc5Nk.png","x":-1855,"y":1600,"width":400,"height":225},
+		{"id":"677f88bf724ff5a6","type":"text","text":"Coast - Coat  = S","x":-1780,"y":1880,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},
@@ -41,6 +49,10 @@
 		{"id":"6292e4d9f63e4c45","fromNode":"fcbba8ae847edfe4","fromSide":"left","toNode":"ff17fb1fa87858d3","toSide":"right"},
 		{"id":"1d9aa44b3a593671","fromNode":"c0e32ab63a7be37b","fromSide":"top","toNode":"fcbba8ae847edfe4","toSide":"bottom"},
 		{"id":"53fd5dd06f935bb0","fromNode":"ff17fb1fa87858d3","fromSide":"right","toNode":"fcbba8ae847edfe4","toSide":"left"},
-		{"id":"3b2f8f87baaec1d4","fromNode":"67aa1444fad68d76","fromSide":"top","toNode":"ec2c3b70f84f5afe","toSide":"bottom"}
+		{"id":"3b2f8f87baaec1d4","fromNode":"67aa1444fad68d76","fromSide":"top","toNode":"ec2c3b70f84f5afe","toSide":"bottom"},
+		{"id":"a48efd1cbe1e475f","fromNode":"e2f6ccf6407b1833","fromSide":"top","toNode":"ece41c6aba51184a","toSide":"bottom"},
+		{"id":"750e532ebc3a8730","fromNode":"23ff757a3eff0204","fromSide":"top","toNode":"8f88d92b96fb1fd0","toSide":"bottom"},
+		{"id":"5b80fc0485a9ee68","fromNode":"c0b2c51ef64ac666","fromSide":"top","toNode":"6b972e130ee530b4","toSide":"bottom"},
+		{"id":"b2658298dfcecc4f","fromNode":"677f88bf724ff5a6","fromSide":"top","toNode":"2f433a60aaddbde1","toSide":"bottom"}
 	]
 }
