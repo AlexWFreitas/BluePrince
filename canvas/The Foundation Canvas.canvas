@@ -1,7 +1,23 @@
 {
 	"nodes":[
-		{"id":"15a4b7c2502ee933","x":-660,"y":-440,"width":250,"height":60,"type":"text","text":"[[001 - The Foundation]]"},
-		{"id":"59de1e5b22bca3c3","x":-660,"y":-340,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_AdfuQA0T4Q.png"}
+		{"id":"15a4b7c2502ee933","type":"text","text":"[[001 - The Foundation]]","x":-660,"y":-440,"width":250,"height":60},
+		{"id":"59de1e5b22bca3c3","type":"file","file":"attachments/BLUE_PRINCE_AdfuQA0T4Q.png","x":-660,"y":-340,"width":400,"height":225},
+		{"id":"02a959052c4e9e5b","x":-660,"y":-60,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_GeapLTOdbD.png"},
+		{"id":"cc1dc9ea51734e54","x":-1100,"y":-60,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Zqcz6eMrw5.png"},
+		{"id":"bbe052cbe8afbc6c","x":-1100,"y":200,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_IZrShhmlD5.mp4"},
+		{"id":"3e28902b042f2ced","x":-680,"y":840,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Mnbdoa9CnM.png"},
+		{"id":"922b60cecc5096ce","x":-605,"y":680,"width":250,"height":60,"type":"text","text":"Underground"},
+		{"id":"639b1e724c2999a7","x":-680,"y":1100,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_CSwULoBB41.png"},
+		{"id":"0435f9ea3e176f50","x":-1120,"y":1100,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_klAKUhbFDL.png"},
+		{"id":"cc7e5acc53070704","x":-680,"y":1380,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_6Yn4LJTIiW.png"},
+		{"id":"98d6d6bfa423b5db","x":-605,"y":1660,"width":250,"height":60,"type":"text","text":"Links to [[Basement]] / [[Well Canvas|Well]]"},
+		{"id":"173b43829a6883b4","x":-200,"y":923,"width":250,"height":60,"type":"text","text":"Needs Keycard when coming from Basement"},
+		{"id":"b3a87c5438797c0e","x":0,"y":-60,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_zhf08XYKgR.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"2ace1631ef6614eb","fromNode":"922b60cecc5096ce","fromSide":"bottom","toNode":"3e28902b042f2ced","toSide":"top"},
+		{"id":"9b9efff792c38b67","fromNode":"98d6d6bfa423b5db","fromSide":"top","toNode":"cc7e5acc53070704","toSide":"bottom"},
+		{"id":"e282e068c4fcc26a","fromNode":"173b43829a6883b4","fromSide":"left","toNode":"3e28902b042f2ced","toSide":"right"},
+		{"id":"389622dfae0a9dac","fromNode":"b3a87c5438797c0e","fromSide":"left","toNode":"02a959052c4e9e5b","toSide":"right","label":"Unlocked by"}
+	]
 }

@@ -52,6 +52,7 @@
 - [ ] Done
 ### Open the Basement Door under the Well
 - Try to use Special Key from [[Locksmith]]
+- Did not work
 ### Solve the Pump Room Setup
 - [x] Test it on the Pool
 	- Found a random amount of coins when there is no water
@@ -106,6 +107,12 @@
 - The statues from the Chapel are a clue to solving this
 - This opens a path to the Abandoned Mine, which will need to use the [[Pump Room Canvas.canvas|Pump Room Canvas]]to remove water.
 - [x] Done
+### Solve the Safe on the Boudoir
+- Password is 1225, a reference to the Christmas Photo
+### Open the Safe on the Shelter
+- Starting Date is 6th November
+- Use the Terminal to unlock on Starting Date + Number of Days and at least one hour away from the current time.
+
 ### Open the Garage Door
 - [x] Open the Garage Door
 - [x] Open the Garage Car Door and Box
@@ -150,7 +157,7 @@
 - [x] Discovered Secret Garden Key - Item
 - [x] Found [[Secret Garden]]
 - This enables us to pull a lever for the West Antechamber Door
-### Visit the [[029 - The Pool]] Room Set
+### Visit each room on the [[029 - The Pool]] Room Set
 - [x] The Pool
 - [x] [[Pump Room]]
 - [x] Sauna

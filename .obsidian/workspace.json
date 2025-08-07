@@ -64,9 +64,9 @@
               "state": {
                 "file": "canvas/Study Canvas.canvas",
                 "viewState": {
-                  "x": -145,
-                  "y": 937.5,
-                  "zoom": 0
+                  "x": -505.39534781616516,
+                  "y": 931.5240696084288,
+                  "zoom": 0.3333333333333334
                 }
               },
               "pinned": true,
@@ -77,16 +77,18 @@
           {
             "id": "1cf93add34670029",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "canvas/With Without Puzzles.canvas",
                 "viewState": {
-                  "x": -2768.334765632221,
-                  "y": -107.39184063265759,
-                  "zoom": -0.49780390468353825
+                  "x": -6318.372547511475,
+                  "y": 516.2352765270939,
+                  "zoom": -0.3333333333333332
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "With Without Puzzles"
             }
@@ -121,8 +123,162 @@
               "icon": "lucide-layout-dashboard",
               "title": "Day Results"
             }
+          },
+          {
+            "id": "08523e414d35d3cb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Study Canvas.canvas",
+                "viewState": {
+                  "x": -403.5591194968554,
+                  "y": 363.99207858359523,
+                  "zoom": 0.14103897683988975
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Study Canvas"
+            }
+          },
+          {
+            "id": "3df055ef0123a8f4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/With Without Puzzles.canvas",
+                "viewState": {
+                  "x": -4828,
+                  "y": -170,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "With Without Puzzles"
+            }
+          },
+          {
+            "id": "53a08b7fca75a761",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/With Without Puzzles.canvas",
+                "viewState": {
+                  "x": -3897.615270784243,
+                  "y": 1010.5577955086131,
+                  "zoom": 0.16886276198312838
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "With Without Puzzles"
+            }
+          },
+          {
+            "id": "4aeb659f8e8a0451",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Items.canvas",
+                "viewState": {
+                  "x": -1900.716981132076,
+                  "y": 987.1792452830189,
+                  "zoom": -1.6622485016369848
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Items"
+            }
+          },
+          {
+            "id": "5abf981487ec937e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Secret Garden Canvas.canvas",
+                "viewState": {
+                  "x": -879.9467445931958,
+                  "y": 158.32635421137275,
+                  "zoom": 0.9075610260472673
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Secret Garden Canvas"
+            }
+          },
+          {
+            "id": "4be1240bb3fae676",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/With Without Puzzles.canvas",
+                "viewState": {
+                  "x": -5125.370696116357,
+                  "y": 915.0223819016113,
+                  "zoom": -0.49780390468353825
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "With Without Puzzles"
+            }
+          },
+          {
+            "id": "35f448219cba2f20",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/The Foundation Canvas.canvas",
+                "viewState": {
+                  "x": -142,
+                  "y": -18.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Foundation Canvas"
+            }
+          },
+          {
+            "id": "ad266e267313faf5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Room Upgrades.canvas",
+                "viewState": {
+                  "x": -200,
+                  "y": 1563.7547169811323,
+                  "zoom": -0.9409645297030479
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Room Upgrades"
+            }
+          },
+          {
+            "id": "b6c7a27b6bd8f440",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Day Results.canvas",
+                "viewState": {
+                  "x": -360,
+                  "y": 883.2962264150947,
+                  "zoom": -0.5457197571727649
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day Results"
+            }
           }
-        ]
+        ],
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -269,35 +425,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb4c15be1b8b16ae",
+  "active": "b6c7a27b6bd8f440",
   "lastOpenFiles": [
-    "canvas/Day Results.canvas",
-    "canvas/Items.canvas",
+    "attachments/BLUE_PRINCE_4Ox9JOwiiw.png",
     "workplace/TODO.md",
-    "canvas/Study Canvas.canvas",
-    "attachments/BLUE_PRINCE_YEow2Fh7Lc.png",
-    "canvas/Chess Pieces.canvas",
-    "canvas/Secret Garden Canvas.canvas",
+    "canvas/Room Upgrades.canvas",
+    "attachments/BLUE_PRINCE_mXw4pjmlGL.png",
+    "attachments/BLUE_PRINCE_hBHbYu4eZm.png",
     "workplace/Rooms Found.md",
+    "canvas/The Foundation Canvas.canvas",
+    "attachments/BLUE_PRINCE_zhf08XYKgR.png",
+    "attachments/BLUE_PRINCE_6Yn4LJTIiW.png",
     "notes/Secret Garden.md",
-    "notes/East Wing Hall.md",
+    "canvas/Study Canvas.canvas",
     "canvas/With Without Puzzles.canvas",
+    "attachments/BLUE_PRINCE_klAKUhbFDL.png",
+    "attachments/BLUE_PRINCE_CSwULoBB41.png",
+    "attachments/BLUE_PRINCE_Mnbdoa9CnM.png",
+    "attachments/BLUE_PRINCE_IZrShhmlD5.mp4",
+    "attachments/BLUE_PRINCE_Zqcz6eMrw5.png",
+    "attachments/BLUE_PRINCE_GeapLTOdbD.png",
+    "attachments/BLUE_PRINCE_sEuwtkTK6A.png",
+    "workplace/My Notes.md",
+    "canvas/Secret Garden Canvas.canvas",
+    "canvas/Items.canvas",
+    "canvas/Day Results.canvas",
+    "canvas/Chess Pieces.canvas",
+    "notes/East Wing Hall.md",
     "canvas/Library Canvas.canvas",
-    "attachments/BLUE_PRINCE_COl5WN6WIE.png",
-    "attachments/BLUE_PRINCE_NuKfTav2ru.png",
-    "attachments/BLUE_PRINCE_eks6osP0HI.png",
-    "attachments/BLUE_PRINCE_B3FtRfc2Fr.png",
-    "attachments/BLUE_PRINCE_sQiHwMBGdh.png",
-    "attachments/BLUE_PRINCE_nnSNKmxhjs.png",
-    "attachments/BLUE_PRINCE_uCaUsE2I41.png",
-    "attachments/BLUE_PRINCE_wltofOkCOz.png",
-    "attachments/BLUE_PRINCE_05QWhq9am3.png",
     "notes/026 - Study.md",
     "canvas/Paintings.canvas",
-    "canvas/Bedroom Canvas.canvas",
-    "canvas/Mail Room Canvas.canvas",
     "notes/039 - Mail Room.md",
-    "canvas/Treasure Map Canvas.canvas",
     "notes/Conservatory.md",
     "notes/016 - Locker Room.md",
     "notes/023 - Vault.md",
@@ -310,7 +468,6 @@
     "notes/The Precipice.md",
     "notes/Blue Fire Puzzle.md",
     "workplace/Old Blue Prince Notes.md",
-    "workplace/My Notes.md",
     "notes/Schoolhouse.md",
     "notes/Danny Revane.md",
     "notes/Mrs. Babbage.md",
