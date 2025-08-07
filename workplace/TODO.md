@@ -1,3 +1,10 @@
+### Continuous - Do experiments on Laboratory Room
+- Can unlock permanent bonuses such as allowance
+- Can send mails to the mail room with lore / tips
+- Can increase radiation to trigger condition so that the Shelter unlocks all doors.
+### Continuous - Obtain Stars on Observatory
+- Cumulative Task
+- More Stars - More Bonuses on Observatory Visits
 ### Find the Crown Jewels and Red Letters
 - [x] [[Shelter]] - Timelocked Safe - 6 November + Days
 - [x] [[Boudoir]] - Christmas Safe - 1225
@@ -6,22 +13,33 @@
 - [ ] ?
 - [ ] ?
 - [ ] ?
+### Extract all info from 8 Classrooms
+- [x] Grade 1
+- [x] Grade 2
+- [x] Grade 3
+- [x] Grade 4
+- [x] Grade 5
+- [ ] Grade 6
+- [ ] Grade 7
+- [ ] Grade 8
 
-### Place the Levers for the Antechamber Room
-- Levers can be found as [[Items.canvas|Items]] on random rooms.
+### Solve the Mansion Dual Paintings Puzzle
+- Find the letter difference between each painting on each room
+- Fill each room with the correct letter to reveal a text
+- [[Study Canvas.canvas|Study Canvas]] for tracking
+
+### Find a way to use enable Elevator on The Foundation
+
+### Obtain all Mails from the Mail Room
+### Pull the Levers to open the Antechamber Room
+- Some levers can be found as [[Items.canvas|Items]] on random rooms.
 - [[Antechamber Puzzle]]
 - [ ] Greenhouse Room Lever - South
+	- Broken Lever, needs a replacement
+- [x] Lever on Secret Garden - West
 
-### Turn the 4 Blue Flame gas valves on
-- [x] [[Gemstone Cavern]] - Valve
-- [x] [[031 - Utility Closet]] - Valve
-- [x] [[Hovel]] - Valve
-- [x] [[Schoolhouse]] - Valve
-- Reward is an Elevator
+
 ### Enter Antechamber Room
-### Obtain Stars on Observatory
-- Cumulative Task
-- More Stars - More Bonuses on Observatory Visits
 ### Find the Central Server Site and solve the Puzzle
 - Use password RuotH (Hartley Ruota) to enable admin privilege?
 	- Maybe I am using the wrong name, but its the four laters of the surname + the first letter of the first name.
@@ -43,6 +61,7 @@
 - [x] Test it on the Aquarium
 	- Found some marked symbols
 	- Two X and one Arrow referring to other rooms.
+	- Visited those rooms and didn't find anything, this probably requires a combination item from Workshop
 - [x] Test it on the Well
 	- Found a stairs going down into a special locked room called Basement
 	- Found coins that I threw earlier at the Well
@@ -54,7 +73,8 @@
 - [ ] Used it on Laundry Room
 - [ ] Used it on Garage
 	- Maybe not needed on this one, since I can use the Utility Box?
- 
+### Open the Safe on Study
+- TODO
 ### Open the Safe on Office Room
 - Turn the dial on the Desk to show the Lock
 - [[Foyer Canvas.canvas|Foyer Canvas]] statues might be a clue to how to solve it
@@ -64,12 +84,9 @@
 	- 3806 F
 	- 3809 F
 	- Need to test 1213 from [[Wine Cellar Canvas.canvas|Wine Cellar Room]]
-
 ### Open the Safe on Drawing Room
 - Pull one of the Candlelight hands to show the Safe
 - The code might be related to the paintings in the room, some type of math based on direction and the distance between the feet.
--
-
 
 ### Identify the Angels
 - [[Angels Puzzle Canvas.canvas|Angels Puzzle Canvas]]
@@ -84,25 +101,11 @@
 - [ ] ?
 - [x] Tomb Puzzle Solved
 
-
-### Solve [[029 - The Pool]] Room Set
-- [x] The Pool
-- [ ] [[Pump Room]]
-### Find the Secret Garden
-- [x] Discovered Secret Garden Key - Item
-- [ ] Found [[Secret Garden]]
-### Solve the Treasure Map Puzzle
-- [ ] [[Treasure Map]]
-
-
-
-
 # DONE
 ### Solve the Statue Puzzle on the Tomb
 - The statues from the Chapel are a clue to solving this
 - This opens a path to the Abandoned Mine, which will need to use the [[Pump Room Canvas.canvas|Pump Room Canvas]]to remove water.
 - [x] Done
-
 ### Open the Garage Door
 - [x] Open the Garage Door
 - [x] Open the Garage Car Door and Box
@@ -131,6 +134,30 @@
 - [x] Done
 ### Solve the Utility Box Closet Puzzle
 - [x] Done
+### Turn the 4 Blue Flame gas valves on
+- [x] [[Gemstone Cavern]] - Valve
+- [x] [[031 - Utility Closet]] - Valve
+- [x] [[Hovel]] - Valve
+- [x] [[Schoolhouse]] - Valve
+- Reward is an Elevator to [[The Precipice]]
 
-
+### Solve a Treasure Map Puzzle
+-  [[Treasure Map]] is an item that can be picked in a run
+-  This item shows where a treasure is hidden
+- Rewards found
+	- 40g
+### Find the Secret Garden
+- [x] Discovered Secret Garden Key - Item
+- [x] Found [[Secret Garden]]
+- This enables us to pull a lever for the West Antechamber Door
+### Visit the [[029 - The Pool]] Room Set
+- [x] The Pool
+- [x] [[Pump Room]]
+- [x] Sauna
+- [x] Locker Room
+### Solve the Music Sheet puzzle
+- Music sheets tell you that the first word of each sheet conveys a secret message
+- The secret message says something akin to
+	- The campsite has a diggable spot near the white trees
+- This unlocks the [[Conservatory]] Secret Room
 

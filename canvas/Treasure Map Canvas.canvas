@@ -1,7 +1,10 @@
 {
 	"nodes":[
 		{"id":"5b0381776d5f0974","type":"text","text":"[[Treasure Map]]","x":-650,"y":-393,"width":250,"height":60},
-		{"id":"8cfec8578ff22aad","x":-800,"y":-260,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_EKS5Se1Xtf 1.jpg"}
+		{"id":"8cfec8578ff22aad","type":"file","file":"attachments/BLUE_PRINCE_EKS5Se1Xtf 1.jpg","x":-800,"y":-260,"width":400,"height":225},
+		{"id":"46993b30fc5a0bdd","x":-1720,"y":-220,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_DGDXmvgUdK.png"},
+		{"id":"543bccdb3b88769c","x":-1720,"y":40,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_aNA8z28Fa4.png"},
+		{"id":"f2d77a8ccc0d2ddd","type":"file","file":"attachments/BLUE_PRINCE_NZaTCIOvDF.png","x":-1720,"y":-485,"width":400,"height":225}
 	],
 	"edges":[]
 }

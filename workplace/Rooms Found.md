@@ -21,6 +21,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[023 - Vault]]
 [[024 - Office]]
 [[025 - Drawing Room]]
+[[026 - Study]]
 [[027 - Library]]
 [[029 - The Pool]]
 [[031 - Utility Closet]]
@@ -31,6 +32,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[036 - Laboratory]]
 [[037 - Sauna]]
 [[038 - Coat Check]]
+[[039 - Mail Room]]
 [[040 - Freezer]]
 [[041 - Dining Room]]
 [[042 - Observatory]]
@@ -47,6 +49,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 ## Hallways
 [[Hallway]]
 [[West Wing Hall]]
+[[East Wing Hall]]
 [[Corridor]]
 [[Passageway]]
 [[Secret Passage]]
@@ -60,6 +63,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Cloister]]
 [[Morning Room]]
 [[Conservatory]]
+[[Secret Garden]]
 ## Shops
 [[Commissary]]
 [[Kitchen]]

@@ -26,7 +26,9 @@
 		{"id":"f4c801e0de3b0fec","type":"file","file":"attachments/BLUE_PRINCE_2n3ZOY5byF.png","x":-840,"y":1040,"width":400,"height":225},
 		{"id":"d8e94ff342e9eaec","type":"file","file":"attachments/BLUE_PRINCE_Yo6InYGu1H 1.png","x":440,"y":-680,"width":400,"height":225},
 		{"id":"14d8d428ea96aee6","type":"file","file":"attachments/BLUE_PRINCE_hmHCWq0aH4.png","x":-840,"y":720,"width":400,"height":225},
-		{"id":"c7c6b0c10b43882d","x":-400,"y":720,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_mjpnGTo5C1.png"}
+		{"id":"c7c6b0c10b43882d","type":"file","file":"attachments/BLUE_PRINCE_mjpnGTo5C1.png","x":-400,"y":720,"width":400,"height":225},
+		{"id":"fb36e8de93c13862","x":-1755,"y":1820,"width":250,"height":60,"type":"text","text":"Queen"},
+		{"id":"5719007e77a8815b","x":-1280,"y":1768,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_ZccrhMiNAH.png"}
 	],
 	"edges":[]
 }
