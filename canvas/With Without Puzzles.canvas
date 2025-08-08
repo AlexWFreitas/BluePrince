@@ -72,20 +72,24 @@
 		{"id":"0ef1c8f54a7b3b9d","type":"file","file":"attachments/BLUE_PRINCE_7YBoWy1QGi.png","x":-7270,"y":716,"width":400,"height":225,"color":"3"},
 		{"id":"054d9080a3b433a4","type":"file","file":"attachments/BLUE_PRINCE_8wmXWlbbyh.png","x":-5280,"y":746,"width":400,"height":225,"color":"4"},
 		{"id":"0eb1ef03f826773f","type":"text","text":"PLANT - PLAN = T - C5R8","x":-5205,"y":1057,"width":250,"height":60,"color":"4"},
-		{"id":"a3647467889ac81f","type":"file","file":"attachments/BLUE_PRINCE_t2al2QEYOR.png","x":-7270,"y":2040,"width":400,"height":225,"color":"4"},
-		{"id":"8323c4262261219b","type":"text","text":"Crow - Row = C? C1R2","x":-7236,"y":2317,"width":250,"height":60,"color":"4"},
-		{"id":"a3cfc6d884b1762c","type":"file","file":"attachments/BLUE_PRINCE_DcpJTGmQeK.png","x":-7270,"y":2480,"width":400,"height":225,"color":"4"},
-		{"id":"387168bed2e49411","type":"text","text":"Dessert - Desert = S - C1R1","x":-7236,"y":2780,"width":250,"height":60,"color":"4"},
-		{"id":"2b5ca6f0334bae47","x":-5280,"y":1500,"width":400,"height":225,"color":"4","type":"file","file":"attachments/BLUE_PRINCE_AOEQXTvbB8.png"},
-		{"id":"cc4178d928596f6d","x":-5205,"y":1800,"width":250,"height":60,"color":"4","type":"text","text":"TENT - TEN = T C5R5"},
-		{"id":"38643c35ac6740ad","x":-5280,"y":240,"width":400,"height":225,"color":"1","type":"file","file":"attachments/BLUE_PRINCE_fcnEX5eN70.png"},
-		{"id":"e398c126e6b8e59f","x":-5239,"y":520,"width":359,"height":83,"color":"1","type":"text","text":"Globe / Planet / Paint / Box / Crate / Square / Cube - C5R9\n\nPLANET - PLANT = E?"},
-		{"id":"45f7b67b06a02117","x":-5760,"y":128,"width":400,"height":225,"color":"4","type":"file","file":"attachments/BLUE_PRINCE_5zxffe84gR.png"},
-		{"id":"a44b1b643def3e11","x":-5740,"y":260,"width":400,"height":225,"color":"4","type":"file","file":"attachments/BLUE_PRINCE_1BM2fgnhKu.png"},
-		{"id":"6745b5e79b90db4d","x":-5665,"y":520,"width":250,"height":60,"color":"4","type":"text","text":"Wheat - Heat = W"},
-		{"id":"2f0d9cdf284b63a7","x":-7195,"y":543,"width":250,"height":60,"color":"4","type":"text","text":"Chief - Chef = I - C1R9"},
-		{"id":"1cd462074d8e3445","x":-7270,"y":240,"width":400,"height":225,"color":"4","type":"file","file":"attachments/BLUE_PRINCE_TOZgEB8ffr.png"},
-		{"id":"8c7a15326fda3d9e","type":"text","text":"PLANE - LAMP? - C2R9\n\nSUPPOSEDLY F","x":-6640,"y":500,"width":250,"height":117,"color":"1"}
+		{"id":"2b5ca6f0334bae47","type":"file","file":"attachments/BLUE_PRINCE_AOEQXTvbB8.png","x":-5280,"y":1500,"width":400,"height":225,"color":"4"},
+		{"id":"cc4178d928596f6d","type":"text","text":"TENT - TEN = T C5R5","x":-5205,"y":1800,"width":250,"height":60,"color":"4"},
+		{"id":"38643c35ac6740ad","type":"file","file":"attachments/BLUE_PRINCE_fcnEX5eN70.png","x":-5280,"y":240,"width":400,"height":225,"color":"1"},
+		{"id":"e398c126e6b8e59f","type":"text","text":"Globe / Planet / Paint / Box / Crate / Square / Cube - C5R9\n\nPLANET - PLANT = E?","x":-5239,"y":520,"width":359,"height":83,"color":"1"},
+		{"id":"45f7b67b06a02117","type":"file","file":"attachments/BLUE_PRINCE_5zxffe84gR.png","x":-5760,"y":128,"width":400,"height":225,"color":"4"},
+		{"id":"a44b1b643def3e11","type":"file","file":"attachments/BLUE_PRINCE_1BM2fgnhKu.png","x":-5740,"y":260,"width":400,"height":225,"color":"4"},
+		{"id":"6745b5e79b90db4d","type":"text","text":"Wheat - Heat = W","x":-5665,"y":520,"width":250,"height":60,"color":"4"},
+		{"id":"2f0d9cdf284b63a7","type":"text","text":"Chief - Chef = I - C1R9","x":-7195,"y":543,"width":250,"height":60,"color":"4"},
+		{"id":"1cd462074d8e3445","type":"file","file":"attachments/BLUE_PRINCE_TOZgEB8ffr.png","x":-7270,"y":240,"width":400,"height":225,"color":"4"},
+		{"id":"8c7a15326fda3d9e","type":"text","text":"PLANE - LAMP? - C2R9\n\nSUPPOSEDLY F","x":-6640,"y":500,"width":250,"height":117,"color":"1"},
+		{"id":"a3647467889ac81f","type":"file","file":"attachments/BLUE_PRINCE_t2al2QEYOR.png","x":-7260,"y":2340,"width":400,"height":225,"color":"4"},
+		{"id":"8323c4262261219b","type":"text","text":"Crow - Row = C? C1R2","x":-7226,"y":2617,"width":250,"height":60,"color":"4"},
+		{"id":"a3cfc6d884b1762c","type":"file","file":"attachments/BLUE_PRINCE_DcpJTGmQeK.png","x":-7260,"y":2780,"width":400,"height":225,"color":"4"},
+		{"id":"387168bed2e49411","type":"text","text":"Dessert - Desert = S - C1R1","x":-7226,"y":3080,"width":250,"height":60,"color":"4"},
+		{"id":"f9b62dc8715d6102","x":-6680,"y":1800,"width":400,"height":225,"color":"4","type":"file","file":"attachments/BLUE_PRINCE_N3ZPqVpm9E.png"},
+		{"id":"0d8bd1e22fb7855a","x":-6613,"y":2099,"width":250,"height":60,"color":"4","type":"text","text":"Coat - Cot = A - C2R4"},
+		{"id":"c8c6a0007718a17d","x":-6688,"y":2780,"width":400,"height":225,"color":"4","type":"file","file":"attachments/BLUE_PRINCE_PqdJSCQHjp.png"},
+		{"id":"aff18859c5c0f224","x":-6613,"y":3080,"width":250,"height":60,"color":"4","type":"text","text":"Pray - Pry - A - C2R1"}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},
@@ -131,6 +135,7 @@
 		{"id":"40babca9243d0288","fromNode":"cc4178d928596f6d","fromSide":"top","toNode":"2b5ca6f0334bae47","toSide":"bottom"},
 		{"id":"2ab0dc9676495a3e","fromNode":"6745b5e79b90db4d","fromSide":"top","toNode":"a44b1b643def3e11","toSide":"bottom"},
 		{"id":"b8d0d4c34509edd1","fromNode":"2f0d9cdf284b63a7","fromSide":"top","toNode":"1cd462074d8e3445","toSide":"bottom"},
-		{"id":"4aa20bc597479c79","fromNode":"e398c126e6b8e59f","fromSide":"top","toNode":"38643c35ac6740ad","toSide":"bottom"}
+		{"id":"4aa20bc597479c79","fromNode":"e398c126e6b8e59f","fromSide":"top","toNode":"38643c35ac6740ad","toSide":"bottom"},
+		{"id":"72f3e80460f8ec69","fromNode":"0d8bd1e22fb7855a","fromSide":"top","toNode":"f9b62dc8715d6102","toSide":"bottom"}
 	]
 }

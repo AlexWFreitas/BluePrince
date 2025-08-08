@@ -46,6 +46,8 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Nursery]]
 [[Servant's Quarters]]
 [[Bunk Room]]
+
+[[Master Bedroom]]
 ## Hallways
 [[Hallway]]
 [[West Wing Hall]]
@@ -68,6 +70,8 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Commissary]]
 [[Kitchen]]
 [[Locksmith]]
+[[Bookshop]]
+[[Showroom]]
 ## Red Rooms
 [[Lavatory]]
 [[Chapel]]

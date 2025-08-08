@@ -64,7 +64,7 @@
               "state": {
                 "file": "canvas/Study Canvas.canvas",
                 "viewState": {
-                  "x": -342.68673998942467,
+                  "x": -683.9779661625876,
                   "y": 986.2894059013317,
                   "zoom": 0.3333333333333334
                 }
@@ -83,14 +83,48 @@
               "state": {
                 "file": "canvas/With Without Puzzles.canvas",
                 "viewState": {
-                  "x": -6453.56160688523,
-                  "y": 494.2832557568441,
-                  "zoom": 0.6666666666666667
+                  "x": -6304.345908000219,
+                  "y": 2874.677256219748,
+                  "zoom": -0.6666666666666665
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "With Without Puzzles"
+            }
+          },
+          {
+            "id": "0447444edb2bd7d4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Day Results.canvas",
+                "viewState": {
+                  "x": -360,
+                  "y": 735.1981132075473,
+                  "zoom": -0.8330491905361606
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day Results"
+            }
+          },
+          {
+            "id": "e26642d2c0fd6ccb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Magnifying Lens Puzzles.canvas",
+                "viewState": {
+                  "x": -420,
+                  "y": -287.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Magnifying Lens Puzzles"
             }
           },
           {
@@ -191,9 +225,60 @@
               "icon": "lucide-layout-dashboard",
               "title": "Day Results"
             }
+          },
+          {
+            "id": "f302fb8b942f3bb6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Shrine Blessings.canvas",
+                "viewState": {
+                  "x": 249,
+                  "y": 161,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Shrine Blessings"
+            }
+          },
+          {
+            "id": "3deb921601319596",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Mail Room Canvas.canvas",
+                "viewState": {
+                  "x": -3549.7594665596807,
+                  "y": -177.93918368222393,
+                  "zoom": -0.6853560767986233
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mail Room Canvas"
+            }
+          },
+          {
+            "id": "de3795239532f31c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Library Canvas.canvas",
+                "viewState": {
+                  "x": -2349.2495807127884,
+                  "y": 299.5729559748428,
+                  "zoom": -2.0578407726930634
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Library Canvas"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -340,33 +425,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cf93add34670029",
+  "active": "0447444edb2bd7d4",
   "lastOpenFiles": [
-    "canvas/Day Results.canvas",
-    "attachments/BLUE_PRINCE_EzDHV4UfW4.png",
-    "canvas/With Without Puzzles.canvas",
-    "canvas/Study Canvas.canvas",
-    "attachments/BLUE_PRINCE_TOZgEB8ffr.png",
-    "attachments/BLUE_PRINCE_1BM2fgnhKu.png",
-    "attachments/BLUE_PRINCE_5zxffe84gR.png",
-    "attachments/BLUE_PRINCE_fcnEX5eN70.png",
+    "attachments/BLUE_PRINCE_FSG362dHpj.png",
+    "canvas/Gemstone Cavern.canvas",
+    "attachments/BLUE_PRINCE_MLmP1r0iuP.png",
+    "canvas/Bookshop Canvas.canvas",
+    "attachments/BLUE_PRINCE_MbIn2N5vR6.png",
+    "attachments/BLUE_PRINCE_bgWyl6yFly.png",
+    "canvas/Chess Pieces.canvas",
+    "attachments/BLUE_PRINCE_lucpQecCyd.png",
+    "attachments/BLUE_PRINCE_SevjvK7VEs.png",
     "canvas/Items.canvas",
-    "attachments/BLUE_PRINCE_OfyuLuYJY2.png",
-    "canvas/The Foundation Canvas.canvas",
-    "attachments/BLUE_PRINCE_QrRpul7iGq.png",
-    "attachments/BLUE_PRINCE_AOEQXTvbB8.png",
+    "notes/Showroom.md",
     "workplace/Rooms Found.md",
-    "attachments/BLUE_PRINCE_DcpJTGmQeK.png",
-    "attachments/BLUE_PRINCE_t2al2QEYOR.png",
-    "canvas/Foyer Canvas.canvas",
+    "canvas/Library Canvas.canvas",
+    "attachments/BLUE_PRINCE_QUeHxnEjQA.png",
+    "attachments/BLUE_PRINCE_Fd3GuUi5D0.png",
+    "attachments/BLUE_PRINCE_v2azKZeCzd.png",
+    "attachments/BLUE_PRINCE_RqfNbtWjZE.png",
+    "attachments/BLUE_PRINCE_POwGsXHHg5.png",
+    "canvas/Mail Room Canvas.canvas",
+    "canvas/Maid's Chamber Canvas.canvas",
+    "canvas/Day Results.canvas",
+    "canvas/Gardener's Logbook.canvas",
+    "canvas/Study Canvas.canvas",
+    "notes/Master Bedroom.md",
     "notes/Secret Garden.md",
-    "canvas/Secret Garden Canvas.canvas",
-    "canvas/Room Upgrades.canvas",
-    "canvas/Dark Room.canvas",
     "workplace/TODO.md",
     "attachments/BLUE_PRINCE_IZrShhmlD5.mp4",
     "workplace/My Notes.md",
-    "canvas/Chess Pieces.canvas",
     "notes/East Wing Hall.md",
     "notes/026 - Study.md",
     "notes/039 - Mail Room.md",
@@ -387,8 +475,6 @@
     "notes/Mrs. Babbage.md",
     "notes/Furnace.md",
     "notes/040 - Freezer.md",
-    "notes/031 - Utility Closet.md",
-    "notes/032 - Boiler Room.md",
     "attachments/BLUE_PRINCE_u6ANmm1l0y.mp4",
     "workplace",
     "old",
