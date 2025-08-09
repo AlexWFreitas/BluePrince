@@ -72,6 +72,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Locksmith]]
 [[Bookshop]]
 [[Showroom]]
+[[Laundry Room]]
 ## Red Rooms
 [[Lavatory]]
 [[Chapel]]

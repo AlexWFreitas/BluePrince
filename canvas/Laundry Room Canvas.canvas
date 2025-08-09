@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"48bdf5978b25aedb","x":-642,"y":-435,"width":250,"height":60,"type":"text","text":"[[Laundry Room]]"},
+		{"id":"e3fa54d8a5bb4390","x":-642,"y":-340,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_A7vHxvbMKT.png"},
+		{"id":"c0a7036738b9f1be","x":-642,"y":-60,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_sNr7bcr4l5.png"},
+		{"id":"86ce0ab20a3766a1","x":-220,"y":-60,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_EXxeAvEDsZ.png"},
+		{"id":"4c5a6285d38b6dcc","x":200,"y":-60,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_ctVoNan3KF.png"},
+		{"id":"87b76a923ee20d46","x":-642,"y":200,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_kovYIRmPXp.png"},
+		{"id":"6db5a9da2eba72c4","x":-220,"y":200,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_EVwjPtx6gy.png"},
+		{"id":"50c677d87cb82132","x":200,"y":200,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_1NZ9fqBbsr.png"}
+	],
+	"edges":[]
+}
