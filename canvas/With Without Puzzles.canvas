@@ -68,7 +68,7 @@
 		{"id":"51ada84ba5a46f72","type":"file","file":"attachments/BLUE_PRINCE_QR2bxOljzg.png","x":-5040,"y":-482,"width":400,"height":225},
 		{"id":"4f55f0f936abadd1","type":"text","text":"Pilot - Plot = I","x":-4953,"y":-200,"width":250,"height":60},
 		{"id":"a515c2af8baea60b","type":"text","text":"Crate - Rate? - C- C1R8","x":-7195,"y":1027,"width":250,"height":60,"color":"3"},
-		{"id":"22667949f5f51895","type":"file","file":"attachments/BLUE_PRINCE_O7Zbp1oRCV.png","x":-6715,"y":240,"width":400,"height":225,"color":"1"},
+		{"id":"22667949f5f51895","type":"file","file":"attachments/BLUE_PRINCE_O7Zbp1oRCV.png","x":-6715,"y":240,"width":400,"height":225,"color":"4"},
 		{"id":"0ef1c8f54a7b3b9d","type":"file","file":"attachments/BLUE_PRINCE_7YBoWy1QGi.png","x":-7270,"y":716,"width":400,"height":225,"color":"3"},
 		{"id":"054d9080a3b433a4","type":"file","file":"attachments/BLUE_PRINCE_8wmXWlbbyh.png","x":-5280,"y":746,"width":400,"height":225,"color":"4"},
 		{"id":"0eb1ef03f826773f","type":"text","text":"PLANT - PLAN = T - C5R8","x":-5205,"y":1057,"width":250,"height":60,"color":"4"},
@@ -79,7 +79,7 @@
 		{"id":"6745b5e79b90db4d","type":"text","text":"Wheat - Heat = W","x":-5665,"y":520,"width":250,"height":60,"color":"4"},
 		{"id":"2f0d9cdf284b63a7","type":"text","text":"Chief - Chef = I - C1R9","x":-7195,"y":543,"width":250,"height":60,"color":"4"},
 		{"id":"1cd462074d8e3445","type":"file","file":"attachments/BLUE_PRINCE_TOZgEB8ffr.png","x":-7270,"y":240,"width":400,"height":225,"color":"4"},
-		{"id":"8c7a15326fda3d9e","type":"text","text":"PLANE - LAMP? - C2R9\n\nSUPPOSEDLY F","x":-6640,"y":500,"width":250,"height":117,"color":"1"},
+		{"id":"8c7a15326fda3d9e","type":"text","text":"FLIGHT - LIGHT = F - C2R9","x":-6640,"y":500,"width":300,"height":117,"color":"4"},
 		{"id":"c8c6a0007718a17d","type":"file","file":"attachments/BLUE_PRINCE_PqdJSCQHjp.png","x":-6742,"y":3892,"width":400,"height":225,"color":"4"},
 		{"id":"aff18859c5c0f224","type":"text","text":"Pray - Pry - A - C2R1","x":-6667,"y":4192,"width":250,"height":60,"color":"4"},
 		{"id":"f9b62dc8715d6102","type":"file","file":"attachments/BLUE_PRINCE_N3ZPqVpm9E.png","x":-6707,"y":2691,"width":400,"height":225,"color":"4"},
@@ -97,7 +97,9 @@
 		{"id":"04ce05fe619a61e7","x":-6840,"y":1200,"width":400,"height":225,"color":"4","type":"file","file":"attachments/BLUE_PRINCE_3BTmkfTqd6.png"},
 		{"id":"6aa8649104623b2d","x":-6792,"y":1455,"width":250,"height":60,"color":"4","type":"text","text":"TIME - TIE - M = C2R7"},
 		{"id":"617b06b19e58363c","x":-6280,"y":2041,"width":400,"height":225,"color":"4","type":"file","file":"attachments/BLUE_PRINCE_hoN6k7vDza.png"},
-		{"id":"ae04553d9165a2a0","x":-6205,"y":2318,"width":250,"height":60,"color":"4","type":"text","text":"TIGER - TIER = G - C5R3"}
+		{"id":"ae04553d9165a2a0","x":-6205,"y":2318,"width":250,"height":60,"color":"4","type":"text","text":"TIGER - TIER = G - C5R3"},
+		{"id":"abfd96ee9ea8def3","x":-7340,"y":1620,"width":400,"height":225,"color":"4","type":"file","file":"attachments/BLUE_PRINCE_uEychNR8is.png"},
+		{"id":"f6b7e646f1d86f6d","x":-7280,"y":1880,"width":250,"height":60,"color":"4","type":"text","text":"GRAIN - RAIN = G - C1R6"}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},

@@ -5,6 +5,13 @@
 ### Continuous - Obtain Stars on Observatory
 - Cumulative Task
 - More Stars - More Bonuses on Observatory Visits
+
+### Find where to use the Microchip obtained by using the Sledgehammer to Break Vases on the Entrance Hall
+- [ ] ?
+
+### Use Sledgehammer to break Vases on rooms
+- Entrance Hall - 2 Vases - Microchip Item
+
 ### Find the Crown Jewels and Red Letters
 - [x] [[Shelter]] - Timelocked Safe - 6 November + Days
 - [x] [[Boudoir]] - Christmas Safe - 1225
@@ -85,6 +92,7 @@
 	- 3806 F
 	- 3809 F
 	- Need to test 1213 from [[Wine Cellar Canvas.canvas|Wine Cellar Room]]
+- Try 0412 from the [[Attic Canvas.canvas|Attic Canvas]] Letter together with the Security Room Footage pointing to the Office Room
 ### Open the Safe on Drawing Room
 - Pull one of the Candlelight hands to show the Safe
 - The code might be related to the paintings in the room, some type of math based on direction and the distance between the feet.

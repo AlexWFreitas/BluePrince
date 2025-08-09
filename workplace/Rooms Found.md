@@ -9,6 +9,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[006 - Billiard Room]]
 [[009 - Closet]]
 [[010 - Walk-in Closet]]
+[[011 - Attic]]
 [[012 - Storeroom]]
 [[013 - Nook]]
 [[014 - Garage]]

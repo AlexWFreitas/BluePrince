@@ -25,6 +25,7 @@ Central Server Site Admin Key password is RuotH (Hartley Ruota)
 	- [[Terrace]], [[Patio]], [[Veranda]], [[Morning Room]], [[Greenhouse]] and [[Secret Garden]]
 - There are more locked doors and key card doors the deeper you are in the house.
 - Room rank number seems to be related to the depth of rooms you have reached.
+- The sledgehammer can be used to break vases.
 
 ### Clues
 - Green memos found in [[Hartley's Room]] are always false.

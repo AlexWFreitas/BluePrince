@@ -65,7 +65,7 @@
                 "file": "canvas/Study Canvas.canvas",
                 "viewState": {
                   "x": -451.2907459001064,
-                  "y": 962.3120171624871,
+                  "y": 888.4978682459657,
                   "zoom": 0.3333333333333334
                 }
               },
@@ -83,52 +83,18 @@
               "state": {
                 "file": "canvas/With Without Puzzles.canvas",
                 "viewState": {
-                  "x": -6158.6557443472775,
-                  "y": 2352.5690919404033,
-                  "zoom": -0.6666666666666667
+                  "x": -6438.601607952151,
+                  "y": 450.803648310183,
+                  "zoom": -0.3333333333333334
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "With Without Puzzles"
             }
-          },
-          {
-            "id": "a6f00b5567e64824",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Room Upgrades.canvas",
-                "viewState": {
-                  "x": -114.875161640978,
-                  "y": 1870.7249306922317,
-                  "zoom": -1.3333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Room Upgrades"
-            }
-          },
-          {
-            "id": "7ec13e7083c718d3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Day Results.canvas",
-                "viewState": {
-                  "x": -360,
-                  "y": 1190.9984276729563,
-                  "zoom": -1.0733388163991655
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Day Results"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -275,37 +241,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ec13e7083c718d3",
+  "active": "1cf93add34670029",
   "lastOpenFiles": [
-    "attachments/BLUE_PRINCE_ntxWZbFrLr.png",
-    "canvas/Study Canvas.canvas",
-    "canvas/Laundry Room Canvas.canvas",
-    "attachments/BLUE_PRINCE_1NZ9fqBbsr.png",
-    "attachments/BLUE_PRINCE_EVwjPtx6gy.png",
-    "attachments/BLUE_PRINCE_kovYIRmPXp.png",
-    "attachments/BLUE_PRINCE_ctVoNan3KF.png",
-    "attachments/BLUE_PRINCE_EXxeAvEDsZ.png",
-    "attachments/BLUE_PRINCE_sNr7bcr4l5.png",
-    "attachments/BLUE_PRINCE_A7vHxvbMKT.png",
-    "notes/Laundry Room.md",
-    "workplace/Rooms Found.md",
-    "canvas/With Without Puzzles.canvas",
-    "attachments/BLUE_PRINCE_hoN6k7vDza.png",
-    "attachments/BLUE_PRINCE_3BTmkfTqd6.png",
-    "attachments/BLUE_PRINCE_4ZnKA1FAxb.png",
-    "workplace/My Notes.md",
-    "canvas/Room Upgrades.canvas",
-    "canvas/Alzara.canvas",
-    "attachments/BLUE_PRINCE_eWAitpCBwu.mp4",
-    "canvas/Chess Pieces.canvas",
-    "canvas/The Fixed Stars - Constellations.canvas",
     "canvas/Day Results.canvas",
-    "canvas/Gemstone Cavern.canvas",
-    "canvas/Bookshop Canvas.canvas",
+    "attachments/BLUE_PRINCE_f8urfWYZFL.png",
+    "workplace/TODO.md",
+    "canvas/Items.canvas",
+    "attachments/BLUE_PRINCE_6Rr19inV5o.png",
+    "workplace/Rooms Found.md",
+    "canvas/Entrance Hall Canvas.canvas",
+    "attachments/BLUE_PRINCE_lzlVv6jSJx.png",
+    "notes/002 - Entrance Hall.md",
+    "workplace/My Notes.md",
+    "canvas/Study Canvas.canvas",
+    "canvas/The Grounds Canvas.canvas",
+    "attachments/BLUE_PRINCE_17KsqAp6Kn.png",
+    "attachments/BLUE_PRINCE_4z7Oberxw6.png",
+    "canvas/Kitchen Canvas.canvas",
+    "canvas/Room Upgrades.canvas",
+    "attachments/BLUE_PRINCE_eIY9N18xEx.png",
+    "canvas/Library Canvas.canvas",
+    "attachments/BLUE_PRINCE_vYUB9p0LQW.png",
+    "canvas/With Without Puzzles.canvas",
+    "canvas/Showroom Canvas.canvas",
+    "attachments/BLUE_PRINCE_nkbfQMANvp.mp4",
+    "attachments/BLUE_PRINCE_YUoLuXq5kP.png",
+    "canvas/Chess Pieces.canvas",
+    "attachments/BLUE_PRINCE_uEychNR8is.png",
+    "notes/011 - Attic.md",
+    "attachments/BLUE_PRINCE_RVpKeT9gRB 1.png",
+    "notes/001 - The Foundation.md",
+    "notes/Laundry Room.md",
+    "attachments/BLUE_PRINCE_eWAitpCBwu.mp4",
     "notes/Showroom.md",
     "notes/Master Bedroom.md",
     "notes/Secret Garden.md",
-    "workplace/TODO.md",
     "attachments/BLUE_PRINCE_IZrShhmlD5.mp4",
     "notes/East Wing Hall.md",
     "notes/026 - Study.md",
@@ -323,9 +293,6 @@
     "notes/Blue Fire Puzzle.md",
     "workplace/Old Blue Prince Notes.md",
     "notes/Schoolhouse.md",
-    "notes/Danny Revane.md",
-    "notes/Mrs. Babbage.md",
-    "notes/Furnace.md",
     "attachments/BLUE_PRINCE_u6ANmm1l0y.mp4",
     "workplace",
     "old",

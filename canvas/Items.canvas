@@ -27,10 +27,15 @@
 		{"id":"444722d7d501e086","type":"file","file":"attachments/BLUE_PRINCE_OfyuLuYJY2.png","x":1520,"y":495,"width":400,"height":225},
 		{"id":"28bc586033258ad8","type":"text","text":"Broken Lever + Sledge Hammer + ?","x":1559,"y":1120,"width":323,"height":51},
 		{"id":"2d7445205b05e7b4","type":"text","text":"Magnifying Glass +Metal Detector = Burning Glass","x":1595,"y":780,"width":250,"height":60},
-		{"id":"8d2b38c83b82e567","type":"file","file":"attachments/BLUE_PRINCE_8uKSyv60j0.png","x":480,"y":840,"width":400,"height":225},
-		{"id":"fff5fe09a7e6fa66","x":-3060,"y":254,"width":280,"height":78,"type":"text","text":"# Showroom"}
+		{"id":"fff5fe09a7e6fa66","type":"text","text":"# Showroom","x":-3060,"y":254,"width":280,"height":78},
+		{"id":"c33d8cf55aa7a6c4","type":"file","file":"attachments/BLUE_PRINCE_PvjM6nnZ2h.png","x":-240,"y":2160,"width":400,"height":225},
+		{"id":"8d2b38c83b82e567","type":"file","file":"attachments/BLUE_PRINCE_8uKSyv60j0.png","x":-680,"y":2440,"width":400,"height":225},
+		{"id":"f2b4951c2f1160ef","type":"file","file":"attachments/BLUE_PRINCE_YUoLuXq5kP.png","x":-3120,"y":1655,"width":400,"height":225},
+		{"id":"f1dcd4a3bebe80e1","x":-1880,"y":1685,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_6Rr19inV5o.png"},
+		{"id":"8f2a30658a050993","x":-1820,"y":1960,"width":250,"height":60,"type":"text","text":"Found on a Vase inside the Entrance Hall"}
 	],
 	"edges":[
-		{"id":"841a2ce76532a0eb","fromNode":"2d7445205b05e7b4","fromSide":"top","toNode":"444722d7d501e086","toSide":"bottom"}
+		{"id":"841a2ce76532a0eb","fromNode":"2d7445205b05e7b4","fromSide":"top","toNode":"444722d7d501e086","toSide":"bottom"},
+		{"id":"29c1a340ea374db9","fromNode":"f1dcd4a3bebe80e1","fromSide":"bottom","toNode":"8f2a30658a050993","toSide":"top"}
 	]
 }

@@ -29,7 +29,8 @@
 		{"id":"c7c6b0c10b43882d","type":"file","file":"attachments/BLUE_PRINCE_mjpnGTo5C1.png","x":-400,"y":720,"width":400,"height":225},
 		{"id":"fb36e8de93c13862","type":"text","text":"Queen","x":-1755,"y":1820,"width":250,"height":60},
 		{"id":"5719007e77a8815b","type":"file","file":"attachments/BLUE_PRINCE_ZccrhMiNAH.png","x":-1280,"y":1768,"width":400,"height":225},
-		{"id":"390917c7f8c5421e","x":-400,"y":1040,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_lucpQecCyd.png"}
+		{"id":"390917c7f8c5421e","type":"file","file":"attachments/BLUE_PRINCE_lucpQecCyd.png","x":-400,"y":1040,"width":400,"height":225},
+		{"id":"c3d60ad08a001d7a","x":40,"y":1040,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_26kjN2PSwH.png"}
 	],
 	"edges":[]
 }
