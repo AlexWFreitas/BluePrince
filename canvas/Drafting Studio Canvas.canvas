@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"2006fd16a72ce620","type":"text","text":"[[030 - Drafting Studio]]","x":-660,"y":-417,"width":250,"height":60},
+		{"id":"fd8d5d60957cd7ba","type":"file","file":"attachments/BLUE_PRINCE_SyANCQ279s.png","x":-660,"y":-320,"width":400,"height":225},
+		{"id":"baa057034804d986","type":"file","file":"attachments/BLUE_PRINCE_d7pAAyTLSS.png","x":-660,"y":-40,"width":400,"height":225},
+		{"id":"8c727366391c338c","type":"file","file":"attachments/BLUE_PRINCE_AvtVZUFbX5.png","x":-1100,"y":-40,"width":400,"height":225},
+		{"id":"d6a505cba16b3036","type":"file","file":"attachments/BLUE_PRINCE_DQ1WfABCtx.png","x":-660,"y":240,"width":400,"height":225},
+		{"id":"1149cd212f4287a8","type":"file","file":"attachments/BLUE_PRINCE_VeVxYp4nET.png","x":-220,"y":-40,"width":400,"height":225},
+		{"id":"20a019cada11d7b5","x":-1100,"y":-320,"width":250,"height":60,"type":"text","text":"[[Drafting Strategy Volume 1.canvas|Drafting Strategy Volume 1]]"}
+	],
+	"edges":[]
+}

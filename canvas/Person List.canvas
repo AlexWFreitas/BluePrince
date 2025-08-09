@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"bc5f86c58db4f94e","type":"text","text":"[[Robert Nogula]] - Groundskeeper","x":-1008,"y":-481,"width":300,"height":60},
-		{"id":"5b26097b8d0bbf3d","type":"text","text":"Anne","x":-1008,"y":-389,"width":250,"height":60},
 		{"id":"ad15a2faa852258d","type":"text","text":"[[Mrs. Babbage]] - House Manager","x":-1340,"y":-481,"width":290,"height":60},
 		{"id":"72387fcde653fea2","type":"text","text":"[[Lord Evanson]]","x":-1340,"y":-389,"width":250,"height":60},
 		{"id":"11144b8a9b5647c9","type":"text","text":"[[Simon H Sinclair]]","x":5,"y":-538,"width":250,"height":60},
@@ -14,7 +13,7 @@
 		{"id":"b67a67f2ec230e84","type":"text","text":"[[Baron Tomas Sinclair]]","x":-580,"y":-1020,"width":250,"height":60},
 		{"id":"106d279f3a545a45","type":"text","text":"[[Baroness Auravel]]","x":-80,"y":-1020,"width":250,"height":60},
 		{"id":"b04a371267a28744","type":"text","text":"[[Lady Ashlynn]]","x":1040,"y":-1020,"width":250,"height":60},
-		{"id":"9eb3aa845cbe91d6","type":"text","text":"[[Lord Wililam Epsen]]","x":515,"y":-1020,"width":250,"height":60},
+		{"id":"9eb3aa845cbe91d6","type":"text","text":"[[Lord William Epsen]]","x":515,"y":-1020,"width":250,"height":60},
 		{"id":"9b32f41f98081bd5","type":"text","text":"Angels","x":-2004,"y":326,"width":250,"height":60},
 		{"id":"c2aba84490cf662f","type":"text","text":"Orinda - Statue inside Cloister","x":-2234,"y":520,"width":310,"height":60},
 		{"id":"5a25249a8e0f6c79","type":"file","file":"attachments/Pasted image 20250716211344.png","x":-1620,"y":680,"width":282,"height":399},
@@ -31,8 +30,9 @@
 		{"id":"79de97dd4101e289","type":"text","text":"[[Daniel (Jones)]]","x":720,"y":-240,"width":250,"height":60},
 		{"id":"89052285674e6af8","type":"text","text":"[[Christoph]] - Valet / Driver of the Mount Holly Estate?","x":-1340,"y":-295,"width":250,"height":95},
 		{"id":"8b1994d816f52aa9","type":"text","text":"[[Hartley Ruota]] - Previous Valet","x":-1680,"y":-295,"width":250,"height":60},
-		{"id":"df8cd1327fdfdccb","type":"text","text":"[[Kimberly Thompson]] - Scientist at SYNKA Labs?","x":-1680,"y":-451,"width":250,"height":60},
-		{"id":"70d3432235c76af8","type":"text","text":"[[Mrs. Hannah Peterson]]","x":-1680,"y":-800,"width":250,"height":60}
+		{"id":"70d3432235c76af8","type":"text","text":"[[Mrs. Hannah Peterson]]","x":-1680,"y":-800,"width":250,"height":60},
+		{"id":"df8cd1327fdfdccb","type":"text","text":"[[Kimberly Thompson]] - Scientist at SYNKA Labs?","x":-1680,"y":-449,"width":250,"height":60},
+		{"id":"10526523c1d171c9","x":-1680,"y":-600,"width":250,"height":119,"type":"text","text":"[[Randolph Moore]] - Lead Scientist at SYNKA Labs and also creator of the network of computers"}
 	],
 	"edges":[
 		{"id":"59fde0bb79bee342","fromNode":"b236690897e593a8","fromSide":"top","toNode":"9eb201508a8e4099","toSide":"bottom","label":"Niece"},

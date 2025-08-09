@@ -25,6 +25,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[026 - Study]]
 [[027 - Library]]
 [[029 - The Pool]]
+[[030 - Drafting Studio]]
 [[031 - Utility Closet]]
 [[032 - Boiler Room]]
 [[033 - Pump Room]]
@@ -87,6 +88,10 @@ Remember to write the rank of each room, to discover if they are fixed.
 ## Other Rooms
 [[Classroom]]
 
+# Secret Rooms
+[[Conservatory]]
+[[Planetarium]]
+
 ## [[Outer Room]]
 [[Toolshed]]
 [[Root Cellar]]
@@ -101,5 +106,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[The Grounds]]
 [[Private Drive]]
 [[Apple Orchard]]
-[[Water Fountain]]
+[[Well]]
 [[The Precipice]]
+[[Blackbridge Grotto Canvas.canvas|Blackbridge Grotto]]
+

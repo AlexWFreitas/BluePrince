@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e756491ef6dacf20","x":-505,"y":-317,"width":250,"height":60,"type":"text","text":"[[Furnace]]"},
+		{"id":"dd48af393e8fc9d5","x":-505,"y":-180,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_H9XDpTTtYc.png"},
+		{"id":"ec7a1c6a80dbb5be","x":-496,"y":100,"width":383,"height":101,"type":"text","text":"If powered by the Boiler Room, this allows you to forge one normal key from the Furnace"}
+	],
+	"edges":[
+		{"id":"a325186d8a9baa9e","fromNode":"ec7a1c6a80dbb5be","fromSide":"top","toNode":"dd48af393e8fc9d5","toSide":"bottom"}
+	]
+}
