@@ -1,8 +1,12 @@
 {
 	"nodes":[
-		{"id":"a0a739f9cb72cfcd","x":-589,"y":-363,"width":250,"height":60,"type":"text","text":"[[038 - Coat Check]]"},
-		{"id":"283a257d03b09ec8","x":-589,"y":-280,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_CPo0ybvT8e.png"},
-		{"id":"11d3e00e52bfae3d","x":-589,"y":-20,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_0ija6bymvL.png"}
+		{"id":"a0a739f9cb72cfcd","type":"text","text":"[[038 - Coat Check]]","x":-589,"y":-363,"width":250,"height":60},
+		{"id":"283a257d03b09ec8","type":"file","file":"attachments/BLUE_PRINCE_CPo0ybvT8e.png","x":-589,"y":-280,"width":400,"height":225},
+		{"id":"11d3e00e52bfae3d","type":"file","file":"attachments/BLUE_PRINCE_0ija6bymvL.png","x":-589,"y":-20,"width":400,"height":225}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"319ebfad9bada125",
+			"type":"text",
+			"text":"When doing a standard run, prioritize permanent bonuses such as allowances, stars, unlocking new rooms because they are cumulative and eventually will increase your chances of getting a good run by a lot.",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-360,
+			"width":620,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

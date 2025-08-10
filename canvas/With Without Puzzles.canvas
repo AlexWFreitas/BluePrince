@@ -152,5 +152,9 @@
 		{"id":"92fb9d71ac0c07cd","fromNode":"61ae236445209b52","fromSide":"top","toNode":"67a57ed14771c8c1","toSide":"bottom"},
 		{"id":"df800ebd816c6b26","fromNode":"e7a9cc9cbbf1048d","fromSide":"top","toNode":"ef4c3da89e73d4cb","toSide":"bottom"},
 		{"id":"5d9162ef81b013f6","fromNode":"ae04553d9165a2a0","fromSide":"top","toNode":"617b06b19e58363c","toSide":"bottom"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

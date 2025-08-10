@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"a4fa978a90eb7dbb",
+			"type":"text",
+			"text":"There are many rooms that give bonuses to the next day, such as [[037 - Sauna]], [[040 - Freezer]], [[039 - Mail Room]], [[Morning Room.canvas|Morning Room]]. \n\nBy drafting them on a run, you can start to accumulate a boost for the next run which will increase the chance of having a good run on the next day.",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-360,
+			"width":680,
+			"height":160
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"bb1611064881d312",
+			"type":"text",
+			"text":"It's good to draft the [[031 - Utility Closet]] whenever possible, since this will give you the ability to manipulate the keycard system to turn it off, if couple with the [[Security Room]], this allows you to unlock all keycard doors while also increasing their spawn frequency.\n\nYou can also disable the negative bonus of the [[Gymnasium]], power up the [[Garage.canvas|Garage]] and also turn the [[Dark Room]] lights on after drafting the room to prevent it from turning off.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-240,
+			"width":540,
+			"height":260
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,18 +1,22 @@
 {
 	"nodes":[
-		{"id":"671a296078357c3c","type":"text","text":"[[026 - Study]]","x":-677,"y":-413,"width":250,"height":60},
 		{"id":"e13d92d6013a2494","type":"file","file":"attachments/BLUE_PRINCE_ZDKlnK7i3w.png","x":-677,"y":-320,"width":400,"height":225},
 		{"id":"6b4b75a09f2106e1","type":"file","file":"attachments/BLUE_PRINCE_K803QZtnaP.png","x":-677,"y":-60,"width":400,"height":225},
 		{"id":"6230e0b55fe9c106","type":"file","file":"attachments/BLUE_PRINCE_ACBTAqvkld.png","x":-677,"y":200,"width":400,"height":225},
 		{"id":"1e246551d636cdbf","type":"file","file":"attachments/BLUE_PRINCE_lOixqksNcX.png","x":-240,"y":200,"width":400,"height":225},
 		{"id":"d3529b1f973c30da","type":"file","file":"attachments/BLUE_PRINCE_lJkDQsSnkS 1.png","x":-677,"y":480,"width":400,"height":225},
-		{"id":"2b6ba544903ac566","type":"text","text":"\n|     | C1  | C2  | C3  | C4  | C5  |\n| --- | --- | --- | --- | --- | --- |\n| R9  | I   | F   | -   | W   | E?  |\n| R8  | C?  | O   | U   | N   | T   |\n| R7  |     | M   | A   | L   | L   |\n| R6  | G   |     | T   | E   | S   |\n| R5  | E   | I   | G   | H   | T   |\n| R4  | D   | A   | T   | E   | S   |\n| R3  | C   | R   | A   | C   | K   |\n| R2  | E   | I   | G   | H   | T   |\n| R1  | S   | A   | F   | E   | S   |\n\n","x":-793,"y":757,"width":433,"height":403},
+		{"id":"2b6ba544903ac566","type":"text","text":"\n|     | C1  | C2  | C3  | C4  | C5  |\n| --- | --- | --- | --- | --- | --- |\n| R9  | I   | F   | -   | W   | E?  |\n| R8  | C?  | O   | U   | N   | T   |\n| R7  |     | M   | A   | L   | L   |\n| R6  | G   |     | T   | E   | S   |\n| R5  | E   | I   | G   | H   | T   |\n| R4  | D   | A   | T   | E   | S   |\n| R3  | C   | R   | A   | C   | K   |\n| R2  | E   | I   | G   | H   | T   |\n| R1  | S   | A   | F   | E   | S   |\n\n","x":-793,"y":757,"width":316,"height":363},
 		{"id":"203bd273f864efbd","type":"file","file":"attachments/BLUE_PRINCE_05QWhq9am3.png","x":-240,"y":480,"width":400,"height":225},
 		{"id":"6a122080191a8e26","type":"text","text":"D8 - Queen","x":-165,"y":757,"width":250,"height":60},
-		{"id":"e7e875047ec4ec0b","type":"text","text":"IF WE \nCOUNT\nSMALL\nGATES\nEIGHT\nDATES\nCRACK\nEIGHT\nSAFES","x":-1200,"y":757,"width":250,"height":423},
-		{"id":"be0c8f5b453f9c73","type":"file","file":"attachments/BLUE_PRINCE_4z7Oberxw6.png","x":-760,"y":1220,"width":400,"height":225}
+		{"id":"be0c8f5b453f9c73","type":"file","file":"attachments/BLUE_PRINCE_4z7Oberxw6.png","x":160,"y":1320,"width":400,"height":225},
+		{"id":"671a296078357c3c","type":"text","text":"[[026 - Study]]","x":-677,"y":-500,"width":250,"height":60},
+		{"id":"e7e875047ec4ec0b","type":"text","text":"IF WE \nCOUNT\nSMALL\nGATES\nEIGHT\nDATES\nCRACK\nEIGHT\nSAFES","x":-1040,"y":797,"width":180,"height":283}
 	],
 	"edges":[
 		{"id":"576afdd5bd0955a6","fromNode":"6a122080191a8e26","fromSide":"top","toNode":"203bd273f864efbd","toSide":"bottom"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"0e9f4ad2b795bb8f",
+			"type":"text",
+			"text":"You can use the [[038 - Coat Check]] room to safely hold items between runs, this is important when you depend on a [[035 - Workshop]] item to do an exploration on a run that might not be available on the current run, so you can store it safely on the Coat Check room until you can use it and then you can store it again so you won't lose it.",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-360,
+			"width":680,
+			"height":160
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

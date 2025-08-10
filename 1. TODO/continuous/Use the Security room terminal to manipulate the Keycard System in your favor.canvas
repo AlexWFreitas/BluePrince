@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"a4f7bcb57186dd6a",
+			"type":"text",
+			"text":"If you draft the [[Security Room]], you can use the terminal to make the keycard doors unlock if power is lost and you can also adjust the spawn frequency of keycard doors, instead of key locked doors.\n\nThis can be used to your advantage depending on your circumstances.\n\nIf you have a keycard or can disable the keycard power, then it makes sense to unlock the door and increase the frequency of keycard doors.\n\nIf you have lots of keys and have a lockpick, maybe it makes sense to increase the frequency of key locked doors instead.",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-380,
+			"width":560,
+			"height":380
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

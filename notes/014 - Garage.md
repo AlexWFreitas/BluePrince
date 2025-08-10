@@ -1,4 +1,4 @@
-[[Garage Canvas.canvas|Garage Canvas]]
+[[Garage.canvas|Garage Canvas]]
 
 There is a note saying that [[Christoph]] has taken the car without permission.
 

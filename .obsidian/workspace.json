@@ -8,19 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb4c15be1b8b16ae",
+            "id": "b9aaf2342cf53910",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "workplace/TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "1. TODO/TODO Canvas.canvas",
+                "viewState": {
+                  "x": -593.5953168945123,
+                  "y": 398.26912821407825,
+                  "zoom": -0.6666666666666666
+                }
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "TODO"
+              "icon": "lucide-layout-dashboard",
+              "title": "TODO Canvas"
             }
           },
           {
@@ -94,20 +97,20 @@
             }
           },
           {
-            "id": "b66b8b24fc860b34",
+            "id": "62ddd88dd0ff782f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/Day Results.canvas",
+                "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": -360,
-                  "y": 1534.0786163522016,
-                  "zoom": -1.4714792464018276
+                  "x": -597.1069182389938,
+                  "y": -107.29559748427673,
+                  "zoom": -0.46847675824030416
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Day Results"
+              "title": "TODO Canvas"
             }
           }
         ],
@@ -143,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Plane",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,13 +261,75 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b66b8b24fc860b34",
+  "floating": {
+    "id": "72bbc870b96445c9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f2a59cb83929d6eb",
+        "type": "window",
+        "children": [
+          {
+            "id": "e140afe2c83ab0ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb4c15be1b8b16ae",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "workplace/TODO.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "TODO"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2442,
+        "y": 29,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "62ddd88dd0ff782f",
   "lastOpenFiles": [
+    "0. New Files/Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade.canvas",
+    "1. TODO/TODO Canvas.canvas",
+    "workplace/My Notes.md",
+    "workplace/TODO.md",
+    "1. TODO/continuous/Draft an Observatory whenever possible for the permanent bonuses.canvas",
+    "1. TODO/continuous/End the run on the Planetarium to receive two stars as a permanent resource.canvas",
+    "1. TODO/continuous/Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas",
+    "1. TODO/continuous/Prioritize permanent bonuses during normal runs.canvas",
+    "1. TODO/continuous/Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas",
+    "1. TODO/continuous/Use the Security room terminal to manipulate the Keycard System in your favor.canvas",
+    "1. TODO/continuous/Use the Office Terminal to spread Gold on rooms.canvas",
+    "1. TODO/continuous/Use Tomorrow Type rooms to boost the next day runs whenever possible.canvas",
+    "1. TODO/continuous/Do Experiments on Laboratory.canvas",
+    "1. TODO/continuous",
+    "0. New Files/Order an Item through the Terminal.md",
+    "notes/Stars.md",
+    "notes/042 - Observatory.md",
+    "0. New Files/Observatory Canvas.canvas.md",
+    "notes/Allowance.md",
+    "0. New Files",
+    "1. TODO/entry",
+    "notes/032 - Boiler Room.md",
+    "1. TODO/done",
+    "1. TODO",
     "attachments/BLUE_PRINCE_rIsCgcdEKF.png",
-    "canvas/Inner Sanctum Canvas.canvas",
-    "canvas/Classroom Canvas.canvas",
     "notes/046 - Room 46.md",
-    "canvas/Library Canvas.canvas",
     "attachments/BLUE_PRINCE_VAH7dZkwQQ.png",
     "attachments/BLUE_PRINCE_YBmqCpGmR8.png",
     "attachments/BLUE_PRINCE_4ffbJQqFq6.png",
@@ -274,27 +339,17 @@
     "attachments/BLUE_PRINCE_zhxODOouCj.png",
     "attachments/BLUE_PRINCE_5ah51Z75x4.png",
     "attachments/BLUE_PRINCE_4YHU6GfPnH.png",
-    "attachments/BLUE_PRINCE_yA818CmwSU.png",
-    "canvas/Items.canvas",
-    "canvas/Room 46 Canvas.canvas",
-    "canvas/Boiler Room Canvas.canvas",
     "workplace/Rooms Found.md",
-    "canvas/Secret Garden Canvas.canvas",
-    "canvas/Reservoir Canvas.canvas",
-    "canvas/Chess Pieces.canvas",
-    "canvas/Alzara.canvas",
     "attachments/BLUE_PRINCE_IYNBoXXByi.mp4",
     "notes/007 - Gallery.md",
     "notes/006 - Billiard Room.md",
     "attachments/BLUE_PRINCE_Gjz9lCzg7G.mp4",
     "notes/020 - Ballroom.md",
     "notes/Reservoir.md",
-    "workplace/TODO.md",
     "notes/030 - Drafting Studio.md",
     "notes/Tomb.md",
     "notes/Water Fountain.md",
     "notes/Planetarium.md",
-    "workplace/My Notes.md",
     "notes/002 - Entrance Hall.md",
     "attachments/BLUE_PRINCE_nkbfQMANvp.mp4",
     "notes/011 - Attic.md",
@@ -304,17 +359,6 @@
     "notes/Showroom.md",
     "notes/Master Bedroom.md",
     "notes/Secret Garden.md",
-    "attachments/BLUE_PRINCE_IZrShhmlD5.mp4",
-    "notes/East Wing Hall.md",
-    "notes/026 - Study.md",
-    "notes/039 - Mail Room.md",
-    "notes/Conservatory.md",
-    "notes/016 - Locker Room.md",
-    "notes/023 - Vault.md",
-    "attachments/BLUE_PRINCE_PKhAxU6KYc.mp4",
-    "attachments/BLUE_PRINCE_u6ANmm1l0y.mp4",
-    "workplace",
-    "old",
-    "canvas"
+    "attachments/BLUE_PRINCE_IZrShhmlD5.mp4"
   ]
 }

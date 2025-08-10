@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"0f5c1bc0a655e1ec",
+			"type":"text",
+			"text":"You can unlock the Blackbridge Grotto through the [[036 - Laboratory]] room puzzle that involves the [[032 - Boiler Room]].\n\nWith this upgrade, you can force access an offline terminal from the terminal in a room, so if you have access to the [[Security Room]], you can also access the [[036 - Laboratory]] terminal and start an experiment, this allows you to get run bonuses faster than normal.",
+			"styleAttributes":{},
+			"x":-560,
+			"y":80,
+			"width":520,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

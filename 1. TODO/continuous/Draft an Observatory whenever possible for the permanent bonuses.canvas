@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"5ada6013b017c29d",
+			"type":"text",
+			"text":"The [[042 - Observatory]] allows you to gain one star and also gives bonuses for the current run, so it makes sense to do it.\n\nYou can also use the [[042 - Observatory]] to unlock the [[Planetarium]].",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-260,
+			"width":460,
+			"height":220
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

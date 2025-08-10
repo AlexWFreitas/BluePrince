@@ -15,7 +15,7 @@ Central Server Site Admin Key password is RuotH (Hartley Ruota)
 
 ## Gameplay
 - Moving into a room uses a step
-- You can throw coins into the water fountain outside of the house, bonus unknown
+- You can throw coins into the water fountain outside of the house, this can be retrieved later when the water fountain gets drained.
 - You can get multiple bonuses from the Observatory in a single day, because more than one star sign can appear, so it's important to always visit the Observatory to start stacking the star points.
 - [[Darts]]
 - [[005 - Parlor]]

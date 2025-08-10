@@ -1,0 +1,1 @@
+Allowance is a type of cumulative permanent bonus that allows you to receive gold every day as an allowance.

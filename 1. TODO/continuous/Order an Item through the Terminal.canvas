@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"edea2e128451a0aa",
+			"type":"text",
+			"text":"If you have access to a Terminal, you can order an item so that it's available to buy at the [[Commissary]] for your runs.\n\nThis allows you to get a good start on a run by picking a good item such as Sledgehammer, Metal Detector or Magnifying Lens.\n\nIt could even help you make Workshop combinations if used with the [[038 - Coat Check]] room.",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-300,
+			"width":660,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

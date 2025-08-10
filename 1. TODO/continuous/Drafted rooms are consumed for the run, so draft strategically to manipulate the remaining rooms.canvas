@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"c15ea6cfc4874166",
+			"type":"text",
+			"text":"If you draft rooms with lots of exits on areas that only have one path availalbe, this will consume a room that contains many exits on a place that can only use one, this means that you are probably worsening your chance of getting far into the room by consuming precious rooms on unoptimized places.\n\nIn the same way, if you draft a dead end room into an area of the grid that can only result in a dead end, you are removing a dead end room from your drafting pool and increasing your chances of not getting a dead end room later.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-320,
+			"width":560,
+			"height":300
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

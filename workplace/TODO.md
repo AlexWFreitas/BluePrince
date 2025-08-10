@@ -119,7 +119,7 @@
 - The code might be related to the paintings in the room, some type of math based on direction and the distance between the feet.
 
 ### Identify the Angels
-- [[Angels Puzzle Canvas.canvas|Angels Puzzle Canvas]]
+- [[Angels Puzzle.canvas|Angels Puzzle Canvas]]
 - [[Tomb Canvas.canvas|Tomb Canvas]]
 - Seven [[Chapel]] Statues
 - [x] Mila

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"dff8cadfc3ec1cc9",
+			"type":"text",
+			"text":"This room gives you two star as a permanent resource whenever you call it a day inside that room, this is useful to stack stars fast to receive bigger bonuses on the [[042 - Observatory]].\n\nThe room is unlocked through the Observatory by opening the storage area at the top of the Observatory telescope.",
+			"styleAttributes":{},
+			"x":-340,
+			"y":-120,
+			"width":440,
+			"height":260
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"f3ab6b8a48417392",
+			"type":"text",
+			"text":"The [[024 - Office]] terminal has the ability to spread gold on discovered rooms, while also doing a pay day thing over the servants rooms, this should be used to your advantage whenever possible.",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-300,
+			"width":480,
+			"height":140
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
