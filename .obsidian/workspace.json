@@ -64,8 +64,8 @@
               "state": {
                 "file": "canvas/Study Canvas.canvas",
                 "viewState": {
-                  "x": -451.2907459001064,
-                  "y": 888.4978682459657,
+                  "x": -756.0717478780007,
+                  "y": 871.0364566743156,
                   "zoom": 0.3333333333333334
                 }
               },
@@ -83,9 +83,9 @@
               "state": {
                 "file": "canvas/With Without Puzzles.canvas",
                 "viewState": {
-                  "x": -6781.300133523557,
-                  "y": 1088.323699556989,
-                  "zoom": -0.3333333333333334
+                  "x": -5459.958941236804,
+                  "y": 2884.9280957432798,
+                  "zoom": 1
                 }
               },
               "pinned": true,
@@ -94,41 +94,7 @@
             }
           },
           {
-            "id": "724d71057b403f05",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Mail Room Canvas.canvas",
-                "viewState": {
-                  "x": -1965.0832617349063,
-                  "y": 200.28549724612145,
-                  "zoom": -1.4465014834599557
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mail Room Canvas"
-            }
-          },
-          {
-            "id": "ba698edd6c26aade",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Person List.canvas",
-                "viewState": {
-                  "x": -1539.5737917516494,
-                  "y": -509.62505532737674,
-                  "zoom": 0.6513678457354841
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Person List"
-            }
-          },
-          {
-            "id": "8ca240ef3b78f726",
+            "id": "6594b326d7b0f382",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -136,152 +102,16 @@
                 "file": "canvas/Chess Pieces.canvas",
                 "viewState": {
                   "x": -457.5,
-                  "y": 367,
+                  "y": 715.7207547169812,
                   "zoom": -1.9067696098194513
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Chess Pieces"
             }
-          },
-          {
-            "id": "4f78a70b8b483e85",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Drafting Studio Canvas.canvas",
-                "viewState": {
-                  "x": 98,
-                  "y": 119.92080780129953,
-                  "zoom": 1
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Drafting Studio Canvas"
-            }
-          },
-          {
-            "id": "ec82f2b6154f5987",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Shelter Canvas.canvas",
-                "viewState": {
-                  "x": 1056.681814651195,
-                  "y": 84.04005824280921,
-                  "zoom": -0.7341232840620631
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Shelter Canvas"
-            }
-          },
-          {
-            "id": "e02c9a221b6c82b7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Laboratory Canvas.canvas",
-                "viewState": {
-                  "x": 1475.8983228511534,
-                  "y": 133.58333333333326,
-                  "zoom": -0.9581909438136444
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Laboratory Canvas"
-            }
-          },
-          {
-            "id": "461cd88b6ec07080",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Treasure Map Canvas.canvas",
-                "viewState": {
-                  "x": -1332,
-                  "y": -140,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Treasure Map Canvas"
-            }
-          },
-          {
-            "id": "8be2ed410619f9d0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Day Results.canvas",
-                "viewState": {
-                  "x": -360,
-                  "y": 362.5,
-                  "zoom": -1.2929051936568499
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Day Results"
-            }
-          },
-          {
-            "id": "4598f19db03e0207",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Ballroom Canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -465,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ballroom Canvas"
-            }
-          },
-          {
-            "id": "78d2eb63053a4c39",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Music Room Canvas.canvas",
-                "viewState": {
-                  "x": 132.7271837773433,
-                  "y": -684.9240274198484,
-                  "zoom": 0.3333333333333334
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Music Room Canvas"
-            }
-          },
-          {
-            "id": "5e7bee245986b847",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Day Results.canvas",
-                "viewState": {
-                  "x": -360,
-                  "y": 1534.0786163522016,
-                  "zoom": -1.4714792464018276
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Day Results"
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -428,32 +258,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e7bee245986b847",
+  "active": "6594b326d7b0f382",
   "lastOpenFiles": [
-    "attachments/BLUE_PRINCE_P4bXy8KGIM.png",
-    "canvas/Antechamber Canvas.canvas",
-    "attachments/BLUE_PRINCE_Gjz9lCzg7G.mp4",
-    "attachments/BLUE_PRINCE_IByvC6htcF.png",
-    "attachments/BLUE_PRINCE_B3B7jdTBCv.png",
-    "attachments/BLUE_PRINCE_lZu1aedeox.png",
-    "canvas/Study Canvas.canvas",
-    "canvas/Music Room Canvas.canvas",
-    "attachments/BLUE_PRINCE_m6AhUZH5ge.png",
-    "attachments/BLUE_PRINCE_B13XBtRvKy.png",
-    "canvas/Ballroom Canvas.canvas",
-    "notes/020 - Ballroom.md",
+    "canvas/Classroom Canvas.canvas",
+    "canvas/Great Hall Canvas.canvas",
+    "attachments/BLUE_PRINCE_aNkeRp54Pt.png",
+    "canvas/Gallery Canvas.canvas",
+    "attachments/BLUE_PRINCE_dnYXbAhsaN.png",
+    "attachments/BLUE_PRINCE_CSa2HYiNKa.png",
+    "attachments/BLUE_PRINCE_WoVvnCBWr4.png",
+    "attachments/BLUE_PRINCE_I9hDZsvDoB.png",
+    "attachments/BLUE_PRINCE_9S8A9Ej1Ir.png",
     "workplace/Rooms Found.md",
-    "attachments/BLUE_PRINCE_fR9sOTr7YS.png",
-    "attachments/BLUE_PRINCE_bdlB0yBfym.png",
-    "canvas/Secret Garden Canvas.canvas",
-    "attachments/BLUE_PRINCE_LXjHdZ6oWB.png",
-    "attachments/BLUE_PRINCE_a28j6jFgBj.png",
-    "attachments/BLUE_PRINCE_qWK8S4BahL.png",
-    "canvas/The Precipice Canvas.canvas",
-    "canvas/The Grounds Canvas.canvas",
-    "canvas/Reservoir Canvas.canvas",
-    "canvas/Abandoned Mine Canvas.canvas",
-    "canvas/Tomb Canvas.canvas",
+    "notes/007 - Gallery.md",
+    "canvas/Study Canvas.canvas",
+    "canvas/With Without Puzzles.canvas",
+    "canvas/Mail Room Canvas.canvas",
+    "canvas/Person List.canvas",
+    "canvas/Chess Pieces.canvas",
+    "canvas/Drafting Studio Canvas.canvas",
+    "canvas/Shelter Canvas.canvas",
+    "canvas/Laboratory Canvas.canvas",
+    "notes/006 - Billiard Room.md",
+    "attachments/BLUE_PRINCE_rdRVoctZRg.png",
+    "attachments/BLUE_PRINCE_LzNdIBpCem.png",
+    "attachments/BLUE_PRINCE_XpwCfjraJF.png",
+    "attachments/BLUE_PRINCE_Kc5bv9QLzF.png",
+    "attachments/BLUE_PRINCE_Gjz9lCzg7G.mp4",
+    "notes/020 - Ballroom.md",
     "notes/Reservoir.md",
     "workplace/TODO.md",
     "notes/030 - Drafting Studio.md",
@@ -479,8 +311,6 @@
     "notes/023 - Vault.md",
     "attachments/BLUE_PRINCE_PKhAxU6KYc.mp4",
     "notes/038 - Coat Check.md",
-    "notes/Mary Matthew Jones.md",
-    "notes/Morning Room.md",
     "attachments/BLUE_PRINCE_u6ANmm1l0y.mp4",
     "workplace",
     "old",
