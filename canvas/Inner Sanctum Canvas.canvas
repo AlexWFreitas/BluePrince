@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8dcad34502c1f6c1","type":"file","file":"attachments/BLUE_PRINCE_3L5sBe54WT.png","x":-430,"y":-512,"width":400,"height":225},
+		{"id":"a30a6038d52ee540","type":"file","file":"attachments/BLUE_PRINCE_WwPgc5v0KI.png","x":30,"y":-512,"width":400,"height":225},
+		{"id":"6670d821ab1ac3a7","type":"text","text":"Ovinn Nevarei?","x":-341,"y":-262,"width":250,"height":60},
+		{"id":"8ec3915901ee18ba","type":"file","file":"attachments/BLUE_PRINCE_mNDL2s05tQ.png","x":30,"y":-232,"width":400,"height":225},
+		{"id":"9f19298836f82524","type":"file","file":"attachments/BLUE_PRINCE_ZEqWM1vtYa.png","x":30,"y":28,"width":400,"height":225},
+		{"id":"023599b9b29521fa","type":"file","file":"attachments/BLUE_PRINCE_uG7PRlRGoU.png","x":30,"y":288,"width":400,"height":225}
+	],
+	"edges":[]
+}

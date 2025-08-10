@@ -22,7 +22,8 @@
 		{"id":"ec263e91b02ac583","type":"file","file":"attachments/BLUE_PRINCE_tzn7HDMiHK.png","x":-260,"y":-280,"width":400,"height":225},
 		{"id":"33262a54dd4514b6","type":"file","file":"attachments/BLUE_PRINCE_j6puq2UBaJ.png","x":-260,"y":0,"width":400,"height":225},
 		{"id":"70c8eec240e6b495","type":"text","text":"[[Abandoned Mine Canvas.canvas|Abandoned Mine Canvas]]","x":-92,"y":416,"width":250,"height":60},
-		{"id":"802c3e709b166e3c","x":604,"y":-251,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_DxtROlsG0A.png"}
+		{"id":"802c3e709b166e3c","type":"file","file":"attachments/BLUE_PRINCE_DxtROlsG0A.png","x":604,"y":-251,"width":400,"height":225},
+		{"id":"fe2105561f3bb97b","type":"file","file":"attachments/BLUE_PRINCE_xnYx4vg0Qa.png","x":204,"y":112,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"8c684cff54075bfb","fromNode":"26b4bd05422769a5","fromSide":"top","toNode":"ef1c119420c042ac","toSide":"bottom"},

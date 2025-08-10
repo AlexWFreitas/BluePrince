@@ -1,10 +1,21 @@
 {
 	"nodes":[
+		{"id":"e3d7f2aa63d0e4f4","x":-280,"y":774,"width":250,"height":60,"type":"text","text":""},
 		{"id":"062ac3400f885c0f","type":"file","file":"attachments/BLUE_PRINCE_4jcNR7hnFA.png","x":-580,"y":-420,"width":400,"height":225},
-		{"id":"e734576324128f2a","x":-1040,"y":-600,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_17KsqAp6Kn.png"},
-		{"id":"bfeba172e9ed716a","type":"text","text":"[[Blue Fire Puzzle]]","x":-505,"y":-120,"width":250,"height":60}
+		{"id":"e734576324128f2a","type":"file","file":"attachments/BLUE_PRINCE_17KsqAp6Kn.png","x":-1040,"y":-600,"width":400,"height":225},
+		{"id":"bfeba172e9ed716a","type":"text","text":"[[Blue Fire Puzzle]]","x":-505,"y":-120,"width":250,"height":60},
+		{"id":"94bca5e0d26d2b25","type":"file","file":"attachments/BLUE_PRINCE_4HLyNddz5u.png","x":-1080,"y":-195,"width":400,"height":225},
+		{"id":"456e9d99835797c9","type":"text","text":"Power Hammer - [[Items.canvas|Items]]","x":-1054,"y":60,"width":354,"height":60},
+		{"id":"5889330b1e84a344","x":-580,"y":8,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_bIa2oOi9Dt.png"},
+		{"id":"835ca88c17ce1fd0","x":-487,"y":280,"width":214,"height":60,"type":"text","text":"Burning Glass - [[Items.canvas|Items]]"},
+		{"id":"cfb382e572b8c517","x":-40,"y":-52,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_eQjdhqv327.png"},
+		{"id":"0d7154f944f489b5","x":-40,"y":228,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_kHIUg8YuEV.png"}
 	],
 	"edges":[
-		{"id":"17ba651c7d94e3d5","fromNode":"bfeba172e9ed716a","fromSide":"top","toNode":"062ac3400f885c0f","toSide":"bottom","label":"Unlocks"}
+		{"id":"17ba651c7d94e3d5","fromNode":"bfeba172e9ed716a","fromSide":"top","toNode":"062ac3400f885c0f","toSide":"bottom","label":"Unlocks"},
+		{"id":"56ee8d0d7e152bfe","fromNode":"456e9d99835797c9","fromSide":"top","toNode":"94bca5e0d26d2b25","toSide":"bottom"},
+		{"id":"2279848ec5656d29","fromNode":"835ca88c17ce1fd0","fromSide":"top","toNode":"5889330b1e84a344","toSide":"bottom"},
+		{"id":"cd5c974b2976363a","fromNode":"5889330b1e84a344","fromSide":"right","toNode":"cfb382e572b8c517","toSide":"left"},
+		{"id":"1b9c7b6db5feca16","fromNode":"5889330b1e84a344","fromSide":"right","toNode":"0d7154f944f489b5","toSide":"left"}
 	]
 }

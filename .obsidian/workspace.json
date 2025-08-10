@@ -228,8 +228,60 @@
               "icon": "lucide-layout-dashboard",
               "title": "Day Results"
             }
+          },
+          {
+            "id": "4598f19db03e0207",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Ballroom Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -465,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ballroom Canvas"
+            }
+          },
+          {
+            "id": "78d2eb63053a4c39",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Music Room Canvas.canvas",
+                "viewState": {
+                  "x": 132.7271837773433,
+                  "y": -684.9240274198484,
+                  "zoom": 0.3333333333333334
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Music Room Canvas"
+            }
+          },
+          {
+            "id": "5e7bee245986b847",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/Day Results.canvas",
+                "viewState": {
+                  "x": -360,
+                  "y": 1534.0786163522016,
+                  "zoom": -1.4714792464018276
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day Results"
+            }
           }
-        ]
+        ],
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -376,32 +428,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb4c15be1b8b16ae",
+  "active": "5e7bee245986b847",
   "lastOpenFiles": [
-    "canvas/Day Results.canvas",
-    "attachments/BLUE_PRINCE_HiaMKpUBvg.png",
-    "canvas/With Without Puzzles.canvas",
-    "attachments/BLUE_PRINCE_rmf0xrK4aH.png",
+    "attachments/BLUE_PRINCE_P4bXy8KGIM.png",
+    "canvas/Antechamber Canvas.canvas",
+    "attachments/BLUE_PRINCE_Gjz9lCzg7G.mp4",
+    "attachments/BLUE_PRINCE_IByvC6htcF.png",
+    "attachments/BLUE_PRINCE_B3B7jdTBCv.png",
+    "attachments/BLUE_PRINCE_lZu1aedeox.png",
     "canvas/Study Canvas.canvas",
+    "canvas/Music Room Canvas.canvas",
+    "attachments/BLUE_PRINCE_m6AhUZH5ge.png",
+    "attachments/BLUE_PRINCE_B13XBtRvKy.png",
+    "canvas/Ballroom Canvas.canvas",
+    "notes/020 - Ballroom.md",
     "workplace/Rooms Found.md",
-    "canvas/Treasure Map Canvas.canvas",
-    "workplace/TODO.md",
-    "canvas/Laboratory Canvas.canvas",
-    "attachments/BLUE_PRINCE_PgkFoOoaVG.png",
-    "attachments/BLUE_PRINCE_oM60A3XnON 1.png",
-    "attachments/BLUE_PRINCE_oM60A3XnON.png",
-    "attachments/BLUE_PRINCE_vIR5IvBN0X.png",
-    "attachments/BLUE_PRINCE_RNznlpa0f7.png",
-    "canvas/Shelter Canvas.canvas",
-    "attachments/BLUE_PRINCE_plRbggTpro.png",
-    "attachments/BLUE_PRINCE_iWgBVLW1dp.png",
-    "attachments/BLUE_PRINCE_i3HMI7uJYx.png",
-    "canvas/Planetarium Canvas.canvas",
-    "canvas/Security Canvas.canvas",
-    "canvas/Schoolhouse Canvas.canvas",
-    "canvas/Drafting Studio Canvas.canvas",
-    "notes/030 - Drafting Studio.md",
+    "attachments/BLUE_PRINCE_fR9sOTr7YS.png",
+    "attachments/BLUE_PRINCE_bdlB0yBfym.png",
+    "canvas/Secret Garden Canvas.canvas",
+    "attachments/BLUE_PRINCE_LXjHdZ6oWB.png",
+    "attachments/BLUE_PRINCE_a28j6jFgBj.png",
+    "attachments/BLUE_PRINCE_qWK8S4BahL.png",
+    "canvas/The Precipice Canvas.canvas",
+    "canvas/The Grounds Canvas.canvas",
+    "canvas/Reservoir Canvas.canvas",
+    "canvas/Abandoned Mine Canvas.canvas",
+    "canvas/Tomb Canvas.canvas",
     "notes/Reservoir.md",
+    "workplace/TODO.md",
+    "notes/030 - Drafting Studio.md",
     "notes/Tomb.md",
     "notes/Water Fountain.md",
     "notes/Planetarium.md",
@@ -426,12 +481,10 @@
     "notes/038 - Coat Check.md",
     "notes/Mary Matthew Jones.md",
     "notes/Morning Room.md",
-    "notes/Mrs. Hannah Peterson.md",
     "attachments/BLUE_PRINCE_u6ANmm1l0y.mp4",
     "workplace",
     "old",
     "canvas",
-    "notes",
-    "attachments"
+    "notes"
   ]
 }

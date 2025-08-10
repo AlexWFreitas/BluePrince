@@ -25,17 +25,23 @@
 		{"id":"852fdcfb30eebc11","type":"file","file":"attachments/BLUE_PRINCE_a4X43IvPTf.png","x":-3120,"y":1055,"width":400,"height":225},
 		{"id":"766d49d81256ca61","type":"file","file":"attachments/BLUE_PRINCE_Bf7WXyqAw3.png","x":-3120,"y":1347,"width":400,"height":225},
 		{"id":"444722d7d501e086","type":"file","file":"attachments/BLUE_PRINCE_OfyuLuYJY2.png","x":1520,"y":495,"width":400,"height":225},
-		{"id":"28bc586033258ad8","type":"text","text":"Broken Lever + Sledge Hammer + ?","x":1559,"y":1120,"width":323,"height":51},
 		{"id":"2d7445205b05e7b4","type":"text","text":"Magnifying Glass +Metal Detector = Burning Glass","x":1595,"y":780,"width":250,"height":60},
 		{"id":"fff5fe09a7e6fa66","type":"text","text":"# Showroom","x":-3060,"y":254,"width":280,"height":78},
 		{"id":"c33d8cf55aa7a6c4","type":"file","file":"attachments/BLUE_PRINCE_PvjM6nnZ2h.png","x":-240,"y":2160,"width":400,"height":225},
 		{"id":"8d2b38c83b82e567","type":"file","file":"attachments/BLUE_PRINCE_8uKSyv60j0.png","x":-680,"y":2440,"width":400,"height":225},
 		{"id":"f2b4951c2f1160ef","type":"file","file":"attachments/BLUE_PRINCE_YUoLuXq5kP.png","x":-3120,"y":1655,"width":400,"height":225},
-		{"id":"f1dcd4a3bebe80e1","x":-1880,"y":1685,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_6Rr19inV5o.png"},
-		{"id":"8f2a30658a050993","x":-1820,"y":1960,"width":250,"height":60,"type":"text","text":"Found on a Vase inside the Entrance Hall"}
+		{"id":"f1dcd4a3bebe80e1","type":"file","file":"attachments/BLUE_PRINCE_6Rr19inV5o.png","x":-1880,"y":1685,"width":400,"height":225},
+		{"id":"8f2a30658a050993","type":"text","text":"Found on a Vase inside the Entrance Hall","x":-1820,"y":1960,"width":250,"height":60},
+		{"id":"90468df5af4ff830","type":"text","text":"Compass + Battery Pack = Electro Magnet","x":2060,"y":1380,"width":250,"height":60},
+		{"id":"0b14c44c592aea4c","type":"file","file":"attachments/BLUE_PRINCE_4udn34WZrN.png","x":1520,"y":880,"width":400,"height":225},
+		{"id":"28bc586033258ad8","type":"text","text":"Broken Lever + Sledge Hammer + Battery Pack = Power Hammer","x":1559,"y":1160,"width":323,"height":80},
+		{"id":"56b4317ea4696004","x":-1880,"y":2105,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_ZgmRhbvrO0 1.png"},
+		{"id":"940b29747c6f92a5","x":-1805,"y":2385,"width":113,"height":55,"type":"text","text":"[[Chapel.canvas|Chapel]]\n\n"}
 	],
 	"edges":[
 		{"id":"841a2ce76532a0eb","fromNode":"2d7445205b05e7b4","fromSide":"top","toNode":"444722d7d501e086","toSide":"bottom"},
-		{"id":"29c1a340ea374db9","fromNode":"f1dcd4a3bebe80e1","fromSide":"bottom","toNode":"8f2a30658a050993","toSide":"top"}
+		{"id":"29c1a340ea374db9","fromNode":"f1dcd4a3bebe80e1","fromSide":"bottom","toNode":"8f2a30658a050993","toSide":"top"},
+		{"id":"b0ff4d596a117361","fromNode":"28bc586033258ad8","fromSide":"top","toNode":"0b14c44c592aea4c","toSide":"bottom"},
+		{"id":"8f83e1e98fb24173","fromNode":"940b29747c6f92a5","fromSide":"top","toNode":"56b4317ea4696004","toSide":"bottom"}
 	]
 }

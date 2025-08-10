@@ -57,9 +57,10 @@
 		{"id":"be9150ef4f91debb","type":"text","text":"Corarica","x":2495,"y":3500,"width":250,"height":60},
 		{"id":"5e4ce76c04f05d5f","type":"file","file":"attachments/Obsidian_afLQtIHPvs.png","x":2503,"y":3598,"width":87,"height":50},
 		{"id":"9def2d768e65b670","type":"text","text":"Arch Aries","x":2640,"y":3625,"width":250,"height":60},
-		{"id":"b5524a39c742ab05","x":-2080,"y":4000,"width":606,"height":341,"type":"file","file":"attachments/BLUE_PRINCE_H6FYXm9Yuo.png"},
-		{"id":"cfd6b8e61d3915dd","x":-1400,"y":4000,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_9tAOAV0AtI.png"},
-		{"id":"256c5142d92ec0dd","x":-1400,"y":4280,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Fjjm81nvJw.png"}
+		{"id":"b5524a39c742ab05","type":"file","file":"attachments/BLUE_PRINCE_H6FYXm9Yuo.png","x":-2080,"y":4000,"width":606,"height":341},
+		{"id":"cfd6b8e61d3915dd","type":"file","file":"attachments/BLUE_PRINCE_9tAOAV0AtI.png","x":-1400,"y":4000,"width":400,"height":225},
+		{"id":"256c5142d92ec0dd","type":"file","file":"attachments/BLUE_PRINCE_Fjjm81nvJw.png","x":-1400,"y":4280,"width":400,"height":225},
+		{"id":"7c546190a48fd1b0","x":2960,"y":3425,"width":180,"height":400,"type":"file","file":"attachments/BLUE_PRINCE_Z1bDESFQrA 1.png"}
 	],
 	"edges":[
 		{"id":"02e07874a98f1406","fromNode":"23dd88fdfede1afd","fromSide":"top","toNode":"e2a14c88aee7f736","toSide":"bottom"},

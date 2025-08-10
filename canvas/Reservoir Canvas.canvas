@@ -1,7 +1,33 @@
 {
 	"nodes":[
-		{"id":"a37f4c31c073971e","type":"text","text":"[[Reservoir]]","x":-1020,"y":-740,"width":250,"height":60},
-		{"id":"ed8de7afc01c250f","x":-1020,"y":-640,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_ojgAkEttVe.png"}
+		{"id":"17187e013df02c19","type":"text","text":"[[Basement Canvas.canvas|Basement Canvas]]","x":-397,"y":520,"width":250,"height":60},
+		{"id":"1c6ea0fa509afe9d","type":"file","file":"attachments/BLUE_PRINCE_MCBFHzAiRl.png","x":-597,"y":80,"width":400,"height":225},
+		{"id":"a37f4c31c073971e","type":"text","text":"[[Reservoir]]","x":-1540,"y":-900,"width":250,"height":60},
+		{"id":"b44ff21ac266bb47","type":"file","file":"attachments/BLUE_PRINCE_xnYx4vg0Qa.png","x":-80,"y":-632,"width":400,"height":225},
+		{"id":"ffa905a199cefe96","type":"file","file":"attachments/BLUE_PRINCE_clnN3AiLK1.png","x":-80,"y":-952,"width":400,"height":225},
+		{"id":"16ff8e445198933f","type":"file","file":"attachments/BLUE_PRINCE_BaYD3qqE7m.png","x":-80,"y":-295,"width":400,"height":225},
+		{"id":"72a0a5ae88ceb28a","type":"file","file":"attachments/BLUE_PRINCE_hMXZDR9XPx.png","x":-1080,"y":-295,"width":400,"height":225},
+		{"id":"ed8de7afc01c250f","type":"file","file":"attachments/BLUE_PRINCE_ojgAkEttVe.png","x":-1640,"y":-780,"width":400,"height":225},
+		{"id":"8b347fccb58775cf","type":"file","file":"attachments/BLUE_PRINCE_koDGOzVWGA.png","x":-1540,"y":-295,"width":400,"height":225},
+		{"id":"3e3159d5f010d16f","type":"file","file":"attachments/BLUE_PRINCE_XSJXgwBw3A.png","x":480,"y":-295,"width":400,"height":225},
+		{"id":"92835c6e334f4eb0","type":"text","text":"[[Underpass Canvas.canvas|Underpass Canvas]]","x":574,"y":26,"width":250,"height":60},
+		{"id":"def2dfc24ad396ba","type":"file","file":"attachments/BLUE_PRINCE_7mCIKAEwPf.png","x":1120,"y":-857,"width":400,"height":225},
+		{"id":"93fa3cc6aef53a60","type":"file","file":"attachments/BLUE_PRINCE_OBa1KE04Jy.png","x":499,"y":-727,"width":400,"height":225},
+		{"id":"38edde7f73d4b393","type":"file","file":"attachments/BLUE_PRINCE_HkUMJRYCiG.png","x":624,"y":-1082,"width":400,"height":225},
+		{"id":"3a347024be1e850c","type":"file","file":"attachments/BLUE_PRINCE_xuZepwVN3k.png","x":1120,"y":-1307,"width":400,"height":225},
+		{"id":"599d4e95222196d0","x":-2003,"y":780,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_7jP1TjMZ7h.png"},
+		{"id":"9b719aab567d71c4","x":-1851,"y":193,"width":623,"height":178,"type":"text","text":"# Reservoir Boxes Puzzle\n- A box in the water contains 3 allowance tokens\n"},
+		{"id":"41d93c145d00d0be","x":-1560,"y":780,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Ow5wTOOvGk.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fdeb365d6c94ce8c","fromNode":"17187e013df02c19","fromSide":"top","toNode":"1c6ea0fa509afe9d","toSide":"bottom"},
+		{"id":"20e98a3ea1a7c078","fromNode":"1c6ea0fa509afe9d","fromSide":"right","toNode":"16ff8e445198933f","toSide":"bottom"},
+		{"id":"0392f65251c0bd64","fromNode":"1c6ea0fa509afe9d","fromSide":"left","toNode":"72a0a5ae88ceb28a","toSide":"bottom"},
+		{"id":"1f4293fc8f1c8688","fromNode":"3e3159d5f010d16f","fromSide":"bottom","toNode":"92835c6e334f4eb0","toSide":"top"},
+		{"id":"c681e4cd6bec06db","fromNode":"16ff8e445198933f","fromSide":"right","toNode":"93fa3cc6aef53a60","toSide":"left"},
+		{"id":"40bdf31945ce2af2","fromNode":"16ff8e445198933f","fromSide":"right","toNode":"3e3159d5f010d16f","toSide":"left"},
+		{"id":"6dd22307ce48f4f6","fromNode":"93fa3cc6aef53a60","fromSide":"top","toNode":"38edde7f73d4b393","toSide":"bottom"},
+		{"id":"de46466d3bf4056e","fromNode":"38edde7f73d4b393","fromSide":"right","toNode":"def2dfc24ad396ba","toSide":"top"},
+		{"id":"a4941c126f5693f2","fromNode":"38edde7f73d4b393","fromSide":"right","toNode":"3a347024be1e850c","toSide":"left"}
+	]
 }

@@ -17,6 +17,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[016 - Locker Room]]
 [[017 - Den]]
 [[018 - Wine Cellar]]
+[[020 - Ballroom]]
 [[021 - Pantry]]
 [[022 - Rumpus Room]]
 [[023 - Vault]]
