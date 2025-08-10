@@ -15,9 +15,14 @@
 		{"id":"93fa3cc6aef53a60","type":"file","file":"attachments/BLUE_PRINCE_OBa1KE04Jy.png","x":499,"y":-727,"width":400,"height":225},
 		{"id":"38edde7f73d4b393","type":"file","file":"attachments/BLUE_PRINCE_HkUMJRYCiG.png","x":624,"y":-1082,"width":400,"height":225},
 		{"id":"3a347024be1e850c","type":"file","file":"attachments/BLUE_PRINCE_xuZepwVN3k.png","x":1120,"y":-1307,"width":400,"height":225},
-		{"id":"599d4e95222196d0","x":-2003,"y":780,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_7jP1TjMZ7h.png"},
-		{"id":"9b719aab567d71c4","x":-1851,"y":193,"width":623,"height":178,"type":"text","text":"# Reservoir Boxes Puzzle\n- A box in the water contains 3 allowance tokens\n"},
-		{"id":"41d93c145d00d0be","x":-1560,"y":780,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_Ow5wTOOvGk.png"}
+		{"id":"599d4e95222196d0","type":"file","file":"attachments/BLUE_PRINCE_7jP1TjMZ7h.png","x":-2003,"y":780,"width":400,"height":225},
+		{"id":"9b719aab567d71c4","type":"text","text":"# Reservoir Boxes Puzzle\n- A box in the water contains 3 allowance tokens\n","x":-1851,"y":193,"width":623,"height":178},
+		{"id":"41d93c145d00d0be","type":"file","file":"attachments/BLUE_PRINCE_Ow5wTOOvGk.png","x":-1560,"y":780,"width":400,"height":225},
+		{"id":"d1c164e9b0431532","x":-2003,"y":1040,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_EpbBXll6Yv.png"},
+		{"id":"425f0d61dc257940","x":-1560,"y":1040,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_LfF8XvL3LD.png"},
+		{"id":"15de4b6100f4a56c","x":-2003,"y":1320,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_7vDD4kiWtA.png"},
+		{"id":"4a6a80548d0c1910","x":-1560,"y":1320,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_RwoXIlg5If.png"},
+		{"id":"5bfbf1252c500f9e","x":-2003,"y":1600,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_NR1k5T3IhI.png"}
 	],
 	"edges":[
 		{"id":"fdeb365d6c94ce8c","fromNode":"17187e013df02c19","fromSide":"top","toNode":"1c6ea0fa509afe9d","toSide":"bottom"},

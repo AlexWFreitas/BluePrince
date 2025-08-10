@@ -35,8 +35,13 @@
 		{"id":"90468df5af4ff830","type":"text","text":"Compass + Battery Pack = Electro Magnet","x":2060,"y":1380,"width":250,"height":60},
 		{"id":"0b14c44c592aea4c","type":"file","file":"attachments/BLUE_PRINCE_4udn34WZrN.png","x":1520,"y":880,"width":400,"height":225},
 		{"id":"28bc586033258ad8","type":"text","text":"Broken Lever + Sledge Hammer + Battery Pack = Power Hammer","x":1559,"y":1160,"width":323,"height":80},
-		{"id":"56b4317ea4696004","x":-1880,"y":2105,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_ZgmRhbvrO0 1.png"},
-		{"id":"940b29747c6f92a5","x":-1805,"y":2385,"width":113,"height":55,"type":"text","text":"[[Chapel.canvas|Chapel]]\n\n"}
+		{"id":"56b4317ea4696004","type":"file","file":"attachments/BLUE_PRINCE_ZgmRhbvrO0 1.png","x":-1880,"y":2105,"width":400,"height":225},
+		{"id":"940b29747c6f92a5","type":"text","text":"[[Chapel.canvas|Chapel]]\n\n","x":-1805,"y":2385,"width":113,"height":55},
+		{"id":"c48d02bd671b1368","x":-1200,"y":720,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_v6RoWBFWXI.png"},
+		{"id":"0bb6cbbd7cd40486","x":-1200,"y":1000,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_0DlaUAtgWz.png"},
+		{"id":"c53051834a09cd87","x":-1200,"y":1280,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_1uOrlfrMep 1.png"},
+		{"id":"b2c822b1ed4abc7c","x":-1200,"y":1572,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_8I28DmcSEV.png"},
+		{"id":"e356c9c711429f6e","x":-1200,"y":1878,"width":400,"height":225,"type":"file","file":"attachments/BLUE_PRINCE_acfdQuF5He.png"}
 	],
 	"edges":[
 		{"id":"841a2ce76532a0eb","fromNode":"2d7445205b05e7b4","fromSide":"top","toNode":"444722d7d501e086","toSide":"bottom"},

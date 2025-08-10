@@ -83,9 +83,9 @@
               "state": {
                 "file": "canvas/With Without Puzzles.canvas",
                 "viewState": {
-                  "x": -5459.958941236804,
-                  "y": 2884.9280957432798,
-                  "zoom": 1
+                  "x": -2203.124109016523,
+                  "y": 1077.4948054676397,
+                  "zoom": -1
                 }
               },
               "pinned": true,
@@ -94,20 +94,20 @@
             }
           },
           {
-            "id": "6594b326d7b0f382",
+            "id": "b66b8b24fc860b34",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "canvas/Chess Pieces.canvas",
+                "file": "canvas/Day Results.canvas",
                 "viewState": {
-                  "x": -457.5,
-                  "y": 715.7207547169812,
-                  "zoom": -1.9067696098194513
+                  "x": -360,
+                  "y": 1534.0786163522016,
+                  "zoom": -1.4714792464018276
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Chess Pieces"
+              "title": "Day Results"
             }
           }
         ],
@@ -258,32 +258,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6594b326d7b0f382",
+  "active": "b66b8b24fc860b34",
   "lastOpenFiles": [
+    "attachments/BLUE_PRINCE_rIsCgcdEKF.png",
+    "canvas/Inner Sanctum Canvas.canvas",
     "canvas/Classroom Canvas.canvas",
-    "canvas/Great Hall Canvas.canvas",
-    "attachments/BLUE_PRINCE_aNkeRp54Pt.png",
-    "canvas/Gallery Canvas.canvas",
-    "attachments/BLUE_PRINCE_dnYXbAhsaN.png",
-    "attachments/BLUE_PRINCE_CSa2HYiNKa.png",
-    "attachments/BLUE_PRINCE_WoVvnCBWr4.png",
-    "attachments/BLUE_PRINCE_I9hDZsvDoB.png",
-    "attachments/BLUE_PRINCE_9S8A9Ej1Ir.png",
+    "notes/046 - Room 46.md",
+    "canvas/Library Canvas.canvas",
+    "attachments/BLUE_PRINCE_VAH7dZkwQQ.png",
+    "attachments/BLUE_PRINCE_YBmqCpGmR8.png",
+    "attachments/BLUE_PRINCE_4ffbJQqFq6.png",
+    "attachments/BLUE_PRINCE_fThMMyLOOR.png",
+    "attachments/BLUE_PRINCE_9KocYSBtO7.png",
+    "attachments/BLUE_PRINCE_1gGn7wAZZ5.png",
+    "attachments/BLUE_PRINCE_zhxODOouCj.png",
+    "attachments/BLUE_PRINCE_5ah51Z75x4.png",
+    "attachments/BLUE_PRINCE_4YHU6GfPnH.png",
+    "attachments/BLUE_PRINCE_yA818CmwSU.png",
+    "canvas/Items.canvas",
+    "canvas/Room 46 Canvas.canvas",
+    "canvas/Boiler Room Canvas.canvas",
     "workplace/Rooms Found.md",
-    "notes/007 - Gallery.md",
-    "canvas/Study Canvas.canvas",
-    "canvas/With Without Puzzles.canvas",
-    "canvas/Mail Room Canvas.canvas",
-    "canvas/Person List.canvas",
+    "canvas/Secret Garden Canvas.canvas",
+    "canvas/Reservoir Canvas.canvas",
     "canvas/Chess Pieces.canvas",
-    "canvas/Drafting Studio Canvas.canvas",
-    "canvas/Shelter Canvas.canvas",
-    "canvas/Laboratory Canvas.canvas",
+    "canvas/Alzara.canvas",
+    "attachments/BLUE_PRINCE_IYNBoXXByi.mp4",
+    "notes/007 - Gallery.md",
     "notes/006 - Billiard Room.md",
-    "attachments/BLUE_PRINCE_rdRVoctZRg.png",
-    "attachments/BLUE_PRINCE_LzNdIBpCem.png",
-    "attachments/BLUE_PRINCE_XpwCfjraJF.png",
-    "attachments/BLUE_PRINCE_Kc5bv9QLzF.png",
     "attachments/BLUE_PRINCE_Gjz9lCzg7G.mp4",
     "notes/020 - Ballroom.md",
     "notes/Reservoir.md",
@@ -310,11 +312,9 @@
     "notes/016 - Locker Room.md",
     "notes/023 - Vault.md",
     "attachments/BLUE_PRINCE_PKhAxU6KYc.mp4",
-    "notes/038 - Coat Check.md",
     "attachments/BLUE_PRINCE_u6ANmm1l0y.mp4",
     "workplace",
     "old",
-    "canvas",
-    "notes"
+    "canvas"
   ]
 }

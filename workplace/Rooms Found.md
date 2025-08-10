@@ -43,6 +43,7 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[043 - Conference Room]]
 [[044 - Aquarium]]
 [[045 - Antechamber]]
+[[046 - Room 46]]
 ## Bedrooms
 [[Bedroom]]
 [[Boudoir]]
