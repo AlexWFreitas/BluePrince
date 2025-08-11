@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"263fc26356146176",
+			"type":"text",
+			"text":"This room always has one simple food and four coins.\n\nIt also has a supposedly useless lore note with instructions of buying food.",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-280,
+			"width":260,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

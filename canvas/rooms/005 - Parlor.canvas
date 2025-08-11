@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"649470fe784fd20f",
+			"type":"text",
+			"text":"Contains a logic puzzle of assertions.\nYou can usually find the solution by thinking logically.\n\nContains [[Parlor Room Letters.canvas|Parlor Room Letters]].\n\nParlor Game Rules\n- At least one lie\n- At least one truth\n- Only one box contains a prize.",
+			"styleAttributes":{},
+			"x":-840,
+			"y":-600,
+			"width":360,
+			"height":300
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

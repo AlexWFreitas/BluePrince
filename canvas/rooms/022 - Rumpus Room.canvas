@@ -1,10 +1,9 @@
 {
 	"nodes":[
-		{"id":"f8c12ea7ccf83ed4","type":"text","text":"[[022 - Rumpus Room]]","x":-610,"y":-361,"width":250,"height":60},
 		{"id":"e4c22c48f77da2bc","type":"file","file":"attachments/BLUE_PRINCE_2iwnvKoo4a.png","x":-580,"y":-240,"width":400,"height":225},
 		{"id":"781e02c5f7b695be","type":"file","file":"attachments/BLUE_PRINCE_qgwBz5HqHv.png","x":-580,"y":20,"width":400,"height":225},
 		{"id":"33196044d74f5a39","type":"file","file":"attachments/BLUE_PRINCE_u6ANmm1l0y.mp4","x":-60,"y":-180,"width":400,"height":225},
-		{"id":"994667e2b102344e","type":"text","text":"First Visit","x":-22,"y":-306,"width":250,"height":60}
+		{"id":"994667e2b102344e","type":"text","text":"[[Alzara.canvas|Alzara videos]]","x":-22,"y":-306,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4800673ab048f019","fromNode":"994667e2b102344e","fromSide":"bottom","toNode":"33196044d74f5a39","toSide":"top"}

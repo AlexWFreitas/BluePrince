@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{
+			"id":"9ca34242c7ac1e9f",
+			"type":"text",
+			"text":"Always has one key.\nHas a page with tips that can be zoomed in [[Tip Images.canvas|Tip Images]].\nCan be upgraded with one Upgrade Disk.\n",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-160,
+			"width":540,
+			"height":120
+		},
+		{"id":"0d513c97ef44eb11","type":"file","file":"attachments/Pasted image 20250716203316.png","x":-140,"y":85,"width":400,"height":225},
+		{"id":"15010b658ab08482","type":"file","file":"attachments/Pasted image 20250716203338.png","x":-555,"y":360,"width":390,"height":400},
+		{"id":"ab3578d9cab721cd","type":"file","file":"attachments/Pasted image 20250716203328.png","x":-140,"y":360,"width":347,"height":400},
+		{"id":"0e1e745d03f5ddff","type":"file","file":"attachments/BLUE_PRINCE_vYUB9p0LQW.png","x":-560,"y":0,"width":400,"height":310}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

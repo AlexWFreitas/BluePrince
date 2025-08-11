@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"fe75845ed89cc930",
+			"type":"text",
+			"text":"This room can be upgraded into three types and then from each type there is also another upgrade that gives three options related to the initial archetype you have chosen on the first upgrade.",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-300,
+			"width":440,
+			"height":160
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

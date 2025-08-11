@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"2368c6ad1124145e",
+			"type":"text",
+			"text":"Empty room that allows you to rotate it to reach all four sides to unlock two sides at the same time.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-340,
+			"width":260,
+			"height":180
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

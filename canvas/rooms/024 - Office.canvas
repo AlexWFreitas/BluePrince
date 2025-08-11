@@ -13,7 +13,17 @@
 		{"id":"a9a25eef204d5c75","type":"file","file":"attachments/BLUE_PRINCE_Q3Z5zKGU26.jpg","x":420,"y":640,"width":400,"height":225},
 		{"id":"39ae52a06df9c78c","type":"file","file":"attachments/BLUE_PRINCE_ubHxexboKN.jpg","x":-460,"y":920,"width":400,"height":225},
 		{"id":"bc611143800ce2e1","type":"file","file":"attachments/BLUE_PRINCE_sYwzpF9U6n.png","x":1140,"y":1120,"width":400,"height":225},
-		{"id":"7daa855e589b3316","type":"file","file":"attachments/BLUE_PRINCE_Kx1VfRiQfH.jpg","x":700,"y":1120,"width":400,"height":225}
+		{"id":"7daa855e589b3316","type":"file","file":"attachments/BLUE_PRINCE_Kx1VfRiQfH.jpg","x":700,"y":1120,"width":400,"height":225},
+		{
+			"id":"b4759ee7293252df",
+			"type":"text",
+			"text":"Contains a upgrade floppy disk that can be used on a terminal to permanently upgrade one of the draftable rooms in the game. (permanently consumed)\n\nYou can access the [[Terminals.canvas|Terminal]] here to spread gold over the rooms and also activate the payroll, while also accessing generic terminal functions.\n\nYou can also use other [[Terminals.canvas|Terminals]] functions, if you have access to them and also do generic terminal things.",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-540,
+			"width":560,
+			"height":277
+		}
 	],
 	"edges":[],
 	"metadata":{

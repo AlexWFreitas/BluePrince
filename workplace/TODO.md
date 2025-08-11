@@ -111,8 +111,8 @@
 	- 6083 F
 	- 3806 F
 	- 3809 F
-	- Need to test 1213 from [[Wine Cellar.canvas|Wine Cellar Room]]
-- Try 0412 from the [[Attic.canvas|Attic Canvas]] Letter together with the Security Room Footage pointing to the Office Room
+	- Need to test 1213 from [[018 - Wine Cellar.canvas|Wine Cellar Room]]
+- Try 0412 from the [[011 - Attic.canvas|Attic Canvas]] Letter together with the Security Room Footage pointing to the Office Room
 	- Failed
 ### Open the Safe on Drawing Room
 - Pull one of the Candlelight hands to show the Safe

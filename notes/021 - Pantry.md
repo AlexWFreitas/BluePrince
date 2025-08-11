@@ -1,1 +1,0 @@
-Contains one food and four coins

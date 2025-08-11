@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"c59e480b07b3104a",
+			"type":"text",
+			"text":"You can use the terminal to access the current room terminal functions, do generic terminal functions or to connect to other terminals found on the current run.\n\nThe terminal password is **Swansong**\n\nThe terminal password can be found with the magnifying lens on the [[Commissary]] room.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-300,
+			"width":440,
+			"height":260
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
