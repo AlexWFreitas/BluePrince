@@ -102,12 +102,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Allowance.md",
+                "file": "workplace/My Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Allowance"
+              "title": "My Notes"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Allowance.md",
+                "file": "workplace/My Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Allowance"
+              "title": "Backlinks for My Notes"
             }
           },
           {
@@ -260,13 +260,15 @@
   "active": "685976cf733cd54d",
   "lastOpenFiles": [
     "canvas/info/Permanent Resources.canvas",
+    "notes/Apple Orchard.md",
+    "notes/Antechamber Puzzle.md",
+    "canvas/rooms/045 - Antechamber.canvas",
     "notes/Allowance.md",
     "notes/Abandoned Mine.md",
     "notes/46th Room.md",
     "notes/046 - Room 46.md",
     "canvas/rooms/046 - Room 46.canvas",
     "notes/045 - Antechamber.md",
-    "canvas/rooms/045 - Antechamber.canvas",
     "notes/044 - Aquarium.md",
     "canvas/rooms/044 - Aquarium.canvas",
     "notes/043 - Conference Room.md",
@@ -292,8 +294,6 @@
     "notes/029 - The Pool.md",
     "notes/027 - Library.md",
     "notes/026 - Study.md",
-    "notes/025 - Drawing Room.md",
-    "notes/Drawing Room Safe.md",
     "canvas/papers",
     "canvas/info",
     "canvas/books",

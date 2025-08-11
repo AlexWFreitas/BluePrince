@@ -10,7 +10,7 @@
 		{
 			"id":"62c69b0277232f67",
 			"type":"text",
-			"text":"# Room Info\n\nThis room is always fixed on the grid.\n\nThis room is surrounded by locked doors that need to be opened through levers that are on certain rooms.\n- [[Secret Garden.canvas|Secret Garden]]\n- [[Greenhouse.canvas|Greenhouse]]\n- [[Great Hall.canvas|Great Hall]]\n- [[Basement.canvas|Basement]]\n\nOpened doors reset at the end of the run.\n\nThis room also connects to the [[046 - Room 46.canvas|Room 46]], you need to reach the [[Inner Sanctum.canvas|Inner Sanctum]] to be able to open it.\n\nIf you reach this room, you can get a Basement Key item that will stay with you for the run, this can be used to open some special doors available in the house.",
+			"text":"# Room Info\n\nThis room is always fixed on the grid.\n\nThis room is surrounded by locked doors that need to be opened through levers that are on certain rooms.\n- [[Secret Garden.canvas|Secret Garden]] - West and East Doors\n- [[Greenhouse.canvas|Greenhouse]] - South Door\n- [[Great Hall.canvas|Great Hall]] - ???\n- [[Basement.canvas|Basement]] - Through Inner Sanctum opens the Door to Room 46\n\nOpened doors reset at the end of the run.\n\nThis room also connects to the [[046 - Room 46.canvas|Room 46]], you need to reach the [[Inner Sanctum.canvas|Inner Sanctum]] to be able to open it.\n\nIf you reach this room, you can get a Basement Key item that will stay with you for the run, this can be used to open some special doors available in the house.",
 			"styleAttributes":{},
 			"x":-1840,
 			"y":-1420,
