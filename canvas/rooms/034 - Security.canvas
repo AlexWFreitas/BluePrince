@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"9cb268989cca7d5c","type":"file","file":"attachments/BLUE_PRINCE_EEKR7Dd1lA.jpg","x":0,"y":-280,"width":400,"height":225},
+		{"id":"ad924a912be082ba","type":"file","file":"attachments/BLUE_PRINCE_21CmbQs5vX.jpg","x":-440,"y":-280,"width":400,"height":225},
+		{"id":"53bd4ef87b9eb026","type":"text","text":"LIE","x":75,"y":-29,"width":250,"height":60},
+		{"id":"284bc644035d53c0","type":"file","file":"attachments/BLUE_PRINCE_SUVOjpHn4P.jpg","x":0,"y":80,"width":400,"height":225},
+		{"id":"4e57f4dc28a941dc","type":"file","file":"attachments/BLUE_PRINCE_uFG6FCzXhH.jpg","x":-440,"y":1,"width":400,"height":225},
+		{"id":"817f0a973a55061f","type":"file","file":"attachments/BLUE_PRINCE_RVpKeT9gRB 1.png","x":-580,"y":280,"width":400,"height":225},
+		{"id":"3656e34299ca8a80","type":"text","text":"[[011 - Attic.canvas|Attic Canvas]]","x":-520,"y":540,"width":250,"height":60},
+		{"id":"e1aeb147e1dc18c1","type":"file","file":"attachments/BLUE_PRINCE_CigsydOtLs.png","x":780,"y":-392,"width":400,"height":225},
+		{"id":"596cff6a09c1ec25","type":"file","file":"attachments/BLUE_PRINCE_My3QbBwK7k.png","x":780,"y":-111,"width":400,"height":225},
+		{"id":"aed9660c3af23a57","type":"file","file":"attachments/BLUE_PRINCE_c2ZA5hkoLf.png","x":1220,"y":-111,"width":400,"height":225},
+		{"id":"0b1b0bca7d4ea00b","type":"file","file":"attachments/BLUE_PRINCE_8HJv2FI3mY.png","x":1220,"y":-392,"width":400,"height":225},
+		{
+			"id":"78b6cdcf24a92c23",
+			"type":"text",
+			"text":"# Room Info\nThis room allows you to access the Security Terminal functions.\nIt has many tips and information [[034 - Security.canvas|Security Canvas]].\n\nIt also plays a cutscene the first time you enter on the room.\n\nIt appears that if you can disable the power on locked rooms, it makes sense to change offline mode to unlock and number of card locked rooms to high. \n\nOther wise it makes sense to adapt based on the resources you have.\n\n~~From the text on the blue card at the wall, it seems that rooms locked by keycard are more likely to be high rank, so increasing the frequency of keycard locked rooms might increase the chance of getting high rank rooms.~~ - We now know that Rank is equal to Depth as in how many rows are you in in the House, so we know that High Rank rooms are harder to reach because of keys locks, keycard locks, but this doesn't necessarily mean that the room will be rare.",
+			"styleAttributes":{},
+			"x":-455,
+			"y":-940,
+			"width":855,
+			"height":460
+		}
+	],
+	"edges":[
+		{"id":"40ae6f701351537c","fromNode":"53bd4ef87b9eb026","fromSide":"top","toNode":"9cb268989cca7d5c","toSide":"bottom"},
+		{"id":"823ad6485eff16fe","fromNode":"3656e34299ca8a80","fromSide":"top","toNode":"817f0a973a55061f","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

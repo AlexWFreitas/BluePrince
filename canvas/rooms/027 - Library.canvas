@@ -75,7 +75,17 @@
 		{"id":"f4570ac5a60e548b","type":"file","file":"attachments/BLUE_PRINCE_Kc5bv9QLzF.png","x":-6720,"y":-260,"width":400,"height":225},
 		{"id":"68c484b95794e7df","type":"file","file":"attachments/BLUE_PRINCE_XpwCfjraJF.png","x":-7160,"y":20,"width":400,"height":225},
 		{"id":"60b3639190721c6e","type":"file","file":"attachments/BLUE_PRINCE_LzNdIBpCem.png","x":-6720,"y":20,"width":400,"height":225},
-		{"id":"28e91bbd12f6ba33","type":"file","file":"attachments/BLUE_PRINCE_rdRVoctZRg.png","x":-7160,"y":280,"width":400,"height":225}
+		{"id":"28e91bbd12f6ba33","type":"file","file":"attachments/BLUE_PRINCE_rdRVoctZRg.png","x":-7160,"y":280,"width":400,"height":225},
+		{
+			"id":"031e1a44f0329478",
+			"type":"text",
+			"text":"# Room Info\n\nDiscover less common floor plans while \ndrafting in the library.",
+			"styleAttributes":{},
+			"x":-4060,
+			"y":-1020,
+			"width":420,
+			"height":160
+		}
 	],
 	"edges":[],
 	"metadata":{

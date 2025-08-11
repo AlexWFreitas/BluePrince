@@ -12,10 +12,10 @@
 		{"id":"7a9bd209df31fd0b","type":"file","file":"attachments/BLUE_PRINCE_74UjOypE6d.png","x":-1100,"y":161,"width":400,"height":225},
 		{"id":"bd323c81e79db422","type":"file","file":"attachments/BLUE_PRINCE_RJCO0ASMqt.png","x":-600,"y":161,"width":400,"height":225},
 		{"id":"efc9ca35f3935bb7","type":"file","file":"attachments/BLUE_PRINCE_XeBhkf1PyB.png","x":-900,"y":-201,"width":400,"height":225},
-		{"id":"ff6faacbcf9392b8","type":"text","text":"[[Tomb]]","x":-1725,"y":-1043,"width":250,"height":60}
+		{"id":"ff6faacbcf9392b8","type":"text","text":"The angels order is necessary for a puzzle in the [[Tomb.canvas|Tomb]].","x":-1280,"y":-461,"width":340,"height":81}
 	],
 	"edges":[
-		{"id":"e55a97537cd4181c","fromNode":"38a76e3fc6192225","fromSide":"top","toNode":"d05f25e60474b53b","toSide":"bottom"},
+		{"id":"e55a97537cd4181c","toFloating":false,"fromNode":"38a76e3fc6192225","fromSide":"top","toNode":"d05f25e60474b53b","toSide":"bottom"},
 		{"id":"32a823a631617462","fromNode":"323b035b18e547c8","fromSide":"top","toNode":"cc381bfa1cf0aa1b","toSide":"bottom"},
 		{"id":"8f47b5674d73505d","fromNode":"41da2289192064b7","fromSide":"top","toNode":"5202816c15cbae3b","toSide":"bottom"}
 	],

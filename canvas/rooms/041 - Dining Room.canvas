@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"d54538960da17f6d",
+			"type":"text",
+			"text":"# Room Info\n\nAllows you to eat high tier food for free if you reach 8th Rank on the current run.\n\nThere is an optional permanent upgrade that will allow you to receive extra steps based on the food after 5th rank.\n\nThe current run dinner is described on the [[Kitchen.canvas|Kitchen]]",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-340,
+			"width":420,
+			"height":314
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

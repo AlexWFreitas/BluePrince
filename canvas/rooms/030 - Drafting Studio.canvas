@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"2006fd16a72ce620","type":"text","text":"[[030 - Drafting Studio]]","x":-660,"y":-417,"width":250,"height":60},
 		{"id":"fd8d5d60957cd7ba","type":"file","file":"attachments/BLUE_PRINCE_SyANCQ279s.png","x":-660,"y":-320,"width":400,"height":225},
 		{"id":"baa057034804d986","type":"file","file":"attachments/BLUE_PRINCE_d7pAAyTLSS.png","x":-660,"y":-40,"width":400,"height":225},
 		{"id":"8c727366391c338c","type":"file","file":"attachments/BLUE_PRINCE_AvtVZUFbX5.png","x":-1100,"y":-40,"width":400,"height":225},

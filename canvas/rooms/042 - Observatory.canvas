@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"2137afcfa2078ae2",
+			"type":"text",
+			"text":"# Room Info\n\nAllows you to gain one star resource each time you draft it.\n\nAllows you to receive run bonuses by looking at the Telescope when it's angled correctly based on the number of stars you have.\n\nYou can find a [[Planetarium.canvas|hidden floorplan]] on this room if you open the storage box at the top of the Telescope by moving it near the top area of the room.",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-320,
+			"width":580,
+			"height":300
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

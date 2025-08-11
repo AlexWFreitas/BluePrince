@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"5973d15933bde108",
+			"type":"text",
+			"text":"# Room Info\n\nGives 20 extra steps on the next day.\nMay have an item.",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-380,
+			"width":360,
+			"height":160
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

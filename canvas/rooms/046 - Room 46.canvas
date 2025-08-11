@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"bf646e1c2f1d5d88","type":"file","file":"attachments/BLUE_PRINCE_rwwcy7vqcr.png","x":-640,"y":-260,"width":400,"height":225},
-		{"id":"9268bd3c12e7317a","type":"text","text":"[[046 - Room 46]]","x":-640,"y":-360,"width":250,"height":60},
 		{"id":"e3a9811ffce1d27b","type":"file","file":"attachments/BLUE_PRINCE_SQofExj4iz.png","x":-640,"y":0,"width":400,"height":225},
 		{"id":"6aeab882a70cdc86","type":"file","file":"attachments/BLUE_PRINCE_M1ltDM2WN3.png","x":-220,"y":0,"width":400,"height":225},
 		{"id":"69e25babf75bdc22","type":"file","file":"attachments/BLUE_PRINCE_j6ldAo1Z46.png","x":-640,"y":260,"width":400,"height":225},

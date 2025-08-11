@@ -10,7 +10,17 @@
 		{"id":"ae7dc85a44d48449","type":"file","file":"attachments/BLUE_PRINCE_pgzpuPfHMV.png","x":-260,"y":460,"width":400,"height":225},
 		{"id":"c85fb6257af63ef9","type":"file","file":"attachments/BLUE_PRINCE_pu6dUhRF2v.png","x":-700,"y":720,"width":400,"height":225},
 		{"id":"d6433c7399980e57","type":"file","file":"attachments/BLUE_PRINCE_1SJAdFWAFQ.png","x":-260,"y":720,"width":400,"height":225},
-		{"id":"faa9348a96b91d3e","type":"file","file":"attachments/BLUE_PRINCE_hcda6dRqa9.png","x":180,"y":460,"width":400,"height":225}
+		{"id":"faa9348a96b91d3e","type":"file","file":"attachments/BLUE_PRINCE_hcda6dRqa9.png","x":180,"y":460,"width":400,"height":225},
+		{
+			"id":"0ffaccda9cddcba6",
+			"type":"text",
+			"text":"# Room Info\n\nThis room is of every color.\nThis room has a diggable spot.\nThis room can be drained through the [[033 - Pump Room.canvas|033 - Pump Room]], if you drain it you can find some symbols on some of the aquariums, the purpose of that is not known.",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-700,
+			"width":600,
+			"height":260
+		}
 	],
 	"edges":[],
 	"metadata":{

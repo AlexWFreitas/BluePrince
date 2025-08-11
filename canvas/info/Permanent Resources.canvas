@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"ee1b2092d90b9577",
+			"type":"text",
+			"text":"# Allowance\n\nAllowance is a type of cumulative permanent bonus that allows you to receive gold every day as an allowance.",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-340,
+			"width":380,
+			"height":200
+		},
+		{
+			"id":"142ac2aef9ed6629",
+			"type":"text",
+			"text":"# Stars\n\nA resource obtained through the [[042 - Observatory.canvas|042 - Observatory]], [[Planetarium.canvas|Planetarium]] and [[036 - Laboratory.canvas|036 - Laboratory]] that will allow you to receive bonuses based on the constellations seen through the Telescope on the [[042 - Observatory.canvas|042 - Observatory]]",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-340,
+			"width":520,
+			"height":200
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

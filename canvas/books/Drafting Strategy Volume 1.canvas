@@ -8,7 +8,17 @@
 		{"id":"27f3a60104c2b506","type":"file","file":"attachments/BLUE_PRINCE_5DvAefzh2e.png","x":-160,"y":160,"width":400,"height":225},
 		{"id":"a6acafec2cc18240","type":"file","file":"attachments/BLUE_PRINCE_TpDLAdH6QT.png","x":-600,"y":440,"width":400,"height":225},
 		{"id":"eb704fab9026603a","type":"file","file":"attachments/BLUE_PRINCE_oyIsNe7lrI.png","x":-160,"y":440,"width":400,"height":225},
-		{"id":"e0de3ad4f15464c8","type":"file","file":"attachments/BLUE_PRINCE_87foHVIhUw.png","x":-600,"y":720,"width":400,"height":225}
+		{"id":"e0de3ad4f15464c8","type":"file","file":"attachments/BLUE_PRINCE_87foHVIhUw.png","x":-600,"y":720,"width":400,"height":225},
+		{
+			"id":"385e8dc5297a801f",
+			"type":"text",
+			"text":"Found in [[030 - Drafting Studio.canvas|030 - Drafting Studio]]",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-520,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[],
 	"metadata":{

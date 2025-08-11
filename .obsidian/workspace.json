@@ -100,17 +100,14 @@
             "id": "62ddd88dd0ff782f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas/rooms/025 - Drawing Room.canvas",
-                "viewState": {
-                  "x": -219.75660377358497,
-                  "y": -405.6435958142098,
-                  "zoom": -1.0136214361779812
-                }
+                "file": "notes/Allowance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "025 - Drawing Room"
+              "icon": "lucide-file",
+              "title": "Allowance"
             }
           }
         ],
@@ -171,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 429.5
   },
   "right": {
     "id": "07be804e2b3975b5",
@@ -187,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canvas/rooms/025 - Drawing Room.canvas",
+                "file": "notes/Allowance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 025 - Drawing Room"
+              "title": "Backlinks for Allowance"
             }
           },
           {
@@ -260,43 +257,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62ddd88dd0ff782f",
+  "active": "685976cf733cd54d",
   "lastOpenFiles": [
+    "canvas/info/Permanent Resources.canvas",
+    "notes/Allowance.md",
+    "notes/Abandoned Mine.md",
+    "notes/46th Room.md",
+    "notes/046 - Room 46.md",
+    "canvas/rooms/046 - Room 46.canvas",
+    "notes/045 - Antechamber.md",
+    "canvas/rooms/045 - Antechamber.canvas",
+    "notes/044 - Aquarium.md",
+    "canvas/rooms/044 - Aquarium.canvas",
+    "notes/043 - Conference Room.md",
+    "canvas/rooms/043 - Conference Room.canvas",
+    "notes/042 - Observatory.md",
+    "canvas/rooms/042 - Observatory.canvas",
+    "notes/041 - Dining Room.md",
+    "canvas/rooms/041 - Dining Room.canvas",
+    "notes/040 - Freezer.md",
+    "canvas/rooms/040 - Freezer.canvas",
+    "notes/039 - Mail Room.md",
+    "canvas/rooms/039 - Mail Room.canvas",
+    "canvas/rooms/038 - Coat Check.canvas",
+    "notes/038 - Coat Check.md",
+    "notes/037 - Sauna.md",
+    "notes/036 - Laboratory.md",
+    "notes/035 - Workshop.md",
+    "notes/034 - Security.md",
+    "notes/033 - Pump Room.md",
+    "notes/032 - Boiler Room.md",
+    "notes/031 - Utility Closet.md",
+    "notes/030 - Drafting Studio.md",
+    "notes/029 - The Pool.md",
+    "notes/027 - Library.md",
+    "notes/026 - Study.md",
     "notes/025 - Drawing Room.md",
-    "canvas/rooms/025 - Drawing Room.canvas",
     "notes/Drawing Room Safe.md",
-    "notes/Terminal.md",
-    "notes/024 - Office.md",
-    "canvas/rooms/024 - Office.canvas",
-    "canvas/info/Terminals.canvas",
-    "notes/023 - Vault.md",
-    "notes/022 - Rumpus Room.md",
-    "canvas/rooms/022 - Rumpus Room.canvas",
-    "canvas/rooms/Schoolhouse.canvas",
-    "notes/021 - Pantry.md",
-    "canvas/rooms/021 - Pantry.canvas",
-    "notes/020 - Ballroom.md",
-    "canvas/rooms/020 - Ballroom.canvas",
-    "notes/018 - Wine Cellar.md",
-    "notes/017 - Den.md",
-    "canvas/rooms/017 - Den.canvas",
-    "notes/016 - Locker Room.md",
-    "canvas/rooms/Laundry Room.canvas",
-    "canvas/rooms/Library.canvas",
-    "notes/015 - Music Room.md",
-    "notes/014 - Garage.md",
-    "notes/013 - Nook.md",
-    "notes/012 - Storeroom.md",
-    "notes/011 - Attic.md",
-    "notes/010 - Walk-in Closet.md",
-    "notes/009 - Closet.md",
-    "notes/007 - Gallery.md",
-    "notes/006 - Billiard Room.md",
-    "notes/005 - Parlor.md",
-    "workplace/My Notes.md",
-    "notes/004 - Rotunda.md",
-    "workplace/Rooms Found.md",
-    "notes/Outer Room.md",
     "canvas/papers",
     "canvas/info",
     "canvas/books",

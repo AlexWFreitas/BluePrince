@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"a155354bba36ddbf","type":"text","text":"[[040 - Freezer]]","x":-665,"y":-421,"width":250,"height":60},
 		{"id":"d89949ea91243b2a","type":"file","file":"attachments/BLUE_PRINCE_XtkXgMxtwq.png","x":-665,"y":-320,"width":400,"height":225},
 		{"id":"4099e67c13f6eafc","type":"file","file":"attachments/BLUE_PRINCE_gApfODTB8T.png","x":-665,"y":-40,"width":400,"height":225},
 		{"id":"880c07f04d4e7ef7","type":"file","file":"attachments/BLUE_PRINCE_Yo6InYGu1H.png","x":-220,"y":-40,"width":400,"height":225},
