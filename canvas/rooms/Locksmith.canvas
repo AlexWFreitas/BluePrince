@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c753478aa28a47f1","type":"text","text":"[[Locksmith]]","x":-438,"y":-392,"width":250,"height":60},
+		{"id":"175a4c99232eb8ee","type":"file","file":"attachments/BLUE_PRINCE_ipkmVdrqwJ.png","x":-500,"y":-260,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

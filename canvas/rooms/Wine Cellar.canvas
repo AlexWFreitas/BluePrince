@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1e7d81e0ff420324","type":"file","file":"attachments/BLUE_PRINCE_GQo9A3Gr4e.jpg","x":-600,"y":-360,"width":400,"height":225},
+		{"id":"c77422592ea21cc2","type":"text","text":"MCCXII - 1213","x":-525,"y":-80,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"acb6dcb38ce231c8","fromNode":"c77422592ea21cc2","fromSide":"top","toNode":"1e7d81e0ff420324","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"d2b58326a57f80c3","type":"file","file":"attachments/BLUE_PRINCE_evyr1ZEWnL.png","x":-600,"y":-320,"width":400,"height":225},
+		{"id":"0b21bcf0fd5901be","type":"file","file":"attachments/BLUE_PRINCE_AwmzRepKZp.png","x":-600,"y":-40,"width":400,"height":225},
+		{"id":"71993cfda3ec75b7","type":"file","file":"attachments/BLUE_PRINCE_Y5ANmZvPTh.png","x":-600,"y":240,"width":400,"height":225},
+		{"id":"070f58ae6f415b2e","type":"text","text":"1 Fountain\n2 Reservoir\n3 Aquarium\n4 Kitchen\n5 Greenhouse\n6 Pool","x":-149,"y":-24,"width":250,"height":184},
+		{"id":"aa91a73512f53d44","type":"text","text":"Check if the Kitchen can be used to drain the water allocated to the Kitchen by turning the kitchen sink water valve","x":-120,"y":227,"width":250,"height":173},
+		{"id":"f4305d5926c6f6f1","type":"file","file":"attachments/BLUE_PRINCE_aIp3P8GAkk.png","x":-600,"y":520,"width":400,"height":225},
+		{"id":"2ca46e3fc4c33c9a","type":"text","text":"By sending power through the Boiler Room you can enable the Reserve tank, enabling you to remove all water from the Reservoir","x":-149,"y":540,"width":356,"height":142}
+	],
+	"edges":[
+		{"id":"989711f6e8d200a8","fromNode":"2ca46e3fc4c33c9a","fromSide":"left","toNode":"f4305d5926c6f6f1","toSide":"right"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

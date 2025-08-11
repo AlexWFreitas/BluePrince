@@ -1,1 +1,1 @@
-[[Laboratory Canvas.canvas|Laboratory Canvas]]
+[[Laboratory.canvas|Laboratory Canvas]]

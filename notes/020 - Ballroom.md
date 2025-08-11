@@ -1,2 +1,2 @@
-[[Ballroom Canvas.canvas|Ballroom Canvas]]
+[[Ballroom.canvas|Ballroom Canvas]]
 

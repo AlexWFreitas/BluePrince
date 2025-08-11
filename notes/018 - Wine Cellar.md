@@ -1,1 +1,1 @@
-[[Wine Cellar Canvas.canvas|Wine Cellar Canvas]]
+[[Wine Cellar.canvas|Wine Cellar Canvas]]

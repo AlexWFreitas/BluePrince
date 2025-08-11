@@ -1,2 +1,2 @@
-[[Hovel Canvas.canvas|Hovel Canvas]]
+[[Hovel.canvas|Hovel Canvas]]
 

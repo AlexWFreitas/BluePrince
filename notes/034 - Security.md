@@ -1,5 +1,5 @@
 This room allows you to access the Security Terminal functions.
-It has many tips and information [[Security Canvas.canvas|Security Canvas]].
+It has many tips and information [[Security.canvas|Security Canvas]].
 
 It also plays a cutscene the first time you enter on the room.
 

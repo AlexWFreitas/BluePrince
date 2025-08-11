@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"767592c459e3469f","type":"text","text":"[[Tomb.canvas|Tomb Canvas]]","x":-700,"y":-740,"width":250,"height":60},
+		{"id":"6b24a041298df2f8","type":"text","text":"[[Abandoned Mine]]","x":-700,"y":-660,"width":250,"height":60},
+		{"id":"aad16bb6537eb4f8","type":"file","file":"attachments/BLUE_PRINCE_j6puq2UBaJ.png","x":-540,"y":-447,"width":400,"height":225},
+		{"id":"7da25950fe03f903","type":"file","file":"attachments/BLUE_PRINCE_LfFOWgBhdD.png","x":-80,"y":-447,"width":400,"height":225},
+		{"id":"832c95dbd1c1fd04","type":"file","file":"attachments/BLUE_PRINCE_p52SPZ8nXG.png","x":-975,"y":-447,"width":400,"height":225},
+		{"id":"87095590232572c5","type":"file","file":"attachments/BLUE_PRINCE_RmCXKSd0By.png","x":320,"y":-20,"width":400,"height":225},
+		{"id":"577a977ec9aac9e6","type":"file","file":"attachments/BLUE_PRINCE_WAegwIiTd4.png","x":320,"y":-822,"width":400,"height":225},
+		{"id":"b63c88394c4e6d50","type":"file","file":"attachments/BLUE_PRINCE_a0K3A4YCcw.png","x":-120,"y":-825,"width":400,"height":225},
+		{"id":"e814d16d4d9f2a95","type":"file","file":"attachments/BLUE_PRINCE_hp2rH4HIem.png","x":-975,"y":-180,"width":400,"height":225},
+		{"id":"35a392a7b1a7537d","type":"file","file":"attachments/BLUE_PRINCE_xnYx4vg0Qa.png","x":-540,"y":-180,"width":400,"height":225},
+		{"id":"143e1858d799a12b","type":"text","text":"[[Reservoir.canvas|Reservoir Canvas]]","x":-700,"y":-580,"width":250,"height":60}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

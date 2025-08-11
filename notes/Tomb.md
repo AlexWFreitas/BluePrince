@@ -1,4 +1,4 @@
-[[Tomb Canvas.canvas|Tomb Canvas]]
+[[Tomb.canvas|Tomb Canvas]]
 
 
 

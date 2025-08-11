@@ -1,1 +1,1 @@
-[[Maid's Chamber Canvas.canvas|Maid's Chamber Canvas]]
+[[Maid's Chamber.canvas|Maid's Chamber Canvas]]

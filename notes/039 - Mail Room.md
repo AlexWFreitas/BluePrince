@@ -1,2 +1,2 @@
-[[Mail Room Canvas.canvas|Mail Room Canvas]]
+[[Mail Room.canvas|Mail Room Canvas]]
 

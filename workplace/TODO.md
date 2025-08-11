@@ -55,7 +55,7 @@
 ### Solve the Mansion Dual Paintings Puzzle
 - Find the letter difference between each painting on each room
 - Fill each room with the correct letter to reveal a text
-- [[Study Canvas.canvas|Study Canvas]] for tracking
+- [[Study.canvas|Study Canvas]] for tracking
 
 ### Find a way to use enable Elevator on The Foundation
 
@@ -105,14 +105,14 @@
 - TODO
 ### Open the Safe on Office Room
 - Turn the dial on the Desk to show the Lock
-- [[Foyer Canvas.canvas|Foyer Canvas]] statues might be a clue to how to solve it
-- [[Conference Room Canvas.canvas|Conference Room Canvas]] says that the code might be 9083, but the card color means it is probably a lie.
+- [[Foyer.canvas|Foyer Canvas]] statues might be a clue to how to solve it
+- [[Conference Room.canvas|Conference Room Canvas]] says that the code might be 9083, but the card color means it is probably a lie.
 	- 9083 F, trying other versions by flipping the numbers horizontally and vertically
 	- 6083 F
 	- 3806 F
 	- 3809 F
-	- Need to test 1213 from [[Wine Cellar Canvas.canvas|Wine Cellar Room]]
-- Try 0412 from the [[Attic Canvas.canvas|Attic Canvas]] Letter together with the Security Room Footage pointing to the Office Room
+	- Need to test 1213 from [[Wine Cellar.canvas|Wine Cellar Room]]
+- Try 0412 from the [[Attic.canvas|Attic Canvas]] Letter together with the Security Room Footage pointing to the Office Room
 	- Failed
 ### Open the Safe on Drawing Room
 - Pull one of the Candlelight hands to show the Safe
@@ -120,7 +120,7 @@
 
 ### Identify the Angels
 - [[Angels Puzzle.canvas|Angels Puzzle Canvas]]
-- [[Tomb Canvas.canvas|Tomb Canvas]]
+- [[Tomb.canvas|Tomb Canvas]]
 - Seven [[Chapel]] Statues
 - [x] Mila
 - [x] Orinda
@@ -134,7 +134,7 @@
 # DONE
 ### Solve the Statue Puzzle on the Tomb
 - The statues from the Chapel are a clue to solving this
-- This opens a path to the Abandoned Mine, which will need to use the [[Pump Room Canvas.canvas|Pump Room Canvas]]to remove water.
+- This opens a path to the Abandoned Mine, which will need to use the [[Pump Room.canvas|Pump Room Canvas]]to remove water.
 - [x] Done
 ### Solve the Safe on the Boudoir
 - Password is 1225, a reference to the Christmas Photo

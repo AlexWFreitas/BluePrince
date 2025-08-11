@@ -1,2 +1,2 @@
-[[Bunk Room Canvas.canvas|Bunk Room Canvas]]
+[[Bunk Room.canvas|Bunk Room Canvas]]
 The room where 

@@ -3,7 +3,7 @@
 		{
 			"id":"baf179734178b5af",
 			"type":"text",
-			"text":"You can trigger experiments on the laboratory, these experiments will increase the overall radiation for the week and will also allow you to gain permanent bonuses such as increased [[Allowance|allowance]], increased [[Stars|stars]] and even receive letters on the [[Mail Room Canvas.canvas|Mail Room]].",
+			"text":"You can trigger experiments on the laboratory, these experiments will increase the overall radiation for the week and will also allow you to gain permanent bonuses such as increased [[Allowance|allowance]], increased [[Stars|stars]] and even receive letters on the [[Mail Room.canvas|Mail Room]].",
 			"styleAttributes":{},
 			"x":-1300,
 			"y":-840,
@@ -13,7 +13,7 @@
 		{
 			"id":"81e69bed58c32398",
 			"type":"text",
-			"text":"After unlocking the [[Blackbridge Grotto Canvas.canvas|Blackbridge Grotto]], you receive a permanent upgrade that allows you to access an offline terminal, so you can trigger the Laboratory faster, so you can accumulate triggers faster.",
+			"text":"After unlocking the [[Blackbridge Grotto.canvas|Blackbridge Grotto]], you receive a permanent upgrade that allows you to access an offline terminal, so you can trigger the Laboratory faster, so you can accumulate triggers faster.",
 			"styleAttributes":{},
 			"x":-1300,
 			"y":-640,

@@ -102,15 +102,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/TODO Canvas.canvas",
+                "file": "canvas/rooms/002 - Entrance Hall.canvas",
                 "viewState": {
-                  "x": -597.1069182389938,
-                  "y": -107.29559748427673,
-                  "zoom": -0.46847675824030416
+                  "x": -626.7501025559197,
+                  "y": 959.8232151725001,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "TODO Canvas"
+              "title": "002 - Entrance Hall"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blue Prince.canvas",
+                "file": "canvas/rooms/002 - Entrance Hall.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blue Prince"
+              "title": "Backlinks for 002 - Entrance Hall"
             }
           },
           {
@@ -248,8 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,62 +260,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "72bbc870b96445c9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f2a59cb83929d6eb",
-        "type": "window",
-        "children": [
-          {
-            "id": "e140afe2c83ab0ee",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bb4c15be1b8b16ae",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "workplace/TODO.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "TODO"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2442,
-        "y": 29,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "62ddd88dd0ff782f",
   "lastOpenFiles": [
-    "0. New Files/Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade.canvas",
-    "1. TODO/TODO Canvas.canvas",
-    "workplace/My Notes.md",
+    "workplace/Rooms Found.md",
+    "notes/002 - Entrance Hall.md",
+    "canvas/rooms/002 - Entrance Hall.canvas",
+    "canvas/rooms/001 - Foundation, The.canvas",
+    "notes/003 - Spare Room.md",
+    "notes/001 - The Foundation.md",
+    "canvas/rooms/Grounds, The.canvas",
+    "canvas/rooms/Wine Cellar.canvas",
+    "canvas/letters/West Wing Hall Piece of Paper.canvas",
+    "canvas/info/Well.canvas",
+    "canvas/books/Drafting Strategy Volume 1.canvas",
+    "canvas/books/Gardener's Logbook.canvas",
+    "canvas/letters/Guest Bedroom Letter.canvas",
+    "canvas/books/The Fixed Stars - Constellations.canvas",
+    "canvas/letters",
+    "canvas/info",
+    "canvas/books",
+    "canvas/rooms",
+    "attachments/BLUE_PRINCE_I9hDZsvDoB.png",
     "workplace/TODO.md",
-    "1. TODO/continuous/Draft an Observatory whenever possible for the permanent bonuses.canvas",
-    "1. TODO/continuous/End the run on the Planetarium to receive two stars as a permanent resource.canvas",
-    "1. TODO/continuous/Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas",
-    "1. TODO/continuous/Prioritize permanent bonuses during normal runs.canvas",
-    "1. TODO/continuous/Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas",
-    "1. TODO/continuous/Use the Security room terminal to manipulate the Keycard System in your favor.canvas",
-    "1. TODO/continuous/Use the Office Terminal to spread Gold on rooms.canvas",
-    "1. TODO/continuous/Use Tomorrow Type rooms to boost the next day runs whenever possible.canvas",
-    "1. TODO/continuous/Do Experiments on Laboratory.canvas",
+    "workplace/My Notes.md",
     "1. TODO/continuous",
     "0. New Files/Order an Item through the Terminal.md",
     "notes/Stars.md",
@@ -338,27 +304,18 @@
     "attachments/BLUE_PRINCE_1gGn7wAZZ5.png",
     "attachments/BLUE_PRINCE_zhxODOouCj.png",
     "attachments/BLUE_PRINCE_5ah51Z75x4.png",
-    "attachments/BLUE_PRINCE_4YHU6GfPnH.png",
-    "workplace/Rooms Found.md",
     "attachments/BLUE_PRINCE_IYNBoXXByi.mp4",
     "notes/007 - Gallery.md",
     "notes/006 - Billiard Room.md",
-    "attachments/BLUE_PRINCE_Gjz9lCzg7G.mp4",
     "notes/020 - Ballroom.md",
     "notes/Reservoir.md",
     "notes/030 - Drafting Studio.md",
     "notes/Tomb.md",
     "notes/Water Fountain.md",
     "notes/Planetarium.md",
-    "notes/002 - Entrance Hall.md",
-    "attachments/BLUE_PRINCE_nkbfQMANvp.mp4",
     "notes/011 - Attic.md",
-    "notes/001 - The Foundation.md",
     "notes/Laundry Room.md",
-    "attachments/BLUE_PRINCE_eWAitpCBwu.mp4",
     "notes/Showroom.md",
-    "notes/Master Bedroom.md",
-    "notes/Secret Garden.md",
-    "attachments/BLUE_PRINCE_IZrShhmlD5.mp4"
+    "notes/Master Bedroom.md"
   ]
 }

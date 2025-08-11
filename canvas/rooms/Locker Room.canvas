@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3fe944597f3f9478","type":"text","text":"[[016 - Locker Room]]","x":-627,"y":-360,"width":250,"height":60},
+		{"id":"dd8f7678341cdcf7","type":"file","file":"attachments/BLUE_PRINCE_SV2e7iw7MZ.png","x":-627,"y":-260,"width":400,"height":225},
+		{"id":"4f919e234c164b99","type":"file","file":"attachments/BLUE_PRINCE_0EMEXnW7B9.png","x":-627,"y":0,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

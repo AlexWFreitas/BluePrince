@@ -1,1 +1,1 @@
-[[Schoolhouse Canvas.canvas|Schoolhouse Canvas]]
+[[Schoolhouse.canvas|Schoolhouse Canvas]]

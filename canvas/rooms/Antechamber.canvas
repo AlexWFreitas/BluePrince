@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"05410fbc38fd74b5","type":"file","file":"attachments/Pasted image 20250716212548.png","x":-620,"y":-260,"width":400,"height":225},
+		{"id":"311035d20229ccdb","type":"text","text":"[[Greenhouse]] Room","x":-545,"y":-360,"width":250,"height":60},
+		{"id":"f6e597cfc8af4ed9","type":"file","file":"attachments/BLUE_PRINCE_HYaUJoxAnC.png","x":-620,"y":-640,"width":400,"height":225},
+		{"id":"8d6ba755056e0340","type":"file","file":"attachments/BLUE_PRINCE_lZu1aedeox.png","x":-1420,"y":-700,"width":400,"height":225},
+		{"id":"3c797f9bb40b2958","type":"file","file":"attachments/BLUE_PRINCE_B3B7jdTBCv.png","x":-1420,"y":-442,"width":400,"height":225},
+		{"id":"9918c7c0f35443c5","type":"file","file":"attachments/BLUE_PRINCE_IByvC6htcF.png","x":-1840,"y":-442,"width":400,"height":225},
+		{"id":"a1c8768b1fcf5618","type":"file","file":"attachments/BLUE_PRINCE_Gjz9lCzg7G.mp4","x":-1820,"y":-147,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"54e7e06ea2240bdd","fromNode":"311035d20229ccdb","fromSide":"bottom","toNode":"05410fbc38fd74b5","toSide":"top"},
+		{"id":"9b4e9f3bf6e73eab","fromNode":"f6e597cfc8af4ed9","fromSide":"right","toNode":"05410fbc38fd74b5","toSide":"right"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

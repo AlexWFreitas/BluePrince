@@ -1,2 +1,2 @@
-[[Servant's Quarters Canvas.canvas|Servant's Quarters Canvas]]
+[[Servant's Quarters.canvas|Servant's Quarters Canvas]]
 

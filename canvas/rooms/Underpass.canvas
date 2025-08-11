@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"952b4717bf269caa","type":"text","text":"[[Inner Sanctum.canvas|Inner Sanctum Canvas]]","x":406,"y":745,"width":250,"height":60},
+		{"id":"9ec58b176c7e1a28","type":"text","text":"[[Reservoir.canvas|Reservoir Canvas]]","x":-649,"y":-249,"width":250,"height":60},
+		{"id":"d5d08937e0c8c9cf","type":"file","file":"attachments/BLUE_PRINCE_vqPlw6nY6R.png","x":-649,"y":-120,"width":400,"height":225},
+		{"id":"2751047bb487a171","type":"file","file":"attachments/BLUE_PRINCE_EpwABkRXV8.png","x":-560,"y":200,"width":400,"height":225},
+		{"id":"a6d805ecc7853848","type":"file","file":"attachments/BLUE_PRINCE_wLedSfYLNN.png","x":-80,"y":-60,"width":400,"height":225},
+		{"id":"c1a6f36b15cba7d0","type":"file","file":"attachments/BLUE_PRINCE_iHHRs4rvKM.png","x":-80,"y":-331,"width":400,"height":225},
+		{"id":"8c18295abf8e94af","type":"file","file":"attachments/BLUE_PRINCE_Ecy63Ikrgv.png","x":-60,"y":460,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"a4c4215b371e1ad2","fromNode":"d5d08937e0c8c9cf","fromSide":"top","toNode":"9ec58b176c7e1a28","toSide":"bottom"},
+		{"id":"42cb8ab14970a6ba","fromNode":"d5d08937e0c8c9cf","fromSide":"bottom","toNode":"2751047bb487a171","toSide":"top"},
+		{"id":"713bdea53eb914af","fromNode":"2751047bb487a171","fromSide":"right","toNode":"a6d805ecc7853848","toSide":"bottom"},
+		{"id":"fe204071714bcb4f","fromNode":"2751047bb487a171","fromSide":"right","toNode":"8c18295abf8e94af","toSide":"top"},
+		{"id":"d2304a436490cf00","fromNode":"8c18295abf8e94af","fromSide":"bottom","toNode":"952b4717bf269caa","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,2 +1,2 @@
-[[Pump Room Canvas.canvas|Pump Room Canvas]]
+[[Pump Room.canvas|Pump Room Canvas]]
 

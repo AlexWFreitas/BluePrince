@@ -1,3 +1,3 @@
-[[Billiard Room Canvas.canvas|Billiard Room Canvas]]
+[[Billiard Room.canvas|Billiard Room Canvas]]
 
 Has [[Darts]] puzzle.

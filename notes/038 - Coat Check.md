@@ -1,3 +1,3 @@
-[[Coat Check Canvas.canvas|Coat Check Canvas]]
+[[Coat Check.canvas|Coat Check Canvas]]
 
 

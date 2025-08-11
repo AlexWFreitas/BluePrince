@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8967f8d39e79c9f8","type":"file","file":"attachments/BLUE_PRINCE_DXc64Umfzz.png","x":-640,"y":-360,"width":400,"height":225},
+		{"id":"e540f3092fe12f7c","type":"file","file":"attachments/BLUE_PRINCE_MZxzGbVKx3.png","x":-640,"y":-100,"width":400,"height":225},
+		{"id":"de739663bbbc3459","type":"file","file":"attachments/BLUE_PRINCE_h4IrHFIvGt.png","x":-640,"y":160,"width":400,"height":225},
+		{"id":"9bc0717aa0438ab8","type":"text","text":"[[Basement.canvas|Basement Canvas]]","x":-565,"y":460,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"64ad26c222d4e5a2","fromNode":"de739663bbbc3459","fromSide":"bottom","toNode":"9bc0717aa0438ab8","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

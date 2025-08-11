@@ -1,2 +1,2 @@
-[[Conservatory Canvas.canvas|Conservatory Canvas]]
+[[Conservatory.canvas|Conservatory Canvas]]
 

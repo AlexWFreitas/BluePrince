@@ -1,1 +1,1 @@
-[[Gymnasium Canvas.canvas|Gymnasium Canvas]]
+[[Gymnasium.canvas|Gymnasium Canvas]]

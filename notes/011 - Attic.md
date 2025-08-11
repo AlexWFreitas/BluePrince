@@ -1,2 +1,2 @@
-[[Attic Canvas.canvas|Attic Canvas]]
+[[Attic.canvas|Attic Canvas]]
 

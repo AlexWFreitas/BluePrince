@@ -5,5 +5,5 @@ It has a terminal that allows you to unlock the Time-locked Safe
 It has a Radiation Monitor too
 - If the radiation surpasses a certain level, all doors in the mansion will be unlocked.
 
-[[Shelter Canvas.canvas|Shelter Canvas]]
+[[Shelter.canvas|Shelter Canvas]]
 

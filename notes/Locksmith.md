@@ -1,3 +1,3 @@
 
-[[Locksmith Canvas.canvas|Locksmith Canvas]]
+[[Locksmith.canvas|Locksmith Canvas]]
 

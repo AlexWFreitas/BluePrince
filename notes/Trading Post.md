@@ -1,1 +1,1 @@
-[[Trading Post Canvas.canvas|Trading Post Canvas]]
+[[Trading Post.canvas|Trading Post Canvas]]

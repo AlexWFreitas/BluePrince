@@ -1,2 +1,2 @@
-[[Well Canvas.canvas|Well Canvas]]
+[[Well.canvas|Well Canvas]]
 

@@ -75,10 +75,10 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Commissary]]
 [[Kitchen]]
 [[Locksmith]]
-[[Bookshop Canvas.canvas|Bookshop]]
+[[Bookshop.canvas|Bookshop]]
 [[Showroom]]
 [[Laundry Room]]
-[[Mount Holly Gift Shop Canvas.canvas|Mount Holly Gift Shop]]
+[[Mount Holly Gift Shop.canvas|Mount Holly Gift Shop]]
 ## Red Rooms
 [[Lavatory]]
 [[Chapel]]
@@ -112,5 +112,5 @@ Remember to write the rank of each room, to discover if they are fixed.
 [[Apple Orchard]]
 [[Well]]
 [[The Precipice]]
-[[Blackbridge Grotto Canvas.canvas|Blackbridge Grotto]]
+[[Blackbridge Grotto.canvas|Blackbridge Grotto]]
 

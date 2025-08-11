@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"2fbab36931a8edb1","type":"file","file":"attachments/BLUE_PRINCE_InI9BSpuSi.png","x":-600,"y":-400,"width":400,"height":225},
+		{"id":"42ac9329bc3029b2","type":"file","file":"attachments/BLUE_PRINCE_Wkus3Sy2gy.png","x":-180,"y":-400,"width":400,"height":225},
+		{"id":"81094c90fd22ef92","type":"file","file":"attachments/BLUE_PRINCE_VTKr5lOpdk.png","x":-1260,"y":-695,"width":400,"height":225},
+		{"id":"a4304b2a4ef373b5","type":"file","file":"attachments/BLUE_PRINCE_OKyNGBrwW6.png","x":-1260,"y":-435,"width":400,"height":225},
+		{"id":"74038f534fa8b4f7","type":"file","file":"attachments/BLUE_PRINCE_3GG6JuZgK5.png","x":-1260,"y":-175,"width":400,"height":225},
+		{"id":"7d5c732826332f4b","type":"file","file":"attachments/BLUE_PRINCE_Iaz7cTBAgc.png","x":-600,"y":-140,"width":400,"height":225},
+		{"id":"b58539a440f5fd6d","type":"file","file":"attachments/BLUE_PRINCE_HCVlig5sxC.png","x":-180,"y":-140,"width":400,"height":225},
+		{"id":"ef0fa7292affb0fe","type":"file","file":"attachments/BLUE_PRINCE_0gfWTMBpQo.png","x":-600,"y":120,"width":400,"height":225},
+		{"id":"6f87d07afbfd8ab2","type":"file","file":"attachments/BLUE_PRINCE_FRLBtu2uMd.png","x":-180,"y":120,"width":400,"height":225},
+		{"id":"df2a63770ee93070","type":"file","file":"attachments/BLUE_PRINCE_eD22Xpt3sO.png","x":-600,"y":380,"width":400,"height":225},
+		{"id":"5d0a892dc95bca18","type":"file","file":"attachments/BLUE_PRINCE_T0yUXtQgaM.png","x":-180,"y":380,"width":400,"height":225},
+		{"id":"e00068121bce51c5","type":"file","file":"attachments/BLUE_PRINCE_Fjqy2o0AHN.png","x":-600,"y":640,"width":400,"height":225},
+		{"id":"f5009bfb6f31d2ab","type":"file","file":"attachments/BLUE_PRINCE_P4RBsEqgV3.png","x":-179,"y":640,"width":400,"height":225},
+		{"id":"b99e1681d55be9d7","type":"text","text":"Red\nMartial\nFog\nRe---?","x":-58,"y":921,"width":250,"height":179},
+		{"id":"a22529b7215d4529","type":"file","file":"attachments/BLUE_PRINCE_Z1bDESFQrA.png","x":-1240,"y":240,"width":180,"height":400},
+		{"id":"da307cbe0342a809","type":"file","file":"attachments/BLUE_PRINCE_yFnn13AEhz.png","x":-2200,"y":-62,"width":400,"height":225},
+		{"id":"cffe72601ee624bb","type":"text","text":"Power Hammer - [[Items.canvas|Items]]","x":-2125,"y":233,"width":250,"height":60},
+		{"id":"b30bcaae4c3595c3","type":"file","file":"attachments/BLUE_PRINCE_jMYaGVCGk7.png","x":-2640,"y":38,"width":400,"height":225},
+		{"id":"31e0afeeff38e959","type":"file","file":"attachments/BLUE_PRINCE_45iDUn5RGF.png","x":-2277,"y":468,"width":805,"height":453}
+	],
+	"edges":[
+		{"id":"b02d955c37416a88","fromNode":"cffe72601ee624bb","fromSide":"top","toNode":"da307cbe0342a809","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,4 +1,4 @@
-[[Office Room Canvas.canvas|Office Room Canvas]]
+[[Office Room.canvas|Office Room Canvas]]
 
 Contains a upgrade floppy disk that can be used on a terminal to upgrade the rooms. (permanently consumed)
 
