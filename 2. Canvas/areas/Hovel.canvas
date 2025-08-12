@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"69aaf78297e5bd4d","type":"text","text":"[[Hovel]]","x":-518,"y":-341,"width":250,"height":60},
+		{"id":"cfa05379301e911c","type":"file","file":"99. attachments/BLUE_PRINCE_lKVlDbu5ey.png","x":-918,"y":-240,"width":400,"height":225},
+		{"id":"10578459f93f32e9","x":-480,"y":-240,"width":400,"height":225,"type":"file","file":"99. attachments/BLUE_PRINCE_esvK56FE5l.png"}
+	],
+	"edges":[]
+}

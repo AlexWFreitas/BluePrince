@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"6de5b66cfe18d28f","type":"file","file":"99. attachments/BLUE_PRINCE_lwJnK1mTw1.png","x":-660,"y":-320,"width":400,"height":225},
+		{"id":"112938f5b6868203","type":"text","text":"[[Planetarium]]","x":-660,"y":-420,"width":250,"height":60},
+		{"id":"697dc96cf4e9df4a","type":"text","text":"This floorplan can be found inside the Telescope of the Observatory","x":-660,"y":-60,"width":380,"height":80},
+		{"id":"03df3d96c0e81e66","type":"file","file":"99. attachments/BLUE_PRINCE_yutKvBh7wL.png","x":-660,"y":80,"width":400,"height":225},
+		{"id":"57764f7dcacaeaf9","type":"file","file":"99. attachments/BLUE_PRINCE_cOo8K5LEgr.png","x":-660,"y":340,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

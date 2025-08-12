@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"d7524dcdd05627d7","type":"file","file":"99. attachments/BLUE_PRINCE_qxi3gi4Grw.png","x":-580,"y":-180,"width":400,"height":225},
+		{"id":"5d39c89018bc27b0","type":"file","file":"99. attachments/BLUE_PRINCE_sKr1Qe0W6t.png","x":-1020,"y":-180,"width":400,"height":225},
+		{"id":"af883d47e67fb42d","type":"text","text":"1225","x":-705,"y":120,"width":250,"height":60},
+		{"id":"4c49a8c22e9fd290","type":"file","file":"99. attachments/BLUE_PRINCE_U532rGlOsy.png","x":-120,"y":-180,"width":400,"height":225},
+		{"id":"6923074af345d563","type":"file","file":"99. attachments/BLUE_PRINCE_sBHJP4JbyZ 1.png","x":-980,"y":260,"width":400,"height":225},
+		{"id":"88247bb9f23d2091","type":"file","file":"99. attachments/BLUE_PRINCE_mXg4FPAdmC.png","x":-540,"y":260,"width":400,"height":225},
+		{"id":"ef6485dfa907e7a5","type":"file","file":"99. attachments/BLUE_PRINCE_1mQsvIHU7y.png","x":-980,"y":520,"width":400,"height":225},
+		{"id":"aa30eef159208b74","type":"file","file":"99. attachments/BLUE_PRINCE_QC5ybnHojp.png","x":-540,"y":520,"width":400,"height":225},
+		{
+			"id":"cce831ab288dff93",
+			"type":"text",
+			"text":"# Room Info\n\nContains a safe with the fourth [[Red Letters.canvas|Red Letter]] and a red gem.",
+			"styleAttributes":{},
+			"x":-1020,
+			"y":-500,
+			"width":520,
+			"height":140
+		}
+	],
+	"edges":[
+		{"id":"d600f3ded1a7efef","fromNode":"af883d47e67fb42d","fromSide":"left","toNode":"5d39c89018bc27b0","toSide":"bottom"},
+		{"id":"cce83dc1fda9b0f2","fromNode":"af883d47e67fb42d","fromSide":"right","toNode":"d7524dcdd05627d7","toSide":"bottom"},
+		{"id":"a7606e2996fce254","fromNode":"d7524dcdd05627d7","fromSide":"right","toNode":"4c49a8c22e9fd290","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

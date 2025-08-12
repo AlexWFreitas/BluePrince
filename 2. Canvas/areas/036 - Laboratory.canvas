@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"5aefecad1f86d94d","type":"file","file":"99. attachments/BLUE_PRINCE_fGdui35FUM.jpg","x":-600,"y":-380,"width":400,"height":225},
+		{"id":"1886b645653ee708","type":"file","file":"99. attachments/BLUE_PRINCE_5ZZ9ecbpJd.jpg","x":-160,"y":-380,"width":400,"height":225},
+		{"id":"e025033b3d8cc5bc","type":"file","file":"99. attachments/BLUE_PRINCE_P6qc8ebmdm.jpg","x":-600,"y":-120,"width":400,"height":225},
+		{"id":"3627629789c2f9f5","type":"file","file":"99. attachments/BLUE_PRINCE_tPGiRty51G.jpg","x":-160,"y":-120,"width":400,"height":225},
+		{"id":"a27bad9dbe66feb3","type":"file","file":"99. attachments/BLUE_PRINCE_TJyfDsm9oW.jpg","x":-600,"y":140,"width":400,"height":225},
+		{"id":"1b171f5d6372d0f0","type":"file","file":"99. attachments/BLUE_PRINCE_xvHialYmxo.jpg","x":280,"y":-120,"width":400,"height":225},
+		{"id":"1e86b3d4685839cd","type":"file","file":"99. attachments/BLUE_PRINCE_fulwQ6rVKq.jpg","x":280,"y":-400,"width":400,"height":225},
+		{"id":"6284786aad00f7c2","type":"file","file":"99. attachments/BLUE_PRINCE_BqriyS75dp.jpg","x":280,"y":140,"width":400,"height":225},
+		{"id":"3c61ee51d5f0131d","type":"file","file":"99. attachments/BLUE_PRINCE_M03XzGgcMV.jpg","x":-160,"y":140,"width":400,"height":225},
+		{"id":"bae38b04514303b9","type":"text","text":"Missing Elements are:\n- Lanthanum - 57\n- Actinium - 89","x":-633,"y":402,"width":250,"height":140},
+		{"id":"a7bb1cd4acec6fc2","type":"text","text":"Pu - Plutonium - 94\nS - Sulfur - 16\nH - Hydrogen - 1\nTh - Thorium - 90\nRe - Rhenium - 75\nEu - Europium - 63\nPa - Protactinium - 91\nF - Fluorine - 9\nTe - Tellurium - 52\nRn - Radon - 86\nI - Iodine - 53\nNe - Neon - 10\n\n","x":-20,"y":442,"width":250,"height":518},
+		{"id":"423ba27724c44130","type":"text","text":"Pu-S-H\nTh-ReE\nu-P\na-F-Te-R\nn-I-Ne\n","x":-325,"y":462,"width":250,"height":160},
+		{"id":"652dd4043f2bb5be","type":"file","file":"99. attachments/BLUE_PRINCE_Pjkmnbcq4u.png","x":-525,"y":1060,"width":400,"height":225},
+		{"id":"cd3dd40c0de7fc41","type":"file","file":"99. attachments/BLUE_PRINCE_7Qy86TPEPL.png","x":-1000,"y":701,"width":400,"height":225},
+		{"id":"8e5bb54871a02ef1","type":"file","file":"99. attachments/BLUE_PRINCE_E0x4u5Y6T0.png","x":-508,"y":735,"width":400,"height":225},
+		{"id":"52cf17b9136da8ef","type":"file","file":"99. attachments/BLUE_PRINCE_XZPTv6iwFM.png","x":-1000,"y":1020,"width":400,"height":225},
+		{"id":"6f5bcfc3492b4eac","type":"file","file":"99. attachments/BLUE_PRINCE_RNznlpa0f7.png","x":1040,"y":-267,"width":400,"height":225},
+		{"id":"b332efcb8bd57857","type":"file","file":"99. attachments/BLUE_PRINCE_vIR5IvBN0X.png","x":1480,"y":-267,"width":400,"height":310},
+		{"id":"e7fff16ea8a561e9","type":"file","file":"99. attachments/BLUE_PRINCE_oM60A3XnON 1.png","x":1040,"y":105,"width":400,"height":225},
+		{"id":"787f34531626c45d","type":"file","file":"99. attachments/BLUE_PRINCE_PgkFoOoaVG.png","x":1480,"y":105,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"b6e7b767e1fcea9e","toFloating":false,"fromNode":"423ba27724c44130","fromSide":"top","toNode":"a27bad9dbe66feb3","toSide":"bottom"},
+		{"id":"5c876bf6e9ae0b64","fromNode":"423ba27724c44130","fromSide":"top","toNode":"3c61ee51d5f0131d","toSide":"bottom"},
+		{"id":"995f738f78d8addf","fromNode":"423ba27724c44130","fromSide":"bottom","toNode":"8e5bb54871a02ef1","toSide":"top"},
+		{"id":"21b4e56422ef7e99","fromNode":"cd3dd40c0de7fc41","fromSide":"bottom","toNode":"52cf17b9136da8ef","toSide":"top"},
+		{"id":"56535bc4c402088b","fromNode":"8e5bb54871a02ef1","fromSide":"bottom","toNode":"652dd4043f2bb5be","toSide":"top"},
+		{"id":"53f9fbe6d1ea50bc","fromNode":"cd3dd40c0de7fc41","fromSide":"right","toNode":"8e5bb54871a02ef1","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

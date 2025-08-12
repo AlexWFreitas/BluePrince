@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"80ed3bd5a5148a1c","type":"file","file":"99. attachments/BLUE_PRINCE_f1Opql70VW.jpg","x":-460,"y":-180,"width":400,"height":225},
+		{"id":"fd6caa60ac24678e","type":"file","file":"99. attachments/BLUE_PRINCE_vA5tf2OCJM.jpg","x":-20,"y":-180,"width":400,"height":225},
+		{"id":"155a29878f74f136","type":"file","file":"99. attachments/BLUE_PRINCE_UUzerihxeg.jpg","x":420,"y":-180,"width":400,"height":225},
+		{"id":"7c05341a29228c98","type":"file","file":"99. attachments/BLUE_PRINCE_sXKflUDYN7.jpg","x":-460,"y":80,"width":400,"height":225},
+		{"id":"68981c26aa38bb05","type":"file","file":"99. attachments/BLUE_PRINCE_9qwjMgCTzn 1.jpg","x":-20,"y":80,"width":400,"height":225},
+		{"id":"1dc82de33142cf85","type":"file","file":"99. attachments/BLUE_PRINCE_CNTPoJjbgl.jpg","x":420,"y":80,"width":400,"height":225},
+		{"id":"f7739b57b763045e","type":"file","file":"99. attachments/BLUE_PRINCE_cI8JpvB6O6.jpg","x":-460,"y":360,"width":400,"height":225},
+		{"id":"a0ebe7c2b254f530","type":"file","file":"99. attachments/BLUE_PRINCE_44BG3WEJPW.jpg","x":-20,"y":360,"width":400,"height":225},
+		{"id":"47422e9d3391e534","type":"file","file":"99. attachments/BLUE_PRINCE_M0PLim6Sb5.jpg","x":420,"y":360,"width":400,"height":225},
+		{"id":"998e0b4a0385f208","type":"file","file":"99. attachments/BLUE_PRINCE_y4IPPoPwCy.jpg","x":-460,"y":640,"width":400,"height":225},
+		{"id":"a9a25eef204d5c75","type":"file","file":"99. attachments/BLUE_PRINCE_Q3Z5zKGU26.jpg","x":420,"y":640,"width":400,"height":225},
+		{"id":"39ae52a06df9c78c","type":"file","file":"99. attachments/BLUE_PRINCE_ubHxexboKN.jpg","x":-460,"y":920,"width":400,"height":225},
+		{"id":"bc611143800ce2e1","type":"file","file":"99. attachments/BLUE_PRINCE_sYwzpF9U6n.png","x":1140,"y":1120,"width":400,"height":225},
+		{"id":"7daa855e589b3316","type":"file","file":"99. attachments/BLUE_PRINCE_Kx1VfRiQfH.jpg","x":700,"y":1120,"width":400,"height":225},
+		{
+			"id":"b4759ee7293252df",
+			"type":"text",
+			"text":"Contains a upgrade floppy disk that can be used on a terminal to permanently upgrade one of the draftable rooms in the game. (permanently consumed)\n\nYou can access the [[Terminals.canvas|Terminal]] here to spread gold over the rooms and also activate the payroll, while also accessing generic terminal functions.\n\nYou can also use other [[Terminals.canvas|Terminals]] functions, if you have access to them and also do generic terminal things.",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-540,
+			"width":560,
+			"height":277
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

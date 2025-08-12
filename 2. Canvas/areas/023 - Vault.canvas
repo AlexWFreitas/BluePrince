@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"09dafee8a05cd3eb","type":"text","text":"[[023 - Vault]]","x":-680,"y":-440,"width":250,"height":60},
+		{"id":"46b7ac045d57855e","type":"file","file":"99. attachments/BLUE_PRINCE_VBT9Mqkqzd.png","x":-680,"y":-340,"width":400,"height":225},
+		{"id":"caa28305fc96b686","type":"file","file":"99. attachments/BLUE_PRINCE_XdYCyRCgsT.png","x":-680,"y":-80,"width":400,"height":225},
+		{"id":"a5987b0a94f00053","type":"file","file":"99. attachments/BLUE_PRINCE_hmHCWq0aH4 1.png","x":-260,"y":-80,"width":400,"height":225},
+		{"id":"5fc97c0038c0cbd0","type":"file","file":"99. attachments/BLUE_PRINCE_f12U2lzJX4.png","x":-680,"y":180,"width":400,"height":225},
+		{"id":"3fe7dd6a7eb6a017","type":"file","file":"99. attachments/BLUE_PRINCE_Qgz5cE5hPx.png","x":-260,"y":180,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{
+			"id":"edccb8ffc3d49c98",
+			"type":"text",
+			"text":"# Room Info\n\nThis room makes you more likely to draw Red Rooms in the current run.",
+			"styleAttributes":{},
+			"x":-820,
+			"y":-640,
+			"width":480,
+			"height":180
+		},
+		{"id":"dd48af393e8fc9d5","type":"file","file":"99. attachments/BLUE_PRINCE_H9XDpTTtYc.png","x":-820,"y":-420,"width":400,"height":225},
+		{"id":"ec7a1c6a80dbb5be","type":"text","text":"If powered by the Boiler Room, this allows you to forge one normal key from the Furnace","x":-340,"y":-420,"width":383,"height":101}
+	],
+	"edges":[
+		{"id":"a325186d8a9baa9e","toFloating":false,"fromFloating":false,"fromNode":"ec7a1c6a80dbb5be","fromSide":"left","toNode":"dd48af393e8fc9d5","toSide":"right"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

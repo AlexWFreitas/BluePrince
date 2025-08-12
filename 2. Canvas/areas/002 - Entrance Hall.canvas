@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"48f09970116ecc36","type":"file","file":"99. attachments/BLUE_PRINCE_0DPeeVp7F4.png","x":-980,"y":-400,"width":400,"height":225},
+		{"id":"69175857aa3f20c8","type":"file","file":"99. attachments/BLUE_PRINCE_qH9CVrQDWp.png","x":-980,"y":-120,"width":400,"height":225},
+		{"id":"ccaf5c73748ae5bd","type":"file","file":"99. attachments/BLUE_PRINCE_NNYRsDTt19.png","x":-540,"y":-200,"width":400,"height":225},
+		{"id":"1b78463b19b28bd0","type":"file","file":"99. attachments/BLUE_PRINCE_YMh1kzi22F.png","x":-540,"y":40,"width":400,"height":225},
+		{"id":"40083fabd9460048","type":"file","file":"99. attachments/BLUE_PRINCE_LKUWT1ay62.png","x":-120,"y":-200,"width":400,"height":225},
+		{"id":"4658e8dd7a27cca7","type":"file","file":"99. attachments/BLUE_PRINCE_T3MJvvZ26b.png","x":-120,"y":40,"width":400,"height":225},
+		{"id":"9d1db076ea3d64b3","type":"file","file":"99. attachments/BLUE_PRINCE_ww9llDjhhh.png","x":-120,"y":300,"width":400,"height":225},
+		{"id":"8a93ceeaf5f32e7c","type":"file","file":"99. attachments/BLUE_PRINCE_Oxcj9JF25m.png","x":-980,"y":153,"width":400,"height":225},
+		{"id":"e9f4aabe3799ba81","type":"file","file":"99. attachments/BLUE_PRINCE_lzlVv6jSJx.png","x":-980,"y":440,"width":400,"height":225},
+		{"id":"b39f336646c0f380","type":"file","file":"99. attachments/BLUE_PRINCE_Si8e7cY2bv.png","x":-980,"y":960,"width":400,"height":225},
+		{"id":"6fc9d253f85db8f2","type":"file","file":"99. attachments/BLUE_PRINCE_X2hUJ5B1Ur.png","x":-980,"y":1240,"width":400,"height":225},
+		{"id":"c346599baa06649d","type":"file","file":"99. attachments/BLUE_PRINCE_OOyFus3DJ3.png","x":-540,"y":960,"width":400,"height":225},
+		{"id":"c3fd7ceac9034369","type":"file","file":"99. attachments/BLUE_PRINCE_Hhb2fvi74O.png","x":-540,"y":1240,"width":400,"height":225},
+		{"id":"3f5d1b47bcb70fd1","type":"file","file":"99. attachments/BLUE_PRINCE_eomK83o6HK.png","x":-120,"y":1240,"width":400,"height":225},
+		{"id":"85afc34e9dfd8f08","type":"file","file":"99. attachments/BLUE_PRINCE_TPjF19PLCL.png","x":300,"y":1240,"width":400,"height":225},
+		{"id":"f38f708f6f3afef4","type":"file","file":"99. attachments/BLUE_PRINCE_b1Dluo8sld.png","x":-980,"y":1500,"width":400,"height":225},
+		{
+			"id":"bf1c2dd2ac079bec",
+			"type":"text",
+			"text":"Starting room, has three doors and connects to [[Grounds, The.canvas|The Grounds]]\n\nContains the [[Welcome Letter.canvas|Welcome Letter]]",
+			"styleAttributes":{},
+			"x":-1660,
+			"y":-400,
+			"width":420,
+			"height":140
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

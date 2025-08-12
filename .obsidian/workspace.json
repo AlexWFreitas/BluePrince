@@ -100,14 +100,17 @@
             "id": "62ddd88dd0ff782f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "workplace/My Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "2. Canvas/areas/Furnace.canvas",
+                "viewState": {
+                  "x": -305,
+                  "y": -337,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "My Notes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Furnace"
             }
           }
         ],
@@ -168,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 332.5
   },
   "right": {
     "id": "07be804e2b3975b5",
@@ -184,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workplace/My Notes.md",
+                "file": "2. Canvas/areas/Furnace.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My Notes"
+              "title": "Backlinks for Furnace"
             }
           },
           {
@@ -257,62 +260,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "685976cf733cd54d",
+  "active": "62ddd88dd0ff782f",
   "lastOpenFiles": [
-    "canvas/info/Permanent Resources.canvas",
-    "notes/Apple Orchard.md",
+    "3. Notes/Furnace.md",
+    "2. Canvas/areas/Furnace.canvas",
+    "2. Canvas/areas/Foyer.canvas",
+    "3. Notes/Foyer.md",
+    "3. Notes/East Wing Hall.md",
+    "2. Canvas/areas/East Wing Hall.canvas",
+    "3. Notes/Darts.md",
+    "2. Canvas/areas/006 - Billiard Room.canvas",
+    "3. Notes/Dark Room.md",
+    "2. Canvas/areas/Dark Room.canvas",
+    "3. Notes/Danny Revane.md",
+    "3. Notes/Courtyard.md",
+    "2. Canvas/areas/Courtyard.canvas",
+    "2. Canvas/areas/Corridor.canvas",
+    "3. Notes/Corridor.md",
+    "3. Notes/Conservatory.md",
+    "2. Canvas/areas/Conservatory.canvas",
+    "2. Canvas/info/Items.canvas",
+    "2. Canvas/info/Permanent Resources.canvas",
+    "3. Notes/Commissary.md",
+    "3. Notes/Cloister.md",
+    "attachments/Obsidian_bfxGV2fzOf.png",
+    "attachments",
+    "3. Notes/Classroom.md",
+    "3. Notes/Christoph.md",
+    "3. Notes/Allowance.md",
+    "2. Canvas/characters",
+    "3. Notes/Chapel.md",
+    "3. Notes/Campsite.md",
+    "3. Notes/Bunk Room.md",
+    "3. Notes/Boudoir.md",
+    "3. Notes/Blue Fire Puzzle.md",
+    "3. Notes/Bedroom.md",
+    "3. Notes/Archives.md",
+    "3. Notes/Apple Orchard.md",
+    "4. Workplace/My Notes.md",
     "notes/Antechamber Puzzle.md",
-    "canvas/rooms/045 - Antechamber.canvas",
-    "notes/Allowance.md",
     "notes/Abandoned Mine.md",
-    "notes/46th Room.md",
-    "notes/046 - Room 46.md",
-    "canvas/rooms/046 - Room 46.canvas",
-    "notes/045 - Antechamber.md",
-    "notes/044 - Aquarium.md",
-    "canvas/rooms/044 - Aquarium.canvas",
-    "notes/043 - Conference Room.md",
-    "canvas/rooms/043 - Conference Room.canvas",
-    "notes/042 - Observatory.md",
-    "canvas/rooms/042 - Observatory.canvas",
-    "notes/041 - Dining Room.md",
-    "canvas/rooms/041 - Dining Room.canvas",
-    "notes/040 - Freezer.md",
-    "canvas/rooms/040 - Freezer.canvas",
-    "notes/039 - Mail Room.md",
-    "canvas/rooms/039 - Mail Room.canvas",
-    "canvas/rooms/038 - Coat Check.canvas",
-    "notes/038 - Coat Check.md",
-    "notes/037 - Sauna.md",
-    "notes/036 - Laboratory.md",
-    "notes/035 - Workshop.md",
-    "notes/034 - Security.md",
-    "notes/033 - Pump Room.md",
-    "notes/032 - Boiler Room.md",
-    "notes/031 - Utility Closet.md",
-    "notes/030 - Drafting Studio.md",
-    "notes/029 - The Pool.md",
-    "notes/027 - Library.md",
-    "notes/026 - Study.md",
-    "canvas/papers",
-    "canvas/info",
-    "canvas/books",
-    "canvas/rooms",
-    "attachments/BLUE_PRINCE_I9hDZsvDoB.png",
+    "2. Canvas/papers",
+    "2. Canvas/info",
+    "2. Canvas/books",
+    "2. Canvas/areas",
+    "99. attachments/BLUE_PRINCE_I9hDZsvDoB.png",
     "1. TODO/continuous",
     "0. New Files",
     "1. TODO/entry",
     "1. TODO/done",
-    "1. TODO",
-    "attachments/BLUE_PRINCE_rIsCgcdEKF.png",
-    "attachments/BLUE_PRINCE_VAH7dZkwQQ.png",
-    "attachments/BLUE_PRINCE_YBmqCpGmR8.png",
-    "attachments/BLUE_PRINCE_4ffbJQqFq6.png",
-    "attachments/BLUE_PRINCE_fThMMyLOOR.png",
-    "attachments/BLUE_PRINCE_9KocYSBtO7.png",
-    "attachments/BLUE_PRINCE_1gGn7wAZZ5.png",
-    "attachments/BLUE_PRINCE_zhxODOouCj.png",
-    "attachments/BLUE_PRINCE_5ah51Z75x4.png",
-    "attachments/BLUE_PRINCE_IYNBoXXByi.mp4"
+    "99. attachments/BLUE_PRINCE_rIsCgcdEKF.png",
+    "99. attachments/BLUE_PRINCE_VAH7dZkwQQ.png",
+    "99. attachments/BLUE_PRINCE_YBmqCpGmR8.png",
+    "99. attachments/BLUE_PRINCE_4ffbJQqFq6.png",
+    "99. attachments/BLUE_PRINCE_fThMMyLOOR.png",
+    "99. attachments/BLUE_PRINCE_9KocYSBtO7.png",
+    "99. attachments/BLUE_PRINCE_1gGn7wAZZ5.png",
+    "99. attachments/BLUE_PRINCE_zhxODOouCj.png"
   ]
 }

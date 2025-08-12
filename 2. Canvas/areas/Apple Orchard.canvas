@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"e1cb4814fed6a24b",
+			"type":"text",
+			"text":"# Room Info\n\nArea outside the Mansion, has a number lock where the password is in a photo in the [[Dark Room]] when viewed with the Magnifier Item\n\nHas a valve that can be turned to enable one of the four fires in the [[Blue Fire Puzzle]]\n\nThe password is 1128\n\nHas the [[Gardener's Logbook.canvas|Gardener's Logbook]].",
+			"styleAttributes":{},
+			"x":-859,
+			"y":-760,
+			"width":560,
+			"height":380
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{
+			"id":"9c08abaf08468ade",
+			"type":"text",
+			"text":"# Room Info\n\nA room that has the Darts minigame.",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-460,
+			"width":400,
+			"height":140
+		},
+		{"id":"4634a2435da24ae2","type":"file","file":"99. attachments/BLUE_PRINCE_C5jo2FbN5a.jpg","x":-500,"y":-280,"width":400,"height":225},
+		{
+			"id":"ebbf71f2148320d8",
+			"type":"text",
+			"text":"# Darts\n\nThe Darts mini game is about following a sequence of mathematical operations based on the distance from the center.\n\nThe order is +, -, *, /.",
+			"styleAttributes":{},
+			"x":-60,
+			"y":-460,
+			"width":520,
+			"height":244
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

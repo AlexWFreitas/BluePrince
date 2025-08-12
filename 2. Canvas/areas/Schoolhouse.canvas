@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"8449601aa5d7756a","type":"text","text":"[[Schoolhouse]]","x":-709,"y":-428,"width":250,"height":60},
+		{"id":"3c32537f6f936466","type":"file","file":"99. attachments/BLUE_PRINCE_5IzroK1S5X.png","x":-709,"y":-340,"width":400,"height":225},
+		{"id":"1b085dd93de52f0f","type":"file","file":"99. attachments/BLUE_PRINCE_Dz3dN8GqIT.png","x":-280,"y":-340,"width":400,"height":225},
+		{"id":"4a45fc2e6a4147a9","type":"file","file":"99. attachments/BLUE_PRINCE_7GJreV08eM.png","x":-709,"y":-80,"width":400,"height":225},
+		{"id":"794a04c531e26c89","type":"file","file":"99. attachments/BLUE_PRINCE_778KihH7IL.png","x":620,"y":60,"width":400,"height":225},
+		{"id":"46901731adcc0cc2","type":"file","file":"99. attachments/BLUE_PRINCE_OF75KMu87O.png","x":200,"y":60,"width":400,"height":225},
+		{"id":"cccd04fc9cda7c87","type":"file","file":"99. attachments/BLUE_PRINCE_SCRBsScY3X.png","x":-280,"y":-80,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

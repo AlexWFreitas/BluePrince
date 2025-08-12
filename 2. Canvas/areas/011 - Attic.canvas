@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"5d87357ef3ac5dc3","type":"file","file":"99. attachments/BLUE_PRINCE_4rEwqvczJf.png","x":-640,"y":-280,"width":400,"height":225},
+		{"id":"3ecc82b1fd8622fb","type":"text","text":"[[011 - Attic]]","x":-640,"y":-380,"width":250,"height":60},
+		{"id":"fdb937e95d52dd6d","type":"file","file":"99. attachments/BLUE_PRINCE_kequvpoxtt.png","x":-640,"y":0,"width":400,"height":225},
+		{"id":"ed8ff76f7d74685e","type":"file","file":"99. attachments/BLUE_PRINCE_120Bcfofph.png","x":-200,"y":0,"width":400,"height":225},
+		{"id":"5893ac52bfdf643d","type":"file","file":"99. attachments/BLUE_PRINCE_5IdCgTyXRr.png","x":-640,"y":260,"width":400,"height":225},
+		{"id":"e1d15719679f50ff","type":"file","file":"99. attachments/BLUE_PRINCE_NsyDLvp2kU.png","x":-200,"y":260,"width":400,"height":225},
+		{"id":"461f9b38ee3cd959","type":"file","file":"99. attachments/BLUE_PRINCE_RVpKeT9gRB.png","x":-640,"y":520,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

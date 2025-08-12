@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"fe845ff31e4947bc","type":"file","file":"99. attachments/BLUE_PRINCE_TGkOTn4xyP.jpg","x":-520,"y":-180,"width":400,"height":225},
+		{"id":"8f66f7ce002472ab","type":"file","file":"99. attachments/BLUE_PRINCE_e4inw8rdxg.jpg","x":-960,"y":-180,"width":400,"height":225},
+		{"id":"0012618e95351c2a","type":"file","file":"99. attachments/BLUE_PRINCE_vS4dwQo0kQ.jpg","x":-960,"y":80,"width":400,"height":225},
+		{
+			"id":"23da4a49be6e3d27",
+			"type":"text",
+			"text":"Can combine multiple simple items into a complex item.\n\nUsually has a Sledgehammer on the table.\n\nContains the 8th music sheet related to the [[015 - Music Room.canvas|015 - Music Room]] word puzzle.",
+			"styleAttributes":{},
+			"x":-1020,
+			"y":-500,
+			"width":420,
+			"height":220
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

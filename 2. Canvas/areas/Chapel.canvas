@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"67943550505534d7","type":"text","text":"Rynna - 1","x":635,"y":-180,"width":250,"height":60},
+		{"id":"36eb96811733cbff","type":"file","file":"99. attachments/BLUE_PRINCE_npM5Vn7Jn5.png","x":-800,"y":640,"width":400,"height":225},
+		{"id":"fa36d80576c1fb59","type":"file","file":"99. attachments/BLUE_PRINCE_ugVtFBBsTQ.png","x":-300,"y":640,"width":400,"height":225},
+		{"id":"bf9d914822e5e32b","type":"file","file":"99. attachments/BLUE_PRINCE_r9DCHLn6Ih.png","x":360,"y":-1120,"width":400,"height":225},
+		{"id":"534a28762a366ddd","type":"text","text":"Burning Glass on Candles [[Items.canvas|Items]]","x":394,"y":-840,"width":333,"height":86},
+		{"id":"fc2bc19a97d5416f","type":"file","file":"99. attachments/BLUE_PRINCE_DmtP7Ot73y.png","x":810,"y":-1120,"width":400,"height":225},
+		{"id":"fb68a6e35599da16","type":"file","file":"99. attachments/BLUE_PRINCE_ZgmRhbvrO0.png","x":1240,"y":-1120,"width":400,"height":225},
+		{
+			"id":"ae098633cc0fd836",
+			"type":"text",
+			"text":"# Room Info\n\nA red room that makes you lose gold everytime you enter it.\n\nThere are seven angels on the glass windows.\n\nAngel 1 - [[Rynna]] - [[Paragon of Gardening]]\nAngel 5 - Mila\nAngel 7 - Orynda\n\nIf you light the candles on the altar, it reveals a pig bank item, which allows you to retrieve all gold donated to the Chapel at once, by breaking the pig bank.\n",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-1234,
+			"width":600,
+			"height":374
+		},
+		{"id":"e7e6d98d975f99e4","type":"file","file":"99. attachments/Pasted image 20250716212028.png","x":560,"y":-452,"width":400,"height":225},
+		{"id":"02b2a1e71f993500","type":"file","file":"99. attachments/BLUE_PRINCE_95FIRT63Ou.png","x":1000,"y":-452,"width":400,"height":225},
+		{"id":"856e054c8afa632e","type":"text","text":"Mila - 5","x":1075,"y":-180,"width":250,"height":60},
+		{"id":"d7955e0f75ecbe90","type":"file","file":"99. attachments/Pasted image 20250716212049.png","x":760,"y":-80,"width":400,"height":225},
+		{"id":"e56607df8c0cb445","type":"text","text":"Orynda - 7","x":835,"y":200,"width":250,"height":60},
+		{"id":"aaca82840baf4e51","type":"file","file":"99. attachments/Pasted image 20250716211153.png","x":-100,"y":-677,"width":400,"height":225},
+		{"id":"1c60fcf588535212","type":"file","file":"99. attachments/BLUE_PRINCE_74UjOypE6d.png","x":-306,"y":35,"width":400,"height":225},
+		{"id":"084c16a278ad9a0e","type":"file","file":"99. attachments/BLUE_PRINCE_RJCO0ASMqt.png","x":-300,"y":320,"width":400,"height":225},
+		{"id":"809fa3e65e3c101b","type":"file","file":"99. attachments/BLUE_PRINCE_XeBhkf1PyB.png","x":-300,"y":-262,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"7d6a1d96cd2ad0d4","toFloating":false,"fromNode":"67943550505534d7","fromSide":"top","toNode":"e7e6d98d975f99e4","toSide":"bottom"},
+		{"id":"c74a74b783d3f840","fromNode":"e56607df8c0cb445","fromSide":"top","toNode":"d7955e0f75ecbe90","toSide":"bottom"},
+		{"id":"9e3a658c4d5110ae","fromNode":"856e054c8afa632e","fromSide":"top","toNode":"02b2a1e71f993500","toSide":"bottom"},
+		{"id":"ab990550edf61003","fromNode":"534a28762a366ddd","fromSide":"top","toNode":"bf9d914822e5e32b","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

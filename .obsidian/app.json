@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "attachments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "0. New Files",
+  "newFileFolderPath": "notes",
   "alwaysUpdateLinks": true,
   "spellcheck": false
 }

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"25730c39a62cbd0b","type":"file","file":"99. attachments/BLUE_PRINCE_fldcD2x5XW.png","x":-640,"y":-380,"width":400,"height":225},
+		{
+			"id":"dea42d70c56195ea",
+			"type":"text",
+			"text":"You can experiment with this room to enable the Boiler Room Generator permanently, while also opening the bridge that connects all sides of the room at once.\n\nThen you can use the Generator to send power through the power vents over rooms many steps away as long as the power vent line isn't broken and it connects on the correct side.",
+			"styleAttributes":{},
+			"x":-720,
+			"y":-100,
+			"width":460,
+			"height":260
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

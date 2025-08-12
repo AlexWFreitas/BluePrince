@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a16167bbf2aeda2d","type":"text","text":"[[Bookshop]]","x":-646,"y":-430,"width":250,"height":60},
+		{"id":"c466ca0f22685a84","type":"file","file":"99. attachments/BLUE_PRINCE_SevjvK7VEs.png","x":-646,"y":-320,"width":400,"height":225},
+		{"id":"4ad96528d1555cea","type":"file","file":"99. attachments/BLUE_PRINCE_bgWyl6yFly.png","x":-646,"y":-60,"width":400,"height":225},
+		{"id":"5269993c17c9b95e","type":"file","file":"99. attachments/BLUE_PRINCE_MbIn2N5vR6.png","x":-646,"y":200,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

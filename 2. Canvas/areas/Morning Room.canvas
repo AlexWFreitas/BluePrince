@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"533e4a6c1f1a47e3","type":"text","text":"[[Morning Room]]","x":-652,"y":-465,"width":250,"height":60},
+		{"id":"12c245e4b51080bf","type":"file","file":"99. attachments/BLUE_PRINCE_qFK4VhDeT5.png","x":-652,"y":-360,"width":400,"height":225},
+		{"id":"4dc25a33688d1477","type":"file","file":"99. attachments/BLUE_PRINCE_oMyPKGQGuI.png","x":-652,"y":-100,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

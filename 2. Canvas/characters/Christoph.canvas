@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"1a780169d9d0d41a",
+			"type":"text",
+			"text":"Supposedly the driver of the [[Mount Holly Estate]].\n\nSeems to have taken the car and gone to somewhere at least three times without permission.\n\nSupposedly has been dropping items in [[14227 Sandy Heights]] on a small garage on the south edge of [[Trinsdale]].\n\nSeems related to [[Danny Revane.canvas|Denny Revane]].",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-320,
+			"width":520,
+			"height":280
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

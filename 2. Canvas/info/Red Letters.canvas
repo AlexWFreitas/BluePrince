@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"58b9aba40e6211a2","type":"file","file":"99. attachments/BLUE_PRINCE_sUmlE58mjG.jpg","x":-520,"y":-220,"width":400,"height":225},
+		{"id":"7baab242fc646a89","type":"file","file":"99. attachments/BLUE_PRINCE_YRYFdMSvRz.jpg","x":-100,"y":-220,"width":400,"height":225},
+		{"id":"812a8427f9c2c012","type":"file","file":"99. attachments/BLUE_PRINCE_QFEBTrXvQU.jpg","x":-520,"y":40,"width":400,"height":225},
+		{"id":"d9ad5c079a4300f1","type":"file","file":"99. attachments/BLUE_PRINCE_OQ4XkLuyk8.jpg","x":-100,"y":40,"width":400,"height":225},
+		{"id":"02093041213afd50","type":"text","text":"May be related to the [[Ruby Crown Puzzle]]","x":-460,"y":-440,"width":250,"height":60},
+		{"id":"266ac69b1149d7a3","x":-1780,"y":-367,"width":400,"height":225,"type":"file","file":"99. attachments/BLUE_PRINCE_sBHJP4JbyZ 1.png"},
+		{"id":"999b772ab5e76481","x":-1340,"y":-367,"width":400,"height":225,"type":"file","file":"99. attachments/BLUE_PRINCE_mXg4FPAdmC.png"},
+		{"id":"7d0346da15302f54","x":-1780,"y":-107,"width":400,"height":225,"type":"file","file":"99. attachments/BLUE_PRINCE_1mQsvIHU7y.png"},
+		{"id":"365d1a54bc29d95a","x":-1340,"y":-107,"width":400,"height":225,"type":"file","file":"99. attachments/BLUE_PRINCE_QC5ybnHojp.png"}
+	],
+	"edges":[]
+}

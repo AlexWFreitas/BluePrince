@@ -1,0 +1,54 @@
+{
+	"nodes":[
+		{"id":"325d25b209fd0c39","type":"text","text":"Clock without Lock = C?","x":-725,"y":-199,"width":250,"height":60},
+		{"id":"2c4ff73cb93b6c56","type":"file","file":"99. attachments/Pasted image 20250716205055.png","x":-800,"y":-639,"width":400,"height":394},
+		{
+			"id":"f9032bade70a042b",
+			"type":"text",
+			"text":"[[With Without Puzzles.canvas|With Without Puzzles]]",
+			"styleAttributes":{},
+			"x":-730,
+			"y":-91,
+			"width":260,
+			"height":60
+		},
+		{"id":"728984a90818e437","type":"file","file":"99. attachments/Pasted image 20250716205300.png","x":-540,"y":40,"width":314,"height":400},
+		{"id":"dc9b9de4ec746039","type":"file","file":"99. attachments/Pasted image 20250716205145.png","x":-200,"y":40,"width":377,"height":400},
+		{"id":"1239c51ff75f764e","type":"file","file":"99. attachments/Pasted image 20250716205136.png","x":-200,"y":-323,"width":400,"height":309},
+		{
+			"id":"9187134159e6c393",
+			"type":"text",
+			"text":"The red message is a lie.",
+			"styleAttributes":{},
+			"x":-1140,
+			"y":-472,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{"id":"e7180dfb33ecd4ae","fromNode":"325d25b209fd0c39","fromSide":"top","toNode":"2c4ff73cb93b6c56","toSide":"bottom"},
+		{
+			"id":"92f9af272b4825de",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"325d25b209fd0c39",
+			"fromSide":"bottom",
+			"toNode":"f9032bade70a042b",
+			"toSide":"top"
+		},
+		{
+			"id":"7eecb1f5453dc7ca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9187134159e6c393",
+			"fromSide":"right",
+			"toNode":"2c4ff73cb93b6c56",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

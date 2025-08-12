@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"a6ed40c1515b5de8",
+			"type":"text",
+			"text":"# Room Info\nGreen room that has digging spots.\nSometimes has a locked chest or even an item.",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-280,
+			"width":400,
+			"height":200
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

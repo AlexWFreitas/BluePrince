@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"6c0dddd2e088f8bd","type":"file","file":"99. attachments/BLUE_PRINCE_o6OQ41lHfL.png","x":-680,"y":-420,"width":400,"height":225},
+		{"id":"46efcb5e3132d3e5","type":"text","text":"Secret Room found by digging near the White Trees on the Campsite with a Spade","x":-266,"y":-421,"width":346,"height":161},
+		{"id":"52d972e0037a2349","type":"file","file":"99. attachments/BLUE_PRINCE_Ycb8xubRul.png","x":-680,"y":-160,"width":400,"height":225},
+		{
+			"id":"33ca4400ff6aca1c",
+			"type":"text",
+			"text":"# Room Info\n\nAllows you to manipulate the rarity of three random rooms.\n\nAlso allows you to reset the rarity of rooms that had their rarity changed.",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-720,
+			"width":520,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

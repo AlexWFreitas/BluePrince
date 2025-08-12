@@ -1,1 +1,0 @@
-More likely to draw Red Rooms.

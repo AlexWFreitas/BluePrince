@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"085d86013697193f",
+			"type":"text",
+			"text":"# Room Info\n\n[[Apple Orchard.canvas|Apple Orchard]]\n[[Gemstone Cavern.canvas|Gemstone Cavern]]\n[[Hovel.canvas|Hovel]]\n[[School]]\n\nThis unlocks an Elevator that leads to [[The Precipice]]",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-340,
+			"width":580,
+			"height":460
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

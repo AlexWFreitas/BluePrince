@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5b8ddadbff3e24a4","type":"file","file":"99. attachments/BLUE_PRINCE_HyA8A7WRpq.png","x":-620,"y":-400,"width":400,"height":225},
+		{"id":"ef7ac17532d0eb7f","type":"file","file":"99. attachments/BLUE_PRINCE_nurxRSwaJu.png","x":-200,"y":-400,"width":400,"height":225},
+		{"id":"fa99e49bfbaaa2db","type":"file","file":"99. attachments/BLUE_PRINCE_g2HXRJmPKN.png","x":-200,"y":-140,"width":400,"height":225},
+		{"id":"2808d52f8c712f11","type":"file","file":"99. attachments/BLUE_PRINCE_xgBPmYHGbb.png","x":-1040,"y":-400,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
