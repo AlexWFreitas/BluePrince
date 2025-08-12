@@ -3,7 +3,7 @@
 		{
 			"id":"de76c1a3016c1884",
 			"type":"text",
-			"text":"# Numbered Rooms\n[[001 - The Foundation.canvas|001 - Foundation, The]]\n[[002 - Entrance Hall.canvas|002 - Entrance Hall]]\n[[003 - Spare Room.canvas|003 - Spare Room]]\n[[Rotu]]\n[[005 - Parlor]]\n[[006 - Billiard Room]]\n[[007 - Gallery]]\n[[009 - Closet]]\n[[010 - Walk-in Closet]]\n[[011 - Attic]]\n[[012 - Storeroom]]\n[[013 - Nook]]\n[[014 - Garage]]\n[[015 - Music Room]]\n[[016 - Locker Room]]\n[[017 - Den]]\n[[018 - Wine Cellar]]\n[[020 - Ballroom]]\n[[021 - Pantry]]\n[[022 - Rumpus Room]]\n[[023 - Vault]]\n[[024 - Office]]\n[[025 - Drawing Room]]\n[[026 - Study]]\n[[027 - Library]]\n[[029 - The Pool]]\n[[030 - Drafting Studio]]\n[[031 - Utility Closet]]\n[[032 - Boiler Room]]\n[[033 - Pump Room]]\n[[034 - Security]]\n[[035 - Workshop]]\n[[036 - Laboratory]]\n[[037 - Sauna]]\n[[038 - Coat Check]]\n[[039 - Mail Room]]\n[[040 - Freezer]]\n[[041 - Dining Room]]\n[[042 - Observatory]]\n[[043 - Conference Room]]\n[[044 - Aquarium]]\n[[045 - Antechamber]]\n[[046 - Room 46]]",
+			"text":"# Numbered Rooms\n[[001 - The Foundation.canvas|001 - Foundation, The]]\n[[002 - Entrance Hall.canvas|002 - Entrance Hall]]\n[[003 - Spare Room.canvas|003 - Spare Room]]\n[[004 - Rotunda.canvas|004 - Rotunda]]\n[[005 - Parlor.canvas|005 - Parlor]]\n[[006 - Billiard Room.canvas|006 - Billiard Room]]\n[[007 - Gallery.canvas|007 - Gallery]]\n[[009 - Closet.canvas|009 - Closet]]\n[[010 - Walk-in Closet.canvas|010 - Walk-in Closet]]\n[[011 - Attic.canvas|011 - Attic]]\n[[012 - Storeroom.canvas|012 - Storeroom]]\n[[013 - Nook.canvas|013 - Nook]]\n[[014 - Garage.canvas|014 - Garage]]\n[[015 - Music Room.canvas|015 - Music Room]]\n[[016 - Locker Room.canvas|016 - Locker Room]]\n[[017 - Den.canvas|017 - Den]]\n[[018 - Wine Cellar.canvas|018 - Wine Cellar]]\n[[020 - Ballroom.canvas|020 - Ballroom]]\n[[021 - Pantry.canvas|021 - Pantry]]\n[[022 - Rumpus Room.canvas|022 - Rumpus Room]]\n[[023 - Vault.canvas|023 - Vault]]\n[[024 - Office.canvas|024 - Office]]\n[[025 - Drawing Room.canvas|025 - Drawing Room]]\n[[026 - Study.canvas|026 - Study]]\n[[027 - Library.canvas|027 - Library]]\n[[029 - The Pool.canvas|029 - The Pool]]\n[[030 - Drafting Studio.canvas|030 - Drafting Studio]]\n[[031 - Utility Closet.canvas|031 - Utility Closet]]\n[[032 - Boiler Room.canvas|032 - Boiler Room]]\n[[033 - Pump Room.canvas|033 - Pump Room]]\n[[034 - Security.canvas|034 - Security]]\n[[035 - Workshop.canvas|035 - Workshop]]\n[[036 - Laboratory.canvas|036 - Laboratory]]\n[[037 - Sauna.canvas|037 - Sauna]]\n[[038 - Coat Check.canvas|038 - Coat Check]]\n[[039 - Mail Room.canvas|039 - Mail Room]]\n[[040 - Freezer.canvas|040 - Freezer]]\n[[041 - Dining Room.canvas|041 - Dining Room]]\n[[042 - Observatory.canvas|042 - Observatory]]\n[[043 - Conference Room.canvas|043 - Conference Room]]\n[[044 - Aquarium.canvas|044 - Aquarium]]\n[[045 - Antechamber.canvas|045 - Antechamber]]\n[[046 - Room 46.canvas|046 - Room 46]]",
 			"styleAttributes":{},
 			"x":-1040,
 			"y":-700,
@@ -13,7 +13,7 @@
 		{
 			"id":"b52c785ff196fffa",
 			"type":"text",
-			"text":"\n# Bedrooms\n[[Bedroom]]\n[[Boudoir]]\n[[Guest Bedroom]]\n[[Nursery]]\n[[Servant's Quarters]]\n[[Bunk Room]]\n[[Master Bedroom]]",
+			"text":"\n# Bedrooms\n[[Bedroom.canvas|Bedroom]]\n[[Boudoir.canvas|Boudoir]]\n[[Guest Bedroom.canvas|Guest Bedroom]]\n[[Nursery.canvas|Nursery]]\n[[Servant's Quarters.canvas|Servant's Quarters]]\n[[Bunk Room.canvas|Bunk Room]]\n[[Master Bedroom.canvas|Master Bedroom]]",
 			"styleAttributes":{},
 			"x":-640,
 			"y":-700,
@@ -23,47 +23,47 @@
 		{
 			"id":"c9499ff2d0f1c49d",
 			"type":"text",
-			"text":"# Hallways\n[[Hallway]]\n[[West Wing Hall]]\n[[East Wing Hall]]\n[[Corridor]]\n[[Passageway]]\n[[Secret Passage]]\n[[Great Hall]]\n[[Foyer]]",
+			"text":"# Hallways\n[[Hallway.canvas|Hallway]]\n[[West Wing Hall.canvas|West Wing Hall]]\n[[East Wing Hall.canvas|East Wing Hall]]\n[[Corridor.canvas|Corridor]]\n[[Passageway.canvas|Passageway]]\n[[Secret Passage.canvas|Secret Passage]]\n[[Great Hall.canvas|Great Hall]]\n[[Foyer.canvas|Foyer]]",
 			"styleAttributes":{},
 			"x":-360,
 			"y":-700,
 			"width":260,
-			"height":306
+			"height":360
 		},
 		{
 			"id":"d70bb5886ba1ea6f",
 			"type":"text",
-			"text":"# Green Rooms\n[[Terrace]]\n[[Patio]]\n[[Courtyard]]\n[[Greenhouse]]\n[[Cloister]]\n[[Morning Room]]\n[[Conservatory]]\n[[Secret Garden]]",
+			"text":"# Green Rooms\n[[Terrace.canvas|Terrace]]\n[[Patio.canvas|Patio]]\n[[Courtyard.canvas|Courtyard]]\n[[Greenhouse.canvas|Greenhouse]]\n[[Cloister.canvas|Cloister]]\n[[Morning Room.canvas|Morning Room]]\n[[Conservatory.canvas|Conservatory]]\n[[Secret Garden.canvas|Secret Garden]]",
 			"styleAttributes":{},
 			"x":-80,
 			"y":-700,
 			"width":300,
-			"height":347
+			"height":360
 		},
 		{
 			"id":"95d81622bb9e6c81",
 			"type":"text",
-			"text":"\n# Shops\n[[Commissary]]\n[[Kitchen]]\n[[Locksmith]]\n[[Bookshop.canvas|Bookshop]]\n[[Showroom]]\n[[Laundry Room]]\n[[Mount Holly Gift Shop.canvas|Mount Holly Gift Shop]]",
+			"text":"\n# Shops\n[[Commissary.canvas|Commissary]]\n[[Kitchen.canvas|Kitchen]]\n[[Locksmith.canvas|Locksmith]]\n[[Bookshop.canvas|Bookshop]]\n[[Showroom.canvas|Showroom]]\n[[Laundry Room.canvas|Laundry Room]]\n[[Mount Holly Gift Shop.canvas|Mount Holly Gift Shop]]",
 			"styleAttributes":{},
 			"x":240,
 			"y":-700,
 			"width":260,
-			"height":277
+			"height":360
 		},
 		{
 			"id":"0d75d4be29a4bebc",
 			"type":"text",
-			"text":"# Red Rooms\n[[Lavatory]]\n[[Chapel]]\n[[Maid's Chamber]]\n[[Dark Room]]\n[[Weight Room]]\n[[Archives]]\n[[Gymnasium]]\n[[Furnace]]\n",
+			"text":"# Red Rooms\n[[Lavatory.canvas|Lavatory]]\n[[Chapel.canvas|Chapel]]\n[[Maid's Chamber.canvas|Maid's Chamber]]\n[[Dark Room.canvas|Dark Room]]\n[[Weight Room.canvas|Weight Room]]\n[[Archives.canvas|Archives]]\n[[Gymnasium.canvas|Gymnasium]]\n[[Furnace.canvas|Furnace]]\n",
 			"styleAttributes":{},
 			"x":520,
 			"y":-700,
 			"width":260,
-			"height":301
+			"height":360
 		},
 		{
 			"id":"317e7359cd13e7ea",
 			"type":"text",
-			"text":"# Outer Rooms\n[[Toolshed]]\n[[Root Cellar]]\n[[Shelter]]\n[[Trading Post]]\n[[Hovel]]\n[[Tomb]]\n[[Shrine]]\n[[Schoolhouse]]",
+			"text":"# Outer Rooms\n[[Toolshed.canvas|Toolshed]]\n[[Root Cellar.canvas|Root Cellar]]\n[[Shelter.canvas|Shelter]]\n[[Trading Post.canvas|Trading Post]]\n[[Hovel.canvas|Hovel]]\n[[Tomb.canvas|Tomb]]\n[[Shrine.canvas|Shrine]]\n[[Schoolhouse.canvas|Schoolhouse]]",
 			"styleAttributes":{},
 			"x":-640,
 			"y":-143,
@@ -73,17 +73,17 @@
 		{
 			"id":"abdbc65fcc2c16a7",
 			"type":"text",
-			"text":"\n\n# Outside\n[[The Grounds]]\n[[Private Drive]]\n[[Apple Orchard]]\n[[Well]]\n[[The Precipice]]\n[[Blackbridge Grotto.canvas|Blackbridge Grotto]]\n[[Outer Room]]",
+			"text":"\n\n# Outside\n[[The Grounds.canvas|The Grounds]]\n[[Private Drive.canvas|Private Drive]]\n[[Apple Orchard.canvas|Apple Orchard]]\n[[Well.canvas|Well]]\n[[The Precipice.canvas|The Precipice]]\n[[Blackbridge Grotto.canvas|Blackbridge Grotto]]\n[[Outer Room.canvas|Outer Room]]",
 			"styleAttributes":{},
 			"x":-360,
 			"y":-143,
 			"width":260,
-			"height":282
+			"height":351
 		},
 		{
 			"id":"920f6786af66b6c0",
 			"type":"text",
-			"text":"# Other Rooms\n[[Classroom]]\n",
+			"text":"# Other Rooms\n[[Classroom.canvas|Classroom]]\n",
 			"styleAttributes":{},
 			"x":-80,
 			"y":-143,
@@ -93,12 +93,12 @@
 		{
 			"id":"4570b12347d8959b",
 			"type":"text",
-			"text":"# Found Rooms\n[[Conservatory]]\n[[Planetarium]]\n",
+			"text":"# Found Rooms\n[[Conservatory.canvas|Conservatory]]\n[[Planetarium.canvas|Planetarium]]\n",
 			"styleAttributes":{},
 			"x":200,
 			"y":-143,
 			"width":260,
-			"height":363
+			"height":347
 		}
 	],
 	"edges":[],

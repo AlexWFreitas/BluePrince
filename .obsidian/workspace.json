@@ -25,74 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "TODO Canvas"
             }
-          },
-          {
-            "id": "5d871efb94651e0f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workplace/My Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "My Notes"
-            }
-          },
-          {
-            "id": "07f105e90e9ba559",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workplace/Rooms Found.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Rooms Found"
-            }
-          },
-          {
-            "id": "b6c68c65af2ff040",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "canvas/Study Canvas.canvas",
-                "viewState": {
-                  "x": -756.0717478780007,
-                  "y": 871.0364566743156,
-                  "zoom": 0.3333333333333334
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Study Canvas"
-            }
-          },
-          {
-            "id": "de208da3504ec780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Legacy Notes/TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Legacy Notes/TODO.md",
+                "file": "1. TODO/TODO Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO"
+              "title": "Backlinks for TODO Canvas"
             }
           },
           {
@@ -184,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Legacy Notes/TODO.md",
+                "file": "1. TODO/TODO Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO"
+              "title": "Outgoing links from TODO Canvas"
             }
           },
           {
@@ -213,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Legacy Notes/TODO.md",
+                "file": "1. TODO/TODO Canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of TODO Canvas"
             }
           }
         ],
@@ -241,8 +175,10 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "685976cf733cd54d",
+  "active": "b9aaf2342cf53910",
   "lastOpenFiles": [
+    "2. Canvas/info/Rooms Found.canvas",
+    "4. Legacy Notes/TODO.md",
     "4. Legacy Notes/Old Blue Prince Notes.md",
     "2. Canvas/papers/West Wing Hall Piece of Paper.canvas",
     "2. Canvas/papers/Guest Bedroom Letter.canvas",
@@ -257,7 +193,6 @@
     "Daniel (Jones).md",
     "empty files.md",
     "broken links output.md",
-    "4. Legacy Notes/TODO.md",
     "4. Workplace/My Notes.md",
     "3. Notes/West Path.md",
     "3. Notes/West Gate.md",
