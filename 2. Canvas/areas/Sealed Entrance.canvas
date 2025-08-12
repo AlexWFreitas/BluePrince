@@ -6,7 +6,7 @@
 		{"id":"9bc0717aa0438ab8","type":"text","text":"[[Basement.canvas|Basement]]","x":-565,"y":460,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"64ad26c222d4e5a2","fromNode":"de739663bbbc3459","fromSide":"bottom","toNode":"9bc0717aa0438ab8","toSide":"top"}
+		{"id":"64ad26c222d4e5a2","toFloating":false,"fromNode":"de739663bbbc3459","fromSide":"bottom","toNode":"9bc0717aa0438ab8","toSide":"top"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

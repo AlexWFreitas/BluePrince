@@ -16,17 +16,35 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": -593.5953168945123,
-                  "y": 398.26912821407825,
-                  "zoom": -0.6666666666666666
+                  "x": 712.4841497232145,
+                  "y": -13.108470783811129,
+                  "zoom": -0.6666666666666667
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "TODO Canvas"
             }
+          },
+          {
+            "id": "ef58b5cda7b61f44",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Rooms Found.canvas",
+                "viewState": {
+                  "x": -130,
+                  "y": -111.5,
+                  "zoom": -0.46638437927906423
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Rooms Found"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 431.5
   },
   "right": {
     "id": "07be804e2b3975b5",
@@ -99,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. TODO/TODO Canvas.canvas",
+                "file": "2. Canvas/info/Rooms Found.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO Canvas"
+              "title": "Backlinks for Rooms Found"
             }
           },
           {
@@ -118,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. TODO/TODO Canvas.canvas",
+                "file": "2. Canvas/info/Rooms Found.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO Canvas"
+              "title": "Outgoing links from Rooms Found"
             }
           },
           {
@@ -147,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. TODO/TODO Canvas.canvas",
+                "file": "2. Canvas/info/Rooms Found.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO Canvas"
+              "title": "Outline of Rooms Found"
             }
           }
         ],
@@ -175,21 +193,22 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "b9aaf2342cf53910",
+  "active": "ef58b5cda7b61f44",
   "lastOpenFiles": [
-    "2. Canvas/info/Rooms Found.canvas",
+    "2. Canvas/areas/Laundry Room.canvas",
+    "2. Canvas/areas/Showroom.canvas",
+    "2. Canvas/areas/Terrace.canvas",
+    "2. Canvas/areas/The Grounds.canvas",
+    "2. Canvas/areas/The Precipice.canvas",
+    "2. Canvas/areas/Tomb.canvas",
+    "2. Canvas/areas/Toolshed.canvas",
+    "2. Canvas/areas/Trading Post.canvas",
+    "2. Canvas/areas/Mount Holly Gift Shop.canvas",
+    "2. Canvas/areas/Morning Room.canvas",
+    "2. Canvas/areas/Mount Holly Estate.canvas",
+    "99. attachments/BLUE_PRINCE_45iDUn5RGF.png",
     "4. Legacy Notes/TODO.md",
     "4. Legacy Notes/Old Blue Prince Notes.md",
-    "2. Canvas/papers/West Wing Hall Piece of Paper.canvas",
-    "2. Canvas/papers/Guest Bedroom Letter.canvas",
-    "2. Canvas/papers/Welcome Letter.canvas",
-    "2. Canvas/info/With Without Puzzles.canvas",
-    "2. Canvas/info/Well.canvas",
-    "2. Canvas/info/Treasure Map.canvas",
-    "2. Canvas/info/Tip Images.canvas",
-    "2. Canvas/info/Terminals.canvas",
-    "2. Canvas/info/Terminal Screens.canvas",
-    "2. Canvas/info/Statue Rooms.canvas",
     "Daniel (Jones).md",
     "empty files.md",
     "broken links output.md",
@@ -231,7 +250,6 @@
     "99. attachments/BLUE_PRINCE_4ffbJQqFq6.png",
     "99. attachments/BLUE_PRINCE_fThMMyLOOR.png",
     "99. attachments/BLUE_PRINCE_9KocYSBtO7.png",
-    "99. attachments/BLUE_PRINCE_1gGn7wAZZ5.png",
-    "99. attachments/BLUE_PRINCE_zhxODOouCj.png"
+    "99. attachments/BLUE_PRINCE_1gGn7wAZZ5.png"
   ]
 }
