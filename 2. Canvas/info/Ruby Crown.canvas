@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"9bfea5fb7189b503",
+			"type":"text",
+			"text":"# Info\nSupposedly this crown and their gems were stolen.\n\nThere are some puzzles related to the [[Red Letters.canvas|Red Letters]] that always contains a gem and a letter.\n\nSupposedly there are eight letters.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-380,
+			"width":480,
+			"height":340
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

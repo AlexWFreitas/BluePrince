@@ -1,1 +1,0 @@
-Area outside of the mansion that counts as a room.

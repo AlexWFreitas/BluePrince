@@ -1,13 +1,22 @@
 {
 	"nodes":[
-		{"id":"48bdf5978b25aedb","type":"text","text":"[[Laundry Room]]","x":-642,"y":-435,"width":250,"height":60},
 		{"id":"e3fa54d8a5bb4390","type":"file","file":"99. attachments/BLUE_PRINCE_A7vHxvbMKT.png","x":-642,"y":-340,"width":400,"height":225},
 		{"id":"c0a7036738b9f1be","type":"file","file":"99. attachments/BLUE_PRINCE_sNr7bcr4l5.png","x":-642,"y":-60,"width":400,"height":225},
 		{"id":"86ce0ab20a3766a1","type":"file","file":"99. attachments/BLUE_PRINCE_EXxeAvEDsZ.png","x":-220,"y":-60,"width":400,"height":225},
 		{"id":"4c5a6285d38b6dcc","type":"file","file":"99. attachments/BLUE_PRINCE_ctVoNan3KF.png","x":200,"y":-60,"width":400,"height":225},
 		{"id":"87b76a923ee20d46","type":"file","file":"99. attachments/BLUE_PRINCE_kovYIRmPXp.png","x":-642,"y":200,"width":400,"height":225},
 		{"id":"6db5a9da2eba72c4","type":"file","file":"99. attachments/BLUE_PRINCE_EVwjPtx6gy.png","x":-220,"y":200,"width":400,"height":225},
-		{"id":"50c677d87cb82132","type":"file","file":"99. attachments/BLUE_PRINCE_1NZ9fqBbsr.png","x":200,"y":200,"width":400,"height":225}
+		{"id":"50c677d87cb82132","type":"file","file":"99. attachments/BLUE_PRINCE_1NZ9fqBbsr.png","x":200,"y":200,"width":400,"height":225},
+		{
+			"id":"6059e65101e9daf3",
+			"type":"text",
+			"text":"# Room Info\n\nCan be powered by a Boiler Room to enable one more washing machine with special options.",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-340,
+			"width":500,
+			"height":225
+		}
 	],
 	"edges":[],
 	"metadata":{

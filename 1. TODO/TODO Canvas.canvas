@@ -6,26 +6,6 @@
 	"nodes":[
 		{"id":"21b33cdf5e75929f","type":"group","x":-1400,"y":-680,"width":880,"height":1580,"color":"4","label":"Continuous Tasks"},
 		{
-			"id":"1cdb5c6b9ed20bca",
-			"type":"text",
-			"text":"[[End the run on the Planetarium to receive two stars as a permanent resource.canvas|End the run on the Planetarium to receive two stars as a permanent resource]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":440,
-			"width":680,
-			"height":60
-		},
-		{
-			"id":"a17cd3b4e10dadb8",
-			"type":"text",
-			"text":"[[Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade.canvas|Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":520,
-			"width":720,
-			"height":80
-		},
-		{
 			"id":"f181343f47f783bf",
 			"type":"text",
 			"text":"**Tasks that should be done every day whenever possible**",
@@ -87,36 +67,6 @@
 			"height":80
 		},
 		{
-			"id":"4289e616125ca1d2",
-			"type":"text",
-			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":100,
-			"width":620,
-			"height":60
-		},
-		{
-			"id":"b7e4595012c7b579",
-			"type":"text",
-			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":180,
-			"width":640,
-			"height":60
-		},
-		{
-			"id":"855343f1307f6643",
-			"type":"text",
-			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":260,
-			"width":620,
-			"height":80
-		},
-		{
 			"id":"53c4a2b4f29ae6f7",
 			"type":"text",
 			"text":"[[Throw Coin on Well.canvas|Throw Coin on Well]]",
@@ -147,6 +97,56 @@
 			"height":60
 		},
 		{
+			"id":"1cdb5c6b9ed20bca",
+			"type":"text",
+			"text":"[[End the run on the Planetarium to receive two stars as a permanent resource.canvas|End the run on the Planetarium to receive two stars as a permanent resource]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":440,
+			"width":680,
+			"height":60
+		},
+		{
+			"id":"a17cd3b4e10dadb8",
+			"type":"text",
+			"text":"[[Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade.canvas|Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":520,
+			"width":720,
+			"height":80
+		},
+		{
+			"id":"4289e616125ca1d2",
+			"type":"text",
+			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":100,
+			"width":620,
+			"height":60
+		},
+		{
+			"id":"b7e4595012c7b579",
+			"type":"text",
+			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":180,
+			"width":640,
+			"height":60
+		},
+		{
+			"id":"855343f1307f6643",
+			"type":"text",
+			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":260,
+			"width":620,
+			"height":80
+		},
+		{
 			"id":"c93872785e0ebda0",
 			"type":"text",
 			"text":"[[Draft an Observatory whenever possible for the permanent bonuses.canvas|Draft an Observatory whenever possible for the permanent bonuses]]",
@@ -155,6 +155,16 @@
 			"y":360,
 			"width":640,
 			"height":60
+		},
+		{
+			"id":"63aeca4300d98536",
+			"type":"text",
+			"text":"Use lens on [[The Red Prince.canvas|The Red Prince]] book on the [[Master Bedroom.canvas|Master Bedroom]]",
+			"styleAttributes":{},
+			"x":-300,
+			"y":240,
+			"width":380,
+			"height":100
 		}
 	],
 	"edges":[]

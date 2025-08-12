@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"83303fe948418790",
+			"type":"text",
+			"text":"# Info\n\nFather of [[Simon P Jones.canvas|Simon P Jones]]",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-280,
+			"width":560,
+			"height":200
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

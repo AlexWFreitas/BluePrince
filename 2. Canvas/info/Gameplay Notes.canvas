@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{
+			"id":"b86d3e6d029a66d9",
+			"type":"text",
+			"text":"# Notes\n\n[[Herbert S Sinclair.canvas|Herbert S Sinclair]] - Previous Owner of the Mansion\n[[Mary Matthew Jones.canvas|Mary Matthew Jones]] - Niece of [[Herbert S Sinclair.canvas|Herbert S Sinclair]] and Mom of [[Simon P Jones.canvas|Simon P Jones]]\n[[Simon P Jones.canvas|Simon P Jones]] -  You, heir to the mansion, provided you find the Room 46th\n[[Mount Holly Estate.canvas|Mount Holly Estate]] - The Mansion from Blue Prince\n[[Reddington.canvas|Reddington]] - Location where the Mansion is located\n[[046 - Room 46.canvas|046 - Room 46]] - The hidden room inside the mansion that must be found\nHerbert's will date - 1993/03/18\nPassword for the [[Apple Orchard.canvas|Apple Orchard]] Lock is 1128\nTerminal password is **Swansong**\nStarting Date (Day 0) is November 6\nCentral Server Site Admin Key password is BabbA or MoorR or ThomK.\nThere are more admin key passwords that are hidden from the user and must be discovered.",
+			"styleAttributes":{},
+			"x":-780,
+			"y":-600,
+			"width":800,
+			"height":420
+		},
+		{
+			"id":"b03c2c9874c9a21e",
+			"type":"text",
+			"text":"# Gameplay\n\n- Moving into a room uses a step\n- You can throw coins into the water fountain outside of the house, this can be retrieved later when the water fountain gets drained.\n- You can get multiple bonuses from the Observatory in a single day, because more than one star sign can appear, so it's important to always visit the Observatory to start stacking the star points.\n- The majority of the green rooms are only draftable on the perimeter of the house along the East and West Wings.\n\t- [[Terrace.canvas|Terrace]], [[Patio.canvas|Patio]], [[Veranda.canvas|Veranda]], [[Morning Room.canvas|Morning Room]], [[Greenhouse.canvas|Greenhouse]] and [[Secret Garden.canvas|Secret Garden]]\n- There are more locked doors and key card doors the deeper you are in the house.\n- West Wing has less locked doors than the East Wing.\n- Room rank number seems to be related to the depth of rooms you have reached.\n- The sledgehammer can be used to break vases at the [[002 - Entrance Hall.canvas|002 - Entrance Hall]].\n- The paintings form a puzzle [[With Without Puzzles.canvas|With Without Puzzles]] and [[026 - Study.canvas|026 - Study]].",
+			"styleAttributes":{},
+			"x":-780,
+			"y":-40,
+			"width":800,
+			"height":480
+		},
+		{
+			"id":"cdc9c176c6ea8aaf",
+			"type":"text",
+			"text":"# Clues\n\n- [[Servant's Quarters.canvas|Servant's Quarters]] memos are always lies\n- Typed Red Memos are always lies.\n- Written Red Memos are true.",
+			"styleAttributes":{},
+			"x":-780,
+			"y":480,
+			"width":800,
+			"height":360
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

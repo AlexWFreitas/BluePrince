@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"853f64fc5b69e520",
+			"type":"text",
+			"text":"# Info\n\nAn outer room that allows you to donate gold to receive random [[Shrine Blessings.canvas|Shrine Blessings]] for a few days.\n\nIt's possible that giving more gold or an exact amount of gold will trigger a certain specific blessing.",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-320,
+			"width":560,
+			"height":340
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

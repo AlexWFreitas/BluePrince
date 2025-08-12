@@ -1,1 +1,0 @@
-A simple shed that contains two special items.

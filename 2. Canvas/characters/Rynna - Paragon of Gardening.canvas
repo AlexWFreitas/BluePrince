@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"6baea72827341f7c",
+			"type":"text",
+			"text":"# Info\n\nOne of the statues in the chapel representing angels or gods.",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-300,
+			"width":540,
+			"height":160
+		},
+		{"id":"3148bd4256250052","type":"file","file":"99. attachments/Pasted image 20250716211153.png","x":-380,"y":-80,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

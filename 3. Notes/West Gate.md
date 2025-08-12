@@ -1,1 +1,0 @@
-This is an upgrade that can be unlocked through [[014 - Garage]], this allows you to access the [[West Path]]

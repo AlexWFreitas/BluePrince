@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"7a5e03e4c732d625",
+			"type":"text",
+			"text":"# Info\nThe teacher that worked on the now closed [[Schoolhouse.canvas|Schoolhouse]], supposedly was the principal of [[Reddington Elementary.canvas|Reddington Elementary]].\n\nShe has an interest in some old documents related to the Sigils it seems and was communicating about them on letters traded with other scholars.\n\n**This information is not very accurate, the names might be mixed.**",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-380,
+			"width":500,
+			"height":420
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

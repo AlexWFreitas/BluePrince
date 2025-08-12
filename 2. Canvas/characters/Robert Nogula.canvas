@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"655b569f56bcbcf7",
+			"type":"text",
+			"text":"# Info\nThe current groundskeeper of the State.\nWrote a book about gardening - [[Gardener's Logbook.canvas|Gardener's Logbook]].\nReplaced [[Danny Revane.canvas|Danny Revane]].",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-120,
+			"width":480,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"4d1514dc3a110d36",
+			"type":"text",
+			"text":"# Room Info\n\nA red room with a dead end and no notable things.",
+			"styleAttributes":{},
+			"x":-340,
+			"y":-360,
+			"width":480,
+			"height":140
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

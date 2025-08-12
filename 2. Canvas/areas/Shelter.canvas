@@ -12,7 +12,17 @@
 		{"id":"2c2f92f3ac10854d","type":"file","file":"99. attachments/BLUE_PRINCE_Bl0TQbySzg.png","x":660,"y":-380,"width":400,"height":225},
 		{"id":"640d075c6dbb052f","type":"file","file":"99. attachments/BLUE_PRINCE_i3HMI7uJYx.png","x":1100,"y":-380,"width":400,"height":225},
 		{"id":"6f65284c92a1d02c","type":"file","file":"99. attachments/BLUE_PRINCE_iWgBVLW1dp.png","x":660,"y":-95,"width":400,"height":225},
-		{"id":"7d2c02c26fc2bb1e","type":"file","file":"99. attachments/BLUE_PRINCE_plRbggTpro.png","x":1100,"y":-95,"width":400,"height":225}
+		{"id":"7d2c02c26fc2bb1e","type":"file","file":"99. attachments/BLUE_PRINCE_plRbggTpro.png","x":1100,"y":-95,"width":400,"height":225},
+		{
+			"id":"47e910259f0115f4",
+			"type":"text",
+			"text":"# Info\n\nThe Shelter is an [[Outer Room.canvas|Outer Room]].\nThe Shelter has a note about trying to hide three to four people from the Red Guard.\n\nIt has a terminal that allows you to unlock the Time-locked Safe\n- The starting date is November 6 (You can discover the starting date by using the [[027 - Library.canvas|027 - Library]] or the [[030 - Drafting Studio.canvas|030 - Drafting Studio]]. \n\t- As in Day 0 = November 6\n\nThe terminal has access to a Radiation Monitor too:\n- If the radiation surpasses a certain level, all doors in the mansion will be unlocked.\n- Supposedly when you do or trigger experiments on the [[036 - Laboratory.canvas|036 - Laboratory]], it increases the radiation level within the week.",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-1100,
+			"width":880,
+			"height":460
+		}
 	],
 	"edges":[],
 	"metadata":{

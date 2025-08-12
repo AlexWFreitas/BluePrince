@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"d6b71e150a871cdb",
+			"type":"text",
+			"text":"# Info\n\nArea outside of the house near the [[Campsite Area.canvas|Campsite Area]] and the [[Grounds, The.canvas|The Grounds]].",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-360,
+			"width":480,
+			"height":180
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

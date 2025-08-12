@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"9e6c12dfaa5dc2b0",
+			"type":"text",
+			"text":"# Info\n\nThis room is unlocked by opening the [[014 - Garage.canvas|014 - Garage]] door.\n\nThis room is located in the [[West Path.canvas|West Path]], it allows you to choose a a random outer room to apply an effect over your current room.\n\nSince you have to travel to the room, it costs steps to go into and out of it.",
+			"styleAttributes":{},
+			"x":-460,
+			"y":20,
+			"width":640,
+			"height":320
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

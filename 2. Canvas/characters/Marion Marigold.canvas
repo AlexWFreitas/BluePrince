@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"a2f772833b0bf69d",
+			"type":"text",
+			"text":"# Info\n\nThe penname of [[Mary Matthew Jones.canvas|Mary Matthew Jones]].\n\nWrote many famous books.\n- [[The Red Prince.canvas|The Red Prince]]\n- [[The Swimbird.canvas|The Swimbird]]\n- [[Clues.canvas|Clues]]",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-320,
+			"width":680,
+			"height":460
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

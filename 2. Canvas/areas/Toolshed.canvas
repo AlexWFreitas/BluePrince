@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"1be8c85b553ee8b5",
+			"type":"text",
+			"text":"# Info\n\nAn outer room that allows you to pick two random items that are not resources.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-240,
+			"width":460,
+			"height":340
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

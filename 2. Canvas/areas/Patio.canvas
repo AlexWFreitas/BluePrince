@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"eb460cf7c72b4a20",
+			"type":"text",
+			"text":"# Info\n\nGreen room",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-340,
+			"width":320,
+			"height":140
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

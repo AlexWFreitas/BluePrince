@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"b0987a7951eb88ba",
+			"type":"text",
+			"text":"# Info\n\nThe west gate is initially a locked gate to the west of the mansion that can be unlocked by opening the [[014 - Garage.canvas|014 - Garage]] door.\n\nThis allows you to access the [[Outer Room.canvas|Outer Room]] to draft outer rooms at the start of a run.",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-320,
+			"width":620,
+			"height":440
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

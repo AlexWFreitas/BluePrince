@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"b2bd510bf45a5723",
+			"type":"text",
+			"text":"# Room Info\n\nThe mansion that houses [[046 - Room 46.canvas|046 - Room 46]]",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-420,
+			"width":460,
+			"height":160
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

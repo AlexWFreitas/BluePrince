@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"6ba4a9579364b325",
+			"type":"text",
+			"text":"The state that contains the [[Mount Holly Estate.canvas|Mount Holly State]]. ",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-240,
+			"width":320,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"c74eb8b2f974c033",
+			"type":"text",
+			"text":"# Info\n\nHouse manager for the [[Mount Holly Estate.canvas|Mount Holly State]].\nOften referred as Ms. Babbage.\nApparently one of the only employees who are still active, but will not be seen.",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-380,
+			"width":480,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

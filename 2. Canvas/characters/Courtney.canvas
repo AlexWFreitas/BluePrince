@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"dc59f781c8eecbda",
+			"type":"text",
+			"text":"# Info\n[[Mary Matthew Jones.canvas|Mary Matthew Jones]]'s cousin.\nWrote one of the [[Red Letters.canvas|Red Letters]].",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-360,
+			"width":640,
+			"height":220
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

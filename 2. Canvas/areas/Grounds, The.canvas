@@ -9,7 +9,17 @@
 		{"id":"5889330b1e84a344","type":"file","file":"99. attachments/BLUE_PRINCE_bIa2oOi9Dt.png","x":-580,"y":8,"width":400,"height":225},
 		{"id":"835ca88c17ce1fd0","type":"text","text":"Burning Glass - [[Items.canvas|Items]]","x":-487,"y":280,"width":214,"height":60},
 		{"id":"cfb382e572b8c517","type":"file","file":"99. attachments/BLUE_PRINCE_eQjdhqv327.png","x":-40,"y":-52,"width":400,"height":225},
-		{"id":"0d7154f944f489b5","type":"file","file":"99. attachments/BLUE_PRINCE_kHIUg8YuEV.png","x":-40,"y":228,"width":400,"height":225}
+		{"id":"0d7154f944f489b5","type":"file","file":"99. attachments/BLUE_PRINCE_kHIUg8YuEV.png","x":-40,"y":228,"width":400,"height":225},
+		{
+			"id":"eec3b3d7774664b2",
+			"type":"text",
+			"text":"# Info\n\nArea outside of the mansion\n\nConnects to [[002 - Entrance Hall.canvas|002 - Entrance Hall]],  [[Private Drive.canvas|Private Drive]], [[West Path.canvas|West Path]] and other places.",
+			"styleAttributes":{},
+			"x":-1054,
+			"y":-1000,
+			"width":674,
+			"height":320
+		}
 	],
 	"edges":[
 		{"id":"17ba651c7d94e3d5","fromNode":"bfeba172e9ed716a","fromSide":"top","toNode":"062ac3400f885c0f","toSide":"bottom","label":"Unlocks"},

@@ -1,5 +1,17 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"d7e7fc75ef3c56f7",
+			"type":"text",
+			"text":"# Room Info\nRelated to [[Lady Clara Epsen.canvas|Lady Clara Epsen]].\nThis room appears on the [[West Wing.canvas|West Wing]].",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-360,
+			"width":400,
+			"height":160
+		},
+		{"id":"e96b7360de49f414","type":"file","file":"99. attachments/Pasted image 20250716140449.png","x":-380,"y":-140,"width":400,"height":225}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

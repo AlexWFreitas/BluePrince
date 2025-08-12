@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"db1dca73b6aa23a4",
+			"type":"text",
+			"text":"# Info\n\nEither this is the [[Schoolhouse.canvas|Schoolhouse]] near the mansion or it's a school that was built by the Sinclairs for the population of [[Reddington]].\n",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-300,
+			"width":460,
+			"height":340
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
