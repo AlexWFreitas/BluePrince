@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"17187e013df02c19","type":"text","text":"[[Basement.canvas|Basement Canvas]]","x":-397,"y":520,"width":250,"height":60},
 		{"id":"1c6ea0fa509afe9d","type":"file","file":"99. attachments/BLUE_PRINCE_MCBFHzAiRl.png","x":-597,"y":80,"width":400,"height":225},
-		{"id":"a37f4c31c073971e","type":"text","text":"[[Reservoir]]","x":-1540,"y":-900,"width":250,"height":60},
 		{"id":"b44ff21ac266bb47","type":"file","file":"99. attachments/BLUE_PRINCE_xnYx4vg0Qa.png","x":-80,"y":-632,"width":400,"height":225},
 		{"id":"ffa905a199cefe96","type":"file","file":"99. attachments/BLUE_PRINCE_clnN3AiLK1.png","x":-80,"y":-952,"width":400,"height":225},
 		{"id":"16ff8e445198933f","type":"file","file":"99. attachments/BLUE_PRINCE_BaYD3qqE7m.png","x":-80,"y":-295,"width":400,"height":225},

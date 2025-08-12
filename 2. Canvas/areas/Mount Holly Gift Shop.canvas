@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"81dfa79c3e6e8741","type":"text","text":"","x":-660,"y":-360,"width":250,"height":60},
 		{"id":"ed5e6eb17674de4a","type":"file","file":"99. attachments/BLUE_PRINCE_l8lZOd90kE.png","x":-660,"y":-260,"width":400,"height":225},
 		{"id":"4ec381fb2e33ac97","type":"file","file":"99. attachments/BLUE_PRINCE_hdirexqRqQ.png","x":-660,"y":0,"width":400,"height":225},
 		{"id":"f24a02c9e1073f48","type":"file","file":"99. attachments/BLUE_PRINCE_aCnKVBxUs9.png","x":-240,"y":0,"width":400,"height":225},

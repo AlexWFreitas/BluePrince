@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"e0fc60c8023c1ad0","type":"text","text":"[[039 - Mail Room]]","x":-661,"y":-384,"width":250,"height":60},
 		{"id":"83e996d67c63ac4f","type":"file","file":"99. attachments/BLUE_PRINCE_9RMb9qUUXA.png","x":-661,"y":-280,"width":400,"height":225},
 		{"id":"d64aef5ddafd567e","type":"file","file":"99. attachments/BLUE_PRINCE_9TUyrAd98H.png","x":69,"y":421,"width":400,"height":242},
 		{"id":"2520066458583926","type":"file","file":"99. attachments/BLUE_PRINCE_D4ngIotjJJ.png","x":69,"y":127,"width":400,"height":225},

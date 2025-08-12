@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"952b4717bf269caa","type":"text","text":"[[Inner Sanctum.canvas|Inner Sanctum Canvas]]","x":406,"y":745,"width":250,"height":60},
-		{"id":"9ec58b176c7e1a28","type":"text","text":"[[Reservoir.canvas|Reservoir Canvas]]","x":-649,"y":-249,"width":250,"height":60},
+		{"id":"952b4717bf269caa","type":"text","text":"[[Inner Sanctum.canvas|Inner Sanctum]]","x":406,"y":745,"width":250,"height":60},
+		{"id":"9ec58b176c7e1a28","type":"text","text":"[[Reservoir.canvas|Reservoir]]","x":-649,"y":-249,"width":250,"height":60},
 		{"id":"d5d08937e0c8c9cf","type":"file","file":"99. attachments/BLUE_PRINCE_vqPlw6nY6R.png","x":-649,"y":-120,"width":400,"height":225},
 		{"id":"2751047bb487a171","type":"file","file":"99. attachments/BLUE_PRINCE_EpwABkRXV8.png","x":-560,"y":200,"width":400,"height":225},
 		{"id":"a6d805ecc7853848","type":"file","file":"99. attachments/BLUE_PRINCE_wLedSfYLNN.png","x":-80,"y":-60,"width":400,"height":225},

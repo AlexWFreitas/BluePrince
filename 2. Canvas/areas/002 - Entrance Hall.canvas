@@ -19,7 +19,7 @@
 		{
 			"id":"bf1c2dd2ac079bec",
 			"type":"text",
-			"text":"Starting room, has three doors and connects to [[Grounds, The.canvas|The Grounds]]\n\nContains the [[Welcome Letter.canvas|Welcome Letter]]",
+			"text":"Starting room, has three doors and connects to [[The Grounds.canvas|The Grounds]]\n\nContains the [[Welcome Letter.canvas|Welcome Letter]]",
 			"styleAttributes":{},
 			"x":-1660,
 			"y":-400,

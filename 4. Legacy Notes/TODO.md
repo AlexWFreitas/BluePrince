@@ -175,7 +175,7 @@
 - [x] [[031 - Utility Closet.canvas|031 - Utility Closet]] - Valve
 - [x] [[Hovel.canvas|Hovel]] - Valve
 - [x] [[Schoolhouse.canvas|Schoolhouse]] - Valve
-- Reward is an Elevator to [[Precipice, The.canvas|The Precipice]]
+- Reward is an Elevator to [[The Precipice.canvas|The Precipice]]
 
 ### Solve a Treasure Map Puzzle
 -  [[Treasure Map.canvas|Treasure Map]] is an item that can be picked in a run
@@ -187,7 +187,7 @@
 - [x] Discovered Secret Garden Key - Item
 - [x] Found [[Secret Garden.canvas|Secret Garden]]
 - This enables us to pull a lever for the West Antechamber Door
-### Visit each room on the [[029 - Pool, The.canvas|029 - Pool, The]] Room Set
+### Visit each room on the [[029 - The Pool.canvas|029 - Pool, The]] Room Set
 - [x] The Pool
 - [x] [[033 - Pump Room.canvas|033 - Pump Room]]
 - [x] Sauna

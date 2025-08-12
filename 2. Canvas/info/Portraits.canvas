@@ -7,5 +7,9 @@
 		{"id":"eb89532cde07f073","type":"file","file":"99. attachments/BLUE_PRINCE_mDa93sK2bQ 1.jpg","x":-1060,"y":140,"width":400,"height":225},
 		{"id":"26e4fa19a0b36ec3","type":"file","file":"99. attachments/BLUE_PRINCE_qyKC4wIyh2.png","x":-260,"y":-120,"width":400,"height":225}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

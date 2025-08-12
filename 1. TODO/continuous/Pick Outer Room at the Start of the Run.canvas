@@ -3,7 +3,7 @@
 		{
 			"id":"ec5e937736e689d5",
 			"type":"text",
-			"text":"If you enter the [[014 - Garage.canvas|Garage]] and open the door by powering the room with the [[031 - Utility Closet]] room, you can enable the [[West Path]], this will give you access to a selection of [[Outer Room]] that can be picked on each run to give some sort of specific bonus.",
+			"text":"If you enter the [[014 - Garage.canvas|Garage]] and open the door by powering the room with the [[031 - Utility Closet.canvas|031 - Utility Closet]] room, you can enable the [[West Path.canvas|West Path]], this will give you access to a selection of [[Outer Room.canvas|Outer Room]] that can be picked on each run to give some sort of specific bonus.",
 			"styleAttributes":{},
 			"x":-740,
 			"y":-540,

@@ -3,12 +3,12 @@
 		{
 			"id":"0d8b0b75459bb1b6",
 			"type":"text",
-			"text":"You can throw a coin on the [[Well.canvas|Well]] at The Grounds near the [[002 - Entrance Hall]] entrance when coming from outside.\n\nThis will allow you to eventually retrieve the coins all at once when you drain the water on the Well through the [[033 - Pump Room.canvas|Pump Room]]",
+			"text":"You can throw a coin on the [[Well.canvas|Well]] at The Grounds near the [[002 - Entrance Hall.canvas|002 - Entrance Hall]] entrance when coming from outside.\n\nThis will allow you to eventually retrieve the coins all at once when you drain the water on the Well through the [[033 - Pump Room.canvas|Pump Room]]",
 			"styleAttributes":{},
 			"x":-640,
 			"y":-280,
 			"width":560,
-			"height":160
+			"height":200
 		}
 	],
 	"edges":[],

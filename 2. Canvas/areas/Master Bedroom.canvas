@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"00e38c730fa82c24","type":"text","text":"[[Master Bedroom]]","x":-596,"y":-370,"width":250,"height":60},
 		{"id":"0d2e8bcee36872a3","type":"file","file":"99. attachments/BLUE_PRINCE_SrVfjjKiRP.png","x":-596,"y":-280,"width":400,"height":225},
 		{"id":"5826460af72ceb7f","type":"file","file":"99. attachments/BLUE_PRINCE_HyA8A7WRpq.png","x":-596,"y":-20,"width":400,"height":225},
 		{"id":"da4343c2bea32a6e","type":"file","file":"99. attachments/BLUE_PRINCE_xgBPmYHGbb.png","x":-160,"y":-20,"width":400,"height":225},
