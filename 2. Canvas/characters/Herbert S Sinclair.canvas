@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"32854d5f9922d5c3",
+			"type":"text",
+			"text":"# Info\n\nThe previous owner of the mansion\nHis will was written in 18th March of 1993. (1993/03/18)\n",
+			"styleAttributes":{},
+			"x":-820,
+			"y":-680,
+			"width":560,
+			"height":240
+		},
+		{"id":"1d62c4f886460d3f","type":"file","file":"99. attachments/Pasted image 20250716202508.png","x":-820,"y":-400,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -4,7 +4,17 @@
 		{"id":"4567ba0ba3b15a25","type":"file","file":"99. attachments/BLUE_PRINCE_wxshQKN1yD.jpg","x":-220,"y":-280,"width":400,"height":225},
 		{"id":"13fdd2264402d56f","type":"file","file":"99. attachments/BLUE_PRINCE_ZbtVsgi7Es.jpg","x":-640,"y":-20,"width":400,"height":225},
 		{"id":"c936ed2c864a913a","type":"file","file":"99. attachments/BLUE_PRINCE_m0Qq8afPN3.jpg","x":-220,"y":-20,"width":400,"height":225},
-		{"id":"a1a85eea598dbbd0","type":"file","file":"99. attachments/BLUE_PRINCE_FK3A0AXJh6.png","x":-640,"y":240,"width":400,"height":225}
+		{"id":"a1a85eea598dbbd0","type":"file","file":"99. attachments/BLUE_PRINCE_FK3A0AXJh6.png","x":-640,"y":240,"width":400,"height":225},
+		{
+			"id":"eafe1076d8de052c",
+			"type":"text",
+			"text":"# Room Info\n\nAllows you to buy food for gold.\nAllows you to view today's dinner that will be served on the [[041 - Dining Room.canvas|041 - Dining Room]]",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-660,
+			"width":640,
+			"height":280
+		}
 	],
 	"edges":[],
 	"metadata":{

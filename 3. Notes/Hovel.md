@@ -1,2 +1,0 @@
-[[Hovel.canvas|Hovel Canvas]]
-

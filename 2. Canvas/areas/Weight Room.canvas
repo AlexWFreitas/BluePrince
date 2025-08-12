@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"eab93b5d0c432164",
+			"type":"text",
+			"text":"# Room Info\n\nThis is a red room that halves your number of steps as a penalty when drafted.\nSupposedly there are emails saying that there is a lever in this room that opens a door on the [[045 - Antechamber.canvas|045 - Antechamber]]",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-420,
+			"width":640,
+			"height":360
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

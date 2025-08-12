@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"993adf39a7725d12",
+			"type":"text",
+			"text":"# [[Servant's Quarters.canvas|Servant's Quarters]]",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-340,
+			"width":520,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

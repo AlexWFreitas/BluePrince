@@ -102,15 +102,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/areas/Furnace.canvas",
+                "file": "2. Canvas/characters/Simon P Jones.canvas",
                 "viewState": {
-                  "x": -305,
-                  "y": -337,
+                  "x": 0,
+                  "y": -93,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Furnace"
+              "title": "Simon P Jones"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas/areas/Furnace.canvas",
+                "file": "2. Canvas/characters/Simon P Jones.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Furnace"
+              "title": "Backlinks for Simon P Jones"
             }
           },
           {
@@ -262,44 +262,45 @@
   },
   "active": "62ddd88dd0ff782f",
   "lastOpenFiles": [
+    "3. Notes/Simon P Jones.md",
+    "2. Canvas/characters/Simon P Jones.canvas",
+    "2. Canvas/characters/Lady Clara Epsen.canvas",
+    "2. Canvas/areas/West Wing.canvas",
+    "3. Notes/Laundry Room.md",
+    "2. Canvas/characters/Simon H Sinclair.canvas",
+    "2. Canvas/characters/1. Person List.canvas",
+    "2. Canvas/areas/West Wing Hall.canvas",
+    "3. Notes/Lady Clara Epsen.md",
+    "3. Notes/Kitchen.md",
+    "2. Canvas/areas/Kitchen.canvas",
+    "3. Notes/HSS.md",
+    "2. Canvas/info/HSS.canvas",
+    "3. Notes/Hovel.md",
+    "2. Canvas/areas/Hovel.canvas",
+    "3. Notes/Herbert's will date.md",
+    "2. Canvas/characters/Herbert S Sinclair.canvas",
+    "3. Notes/Herbert S Sinclair.md",
+    "3. Notes/Hartley's Room.md",
+    "3. Notes/Hallway.md",
+    "3. Notes/Gymnasium.md",
+    "3. Notes/Guest Bedroom.md",
+    "3. Notes/Lord Evanson.md",
+    "3. Notes/Greenhouse.md",
+    "3. Notes/Great Hall.md",
+    "3. Notes/Gemstone Cavern.md",
     "3. Notes/Furnace.md",
-    "2. Canvas/areas/Furnace.canvas",
-    "2. Canvas/areas/Foyer.canvas",
     "3. Notes/Foyer.md",
     "3. Notes/East Wing Hall.md",
-    "2. Canvas/areas/East Wing Hall.canvas",
     "3. Notes/Darts.md",
-    "2. Canvas/areas/006 - Billiard Room.canvas",
     "3. Notes/Dark Room.md",
-    "2. Canvas/areas/Dark Room.canvas",
     "3. Notes/Danny Revane.md",
     "3. Notes/Courtyard.md",
-    "2. Canvas/areas/Courtyard.canvas",
-    "2. Canvas/areas/Corridor.canvas",
     "3. Notes/Corridor.md",
     "3. Notes/Conservatory.md",
-    "2. Canvas/areas/Conservatory.canvas",
-    "2. Canvas/info/Items.canvas",
-    "2. Canvas/info/Permanent Resources.canvas",
     "3. Notes/Commissary.md",
-    "3. Notes/Cloister.md",
     "attachments/Obsidian_bfxGV2fzOf.png",
     "attachments",
-    "3. Notes/Classroom.md",
-    "3. Notes/Christoph.md",
-    "3. Notes/Allowance.md",
     "2. Canvas/characters",
-    "3. Notes/Chapel.md",
-    "3. Notes/Campsite.md",
-    "3. Notes/Bunk Room.md",
-    "3. Notes/Boudoir.md",
-    "3. Notes/Blue Fire Puzzle.md",
-    "3. Notes/Bedroom.md",
-    "3. Notes/Archives.md",
-    "3. Notes/Apple Orchard.md",
-    "4. Workplace/My Notes.md",
-    "notes/Antechamber Puzzle.md",
-    "notes/Abandoned Mine.md",
     "2. Canvas/papers",
     "2. Canvas/info",
     "2. Canvas/books",

@@ -1,8 +1,21 @@
 {
 	"nodes":[
-		{"id":"69aaf78297e5bd4d","type":"text","text":"[[Hovel]]","x":-518,"y":-341,"width":250,"height":60},
-		{"id":"cfa05379301e911c","type":"file","file":"99. attachments/BLUE_PRINCE_lKVlDbu5ey.png","x":-918,"y":-240,"width":400,"height":225},
-		{"id":"10578459f93f32e9","x":-480,"y":-240,"width":400,"height":225,"type":"file","file":"99. attachments/BLUE_PRINCE_esvK56FE5l.png"}
+		{"id":"cfa05379301e911c","type":"file","file":"99. attachments/BLUE_PRINCE_lKVlDbu5ey.png","x":-1200,"y":-240,"width":682,"height":384},
+		{"id":"10578459f93f32e9","type":"file","file":"99. attachments/BLUE_PRINCE_esvK56FE5l.png","x":-480,"y":-240,"width":400,"height":225},
+		{
+			"id":"5f930a5416f38c16",
+			"type":"text",
+			"text":"# Room Info\n\nContains a firing letter destined to [[Danny Revane.canvas|Danny Revane]], and also contains a valve that can be used to turn on a fire on the [[Blue Fire Puzzle.canvas|Blue Fire Puzzle]].",
+			"styleAttributes":{},
+			"x":-1200,
+			"y":-620,
+			"width":498,
+			"height":280
+		}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

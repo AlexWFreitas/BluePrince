@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"216e5100a0061bb3",
+			"type":"text",
+			"text":"# Room Info\n\nThere is a [[Guest Bedroom Letter.canvas|Guest Bedroom Letter]] about [[006 - Billiard Room.canvas|Darts]] and [[Lord Evanson.canvas|Lord Evanson]].\n\nThis room can be upgraded with an upgraded disk.",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-300,
+			"width":520,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,7 +1,17 @@
 {
 	"nodes":[
 		{"id":"bd8feece0e8e1b64","type":"file","file":"99. attachments/BLUE_PRINCE_rTZCLG4gfk.png","x":-600,"y":-300,"width":400,"height":225},
-		{"id":"6c8db27da9109f8c","type":"file","file":"99. attachments/BLUE_PRINCE_aNkeRp54Pt.png","x":-1040,"y":-300,"width":400,"height":225}
+		{"id":"6c8db27da9109f8c","type":"file","file":"99. attachments/BLUE_PRINCE_aNkeRp54Pt.png","x":-1040,"y":-300,"width":400,"height":225},
+		{
+			"id":"e935e953793470a1",
+			"type":"text",
+			"text":"# Room Info\n\nRoom that has 7 locked doors.\nGreat synergy with [[Foyer.canvas|Foyer]].\nHas a preview of the room design on the [[030 - Drafting Studio.canvas|030 - Drafting Studio]].\nSupposedly there is a lever that opens a door on the [[045 - Antechamber.canvas|045 - Antechamber]].",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":-660,
+			"width":720,
+			"height":300
+		}
 	],
 	"edges":[],
 	"metadata":{

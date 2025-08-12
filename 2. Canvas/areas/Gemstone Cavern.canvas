@@ -4,7 +4,17 @@
 		{"id":"62d48af062116711","type":"file","file":"99. attachments/Pasted image 20250716205838.png","x":-1120,"y":-380,"width":400,"height":225},
 		{"id":"6d9464b3adc636a7","type":"file","file":"99. attachments/BLUE_PRINCE_Dz94JHw8Pl.png","x":-1120,"y":-100,"width":400,"height":225},
 		{"id":"f59715a26acd76f2","type":"file","file":"99. attachments/BLUE_PRINCE_mZNYB9zJWB.png","x":-660,"y":-100,"width":400,"height":225},
-		{"id":"d2fea7213e78b272","type":"file","file":"99. attachments/BLUE_PRINCE_MLmP1r0iuP.png","x":-1120,"y":160,"width":400,"height":225}
+		{"id":"d2fea7213e78b272","type":"file","file":"99. attachments/BLUE_PRINCE_MLmP1r0iuP.png","x":-1120,"y":160,"width":400,"height":225},
+		{
+			"id":"f87440a4d2941db1",
+			"type":"text",
+			"text":"# Room Info\n\nUnlocked by [[031 - Utility Closet.canvas|031 - Utility Closet]] puzzle.\nPermanent Unlockable room that provides 2 gems per day.\nContains a valve that will enable one of the four fires in the [[Blue Fire Puzzle.canvas|Blue Fire Puzzle]].",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-720,
+			"width":660,
+			"height":220
+		}
 	],
 	"edges":[],
 	"metadata":{

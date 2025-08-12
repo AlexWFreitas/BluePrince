@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"d8764ae45b48aea1","type":"text","text":"[[Servant's Quarters]]","x":-1120,"y":-740,"width":250,"height":60},
 		{"id":"d8dee6caf025dab0","type":"file","file":"99. attachments/BLUE_PRINCE_6cckEdZ81p.png","x":-1120,"y":-640,"width":400,"height":225},
 		{"id":"3097c6314ae7b63d","type":"file","file":"99. attachments/BLUE_PRINCE_VHUsRahnXj.png","x":-540,"y":-752,"width":400,"height":225},
 		{"id":"9647ed25b36039aa","type":"text","text":"Hartley Ruota - RuotH","x":-440,"y":-475,"width":250,"height":60},
@@ -8,10 +7,48 @@
 		{"id":"28ec9e55e55ae439","type":"file","file":"99. attachments/BLUE_PRINCE_4iMi0a3Wzv.png","x":-1120,"y":-40,"width":400,"height":225},
 		{"id":"30c1115add827e7f","type":"file","file":"99. attachments/BLUE_PRINCE_vIVpLyPkzr.png","x":-700,"y":-40,"width":400,"height":225},
 		{"id":"46769743753a02f9","type":"file","file":"99. attachments/Pasted image 20250716204718.png","x":-1600,"y":-420,"width":400,"height":345},
-		{"id":"80f8d50b75cb14a5","type":"file","file":"99. attachments/BLUE_PRINCE_0r73wnSVS2.png","x":-1600,"y":-700,"width":400,"height":225}
+		{"id":"80f8d50b75cb14a5","type":"file","file":"99. attachments/BLUE_PRINCE_0r73wnSVS2.png","x":-1600,"y":-700,"width":400,"height":225},
+		{
+			"id":"5697a8388536c225",
+			"type":"text",
+			"text":"This room belonged to [[Hartley Ruota.canvas|Hartley Ruota]]",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-1000,
+			"width":380,
+			"height":80
+		},
+		{
+			"id":"48498816ea3fad93",
+			"type":"text",
+			"text":"There is a note saying that memos found in Hartley's room are always false on the [[Dark Room.canvas|Dark Room]]",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-900,
+			"width":380,
+			"height":120
+		}
 	],
 	"edges":[
-		{"id":"df4a4a0bc1351039","fromNode":"9647ed25b36039aa","fromSide":"top","toNode":"3097c6314ae7b63d","toSide":"bottom"}
+		{"id":"df4a4a0bc1351039","fromNode":"9647ed25b36039aa","fromSide":"top","toNode":"3097c6314ae7b63d","toSide":"bottom"},
+		{
+			"id":"b200b9191d208111",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"48498816ea3fad93",
+			"fromSide":"left",
+			"toNode":"80f8d50b75cb14a5",
+			"toSide":"top"
+		},
+		{
+			"id":"a9c74ee61d147541",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"46769743753a02f9",
+			"fromSide":"top",
+			"toNode":"80f8d50b75cb14a5",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

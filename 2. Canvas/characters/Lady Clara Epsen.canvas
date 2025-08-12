@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"cb694cd33ec977c6",
+			"type":"text",
+			"text":"# Info\n\nA lady from the Epsen family that was married to [[Simon H Sinclair.canvas|Simon H Sinclair]].\nSeems to have died near 1983/06/15.\nSeesm to be associated with the [[West Wing.canvas|West Wing]].",
+			"styleAttributes":{},
+			"x":-780,
+			"y":-600,
+			"width":460,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

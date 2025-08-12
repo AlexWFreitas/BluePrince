@@ -1,7 +1,17 @@
 {
 	"nodes":[
-		{"id":"a81dc6efcda2f547","type":"file","file":"99. attachments/BLUE_PRINCE_GXXZ9hvyRF.png","x":0,"y":0,"width":400,"height":225},
-		{"id":"591dfa3d12548e7a","type":"file","file":"99. attachments/BLUE_PRINCE_bpaBP7Wyzn.png","x":-440,"y":0,"width":400,"height":225}
+		{"id":"591dfa3d12548e7a","type":"file","file":"99. attachments/BLUE_PRINCE_bpaBP7Wyzn.png","x":-440,"y":0,"width":400,"height":225},
+		{
+			"id":"77e22a3a37bc8551",
+			"type":"text",
+			"text":"# Room Info\nThis red room makes you lose two steps every time you enter it.",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-280,
+			"width":560,
+			"height":200
+		},
+		{"id":"a81dc6efcda2f547","type":"file","file":"99. attachments/BLUE_PRINCE_GXXZ9hvyRF.png","x":-20,"y":0,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

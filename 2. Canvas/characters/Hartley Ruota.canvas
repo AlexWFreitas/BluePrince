@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"d69dbed8feea3078",
+			"type":"text",
+			"text":"# Info\n\nHartley Ruota was the previous valet for the Mount Holly State Mansion.\n\nHe was succeed by [[Christoph.canvas|Christoph]].\n",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-340,
+			"width":580,
+			"height":460
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

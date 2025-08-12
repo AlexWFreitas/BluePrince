@@ -1,6 +1,16 @@
 {
 	"nodes":[
-		{"id":"fa6587418d098091","type":"file","file":"99. attachments/Pasted image 20250716212541.png","x":-560,"y":-360,"width":400,"height":225}
+		{"id":"fa6587418d098091","type":"file","file":"99. attachments/Pasted image 20250716212541.png","x":-560,"y":-360,"width":400,"height":225},
+		{
+			"id":"acba578e5ac56c76",
+			"type":"text",
+			"text":"# Room Info\n\nGreen room that has:\n- Two digging spots\n- Flowers that give gems when watered with the [[033 - Pump Room.canvas|033 - Pump Room]].\n- Probably a breakable wall (?)\n- A broken lever that can be used to open a door to the [[045 - Antechamber.canvas|045 - Antechamber]].\n- Sometimes an item.",
+			"styleAttributes":{},
+			"x":-800,
+			"y":-780,
+			"width":640,
+			"height":320
+		}
 	],
 	"edges":[],
 	"metadata":{
