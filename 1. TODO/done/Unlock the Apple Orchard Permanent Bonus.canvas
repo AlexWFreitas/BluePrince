@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"74b668a808adf717",
+			"type":"text",
+			"text":"# Guide\n\n1. After [[Solve the Dark Room puzzle.canvas|Solve the Dark Room puzzle]] and during a run you did that.\n2. If you have the Magnifying Lens item, you can search on the photos inside that room for a number carved into a tree.\n3. This number is 1128, this is used to unlock the padlock on the [[Apple Orchard.canvas|Apple Orchard]], granting a permanent bonus of 20 steps at the start of every run and also granting you access to that area.",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-240,
+			"width":680,
+			"height":280
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

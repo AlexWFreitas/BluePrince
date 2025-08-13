@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"58c9ae00489650cb",
+			"type":"text",
+			"text":"# Guide\n\n1. There is a room on the west wing that is called the [[014 - Garage.canvas|014 - Garage]].\n2. If you draft it and you power it through the [[031 - Utility Closet.canvas|031 - Utility Closet]] or [[032 - Boiler Room.canvas|032 - Boiler Room]], you are able to open the garage door.\n3. This unlocks the west gate, allowing you to access the west path and also unlocks a permanent upgrade named [[Outer Room.canvas|Outer Room]].\n4. This room allows you to draft outer rooms to apply special effects into your current run.",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-260,
+			"width":540,
+			"height":420
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

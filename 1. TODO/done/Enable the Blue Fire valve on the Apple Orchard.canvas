@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"3af5892469016e1f",
+			"type":"text",
+			"text":"# Guide\n\n1. After opening the [[Apple Orchard.canvas|Apple Orchard]] padlock, you can access it.\n2. There is a gas valve that can be turned to enable one of the fires in the [[Blue Fire Puzzle.canvas|Blue Fire Puzzle]].",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-340,
+			"width":760,
+			"height":160
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

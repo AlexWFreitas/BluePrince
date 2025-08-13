@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"20f248d1ed2d4914",
+			"type":"text",
+			"text":"# Info\n\n1. Sometimes in a run, you can find a [[Treasure Map.canvas|Treasure Map]] item.\n2. If you go to where the map is pointing and you have a shovel, you can dig and find a treasure.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-160,
+			"width":540,
+			"height":180
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

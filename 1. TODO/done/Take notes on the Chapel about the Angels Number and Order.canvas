@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"77ea04d06f41c49d",
+			"type":"text",
+			"text":"# Guide\n\n1. Visit the [[Chapel.canvas|Chapel]]\n2. Take pictures about the angels appearances and the associated numbers with each angel.\n3. This will be used on a later puzzle.\n4. Bonus task: You can discover their names through other places such as [[Gardener's Logbook.canvas|Gardener's Logbook]] and [[Maid's Chamber.canvas|Maid's Chamber]]",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-240,
+			"width":580,
+			"height":280
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

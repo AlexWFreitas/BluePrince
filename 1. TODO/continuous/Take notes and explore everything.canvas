@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"c512f7fdaeb6af46",
+			"type":"text",
+			"text":"# Info\n\nThis needs not be said, but you should always be reading and taking notes about everything you find, take screenshots, interact in multiple ways and try to keep an open mind about everything you find in this game.\n\nTo take notes, sometimes you will need exploration items, such as the magnifying lens, which will allow you to inspect documents more closely.\n\nMost of the TODO tasks listed on the TODO canvas will not be talking about the action of taking notes, because it should always be done and will always give you more information for your gameplay.",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-320,
+			"width":740,
+			"height":360
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"09b13e730647a983",
+			"type":"text",
+			"text":"# Guide\n\n1. Unlock Outer Room\n2. Draft Schoolhouse\n3. Turn the blue fire puzzle valve on",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-260,
+			"width":480,
+			"height":280
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

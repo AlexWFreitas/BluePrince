@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"bf500ef42c7171a8",
+			"type":"text",
+			"text":"# Guide\n\n1. [[Take notes on the Chapel about the Angels Number and Order.canvas|Take notes on the Chapel about the Angels Number and Order]]\n2. Unlock the [[Outer Room.canvas|Outer Room]] and draft the [[Tomb.canvas|Tomb]]\n3. Interact with the angels statues in the same order that they are listed on the Chapel based on the numbers.\n4. This will open a secret passage that leads to the [[Abandoned Mine.canvas|Abandoned Mine]].",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-300,
+			"width":560,
+			"height":300
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

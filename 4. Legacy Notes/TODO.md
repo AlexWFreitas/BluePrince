@@ -132,43 +132,43 @@
 - [x] Tomb Puzzle Solved
 
 # DONE
-### Solve the Statue Puzzle on the Tomb
-- The statues from the Chapel are a clue to solving this
-- This opens a path to the Abandoned Mine, which will need to use the [[033 - Pump Room.canvas|Pump Room]]to remove water.
-- [x] Done
-### Solve the Safe on the Boudoir
-- Password is 1225, a reference to the Christmas Photo
-### Open the Safe on the Shelter
-- Starting Date is 6th November
-- Use the Terminal to unlock on Starting Date + Number of Days and at least one hour away from the current time.
 
-### Open the Garage Door
-- [x] Open the Garage Door
-- [x] Open the Garage Car Door and Box
-- [x] Unlock the Outer Room
-- [x] Unlock the West Path
+### Discovered Terminal Password
+- [x] Done
+- Swansong
+### Solve the Utility Box Closet Puzzle
+- [x] Done
 ### Open the Gemstone Cavern
 - [x] Done
 - [x] Obtained 2 Gems for each run
 - [x] Turned Gas Valve for [[Blue Fire Puzzle.canvas|Blue Fire Puzzle]]
-### Solve [[Trading Post.canvas|Trading Post]] Puzzle
-- This increases my allowance by 2 coins.
-- [x] Done
+### Solve the Safe on the Boudoir
+- Password is 1225, a reference to the Christmas Photo
 ### Unlocked Apple Orchard Area
 - Password is 1128
 - The password is found on the Dark Room with the Magnifying Glass
 - Obtained 20 extra steps for each run
 - [x] Done
-### Discovered Terminal Password
+### Open the Garage Door
+- [x] Open the Garage Door
+- [x] Open the Garage Car Door and Box
+- [x] Unlock the Outer Room
+- [x] Unlock the West Path
+### Open the Safe on the Shelter
+- Starting Date is 6th November
+- Use the Terminal to unlock on Starting Date + Number of Days and at least one hour away from the current time.
+### Solve [[Trading Post.canvas|Trading Post]] Puzzle
+- This increases my allowance by 2 coins.
 - [x] Done
-- Swansong
+### Solve the Statue Puzzle on the Tomb
+- The statues from the Chapel are a clue to solving this
+- This opens a path to the Abandoned Mine, which will need to use the [[033 - Pump Room.canvas|Pump Room]] to remove water.
+- [x] Done
 ### Discover the purpose of the Well
 - [x] Throw coins into the Well
 - [x] Use the Pump Room to drain the Well
 - [x] You can get thrown coins if you drain the Well
 - There is a special locked door to [[Basement.canvas|Basement]] below the Well
-- [x] Done
-### Solve the Utility Box Closet Puzzle
 - [x] Done
 ### Turn the 4 Blue Flame gas valves on
 - [x] [[Gemstone Cavern.canvas|Gemstone Cavern]] - Valve

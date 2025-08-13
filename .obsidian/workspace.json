@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 712.4841497232145,
-                  "y": -13.108470783811129,
-                  "zoom": -0.6666666666666667
+                  "x": -1040.5658658512857,
+                  "y": 472.2418435557173,
+                  "zoom": -0.3333333333333333
                 }
               },
               "pinned": true,
@@ -27,24 +27,194 @@
             }
           },
           {
-            "id": "ef58b5cda7b61f44",
+            "id": "1eae5e3eefa9538d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/info/Rooms Found.canvas",
+                "file": "2. Canvas/info/Red Letters.canvas",
                 "viewState": {
-                  "x": -130,
-                  "y": -111.5,
-                  "zoom": -0.46638437927906423
+                  "x": -476.1892148226701,
+                  "y": -159.86512646998455,
+                  "zoom": 0.0076372094452066275
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Rooms Found"
+              "title": "Red Letters"
+            }
+          },
+          {
+            "id": "5bb161a5bc6344a3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Open the Garage Door and unlock the Outer Room.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Open the Garage Door and unlock the Outer Room"
+            }
+          },
+          {
+            "id": "e4e8bd7c691a2eb2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Unlock the Gemstone Cavern.canvas",
+                "viewState": {
+                  "x": -304.7505270889672,
+                  "y": 543.0602884686697,
+                  "zoom": -1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unlock the Gemstone Cavern"
+            }
+          },
+          {
+            "id": "8d6b1847dbabb4ec",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Unlock the Gemstone Cavern.canvas",
+                "viewState": {
+                  "x": -90,
+                  "y": 142.5,
+                  "zoom": -0.02919171271478336
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unlock the Gemstone Cavern"
+            }
+          },
+          {
+            "id": "ed45fbfdaf2fc1ac",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Enable the Blue Fire through the Gemstone Cavern.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Enable the Blue Fire through the Gemstone Cavern"
+            }
+          },
+          {
+            "id": "471c3236d37f04f3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Enable the Blue Fire through the Gemstone Cavern.canvas",
+                "viewState": {
+                  "x": -370,
+                  "y": -90,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Enable the Blue Fire through the Gemstone Cavern"
+            }
+          },
+          {
+            "id": "2b054e7d0ecea95c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Take notes on the Chapel about the Angels Number and Order.canvas",
+                "viewState": {
+                  "x": -270,
+                  "y": -120,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Take notes on the Chapel about the Angels Number and Order"
+            }
+          },
+          {
+            "id": "70efce5c4493b35d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Solve the Angels Puzzle on the Tomb to reach the Abandoned Mine.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Solve the Angels Puzzle on the Tomb to reach the Abandoned Mine"
+            }
+          },
+          {
+            "id": "2baca2a60898badc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Solve the Trading Post Morai Jai Puzzle.canvas",
+                "viewState": {
+                  "x": -260,
+                  "y": -120,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Solve the Trading Post Morai Jai Puzzle"
+            }
+          },
+          {
+            "id": "61972178efde2595",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/continuous/Find the Treasure in Treasure Maps.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Find the Treasure in Treasure Maps"
+            }
+          },
+          {
+            "id": "c8018dfb9a20d927",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/TODO Canvas.canvas",
+                "viewState": {
+                  "x": 603.3653849089278,
+                  "y": 1297.2479146469773,
+                  "zoom": -0.6794639411307815
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "TODO Canvas"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -189,25 +359,63 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-dangling-links:Show dangling links panel": false
+      "command-palette:Open command palette": false
     }
+  },
+  "floating": {
+    "id": "b2c22c783a81c05b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "67c917c8bf53ae3e",
+        "type": "window",
+        "children": [
+          {
+            "id": "e06042c36a650e9c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef58b5cda7b61f44",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Legacy Notes/TODO.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "TODO"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2200,
+        "y": 255,
+        "width": 1448,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
   "active": "ef58b5cda7b61f44",
   "lastOpenFiles": [
-    "2. Canvas/areas/Laundry Room.canvas",
-    "2. Canvas/areas/Showroom.canvas",
-    "2. Canvas/areas/Terrace.canvas",
-    "2. Canvas/areas/The Grounds.canvas",
-    "2. Canvas/areas/The Precipice.canvas",
-    "2. Canvas/areas/Tomb.canvas",
-    "2. Canvas/areas/Toolshed.canvas",
-    "2. Canvas/areas/Trading Post.canvas",
-    "2. Canvas/areas/Mount Holly Gift Shop.canvas",
-    "2. Canvas/areas/Morning Room.canvas",
-    "2. Canvas/areas/Mount Holly Estate.canvas",
-    "99. attachments/BLUE_PRINCE_45iDUn5RGF.png",
+    "1. TODO/TODO Canvas.canvas",
     "4. Legacy Notes/TODO.md",
+    "1. TODO/done/Solve the Blue Fire Puzzle.canvas",
+    "1. TODO/done/Enable the Blue Fire Valve on the Hovel.canvas",
+    "1. TODO/done/Enable the Blue Fire Valve on the Schoolhouse.canvas",
+    "1. TODO/done/Discover the Terminal Password.canvas",
+    "1. TODO/done/Enable the Blue Fire valve on the Apple Orchard.canvas",
+    "1. TODO/done/Unlock the Apple Orchard Permanent Bonus.canvas",
+    "1. TODO/done/Solve the Dark Room puzzle.canvas",
+    "1. TODO/done/Unlock the Gemstone Cavern.canvas",
+    "1. TODO/continuous/Take notes and explore everything.canvas",
+    "99. attachments/Pasted image 20250716141404.png",
+    "99. attachments/BLUE_PRINCE_45iDUn5RGF.png",
     "4. Legacy Notes/Old Blue Prince Notes.md",
     "Daniel (Jones).md",
     "empty files.md",
@@ -242,14 +450,13 @@
     "99. attachments/BLUE_PRINCE_I9hDZsvDoB.png",
     "1. TODO/continuous",
     "0. New Files",
-    "1. TODO/entry",
+    "1. TODO/todo",
     "1. TODO/done",
     "99. attachments/BLUE_PRINCE_rIsCgcdEKF.png",
     "99. attachments/BLUE_PRINCE_VAH7dZkwQQ.png",
     "99. attachments/BLUE_PRINCE_YBmqCpGmR8.png",
     "99. attachments/BLUE_PRINCE_4ffbJQqFq6.png",
     "99. attachments/BLUE_PRINCE_fThMMyLOOR.png",
-    "99. attachments/BLUE_PRINCE_9KocYSBtO7.png",
-    "99. attachments/BLUE_PRINCE_1gGn7wAZZ5.png"
+    "99. attachments/BLUE_PRINCE_9KocYSBtO7.png"
   ]
 }

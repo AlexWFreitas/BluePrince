@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"92850b60eb3c2e33",
+			"type":"text",
+			"text":"# Guide\n\n1. After [[Unlock the Gemstone Cavern.canvas|unlocking the Gemstone Cavern]].\n2. Enter the Gemstone Cavern and search for a gas valve\n3. Turn the valve to enable one of the blue fire containers at the [[Blue Fire Puzzle.canvas|Blue Fire Puzzle]].",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-240,
+			"width":540,
+			"height":300
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

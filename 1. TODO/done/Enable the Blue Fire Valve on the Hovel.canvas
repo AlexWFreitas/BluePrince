@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"175211d1441746ea",
+			"type":"text",
+			"text":"# Guide\n\n1. Unlock the Outer Room upgrade\n2. Draft Hovel\n3. Turn the blue fire valve on.",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-120,
+			"width":480,
+			"height":280
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"9981ba39db339669",
+			"type":"text",
+			"text":"# Guide\n\n1. Unlock the [[Outer Room.canvas|Outer Room]]\n2. Draft the [[Trading Post.canvas|Trading Post]]\n3. Find the Morai Jai puzzle and solve it to increase your [[Allowance.canvas|allowance]] by 2.",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-300,
+			"width":560,
+			"height":220
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

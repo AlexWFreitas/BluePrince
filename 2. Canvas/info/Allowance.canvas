@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"fc3dec21670c0fff",
+			"type":"text",
+			"text":"# Info\n\nThis is a permanent resource that gives you gold at the start of every run as an allowance.\n\nThis can be increased through multiple ways, such as:\n- Puzzle Rewards\n- Trunks\n- Laboratory Experiments\n- [[Guest Bedroom.canvas|Guest Bedroom]] upgrade - Quest Bedroom",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-300,
+			"width":660,
+			"height":360
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
