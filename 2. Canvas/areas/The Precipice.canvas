@@ -31,7 +31,7 @@
 		}
 	],
 	"edges":[
-		{"id":"b02d955c37416a88","fromNode":"cffe72601ee624bb","fromSide":"top","toNode":"da307cbe0342a809","toSide":"bottom"}
+		{"id":"b02d955c37416a88","toFloating":false,"fromNode":"cffe72601ee624bb","fromSide":"top","toNode":"da307cbe0342a809","toSide":"bottom"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

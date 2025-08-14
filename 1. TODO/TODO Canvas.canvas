@@ -8,84 +8,107 @@
 		{"id":"1879ff433b9680b7","type":"group","x":-400,"y":790,"width":3100,"height":2140,"label":"Progression Guide"},
 		{"id":"21b33cdf5e75929f","type":"group","x":-1400,"y":-680,"width":880,"height":1580,"color":"4","label":"Continuous Tasks"},
 		{
-			"id":"64074a49ece7aec7",
+			"id":"bfc5b66681d8d62e",
 			"type":"text",
-			"text":"Discover the meaning of the paper from the Attic pointing to the monitor with the Office room on the Security Room",
+			"text":"Solve the Ruby Crown mystery",
 			"styleAttributes":{},
-			"x":1080,
-			"y":-200,
-			"width":500,
-			"height":100
-		},
-		{
-			"id":"ca43b5a70f4c4c5d",
-			"type":"text",
-			"text":"Buy all permanent upgrades from Holly State Gift Shop",
-			"styleAttributes":{},
-			"x":1050,
-			"y":-288,
-			"width":420,
-			"height":70
-		},
-		{
-			"id":"f90654b2befd12bc",
-			"type":"text",
-			"text":"Discover the order of the 8 months, 8 places that Herbert Sinclair passed through to solve the puzzle on [[046 - Room 46.canvas|046 - Room 46]]",
-			"styleAttributes":{},
-			"x":1050,
-			"y":-430,
-			"width":440,
-			"height":100
-		},
-		{
-			"id":"ef7738195b28da57",
-			"type":"text",
-			"text":"Obtain the items from the Vault with the Vault Deposit Keys ( at least two keys exist)",
-			"styleAttributes":{},
-			"x":1040,
-			"y":365,
-			"width":420,
-			"height":100
-		},
-		{
-			"id":"2f7555bd26b02dcf",
-			"type":"text",
-			"text":"View all Alzara videos",
-			"styleAttributes":{},
-			"x":1120,
-			"y":200,
+			"x":-300,
+			"y":385,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"6fd231a11e65d40a",
+			"id":"36544fe0450daa87",
 			"type":"text",
-			"text":"Discover how to unlock Cursed Mode",
+			"text":"Collect all Letter Stamps",
 			"styleAttributes":{},
-			"x":1130,
-			"y":110,
+			"x":-300,
+			"y":305,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"a2a01f87b63ccf2b",
+			"id":"bf9b3985b7eee7a9",
 			"type":"text",
-			"text":"Find the non damaged book about Sigils",
+			"text":"Find the Secret in The Pool by using Boiler Room and draining the Water",
 			"styleAttributes":{},
-			"x":1120,
-			"y":10,
-			"width":300,
-			"height":80
+			"x":-10,
+			"y":315,
+			"width":340,
+			"height":100
 		},
 		{
-			"id":"369f45fce602c5ca",
+			"id":"b7e4595012c7b579",
 			"type":"text",
-			"text":"Find the uncensored book on the History of Orindia",
+			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
 			"styleAttributes":{},
-			"x":1070,
-			"y":-85,
-			"width":300,
-			"height":80
+			"x":-1380,
+			"y":270,
+			"width":640,
+			"height":60
+		},
+		{
+			"id":"c9da71430e392356",
+			"type":"text",
+			"text":"Open all doors with Radiation at least once through the Shelter and Laboratory",
+			"styleAttributes":{},
+			"x":120,
+			"y":205,
+			"width":360,
+			"height":100
+		},
+		{
+			"id":"2c986c57ec113462",
+			"type":"text",
+			"text":"Receive all Letters on the Mail Room",
+			"styleAttributes":{},
+			"x":-300,
+			"y":225,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4289e616125ca1d2",
+			"type":"text",
+			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":190,
+			"width":620,
+			"height":60
+		},
+		{
+			"id":"e59afe391f96779c",
+			"type":"text",
+			"text":"[[Gemstone Cavern Unlock.canvas|Gemstone Cavern Unlock]]",
+			"styleAttributes":{},
+			"x":200,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"328982b8302a369c",
+			"type":"text",
+			"text":"[[Bourdoir Safe Puzzle.canvas|Bourdoir Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"936bab1927f80b92",
+			"type":"text",
+			"text":"[[Music Sheets Puzzle.canvas|Music Sheets Puzzle]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"4"
 		},
 		{
 			"id":"0ae783d9ad6b775d",
@@ -128,16 +151,6 @@
 			"height":100
 		},
 		{
-			"id":"a59f8f4f348a0950",
-			"type":"text",
-			"text":"Buy all books from the Bookshop and read them on the Library",
-			"styleAttributes":{},
-			"x":550,
-			"y":-218,
-			"width":380,
-			"height":80
-		},
-		{
 			"id":"860ace74fb8bab3a",
 			"type":"text",
 			"text":"Discover the entire message on the Grid with the Paintings Puzzle",
@@ -158,14 +171,56 @@
 			"height":75
 		},
 		{
-			"id":"db08a40f21a6ddb6",
+			"id":"c93872785e0ebda0",
 			"type":"text",
-			"text":"Obtain all inner sanctum keys\n",
+			"text":"[[Draft an Observatory whenever possible for the permanent bonuses.canvas|Draft an Observatory whenever possible for the permanent bonuses]]",
 			"styleAttributes":{},
-			"x":-300,
-			"y":-215,
+			"x":-1380,
+			"y":450,
+			"width":640,
+			"height":60
+		},
+		{
+			"id":"855343f1307f6643",
+			"type":"text",
+			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":350,
+			"width":620,
+			"height":80
+		},
+		{
+			"id":"0c9bdbeb9c6155dc",
+			"type":"text",
+			"text":"Top to Bottom = Earliest to Latest in Terms of List of Requirements to Start",
+			"styleAttributes":{},
+			"x":-400,
+			"y":660,
+			"width":480,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"4d823aad9af72103",
+			"type":"text",
+			"text":"[[Outer Room Unlock.canvas|Outer Room Unlock]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":841,
+			"width":260,
+			"height":59,
+			"color":"4"
+		},
+		{
+			"id":"a59f8f4f348a0950",
+			"type":"text",
+			"text":"Buy all books from the Bookshop and read them on the Library",
+			"styleAttributes":{},
+			"x":550,
+			"y":-218,
 			"width":380,
-			"height":100
+			"height":80
 		},
 		{
 			"id":"91b4d00ffb5282c4",
@@ -188,16 +243,6 @@
 			"height":95
 		},
 		{
-			"id":"c6ece5f7b08fcf61",
-			"type":"text",
-			"text":"Find or deduce all Sigils\n- There is one on the Tomb I think, it was a room with a giant Table",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-360,
-			"width":420,
-			"height":115
-		},
-		{
 			"id":"4abe9de771b65cbb",
 			"type":"text",
 			"text":"Find the third microchip and open the locked door on Blackbridge Grotto",
@@ -205,236 +250,6 @@
 			"x":200,
 			"y":-330,
 			"width":420,
-			"height":80
-		},
-		{
-			"id":"34259ec77c4436d3",
-			"type":"text",
-			"text":"Discover the hidden lever on the [[Great Hall.canvas|Great Hall]]",
-			"styleAttributes":{},
-			"x":620,
-			"y":-440,
-			"width":380,
-			"height":80
-		},
-		{
-			"id":"41987dc858d73b15",
-			"type":"text",
-			"text":"Discover all Workshop recipes",
-			"styleAttributes":{},
-			"x":200,
-			"y":-430,
-			"width":380,
-			"height":60
-		},
-		{
-			"id":"95dad6f0995a62ec",
-			"type":"text",
-			"text":"Open the Red Door on the Underpass",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-440,
-			"width":380,
-			"height":60
-		},
-		{
-			"id":"ec13ef1157529314",
-			"type":"text",
-			"text":"Check for breakable walls on the Greenhouse",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-530,
-			"width":380,
-			"height":60
-		},
-		{
-			"id":"699a667ec2a4728c",
-			"type":"text",
-			"text":"Open the Special Door under the Well with the Basement Key",
-			"styleAttributes":{},
-			"x":1150,
-			"y":-510,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"a29803b638277d5b",
-			"type":"text",
-			"text":"Unfreeze the Freezer by placing a Furnace near it to pick frozen items",
-			"styleAttributes":{},
-			"x":1100,
-			"y":-745,
-			"width":340,
-			"height":80
-		},
-		{
-			"id":"f4b3e485b666df79",
-			"type":"text",
-			"text":"Enter the Trophy Room at least once",
-			"styleAttributes":{},
-			"x":700,
-			"y":-840,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f23c6f0e3f0b54c2",
-			"type":"text",
-			"text":"Solve the Mirror Chamber Room at least once by placing 4 entries",
-			"styleAttributes":{},
-			"x":990,
-			"y":-880,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"36e298c5763d27d9",
-			"type":"text",
-			"text":"Find a special key on the Music Room by drafting it on Rank 8-9",
-			"styleAttributes":{},
-			"x":1150,
-			"y":-645,
-			"width":320,
-			"height":90
-		},
-		{
-			"id":"acb32ac1e8e1787d",
-			"type":"text",
-			"text":"Check if the Drafting Studio has breakable walls based on the fact that the design has space for hiding something based on the plans",
-			"styleAttributes":{},
-			"x":1265,
-			"y":-913,
-			"width":310,
-			"height":147
-		},
-		{
-			"id":"f1bf7054baa10074",
-			"type":"text",
-			"text":"Discover all rooms from the [[030 - Drafting Studio.canvas|030 - Drafting Studio]]",
-			"styleAttributes":{},
-			"x":700,
-			"y":-745,
-			"width":380,
-			"height":100
-		},
-		{
-			"id":"c410c303678a2c75",
-			"type":"text",
-			"text":"Reach Classroom Grade 8 and pass the Final Exam",
-			"styleAttributes":{},
-			"x":200,
-			"y":-550,
-			"width":520,
-			"height":80
-		},
-		{
-			"id":"b20fd76fc0ad6686",
-			"type":"text",
-			"text":"Enter every room at least once",
-			"styleAttributes":{},
-			"x":740,
-			"y":-530,
-			"width":380,
-			"height":60
-		},
-		{
-			"id":"25faba1c25655a02",
-			"type":"text",
-			"text":"Discover the Letter payment scheme described on the [[046 - Room 46.canvas|046 - Room 46]]",
-			"styleAttributes":{},
-			"x":200,
-			"y":-670,
-			"width":460,
-			"height":80
-		},
-		{
-			"id":"1f1e69dda522f0a0",
-			"type":"text",
-			"text":"Find the eight [[Red Letters.canvas|Red Letters]]",
-			"styleAttributes":{},
-			"x":200,
-			"y":-750,
-			"width":380,
-			"height":60
-		},
-		{
-			"id":"0f21a8af597a9dd0",
-			"type":"text",
-			"text":"Map rooms that need to be interacted with items, such as the Power Hammer, Sledgehammer, Burning Glass and Magnifying Lens",
-			"styleAttributes":{},
-			"x":200,
-			"y":-910,
-			"width":460,
-			"height":130
-		},
-		{
-			"id":"e360d145544ea45a",
-			"type":"text",
-			"text":"Discover the hidden lever on the [[Weight Room.canvas|Weight Room]]",
-			"styleAttributes":{},
-			"x":740,
-			"y":-620,
-			"width":380,
-			"height":80
-		},
-		{
-			"id":"c38fc1065f6e9ead",
-			"type":"text",
-			"text":"Discover all the Chapel angel names",
-			"styleAttributes":{},
-			"x":700,
-			"y":-940,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"e2e4f754e8feda44",
-			"type":"text",
-			"text":"Open all boxes on the Reservoir",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-610,
-			"width":380,
-			"height":60
-		},
-		{
-			"id":"5de760959c27a8b8",
-			"type":"text",
-			"text":"Discover the purpose of the Moon Relic on the Secret Garden and if it has any relationship with the Moon Pendant from the Showroom",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-760,
-			"width":440,
-			"height":130
-		},
-		{
-			"id":"5548bc1e89bb14cd",
-			"type":"text",
-			"text":"Discover if it's possible to reach the cave area above the Reservoir boxes",
-			"styleAttributes":{},
-			"x":-290,
-			"y":-880,
-			"width":450,
-			"height":100
-		},
-		{
-			"id":"8b916f566c249a06",
-			"type":"text",
-			"text":"[[Use the Office Terminal to spread Gold on rooms.canvas|Use the Office Terminal to spread Gold on rooms]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":10,
-			"width":500,
-			"height":60
-		},
-		{
-			"id":"bdd4cd205bf789b6",
-			"type":"text",
-			"text":"[[Use the Security room terminal to manipulate the Keycard System in your favor.canvas|Use the Security room terminal to manipulate the Keycard System in your favor]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":90,
-			"width":580,
 			"height":80
 		},
 		{
@@ -458,27 +273,6 @@
 			"height":60
 		},
 		{
-			"id":"f181343f47f783bf",
-			"type":"text",
-			"text":"**Tasks that should be done every day whenever possible**",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-660,
-			"width":520,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"5c018b925a0bc2bf",
-			"type":"text",
-			"text":"[[Take notes and explore everything.canvas|Take notes and explore everything]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-570,
-			"width":460,
-			"height":60
-		},
-		{
 			"id":"adf1479995922002",
 			"type":"text",
 			"text":"[[Order an Item through the Terminal.canvas|Order an Item through the Terminal]]",
@@ -487,140 +281,6 @@
 			"y":-250,
 			"width":460,
 			"height":60
-		},
-		{
-			"id":"29e340e2fe4c541f",
-			"type":"text",
-			"text":"[[Pick Outer Room at the Start of the Run.canvas|Pick an Outer Room at the start of the Run]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-330,
-			"width":460,
-			"height":60
-		},
-		{
-			"id":"53c4a2b4f29ae6f7",
-			"type":"text",
-			"text":"[[Throw Coin on Well.canvas|Throw Coin on Well]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-410,
-			"width":460,
-			"height":60
-		},
-		{
-			"id":"323abfebe2befa35",
-			"type":"text",
-			"text":"[[Do Experiments on Laboratory.canvas|Do Experiments on Laboratory]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-490,
-			"width":460,
-			"height":60
-		},
-		{
-			"id":"ebd2a955f0958ac7",
-			"type":"text",
-			"text":"[[Take notes on the Chapel about the Angels Number and Order.canvas|Take notes on the Chapel about the Angels Number and Order]]",
-			"styleAttributes":{},
-			"x":-5900,
-			"y":1480,
-			"width":295,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"357966a66dbf1eee",
-			"type":"text",
-			"text":"Do the Chess puzzle whenever I have a run with a Queen and King room (Office and Study)",
-			"styleAttributes":{},
-			"x":-5785,
-			"y":2486,
-			"width":440,
-			"height":95
-		},
-		{
-			"id":"0029cda47b3cbbb3",
-			"type":"text",
-			"text":"Discover the meaning of the word Castle on the Chess Puzzle, maybe castling as in Chess castling? \n\nOr maybe three letter words that start with C A S T L E",
-			"styleAttributes":{},
-			"x":-5553,
-			"y":2640,
-			"width":540,
-			"height":140
-		},
-		{
-			"id":"33151740da537a58",
-			"type":"text",
-			"text":"Open the Blocked Door on The Precipice",
-			"styleAttributes":{},
-			"x":-5865,
-			"y":2344,
-			"width":260,
-			"height":93
-		},
-		{
-			"id":"2914b2cd97901aaf",
-			"type":"text",
-			"text":"Drain the [[Reservoir.canvas|Reservoir]] using the Reserve Tank on the [[033 - Pump Room.canvas|033 - Pump Room]]",
-			"styleAttributes":{},
-			"x":-4820,
-			"y":2370,
-			"width":407,
-			"height":83,
-			"color":"4"
-		},
-		{
-			"id":"e67f8718c29d658e",
-			"type":"text",
-			"text":"Open all the Chests on the drained [[Reservoir.canvas|Reservoir]]",
-			"styleAttributes":{},
-			"x":-4780,
-			"y":2494,
-			"width":320,
-			"height":87
-		},
-		{
-			"id":"f4f418710eb8b966",
-			"type":"text",
-			"text":"Find the [[Inner Sanctum Key.canvas ]] on the Reservoir and use it on one of the doors in the [[Inner Sanctum.canvas|Inner Sanctum]]",
-			"styleAttributes":{},
-			"x":-4880,
-			"y":2640,
-			"width":360,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"cf1717029d2438d5",
-			"type":"text",
-			"text":"Open the door on [[001 - The Foundation.canvas|001 - The Foundation]] underground with the [[Basement Key.canvas|Basement Key]]",
-			"styleAttributes":{},
-			"x":-3940,
-			"y":2463,
-			"width":260,
-			"height":140,
-			"color":"4"
-		},
-		{
-			"id":"4711c39f20e1a1db",
-			"type":"text",
-			"text":"Discover the purpose of the number from the Wine Cellar 1213",
-			"styleAttributes":{},
-			"x":525,
-			"y":445,
-			"width":290,
-			"height":95
-		},
-		{
-			"id":"32cf4cd67592e6ca",
-			"type":"text",
-			"text":"Discover the meaning of RLCF and Blackwater, I suspect that Blackwater is the revolution party during the history of Fenn Aries or something and that maybe they are represented by the Black Flag",
-			"styleAttributes":{},
-			"x":-10,
-			"y":445,
-			"width":510,
-			"height":135
 		},
 		{
 			"id":"6c389afab7ff78c7",
@@ -653,70 +313,405 @@
 			"height":60
 		},
 		{
-			"id":"b48c9cb681a75796",
+			"id":"db08a40f21a6ddb6",
 			"type":"text",
-			"text":"Power up the [[Laundry Room.canvas|Laundry Room]] with the [[032 - Boiler Room.canvas|032 - Boiler Room]]",
+			"text":"Obtain all inner sanctum keys\n",
 			"styleAttributes":{},
-			"x":-2240,
-			"y":1485,
-			"width":360,
-			"height":120,
-			"color":"4"
+			"x":-300,
+			"y":-215,
+			"width":380,
+			"height":100
 		},
 		{
-			"id":"09554d48b3e8a7a5",
+			"id":"c6ece5f7b08fcf61",
 			"type":"text",
-			"text":"Power up the [[Furnace.canvas|Furnace]] with the [[032 - Boiler Room.canvas|032 - Boiler Room]]",
+			"text":"Find or deduce all Sigils\n- There is one on the Tomb I think, it was a room with a giant Table",
 			"styleAttributes":{},
-			"x":-2520,
-			"y":1485,
-			"width":260,
-			"height":130,
-			"color":"4"
+			"x":-300,
+			"y":-360,
+			"width":420,
+			"height":115
 		},
 		{
-			"id":"89d23adb2da834ad",
+			"id":"95dad6f0995a62ec",
 			"type":"text",
-			"text":"Find the Sigil of Orinnda Aries on [[Secret Garden.canvas|Secret Garden]]",
+			"text":"Open the Red Door on the Underpass",
 			"styleAttributes":{},
-			"x":-2920,
-			"y":2040,
-			"width":340,
-			"height":115,
-			"color":"4"
+			"x":-300,
+			"y":-440,
+			"width":380,
+			"height":60
 		},
 		{
-			"id":"adbcf35b5831cd28",
+			"id":"ec13ef1157529314",
 			"type":"text",
-			"text":"Power up [[014 - Garage.canvas|014 - Garage]] with [[031 - Utility Closet.canvas|031 - Utility Closet]] or [[032 - Boiler Room.canvas|032 - Boiler Room]]",
+			"text":"Check for breakable walls on the Greenhouse",
 			"styleAttributes":{},
-			"x":-2820,
-			"y":1480,
-			"width":260,
-			"height":140,
-			"color":"4"
+			"x":-300,
+			"y":-530,
+			"width":380,
+			"height":60
 		},
 		{
-			"id":"d6bd881efb1dafa6",
+			"id":"25faba1c25655a02",
 			"type":"text",
-			"text":"Break the Walls on the Secret Garden with the Power Hammer",
+			"text":"Discover the Letter payment scheme described on the [[046 - Room 46.canvas|046 - Room 46]]",
 			"styleAttributes":{},
-			"x":-2920,
-			"y":1870,
-			"width":280,
-			"height":110,
-			"color":"4"
+			"x":200,
+			"y":-670,
+			"width":460,
+			"height":80
 		},
 		{
-			"id":"3d50b532150a8f73",
+			"id":"e360d145544ea45a",
 			"type":"text",
-			"text":"Find the [[Secret Garden.canvas|Secret Garden]]",
+			"text":"Discover the hidden lever on the [[Weight Room.canvas|Weight Room]]",
 			"styleAttributes":{},
-			"x":-3120,
-			"y":1720,
-			"width":300,
+			"x":740,
+			"y":-620,
+			"width":380,
+			"height":80
+		},
+		{
+			"id":"e2e4f754e8feda44",
+			"type":"text",
+			"text":"Open all boxes on the Reservoir",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-610,
+			"width":380,
+			"height":60
+		},
+		{
+			"id":"f181343f47f783bf",
+			"type":"text",
+			"text":"**Tasks that should be done every day whenever possible**",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-660,
+			"width":520,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"5c018b925a0bc2bf",
+			"type":"text",
+			"text":"[[Take notes and explore everything.canvas|Take notes and explore everything]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-570,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"f4b3e485b666df79",
+			"type":"text",
+			"text":"Enter the Trophy Room at least once",
+			"styleAttributes":{},
+			"x":700,
+			"y":-840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f1bf7054baa10074",
+			"type":"text",
+			"text":"Discover all rooms from the [[030 - Drafting Studio.canvas|030 - Drafting Studio]]",
+			"styleAttributes":{},
+			"x":700,
+			"y":-745,
+			"width":380,
+			"height":100
+		},
+		{
+			"id":"1f1e69dda522f0a0",
+			"type":"text",
+			"text":"Find the eight [[Red Letters.canvas|Red Letters]]",
+			"styleAttributes":{},
+			"x":200,
+			"y":-750,
+			"width":380,
+			"height":60
+		},
+		{
+			"id":"0f21a8af597a9dd0",
+			"type":"text",
+			"text":"Map rooms that need to be interacted with items, such as the Power Hammer, Sledgehammer, Burning Glass and Magnifying Lens",
+			"styleAttributes":{},
+			"x":200,
+			"y":-910,
+			"width":460,
+			"height":130
+		},
+		{
+			"id":"c38fc1065f6e9ead",
+			"type":"text",
+			"text":"Discover all the Chapel angel names",
+			"styleAttributes":{},
+			"x":700,
+			"y":-940,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5de760959c27a8b8",
+			"type":"text",
+			"text":"Discover the purpose of the Moon Relic on the Secret Garden and if it has any relationship with the Moon Pendant from the Showroom",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-760,
+			"width":440,
+			"height":130
+		},
+		{
+			"id":"5548bc1e89bb14cd",
+			"type":"text",
+			"text":"Discover if it's possible to reach the cave area above the Reservoir boxes",
+			"styleAttributes":{},
+			"x":-290,
+			"y":-880,
+			"width":450,
+			"height":100
+		},
+		{
+			"id":"29e340e2fe4c541f",
+			"type":"text",
+			"text":"[[Pick Outer Room at the Start of the Run.canvas|Pick an Outer Room at the start of the Run]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-330,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"53c4a2b4f29ae6f7",
+			"type":"text",
+			"text":"[[Throw Coin on Well.canvas|Throw Coin on Well]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-410,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"323abfebe2befa35",
+			"type":"text",
+			"text":"[[Do Experiments on Laboratory.canvas|Do Experiments on Laboratory]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-490,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"64074a49ece7aec7",
+			"type":"text",
+			"text":"Discover the meaning of the paper from the Attic pointing to the monitor with the Office room on the Security Room",
+			"styleAttributes":{},
+			"x":1080,
+			"y":-200,
+			"width":500,
+			"height":100
+		},
+		{
+			"id":"ca43b5a70f4c4c5d",
+			"type":"text",
+			"text":"Buy all permanent upgrades from Holly State Gift Shop",
+			"styleAttributes":{},
+			"x":1050,
+			"y":-288,
+			"width":420,
+			"height":70
+		},
+		{
+			"id":"f90654b2befd12bc",
+			"type":"text",
+			"text":"Discover the order of the 8 months, 8 places that Herbert Sinclair passed through to solve the puzzle on [[046 - Room 46.canvas|046 - Room 46]]",
+			"styleAttributes":{},
+			"x":1050,
+			"y":-430,
+			"width":440,
+			"height":100
+		},
+		{
+			"id":"2f7555bd26b02dcf",
+			"type":"text",
+			"text":"View all Alzara videos",
+			"styleAttributes":{},
+			"x":1120,
+			"y":200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6fd231a11e65d40a",
+			"type":"text",
+			"text":"Discover how to unlock Cursed Mode",
+			"styleAttributes":{},
+			"x":1130,
+			"y":110,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a2a01f87b63ccf2b",
+			"type":"text",
+			"text":"Find the non damaged book about Sigils",
+			"styleAttributes":{},
+			"x":1120,
+			"y":10,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"af2169a460b63f2a",
+			"type":"text",
+			"text":"Discover what the marks shown on the Drained Aquarium mean",
+			"styleAttributes":{},
+			"x":350,
+			"y":335,
+			"width":350,
+			"height":80
+		},
+		{
+			"id":"243ff37eed82fd92",
+			"type":"text",
+			"text":" Solve the Gallery Puzzles",
+			"styleAttributes":{},
+			"x":830,
+			"y":280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"63a24bd16a09d55e",
+			"type":"text",
+			"text":"Unlock all the locks on the Locker Room at least once",
+			"styleAttributes":{},
+			"x":500,
+			"y":183,
+			"width":300,
+			"height":85
+		},
+		{
+			"id":"16b82dd5720f76b9",
+			"type":"text",
+			"text":"Reach 50 stars on the Observatory",
+			"styleAttributes":{},
+			"x":830,
+			"y":195,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ef7738195b28da57",
+			"type":"text",
+			"text":"Obtain the items from the Vault with the Vault Deposit Keys ( at least two keys exist)",
+			"styleAttributes":{},
+			"x":1040,
+			"y":365,
+			"width":420,
+			"height":100
+		},
+		{
+			"id":"369f45fce602c5ca",
+			"type":"text",
+			"text":"Find the uncensored book on the History of Orindia",
+			"styleAttributes":{},
+			"x":1070,
+			"y":-85,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"34259ec77c4436d3",
+			"type":"text",
+			"text":"Discover the hidden lever on the [[Great Hall.canvas|Great Hall]]",
+			"styleAttributes":{},
+			"x":620,
+			"y":-440,
+			"width":380,
+			"height":80
+		},
+		{
+			"id":"41987dc858d73b15",
+			"type":"text",
+			"text":"Discover all Workshop recipes",
+			"styleAttributes":{},
+			"x":200,
+			"y":-430,
+			"width":380,
+			"height":60
+		},
+		{
+			"id":"699a667ec2a4728c",
+			"type":"text",
+			"text":"Open the Special Door under the Well with the Basement Key",
+			"styleAttributes":{},
+			"x":1150,
+			"y":-510,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"a29803b638277d5b",
+			"type":"text",
+			"text":"Unfreeze the Freezer by placing a Furnace near it to pick frozen items",
+			"styleAttributes":{},
+			"x":1100,
+			"y":-745,
+			"width":340,
+			"height":80
+		},
+		{
+			"id":"f23c6f0e3f0b54c2",
+			"type":"text",
+			"text":"Solve the Mirror Chamber Room at least once by placing 4 entries",
+			"styleAttributes":{},
+			"x":990,
+			"y":-880,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"36e298c5763d27d9",
+			"type":"text",
+			"text":"Find a special key on the Music Room by drafting it on Rank 8-9",
+			"styleAttributes":{},
+			"x":1150,
+			"y":-645,
+			"width":320,
+			"height":90
+		},
+		{
+			"id":"acb32ac1e8e1787d",
+			"type":"text",
+			"text":"Check if the Drafting Studio has breakable walls based on the fact that the design has space for hiding something based on the plans",
+			"styleAttributes":{},
+			"x":1265,
+			"y":-913,
+			"width":310,
+			"height":147
+		},
+		{
+			"id":"c410c303678a2c75",
+			"type":"text",
+			"text":"Reach Classroom Grade 8 and pass the Final Exam",
+			"styleAttributes":{},
+			"x":200,
+			"y":-550,
+			"width":520,
+			"height":80
+		},
+		{
+			"id":"b20fd76fc0ad6686",
+			"type":"text",
+			"text":"Enter every room at least once",
+			"styleAttributes":{},
+			"x":740,
+			"y":-530,
+			"width":380,
+			"height":60
 		},
 		{
 			"id":"00aab3c83635b4c7",
@@ -727,17 +722,6 @@
 			"y":1485,
 			"width":260,
 			"height":140
-		},
-		{
-			"id":"b766d5ee342e69d6",
-			"type":"text",
-			"text":"Find the Antechamber Door Levers on the Secret Garden",
-			"styleAttributes":{},
-			"x":-3240,
-			"y":1870,
-			"width":270,
-			"height":100,
-			"color":"4"
 		},
 		{
 			"id":"72cac2d43ea35464",
@@ -794,6 +778,17 @@
 			"color":"4"
 		},
 		{
+			"id":"cf1717029d2438d5",
+			"type":"text",
+			"text":"Open the door on [[001 - The Foundation.canvas|001 - The Foundation]] underground with the [[Basement Key.canvas|Basement Key]]",
+			"styleAttributes":{},
+			"x":-3940,
+			"y":2463,
+			"width":260,
+			"height":140,
+			"color":"4"
+		},
+		{
 			"id":"e4d4b2779e18a323",
 			"type":"text",
 			"text":"Discover the [[033 - Pump Room.canvas|033 - Pump Room]]",
@@ -812,28 +807,6 @@
 			"x":-3950,
 			"y":2180,
 			"width":280,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"dd9fc8532f707c42",
-			"type":"text",
-			"text":"Throw coins on [[Well.canvas|Well]]",
-			"styleAttributes":{},
-			"x":-3960,
-			"y":1340,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"c757d56c55078357",
-			"type":"text",
-			"text":"[[Discover the purpose of the Well.canvas|Discover the purpose of the Well]]",
-			"styleAttributes":{},
-			"x":-3960,
-			"y":1490,
-			"width":260,
 			"height":60,
 			"color":"4"
 		},
@@ -857,17 +830,6 @@
 			"y":2000,
 			"width":260,
 			"height":110,
-			"color":"4"
-		},
-		{
-			"id":"a6a3466c93fa5a65",
-			"type":"text",
-			"text":"Enter Room 46 for the First Time for the Normal Ending",
-			"styleAttributes":{},
-			"x":-4360,
-			"y":2180,
-			"width":280,
-			"height":90,
 			"color":"4"
 		},
 		{
@@ -915,6 +877,49 @@
 			"color":"4"
 		},
 		{
+			"id":"2914b2cd97901aaf",
+			"type":"text",
+			"text":"Drain the [[Reservoir.canvas|Reservoir]] using the Reserve Tank on the [[033 - Pump Room.canvas|033 - Pump Room]]",
+			"styleAttributes":{},
+			"x":-4820,
+			"y":2370,
+			"width":407,
+			"height":83,
+			"color":"4"
+		},
+		{
+			"id":"e67f8718c29d658e",
+			"type":"text",
+			"text":"Open all the Chests on the drained [[Reservoir.canvas|Reservoir]]",
+			"styleAttributes":{},
+			"x":-4780,
+			"y":2494,
+			"width":320,
+			"height":87
+		},
+		{
+			"id":"f4f418710eb8b966",
+			"type":"text",
+			"text":"Find the [[Inner Sanctum Key.canvas ]] on the Reservoir and use it on one of the doors in the [[Inner Sanctum.canvas|Inner Sanctum]]",
+			"styleAttributes":{},
+			"x":-4880,
+			"y":2640,
+			"width":360,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"a6a3466c93fa5a65",
+			"type":"text",
+			"text":"Enter Room 46 for the First Time for the Normal Ending",
+			"styleAttributes":{},
+			"x":-4360,
+			"y":2180,
+			"width":280,
+			"height":90,
+			"color":"4"
+		},
+		{
 			"id":"fdf47ebb7a7a8e67",
 			"type":"text",
 			"text":"Explored the Abandoned Mine",
@@ -958,211 +963,110 @@
 			"height":60
 		},
 		{
-			"id":"90baf56f9ece2397",
+			"id":"473ae4abb9d56f18",
 			"type":"text",
-			"text":"[[Discover the Starting Date of the game.canvas|Discover the Starting Date of the game]]",
+			"text":"[[Blue Fire Puzzle.canvas|Blue Fire Puzzle]]",
 			"styleAttributes":{},
-			"x":-5190,
-			"y":1340,
-			"width":380,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"1ca3f393dabccf87",
-			"type":"text",
-			"text":"[[Solve the Trading Post Morai Jai Puzzle.canvas|Solve the Trading Post Morai Jai Puzzle]]",
-			"styleAttributes":{},
-			"x":-5345,
-			"y":1760,
-			"width":345,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"78b6e58b9719a81b",
-			"type":"text",
-			"text":"[[Solve the Angels Puzzle on the Tomb to reach the Abandoned Mine.canvas|Solve the Angels Puzzle on the Tomb to reach the Abandoned Mine]]",
-			"styleAttributes":{},
-			"x":-5345,
-			"y":1620,
-			"width":310,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"e1d3d0aa69a45b40",
-			"type":"text",
-			"text":"[[Find the Shelter and Open the Time-locked Safe.canvas|Find the Shelter and Open the Time-locked Safe]]",
-			"styleAttributes":{},
-			"x":-5345,
-			"y":1500,
-			"width":310,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"94b001038fb182d8",
-			"type":"text",
-			"text":"Explore [[The Precipice.canvas|The Precipice]]",
-			"styleAttributes":{},
-			"x":-5413,
-			"y":2170,
+			"x":480,
+			"y":919,
 			"width":260,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"c93872785e0ebda0",
+			"id":"a3e52399a1f8645d",
 			"type":"text",
-			"text":"[[Draft an Observatory whenever possible for the permanent bonuses.canvas|Draft an Observatory whenever possible for the permanent bonuses]]",
+			"text":"[[Tomb Statues Puzzle.canvas|Tomb Statues Puzzle]]",
 			"styleAttributes":{},
-			"x":-1380,
-			"y":450,
-			"width":640,
-			"height":60
-		},
-		{
-			"id":"855343f1307f6643",
-			"type":"text",
-			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":350,
-			"width":620,
-			"height":80
-		},
-		{
-			"id":"bfc5b66681d8d62e",
-			"type":"text",
-			"text":"Solve the Ruby Crown mystery",
-			"styleAttributes":{},
-			"x":-300,
-			"y":385,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"36544fe0450daa87",
-			"type":"text",
-			"text":"Collect all Letter Stamps",
-			"styleAttributes":{},
-			"x":-300,
-			"y":305,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"bf9b3985b7eee7a9",
-			"type":"text",
-			"text":"Find the Secret in The Pool by using Boiler Room and draining the Water",
-			"styleAttributes":{},
-			"x":-10,
-			"y":315,
-			"width":340,
-			"height":100
-		},
-		{
-			"id":"b7e4595012c7b579",
-			"type":"text",
-			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":270,
-			"width":640,
-			"height":60
-		},
-		{
-			"id":"af2169a460b63f2a",
-			"type":"text",
-			"text":"Discover what the marks shown on the Drained Aquarium mean",
-			"styleAttributes":{},
-			"x":350,
-			"y":335,
-			"width":350,
-			"height":80
-		},
-		{
-			"id":"c9da71430e392356",
-			"type":"text",
-			"text":"Open all doors with Radiation at least once through the Shelter and Laboratory",
-			"styleAttributes":{},
-			"x":120,
-			"y":205,
-			"width":360,
-			"height":100
-		},
-		{
-			"id":"243ff37eed82fd92",
-			"type":"text",
-			"text":" Solve the Gallery Puzzles",
-			"styleAttributes":{},
-			"x":830,
-			"y":280,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2c986c57ec113462",
-			"type":"text",
-			"text":"Receive all Letters on the Mail Room",
-			"styleAttributes":{},
-			"x":-300,
-			"y":225,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"63a24bd16a09d55e",
-			"type":"text",
-			"text":"Unlock all the locks on the Locker Room at least once",
-			"styleAttributes":{},
-			"x":500,
-			"y":183,
-			"width":300,
-			"height":85
-		},
-		{
-			"id":"16b82dd5720f76b9",
-			"type":"text",
-			"text":"Reach 50 stars on the Observatory",
-			"styleAttributes":{},
-			"x":830,
-			"y":195,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"4289e616125ca1d2",
-			"type":"text",
-			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":190,
-			"width":620,
-			"height":60
-		},
-		{
-			"id":"0c9bdbeb9c6155dc",
-			"type":"text",
-			"text":"Top to Bottom = Earliest to Latest in terms of requirements",
-			"styleAttributes":{},
-			"x":-400,
-			"y":660,
-			"width":480,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"4d823aad9af72103",
-			"type":"text",
-			"text":"[[Outer Room Unlock.canvas|Outer Room Unlock]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":841,
+			"x":200,
+			"y":921,
 			"width":260,
 			"height":59,
 			"color":"4"
+		},
+		{
+			"id":"526c4949870985e8",
+			"type":"text",
+			"text":"[[Mora Jai Puzzleboxes.canvas|Mora Jai Puzzleboxes]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":921,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"35a14ea51be4e32e",
+			"type":"text",
+			"text":"[[Shelter Safe Puzzle.canvas|Shelter Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e27573f82babc6a4",
+			"type":"text",
+			"text":"[[Observatory Hidden Floorplan Puzzle.canvas|Observatory Hidden Floorplan Puzzle]]",
+			"styleAttributes":{},
+			"x":1040,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"defa7d55e9a81af8",
+			"type":"text",
+			"text":"[[Find all Antechamber Levers.canvas|Find all Antechamber Levers]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"8b916f566c249a06",
+			"type":"text",
+			"text":"[[Use the Office Terminal to spread Gold on rooms.canvas|Use the Office Terminal to spread Gold on rooms]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":10,
+			"width":500,
+			"height":60
+		},
+		{
+			"id":"bdd4cd205bf789b6",
+			"type":"text",
+			"text":"[[Use the Security room terminal to manipulate the Keycard System in your favor.canvas|Use the Security room terminal to manipulate the Keycard System in your favor]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":90,
+			"width":580,
+			"height":80
+		},
+		{
+			"id":"4711c39f20e1a1db",
+			"type":"text",
+			"text":"Discover the purpose of the number from the Wine Cellar 1213",
+			"styleAttributes":{},
+			"x":525,
+			"y":445,
+			"width":290,
+			"height":95
+		},
+		{
+			"id":"32cf4cd67592e6ca",
+			"type":"text",
+			"text":"Discover the meaning of RLCF and Blackwater, I suspect that Blackwater is the revolution party during the history of Fenn Aries or something and that maybe they are represented by the Black Flag",
+			"styleAttributes":{},
+			"x":-10,
+			"y":445,
+			"width":510,
+			"height":135
 		},
 		{
 			"id":"847b2ec8e742652e",
@@ -1176,77 +1080,188 @@
 			"color":"4"
 		},
 		{
-			"id":"e59afe391f96779c",
+			"id":"b48c9cb681a75796",
 			"type":"text",
-			"text":"[[Gemstone Cavern Unlock.canvas|Gemstone Cavern Unlock]]",
+			"text":"Power up the [[Laundry Room.canvas|Laundry Room]] with the [[032 - Boiler Room.canvas|032 - Boiler Room]]",
+			"styleAttributes":{},
+			"x":-2240,
+			"y":1485,
+			"width":360,
+			"height":120,
+			"color":"4"
+		},
+		{
+			"id":"09554d48b3e8a7a5",
+			"type":"text",
+			"text":"Power up the [[Furnace.canvas|Furnace]] with the [[032 - Boiler Room.canvas|032 - Boiler Room]]",
+			"styleAttributes":{},
+			"x":-2520,
+			"y":1485,
+			"width":260,
+			"height":130,
+			"color":"4"
+		},
+		{
+			"id":"adbcf35b5831cd28",
+			"type":"text",
+			"text":"Power up [[014 - Garage.canvas|014 - Garage]] with [[031 - Utility Closet.canvas|031 - Utility Closet]] or [[032 - Boiler Room.canvas|032 - Boiler Room]]",
+			"styleAttributes":{},
+			"x":-2820,
+			"y":1480,
+			"width":260,
+			"height":140,
+			"color":"4"
+		},
+		{
+			"id":"b6f19b241db344b7",
+			"type":"text",
+			"text":"[[Enter the Secret Garden.canvas|Enter the Secret Garden]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4c51d68c02962193",
+			"type":"text",
+			"text":"[[Drain Reservoir.canvas|Drain Reservoir]]",
 			"styleAttributes":{},
 			"x":200,
-			"y":840,
+			"y":1080,
 			"width":260,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"328982b8302a369c",
+			"id":"d2ae3b1804b8e3ba",
 			"type":"text",
-			"text":"[[Bourdoir Safe Puzzle.canvas|Bourdoir Safe Puzzle]]",
+			"text":"[[Well Basement Door Puzzle.canvas|Well Basement Door Puzzle]]",
 			"styleAttributes":{},
-			"x":480,
-			"y":840,
+			"x":200,
+			"y":1000,
 			"width":260,
 			"height":60,
-			"color":"4"
+			"color":"3"
 		},
 		{
-			"id":"e27573f82babc6a4",
+			"id":"edc626d36e49008c",
 			"type":"text",
-			"text":"[[Observatory Hidden Floorplan Puzzle.canvas|Observatory Hidden Floorplan Puzzle]]",
+			"text":"[[Open Reservoir Trunks.canvas|Open Reservoir Trunks]]",
 			"styleAttributes":{},
-			"x":-360,
-			"y":920,
-			"width":260,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"936bab1927f80b92",
-			"type":"text",
-			"text":"[[Music Sheets Puzzle.canvas|Music Sheets Puzzle]]",
-			"styleAttributes":{},
-			"x":760,
-			"y":840,
+			"x":200,
+			"y":1160,
 			"width":260,
 			"height":60,
-			"color":"4"
+			"color":"3"
 		},
 		{
-			"id":"526c4949870985e8",
+			"id":"17890c505aeb98cc",
 			"type":"text",
-			"text":"[[Mora Jai Puzzleboxes.canvas|Mora Jai Puzzleboxes]]",
+			"text":"[[Precipice Castle Puzzle.canvas|Precipice Castle Puzzle]]",
 			"styleAttributes":{},
 			"x":-80,
-			"y":920,
+			"y":1240,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"3"
 		},
 		{
-			"id":"a3e52399a1f8645d",
+			"id":"5fdff2ea0a4892d6",
 			"type":"text",
-			"text":"[[Tomb Statues Puzzle.canvas|Tomb Statues Puzzle]]",
+			"text":"[[Inner Sanctum Key.canvas|Inner Sanctum Keys]]",
 			"styleAttributes":{},
-			"x":200,
-			"y":920,
+			"x":-360,
+			"y":1240,
 			"width":260,
-			"height":59,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"9bc69c8d4a2eb858",
+			"type":"text",
+			"text":"[[Discover all Sigils.canvas|Discover all Sigils]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"a0d9c5dec5558e9b",
+			"type":"text",
+			"text":"[[Eight Months Eight Places Puzzle.canvas|Eight Months Eight Places Puzzle]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1400,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"faab0ab15ff1f969",
+			"type":"text",
+			"text":"[[Enter the Antechamber Room.canvas|Enter the Antechamber Room]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1000,
+			"width":260,
+			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"473ae4abb9d56f18",
+			"id":"ce638537fbe11de9",
 			"type":"text",
-			"text":"[[Blue Fire Puzzle.canvas|Blue Fire Puzzle]]",
+			"text":"[[Enter Room 46 for the First Time - Ending 1.canvas|Enter Room 46 for the First Time - Ending 1]]",
 			"styleAttributes":{},
 			"x":-360,
-			"y":1060,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"19591823295f518d",
+			"type":"text",
+			"text":"[[Enter Room 46.canvas|Enter Room 46]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a4e78b28a4d758a7",
+			"type":"text",
+			"text":"[[Precipice Chess Puzzle.canvas|Precipice Chess Puzzle]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"e8e115326c89e7d1",
+			"type":"text",
+			"text":"[[Precipice Door Puzzle.canvas|Precipice Door Puzzle]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"a734ab6b4281305a",
+			"type":"text",
+			"text":"[[Explore the Precipice.canvas|Explore the Precipice]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1000,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -1256,103 +1271,52 @@
 			"type":"text",
 			"text":"[[Blackbridge Grotto Unlock - Laboratory Puzzle.canvas|Blackbridge Grotto Unlock - Laboratory Puzzle]]",
 			"styleAttributes":{},
-			"x":-80,
-			"y":1060,
-			"width":280,
-			"height":60,
+			"x":480,
+			"y":1000,
+			"width":260,
+			"height":100,
 			"color":"4"
 		},
 		{
-			"id":"9bc69c8d4a2eb858",
+			"id":"54196577817faf17",
 			"type":"text",
-			"text":"[[Discover all Sigils.canvas|Discover all Sigils]]",
+			"text":"[[Moon Relic.canvas|Moon Relic]]",
 			"styleAttributes":{},
-			"x":-360,
-			"y":1160,
+			"x":480,
+			"y":1120,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"e31125f053ed3b69",
+			"type":"text",
+			"text":"[[Power Hammer.canvas|Power Hammer]] Puzzles",
+			"styleAttributes":{},
+			"x":1040,
+			"y":921,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"abccba8ed5eb8759",
+			"type":"text",
+			"text":"[[Magnifying Glass.canvas|Magnifying Glass]] Puzzles",
+			"styleAttributes":{},
+			"x":1320,
+			"y":919,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[
 		{
-			"id":"6032dcc2ac67b5a5",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"90baf56f9ece2397",
-			"fromSide":"bottom",
-			"toNode":"e1d3d0aa69a45b40",
-			"toSide":"top"
-		},
-		{
-			"id":"665d052e7b6b8936",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"ebd2a955f0958ac7",
-			"fromSide":"right",
-			"toNode":"78b6e58b9719a81b",
-			"toSide":"left",
-			"color":"3"
-		},
-		{
-			"id":"d4bc88c65d83531e",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"dd9fc8532f707c42",
-			"fromSide":"bottom",
-			"toNode":"c757d56c55078357",
-			"toSide":"top"
-		},
-		{
-			"id":"f6741dfa140902c8",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"e4d4b2779e18a323",
-			"fromSide":"bottom",
-			"toNode":"c757d56c55078357",
-			"toSide":"right"
-		},
-		{
-			"id":"a2934a200caf33be",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"c757d56c55078357",
-			"fromSide":"bottom",
-			"toNode":"b15d81a7108c39de",
-			"toSide":"top"
-		},
-		{
-			"id":"e7a92badcdd895e6",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"94b001038fb182d8",
-			"fromSide":"bottom",
-			"toNode":"33151740da537a58",
-			"toSide":"top"
-		},
-		{
-			"id":"4c72dbe7a4518a6c",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"94b001038fb182d8",
-			"fromSide":"bottom",
-			"toNode":"357966a66dbf1eee",
-			"toSide":"top"
-		},
-		{
-			"id":"ffa4230e5cfefa47",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"94b001038fb182d8",
-			"fromSide":"bottom",
-			"toNode":"0029cda47b3cbbb3",
-			"toSide":"top"
-		},
-		{
 			"id":"918a092477756a26",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"72cac2d43ea35464",
 			"fromSide":"bottom",
 			"toNode":"3cf21300728334e7",
@@ -1475,43 +1439,6 @@
 			"fromSide":"left",
 			"toNode":"b57fac2d7d880e5b",
 			"toSide":"right"
-		},
-		{
-			"id":"19c14faea2858c91",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"3d50b532150a8f73",
-			"fromSide":"bottom",
-			"toNode":"d6bd881efb1dafa6",
-			"toSide":"top"
-		},
-		{
-			"id":"f2eb2247611c1533",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"00aefce78a24dac0",
-			"fromSide":"right",
-			"toNode":"3d50b532150a8f73",
-			"toSide":"left"
-		},
-		{
-			"id":"f71518ec5efa5a4c",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"3d50b532150a8f73",
-			"fromSide":"bottom",
-			"toNode":"b766d5ee342e69d6",
-			"toSide":"top"
-		},
-		{
-			"id":"787d00f951937e56",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"d6bd881efb1dafa6",
-			"fromSide":"bottom",
-			"toNode":"89d23adb2da834ad",
-			"toSide":"top"
 		},
 		{
 			"id":"3aec513f6b36b5e7",

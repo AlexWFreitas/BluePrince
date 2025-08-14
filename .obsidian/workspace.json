@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 81.46256636241162,
-                  "y": 1111.5042350504455,
-                  "zoom": -0.3333333333333334
+                  "x": 155.64786852211273,
+                  "y": 1344.5993960298956,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "pinned": true,
@@ -174,61 +174,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "b2c22c783a81c05b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "67c917c8bf53ae3e",
-        "type": "window",
-        "children": [
-          {
-            "id": "e06042c36a650e9c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ef58b5cda7b61f44",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4. Legacy Notes/TODO.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "TODO"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2200,
-        "y": 255,
-        "width": 1448,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "b9aaf2342cf53910",
   "lastOpenFiles": [
-    "1. TODO/done/Solve the Dark Room puzzle.canvas",
-    "1. TODO/TODO Canvas.canvas",
-    "1. TODO/done/Unlock the Apple Orchard Permanent Bonus.canvas",
-    "0. New Files/Discover all Sigils.canvas",
-    "0. New Files/Orinda Aries.canvas",
-    "2. Canvas/areas/Orinda Aries - Inner Sectum Door.canvas",
-    "0. New Files/Tomb Statues Puzzle.canvas",
-    "1. TODO/todo/Mora Jai Puzzleboxes.canvas",
-    "2. Canvas/areas/Trading Post.canvas",
-    "99. attachments/Obsidian_EsodK7ELWq.png",
-    "2. Canvas/areas/Inner Sanctum.canvas",
-    "1. TODO/done/Outer Room Unlock.canvas",
-    "2. Canvas/items",
     "4. Legacy Notes/TODO.md",
+    "1. TODO/TODO Canvas.canvas",
+    "1. TODO/todo/Discover all Sigils.canvas",
+    "2. Canvas/areas/Abandoned Mine.canvas",
+    "2. Canvas/info/Fenn Aries.canvas",
+    "2. Canvas/areas/The Precipice.canvas",
+    "1. TODO/done/Enter the Secret Garden.canvas",
+    "2. Canvas/info/East Wing.canvas",
+    "2. Canvas/areas/West Wing.canvas",
+    "2. Canvas/items/Secret Garden Key.canvas",
+    "2. Canvas/info/Items.canvas",
+    "99. attachments/Obsidian_EsodK7ELWq.png",
+    "2. Canvas/items",
     "99. attachments/Pasted image 20250716141404.png",
     "99. attachments/BLUE_PRINCE_45iDUn5RGF.png",
     "4. Legacy Notes/Old Blue Prince Notes.md",

@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"88d9c76c6721bdba",
+			"type":"text",
+			"text":"Notes taken on [[The Precipice.canvas|The Precipice]]",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-300,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"83a9c308526ec49c",
+			"type":"text",
+			"text":"# Results\n\n- Found a book about sigils with one possible Sigil definition.\n- Found a chess puzzle that uses the mansion grid and room placements.\n- Found a breakable wall that hides the word CASTLE, where each letter has three spaces total.\n- Found a blocked door that can't be opened.",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-300,
+			"width":520,
+			"height":320
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,71 @@
+{
+	"nodes":[
+		{
+			"id":"584583ca5b5f2c4b",
+			"type":"text",
+			"text":"After unlocking [[The Precipice.canvas|The Precipice]] through the [[Blue Fire Puzzle.canvas|Blue Fire Puzzle]], you need to draft rooms until you have at least one of each chess piece.",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-380,
+			"width":440,
+			"height":120,
+			"color":"4"
+		},
+		{
+			"id":"9f18c643f25d7639",
+			"type":"text",
+			"text":"Queen and King comes from [[026 - Study.canvas|026 - Study]] and [[024 - Office.canvas|024 - Office]]",
+			"styleAttributes":{},
+			"x":-530,
+			"y":-200,
+			"width":380,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"5bc2b4e3dc98b395",
+			"type":"text",
+			"text":"After drafting those rooms, go to [[The Precipice.canvas|The Precipice]], go to the chess puzzle and place the pieces exactly on where the rooms with the respective chess pieces are, this should solve the puzzle.",
+			"styleAttributes":{},
+			"x":-530,
+			"y":-60,
+			"width":380,
+			"height":160,
+			"color":"3"
+		},
+		{
+			"id":"3053094b9079d280",
+			"type":"text",
+			"text":"This could be related to [[Precipice Door Puzzle.canvas|Precipice Door Puzzle]] and [[Precipice Castle Puzzle.canvas|Precipice Castle Puzzle]].\n\nSpecially because \"castling\" is a certain type of move that exists in Chess.",
+			"styleAttributes":{},
+			"x":-510,
+			"y":160,
+			"width":340,
+			"height":200
+		}
+	],
+	"edges":[
+		{
+			"id":"bb4332451631abc0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"584583ca5b5f2c4b",
+			"fromSide":"bottom",
+			"toNode":"9f18c643f25d7639",
+			"toSide":"top"
+		},
+		{
+			"id":"0c896c5ba383f73f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9f18c643f25d7639",
+			"fromSide":"bottom",
+			"toNode":"5bc2b4e3dc98b395",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"4eee18e6f740253a","type":"file","file":"99. attachments/BLUE_PRINCE_1uOrlfrMep 1.png","x":-200,"y":-112,"width":400,"height":225},
+		{
+			"id":"48ccd31e92d8a698",
+			"type":"text",
+			"text":"Found in [[046 - Room 46.canvas|046 - Room 46]]",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-240,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"38ad9e5c04a245c7","type":"file","file":"99. attachments/BLUE_PRINCE_iI9JFOdLB7.png","x":-320,"y":-160,"width":400,"height":225},
+		{
+			"id":"bec29d06e5ed994b",
+			"type":"text",
+			"text":"Item found in the [[Showroom.canvas|Showroom]]",
+			"styleAttributes":{},
+			"x":-250,
+			"y":-280,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"7482c7daa2926142",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bec29d06e5ed994b",
+			"fromSide":"bottom",
+			"toNode":"38ad9e5c04a245c7",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"f9cb54ab87bd3d95",
+			"type":"text",
+			"text":"This task is related to entering [[046 - Room 46.canvas|046 - Room 46]] after the first time you enter it.\n\nThis allows you to explore the room, the instructions are similar to [[Enter Room 46 for the First Time - Ending 1.canvas|Enter Room 46 for the First Time - Ending 1]].\n\nWhen entering the room, there are a few rewards, puzzles and lore points.",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-300,
+			"width":520,
+			"height":260
+		},
+		{
+			"id":"9465e07eae27da0e",
+			"type":"text",
+			"text":"# Rewards\n\n- [[Basement Key.canvas|Basement Key]] for the run\n- [[Inner Sanctum Key.canvas|Inner Sanctum Key]] from [[046 - Room 46.canvas|046 - Room 46]].\n- A letter saying about [[Red Letters.canvas|Red Letters]] being stolen and needing a ransom of 100g per letter.\n- A puzzle about 8 months and 8 places, related to [[Herbert S Sinclair.canvas|Herbert S Sinclair]].\n- A hidden floorplan for one secret room.\n- [[Crown of the Blueprints.canvas|Crown of the Blueprints]] item. \n- There is a [[Moon Relic.canvas|Moon Relic]] symbol on the room.",
+			"styleAttributes":{},
+			"x":0,
+			"y":-300,
+			"width":520,
+			"height":380
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

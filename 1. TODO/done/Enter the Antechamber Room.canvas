@@ -1,0 +1,72 @@
+{
+	"nodes":[
+		{
+			"id":"179c128d15960b94",
+			"type":"text",
+			"text":"The [[045 - Antechamber.canvas|045 - Antechamber]] has all doors locked at the start of a run.",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-380,
+			"width":360,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"ce49eb17613a61ae",
+			"type":"text",
+			"text":"To unlock the doors, you need to find levers on rooms you draft.\n\n[[Find all Antechamber Levers.canvas|Find all Antechamber Levers]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-240,
+			"width":360,
+			"height":140,
+			"color":"4"
+		},
+		{
+			"id":"fa677c15db506313",
+			"type":"text",
+			"text":"# Rewards\n\n- Access to the [[045 - Antechamber.canvas|045 - Antechamber]]\n- [[Basement Key.canvas|Basement Key]]\n- Progress to accessing [[046 - Room 46.canvas|046 - Room 46]]\n",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-240,
+			"width":420,
+			"height":200,
+			"color":"4"
+		},
+		{
+			"id":"534003692722a2bd",
+			"type":"text",
+			"text":"By drafting those rooms, pushing the lever and then reaching the [[045 - Antechamber.canvas|045 - Antechamber]] from the correct side, you can enter the [[045 - Antechamber.canvas|045 - Antechamber]] and obtain a [[Basement Key.canvas|Basement Key]] and a note saying that to go up, you need to go down as a reference to the [[Basement.canvas|Basement]]",
+			"styleAttributes":{},
+			"x":-690,
+			"y":-60,
+			"width":420,
+			"height":200,
+			"color":"4"
+		}
+	],
+	"edges":[
+		{
+			"id":"2fbf76626337dcaa",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"179c128d15960b94",
+			"fromSide":"bottom",
+			"toNode":"ce49eb17613a61ae",
+			"toSide":"top"
+		},
+		{
+			"id":"c73867d7993cff55",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ce49eb17613a61ae",
+			"fromSide":"bottom",
+			"toNode":"534003692722a2bd",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

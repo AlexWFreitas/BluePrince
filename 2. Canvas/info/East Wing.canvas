@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"bab28e6407500485",
+			"type":"text",
+			"text":"The east wing of the mansion, allows you to draft many green type rooms.",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-320,
+			"width":360,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

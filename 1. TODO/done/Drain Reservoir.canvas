@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"f5de21efd693a557",
+			"type":"text",
+			"text":"Use the [[033 - Pump Room.canvas|033 - Pump Room]] connected with a [[032 - Boiler Room.canvas|032 - Boiler Room]] to enable the Reserve Tank and then use it to drain all the water from the [[Reservoir.canvas|Reservoir]], so that you can access the area that was full of water when coming through the [[Basement.canvas|Basement]].",
+			"styleAttributes":{},
+			"x":-420,
+			"y":-220,
+			"width":460,
+			"height":160,
+			"color":"4"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

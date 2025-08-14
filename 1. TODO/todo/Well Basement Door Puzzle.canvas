@@ -1,0 +1,68 @@
+{
+	"nodes":[
+		{
+			"id":"04012e55af6aab93",
+			"type":"text",
+			"text":"The [[Well.canvas|Well]] can be drained through the use of the [[033 - Pump Room.canvas|033 - Pump Room]]",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-320,
+			"width":420,
+			"height":100
+		},
+		{
+			"id":"2a7ce29fa7e9a716",
+			"type":"text",
+			"text":"After draining it we need to retrieve a [[Basement Key.canvas|Basement Key]], from the [[045 - Antechamber.canvas|045 - Antechamber]] room.",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-160,
+			"width":420,
+			"height":100
+		},
+		{
+			"id":"6c8238220a84e77a",
+			"type":"text",
+			"text":"This key can be used to open the door that is under the [[Well.canvas|Well]], unlocking a pathway to the [[Basement.canvas|Basement]]",
+			"styleAttributes":{},
+			"x":-680,
+			"y":0,
+			"width":420,
+			"height":100
+		},
+		{
+			"id":"5a1191bb2fb6dad3",
+			"type":"text",
+			"text":"# Rewards\n\n- A pathway to the [[Basement.canvas|Basement]]\n- The possibility of picking coins that were thrown into the [[Well.canvas|Well]] before it was drained. (Coins disappear if picked)",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-260,
+			"width":460,
+			"height":300
+		}
+	],
+	"edges":[
+		{
+			"id":"19fc98aba78cac1a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"04012e55af6aab93",
+			"fromSide":"bottom",
+			"toNode":"2a7ce29fa7e9a716",
+			"toSide":"top"
+		},
+		{
+			"id":"f984816d01a64591",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2a7ce29fa7e9a716",
+			"fromSide":"bottom",
+			"toNode":"6c8238220a84e77a",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
