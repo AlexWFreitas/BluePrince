@@ -52,6 +52,28 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"d618ac214e24c16f",
+			"type":"text",
+			"text":"[[Greenhouse.canvas|Greenhouse]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":-70,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"4a95402f7cb39f8b",
+			"type":"text",
+			"text":"[[030 - Drafting Studio.canvas|030 - Drafting Studio]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":20,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[

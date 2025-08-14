@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"1fe9dd49552b6fc6",
+			"type":"text",
+			"text":"[[Reservoir.canvas|Reservoir]]",
+			"styleAttributes":{},
+			"x":-420,
+			"y":-120,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 611.9747924687581,
-                  "y": 1197.5868827572274,
-                  "zoom": -1
+                  "x": 655.3387115707995,
+                  "y": 1285.0182221398734,
+                  "zoom": -0.6666666666666667
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "aecc39876fd4b54a",
+            "id": "3fd42b76f36a1065",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Blackbridge Grotto Hidden Logins Puzzle.canvas",
+                "file": "1. TODO/todo/Shelter Radiation Puzzle.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -40,50 +40,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Blackbridge Grotto Hidden Logins Puzzle"
+              "title": "Shelter Radiation Puzzle"
             }
           },
           {
-            "id": "824b15452fa0b105",
+            "id": "417ba6c38e2d266f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Blackbridge Grotto Hidden Logins Puzzle.canvas",
-                "viewState": {
-                  "x": -7,
-                  "y": 1,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Blackbridge Grotto Hidden Logins Puzzle"
-            }
-          },
-          {
-            "id": "b5437e83efbe9d72",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Red Letters.canvas",
-                "viewState": {
-                  "x": -822.1090407177364,
-                  "y": -316.44547964113184,
-                  "zoom": -0.65902945722146
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Red Letters"
-            }
-          },
-          {
-            "id": "84d30666c191a109",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/Study Room Safe Puzzle.canvas",
+                "file": "1. TODO/todo/Investigate Black Water and RLCF.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -91,16 +57,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Study Room Safe Puzzle"
+              "title": "Investigate Black Water and RLCF"
             }
           },
           {
-            "id": "f190e58a977d4f3d",
+            "id": "31629ff5ee33835f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Study Room Safe Puzzle.canvas",
+                "file": "2. Canvas/info/Black Water.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -108,16 +74,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Study Room Safe Puzzle"
+              "title": "Black Water"
             }
           },
           {
-            "id": "817883a3ce795308",
+            "id": "353d9e04df6e3e98",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Classroom 8 Puzzle.canvas",
+                "file": "1. TODO/todo/Investigate Black Water and RLCF.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -125,16 +91,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Classroom 8 Puzzle"
+              "title": "Investigate Black Water and RLCF"
             }
           },
           {
-            "id": "29e396213b68342a",
+            "id": "0db44aa28718ec98",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/done/Send Water to Greenhouse.canvas",
+                "file": "1. TODO/todo/Wine Cellar Number Puzzle.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -142,16 +108,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Send Water to Greenhouse"
+              "title": "Wine Cellar Number Puzzle"
             }
           },
           {
-            "id": "c38638858ee581fe",
+            "id": "56d44658191bdbdd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/items/Burning Glass.canvas",
+                "file": "1. TODO/todo/Locker Room Full Exploration.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -159,16 +125,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Burning Glass"
+              "title": "Locker Room Full Exploration"
             }
           },
           {
-            "id": "64364f09d902ea49",
+            "id": "a576210cd5f3117b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Buy All Gifts from Gift Shop.canvas",
+                "file": "1. TODO/todo/50 Stars on Observatory.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -176,16 +142,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Buy All Gifts from Gift Shop"
+              "title": "50 Stars on Observatory"
             }
           },
           {
-            "id": "f3684339f284958a",
+            "id": "4fde79eae1edcc92",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Buy All Books from Bookshop.canvas",
+                "file": "1. TODO/todo/Gallery Puzzles.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -193,16 +159,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Buy All Books from Bookshop"
+              "title": "Gallery Puzzles"
             }
           },
           {
-            "id": "ee513399a3d262cd",
+            "id": "0de6f7b635faa1ca",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Read All Books from Library.canvas",
+                "file": "1. TODO/todo/Vault Deposit Items Puzzles.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -210,7 +176,245 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Read All Books from Library"
+              "title": "Vault Deposit Items Puzzles"
+            }
+          },
+          {
+            "id": "6577cf1f6502aaae",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/View all Alzara Videos.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "View all Alzara Videos"
+            }
+          },
+          {
+            "id": "db23be822972006e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Find the uncensored Book about History of Orindia.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Find the uncensored Book about History of Orindia"
+            }
+          },
+          {
+            "id": "6a05b06a08f52486",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Find complete Sigils Book.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Find complete Sigils Book"
+            }
+          },
+          {
+            "id": "195dc65b74e97ebf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Attic Paper Puzzle.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Attic Paper Puzzle"
+            }
+          },
+          {
+            "id": "4384f1cdfd01dcb6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Abandoned Mine Torch Room Puzzle.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Abandoned Mine Torch Room Puzzle"
+            }
+          },
+          {
+            "id": "d5b93fc69a8dc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Tomb Candles Puzzle.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tomb Candles Puzzle"
+            }
+          },
+          {
+            "id": "e2fefe3979440d04",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Draft and Explore All Rooms.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Draft and Explore All Rooms"
+            }
+          },
+          {
+            "id": "cd05b49152687812",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Find all Antechamber Levers.canvas",
+                "viewState": {
+                  "x": -170,
+                  "y": -170,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Find all Antechamber Levers"
+            }
+          },
+          {
+            "id": "1c25b05b610b9307",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Inner Sanctum Key.canvas",
+                "viewState": {
+                  "x": -419,
+                  "y": 21,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Inner Sanctum Key"
+            }
+          },
+          {
+            "id": "b69b263dd275d819",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Unlock All Drafting Studio Rooms.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unlock All Drafting Studio Rooms"
+            }
+          },
+          {
+            "id": "ab76e1ac0510d4c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Mirror Chamber Puzzle.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mirror Chamber Puzzle"
+            }
+          },
+          {
+            "id": "43c2882f6594f714",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/items/Power Hammer.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": -27.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Power Hammer"
+            }
+          },
+          {
+            "id": "7798b114bb5f4816",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Unlock Cursed Mode.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unlock Cursed Mode"
+            }
+          },
+          {
+            "id": "32cf1fefb176b12e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Mirror Chamber Puzzle.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mirror Chamber Puzzle"
             }
           }
         ]
@@ -245,7 +449,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wine cellar",
+                "query": "black water",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -402,17 +606,17 @@
   },
   "active": "b9aaf2342cf53910",
   "lastOpenFiles": [
-    "1. TODO/todo/Read All Books from Library.canvas",
-    "1. TODO/todo/Buy All Gifts from Gift Shop.canvas",
-    "1. TODO/todo/Buy All Books from Bookshop.canvas",
+    "1. TODO/todo/Mirror Chamber Puzzle.canvas",
+    "1. TODO/todo/Unlock Cursed Mode.canvas",
     "1. TODO/TODO Canvas.canvas",
-    "2. Canvas/items/Burning Glass.canvas",
-    "2. Canvas/info/Items.canvas",
-    "2. Canvas/items/Magnifying Glass.canvas",
-    "1. TODO/done/Send Water to Greenhouse.canvas",
-    "1. TODO/todo/Aquarium Puzzle.canvas",
-    "1. TODO/done/Activate the Boiler Room Generator.canvas",
-    "1. TODO/todo/Drawing Room Safe Puzzle.canvas",
+    "2. Canvas/items/Power Hammer.canvas",
+    "1. TODO/todo/Unlock All Drafting Studio Rooms.canvas",
+    "2. Canvas/info/Inner Sanctum Key.canvas",
+    "1. TODO/todo/Find all Antechamber Levers.canvas",
+    "1. TODO/todo/Draft and Explore All Rooms.canvas",
+    "1. TODO/todo/Tomb Candles Puzzle.canvas",
+    "1. TODO/todo/Abandoned Mine Torch Room Puzzle.canvas",
+    "1. TODO/todo/Attic Paper Puzzle.canvas",
     "4. Legacy Notes/TODO.md",
     "99. attachments/Obsidian_EsodK7ELWq.png",
     "2. Canvas/items",

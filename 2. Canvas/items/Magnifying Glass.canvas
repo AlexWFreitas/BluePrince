@@ -10,9 +10,50 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"bdd058da072e2fe2","type":"file","file":"99. attachments/Pasted image 20250716201455.png","x":-380,"y":-220,"width":400,"height":225}
+		{
+			"id":"7ef84c68986eb399",
+			"type":"text",
+			"text":"Progression",
+			"styleAttributes":{},
+			"x":80,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4a0b0959c3f642f7",
+			"type":"text",
+			"text":"[[Master Bedroom.canvas|Master Bedroom]] - Red Prince Book",
+			"styleAttributes":{},
+			"x":440,
+			"y":-350,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{"id":"bdd058da072e2fe2","type":"file","file":"99. attachments/Pasted image 20250716201455.png","x":-380,"y":-120,"width":400,"height":225},
+		{
+			"id":"3f4d764deca50764",
+			"type":"text",
+			"text":"An item that can be used to inspect documents more closely and read finer print.",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-240,
+			"width":400,
+			"height":90
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"0ff8f2d01c83c924",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7ef84c68986eb399",
+			"fromSide":"right",
+			"toNode":"4a0b0959c3f642f7",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

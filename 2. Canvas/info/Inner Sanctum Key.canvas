@@ -31,6 +31,16 @@
 			"width":300,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"d3bea8a46308e23f",
+			"type":"text",
+			"text":"Find a special key on the Music Room by drafting it on Rank 8-9",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-140,
+			"width":300,
+			"height":120
 		}
 	],
 	"edges":[],

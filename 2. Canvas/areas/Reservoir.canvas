@@ -21,7 +21,17 @@
 		{"id":"425f0d61dc257940","type":"file","file":"99. attachments/BLUE_PRINCE_LfF8XvL3LD.png","x":-1560,"y":1040,"width":400,"height":225},
 		{"id":"15de4b6100f4a56c","type":"file","file":"99. attachments/BLUE_PRINCE_7vDD4kiWtA.png","x":-2003,"y":1320,"width":400,"height":225},
 		{"id":"4a6a80548d0c1910","type":"file","file":"99. attachments/BLUE_PRINCE_RwoXIlg5If.png","x":-1560,"y":1320,"width":400,"height":225},
-		{"id":"5bfbf1252c500f9e","type":"file","file":"99. attachments/BLUE_PRINCE_NR1k5T3IhI.png","x":-2003,"y":1600,"width":400,"height":225}
+		{"id":"5bfbf1252c500f9e","type":"file","file":"99. attachments/BLUE_PRINCE_NR1k5T3IhI.png","x":-2003,"y":1600,"width":400,"height":225},
+		{
+			"id":"46969de58cbbe980",
+			"type":"text",
+			"text":"Discover if it's possible to reach the cave area above the Reservoir boxes",
+			"styleAttributes":{},
+			"x":-1160,
+			"y":205,
+			"width":280,
+			"height":100
+		}
 	],
 	"edges":[
 		{"id":"fdeb365d6c94ce8c","fromNode":"17187e013df02c19","fromSide":"top","toNode":"1c6ea0fa509afe9d","toSide":"bottom"},
