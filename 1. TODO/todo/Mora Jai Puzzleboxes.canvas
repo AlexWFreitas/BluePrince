@@ -1,0 +1,102 @@
+{
+	"nodes":[
+		{
+			"id":"9b625e7d0b40ba5e",
+			"type":"text",
+			"text":"[[Master Bedroom.canvas|Master Bedroom]]",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-40,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"105ef7e46fe5bec8",
+			"type":"text",
+			"text":"[[Orinda Aries - Inner Sectum Door.canvas|Orinda Aries - Inner Sectum Door]]",
+			"styleAttributes":{},
+			"x":-320,
+			"y":-40,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"783f189b9d47534b",
+			"type":"text",
+			"text":"[[Trading Post.canvas|Trading Post]]",
+			"styleAttributes":{},
+			"x":-920,
+			"y":-40,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5d88573edd4ba08f",
+			"type":"text",
+			"text":"Puzzleboxess Locations",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d204fbdd83cf9abf",
+			"type":"text",
+			"text":"These are puzzle boxes like sliding panels that you have to solve to earn an increased allowance reward of two gold coins.",
+			"styleAttributes":{},
+			"x":-770,
+			"y":-360,
+			"width":560,
+			"height":100
+		},
+		{"id":"1997abef6772471e","type":"file","file":"99. attachments/BLUE_PRINCE_LOgVBY3Jim.png","x":-510,"y":-620,"width":400,"height":225},
+		{"id":"de77b2972fa80df2","type":"file","file":"99. attachments/BLUE_PRINCE_OqnaohxBy2.png","x":-940,"y":-620,"width":400,"height":225},
+		{"id":"7028a855d67bcf0b","type":"file","file":"99. attachments/BLUE_PRINCE_KbYVcaBTZL.png","x":-160,"y":-360,"width":400,"height":225}
+	],
+	"edges":[
+		{
+			"id":"c4b1249abdd1f995",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d204fbdd83cf9abf",
+			"fromSide":"bottom",
+			"toNode":"5d88573edd4ba08f",
+			"toSide":"top"
+		},
+		{
+			"id":"a953d94c7b6d0823",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d88573edd4ba08f",
+			"fromSide":"bottom",
+			"toNode":"9b625e7d0b40ba5e",
+			"toSide":"top"
+		},
+		{
+			"id":"c4721bcfb61199c2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d88573edd4ba08f",
+			"fromSide":"bottom",
+			"toNode":"105ef7e46fe5bec8",
+			"toSide":"top"
+		},
+		{
+			"id":"8f271a71d15c6b57",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d88573edd4ba08f",
+			"fromSide":"bottom",
+			"toNode":"783f189b9d47534b",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

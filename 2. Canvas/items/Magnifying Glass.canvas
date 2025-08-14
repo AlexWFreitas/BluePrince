@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"b461b7dc0a4faecb",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{"id":"bdd058da072e2fe2","type":"file","file":"99. attachments/Pasted image 20250716201455.png","x":-380,"y":-220,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

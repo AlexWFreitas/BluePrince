@@ -3,12 +3,13 @@
 		{
 			"id":"085d86013697193f",
 			"type":"text",
-			"text":"# Room Info\n\n[[Apple Orchard.canvas|Apple Orchard]]\n[[Gemstone Cavern.canvas|Gemstone Cavern]]\n[[Hovel.canvas|Hovel]]\n[[Schoolhouse.canvas|Schoolhouse]]\n\nThis unlocks an Elevator that leads to [[The Precipice.canvas|The Precipice]]",
+			"text":"# Guide\n\nThere are four gas valves that when turned on, activates a blue fire torch outside of the mansion.\n\nThe valves can be located on the following rooms:\n- [[Apple Orchard.canvas|Apple Orchard]]\n- [[Gemstone Cavern.canvas|Gemstone Cavern]]\n- [[Hovel.canvas|Hovel]]\n- [[Schoolhouse.canvas|Schoolhouse]]\n\nThis unlocks an Elevator that leads to [[The Precipice.canvas|The Precipice]]",
 			"styleAttributes":{},
 			"x":-380,
-			"y":-340,
+			"y":-320,
 			"width":580,
-			"height":460
+			"height":460,
+			"color":"4"
 		}
 	],
 	"edges":[],

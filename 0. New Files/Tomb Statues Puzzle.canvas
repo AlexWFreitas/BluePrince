@@ -1,0 +1,72 @@
+{
+	"nodes":[
+		{
+			"id":"c32ebbde4717ba4c",
+			"type":"text",
+			"text":"The [[Chapel.canvas|Chapel]] has stained glass arts of seven numbered angels that have the same appearance as the statues on the [[Tomb.canvas|Tomb]]",
+			"styleAttributes":{},
+			"x":-960,
+			"y":-340,
+			"width":400,
+			"height":120,
+			"color":"4"
+		},
+		{
+			"id":"29fda86609816d0f",
+			"type":"text",
+			"text":"If you interact with the statues in the [[Tomb.canvas|Tomb]] in the same order that the angels are numbered on the [[Chapel.canvas|Chapel]], you will open a pathway to the [[Abandoned Mine.canvas|Abandoned Mine]] coming through the [[Tomb.canvas|Tomb]]",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-180,
+			"width":360,
+			"height":180,
+			"color":"4"
+		},
+		{
+			"id":"60d89c755620811f",
+			"type":"text",
+			"text":"There are seven statues on the [[Tomb.canvas|Tomb]] that can be interacted with.",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-480,
+			"width":360,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"f9a3feb75f440965",
+			"type":"text",
+			"text":"# Reward\n\n- Access to the [[Abandoned Mine.canvas|Abandoned Mine]]\n- Access to a Sigil in the [[Abandoned Mine.canvas|Abandoned Mine]]\n- Limited access to the [[Reservoir.canvas|Reservoir]]\n- Limited access to the [[Inner Sanctum.canvas|Inner Sanctum]]\n- Limited access to the [[Basement.canvas|Basement]]",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-480,
+			"width":500,
+			"height":260,
+			"color":"4"
+		}
+	],
+	"edges":[
+		{
+			"id":"d62d9510613db895",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"60d89c755620811f",
+			"fromSide":"bottom",
+			"toNode":"c32ebbde4717ba4c",
+			"toSide":"top"
+		},
+		{
+			"id":"6802c1e9d6e4694e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c32ebbde4717ba4c",
+			"fromSide":"bottom",
+			"toNode":"29fda86609816d0f",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

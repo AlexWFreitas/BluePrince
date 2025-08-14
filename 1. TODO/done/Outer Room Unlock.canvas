@@ -1,0 +1,72 @@
+{
+	"nodes":[
+		{
+			"id":"2991f39042c933d0",
+			"type":"text",
+			"text":"Draft a [[014 - Garage.canvas|014 - Garage]] on the West Wing",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-260,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a5517803f2326b3e",
+			"type":"text",
+			"text":"Power the [[014 - Garage.canvas|014 - Garage]] room with the [[031 - Utility Closet.canvas|031 - Utility Closet]] room or the [[032 - Boiler Room.canvas|032 - Boiler Room]]",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-160,
+			"width":260,
+			"height":140,
+			"color":"4"
+		},
+		{
+			"id":"69a0450a05819d36",
+			"type":"text",
+			"text":"Open the [[014 - Garage.canvas|014 - Garage]] door and unlock the [[West Gate.canvas|West Gate]] to enable the [[Outer Room.canvas|Outer Room]]",
+			"styleAttributes":{},
+			"x":-590,
+			"y":40,
+			"width":400,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"db9e3ee1bb790c8b",
+			"type":"text",
+			"text":"# Rewards\n\n- Access to the [[West Path.canvas|West Path]]\n- Access to the [[Outer Room.canvas|Outer Room]] permanent upgrade.",
+			"styleAttributes":{},
+			"x":-190,
+			"y":-260,
+			"width":400,
+			"height":180,
+			"color":"4"
+		}
+	],
+	"edges":[
+		{
+			"id":"c935784aec791401",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2991f39042c933d0",
+			"fromSide":"bottom",
+			"toNode":"a5517803f2326b3e",
+			"toSide":"top"
+		},
+		{
+			"id":"9a3102dde31a55d9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a5517803f2326b3e",
+			"fromSide":"bottom",
+			"toNode":"69a0450a05819d36",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

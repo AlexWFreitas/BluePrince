@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"6af971ab27d8caa3",
+			"type":"text",
+			"text":"Item that allows you to dig on dig spots.",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-280,
+			"width":440,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

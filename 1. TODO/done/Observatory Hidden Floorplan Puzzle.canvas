@@ -1,0 +1,71 @@
+{
+	"nodes":[
+		{
+			"id":"7e8dfa81ee8a1515",
+			"type":"text",
+			"text":"Receive mails from Randolph on the [[039 - Mail Room.canvas|039 - Mail Room]]",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-560,
+			"width":370,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"e2f5d783645c2073",
+			"type":"text",
+			"text":"One of the mails will tell you about a hidden floorplan placed inside the [[042 - Observatory.canvas|042 - Observatory]] room",
+			"styleAttributes":{},
+			"x":-295,
+			"y":-440,
+			"width":400,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"632b7101c8067c90",
+			"type":"text",
+			"text":"If you search on storage box near the top of the Telescope by positioning it in a way that you can reach it, you will find the floorplans for the [[Planetarium.canvas|Planetarium]].",
+			"styleAttributes":{},
+			"x":-425,
+			"y":-300,
+			"width":660,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"9dcbeb94f3d8b467",
+			"type":"text",
+			"text":"# Rewards\n\n[[Planetarium.canvas|Planetarium]] floor plans.",
+			"styleAttributes":{},
+			"x":-320,
+			"y":-840,
+			"width":520,
+			"height":200
+		}
+	],
+	"edges":[
+		{
+			"id":"d3241a92943df017",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7e8dfa81ee8a1515",
+			"fromSide":"bottom",
+			"toNode":"e2f5d783645c2073",
+			"toSide":"top"
+		},
+		{
+			"id":"902ce8c11e393e7c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e2f5d783645c2073",
+			"fromSide":"bottom",
+			"toNode":"632b7101c8067c90",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

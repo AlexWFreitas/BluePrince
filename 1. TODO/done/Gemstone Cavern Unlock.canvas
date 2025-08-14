@@ -1,0 +1,135 @@
+{
+	"nodes":[
+		{
+			"id":"1286ed678693edfb",
+			"type":"text",
+			"text":"Get the [[Magnifying Glass.canvas|Magnifying Glass]] item",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-260,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2fa3a5494c5086a4",
+			"type":"text",
+			"text":"Draft the [[Commissary.canvas|Commissary]]",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"865d579cf59eb811",
+			"type":"text",
+			"text":"Investigate the notes on the wall to discover the password used on the [[Terminals.canvas|Terminals]] - swansong",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-60,
+			"width":260,
+			"height":140,
+			"color":"4"
+		},
+		{
+			"id":"5ee5bfb675dfe6ef",
+			"type":"text",
+			"text":"Access the emails on the terminal in the [[024 - Office.canvas|024 - Office]] using the password and read about the [[031 - Utility Closet.canvas|031 - Utility Closet]] VAC Indicators mechanics",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-220,
+			"width":260,
+			"height":240,
+			"color":"4"
+		},
+		{
+			"id":"a43c4d0d08880409",
+			"type":"text",
+			"text":"Read the instructions for the VAC Indicators on the [[039 - Mail Room.canvas|039 - Mail Room]] if you want",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-410,
+			"width":260,
+			"height":150,
+			"color":"4"
+		},
+		{
+			"id":"250bd9746c8d94fa",
+			"type":"text",
+			"text":"Set the VAC Indicators on the [[031 - Utility Closet.canvas|031 - Utility Closet]] as instructed on the emails to show a hidden area on the room that will unlock the [[Gemstone Cavern.canvas|Gemstone Cavern]]",
+			"styleAttributes":{},
+			"x":180,
+			"y":-309,
+			"width":260,
+			"height":179,
+			"color":"4"
+		},
+		{
+			"id":"2f21aff1d667acf2",
+			"type":"text",
+			"text":"# Rewards\n\n- Gemstone Cavern permanent upgrade\n\t- 2 extra gems at the start of the run\n- Access to a Blue Fire Puzzle valve\n- Access to the [[Gemstone Cavern.canvas|Gemstone Cavern]]",
+			"styleAttributes":{},
+			"x":140,
+			"y":-60,
+			"width":480,
+			"height":200,
+			"color":"4"
+		},
+		{"id":"4417693d3b854cee","type":"file","file":"99. attachments/BLUE_PRINCE_RzJuAk2dlA 1.jpg","x":-220,"y":220,"width":400,"height":225},
+		{"id":"0c9f3d2c88e8d485","type":"file","file":"99. attachments/BLUE_PRINCE_a8ftsfb9z7 1.jpg","x":200,"y":220,"width":400,"height":225},
+		{"id":"f9bf0190735b01e4","type":"file","file":"99. attachments/BLUE_PRINCE_4VPpyRJVBy.png","x":-660,"y":220,"width":400,"height":225}
+	],
+	"edges":[
+		{
+			"id":"289ba9488d4f57ce",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1286ed678693edfb",
+			"fromSide":"bottom",
+			"toNode":"2fa3a5494c5086a4",
+			"toSide":"top"
+		},
+		{
+			"id":"4e38742c0696f12a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2fa3a5494c5086a4",
+			"fromSide":"bottom",
+			"toNode":"865d579cf59eb811",
+			"toSide":"top"
+		},
+		{
+			"id":"1513fffd82d730c4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"865d579cf59eb811",
+			"fromSide":"right",
+			"toNode":"5ee5bfb675dfe6ef",
+			"toSide":"left"
+		},
+		{
+			"id":"0e6eedf2df4877c8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a43c4d0d08880409",
+			"fromSide":"right",
+			"toNode":"250bd9746c8d94fa",
+			"toSide":"left"
+		},
+		{
+			"id":"7ce2a17f59bfea2e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5ee5bfb675dfe6ef",
+			"fromSide":"right",
+			"toNode":"250bd9746c8d94fa",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
