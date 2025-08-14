@@ -1,5 +1,59 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"a25783e527449c32",
+			"type":"text",
+			"text":"There is a spot where you can place microchips to possibly open the locked door that is in the room.",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-160,
+			"width":460,
+			"height":80
+		},
+		{
+			"id":"a0863a4f7e88fda6",
+			"type":"text",
+			"text":"[[Blackbridge Grotto.canvas|Blackbridge Grotto]]",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8857ea446d63d97f",
+			"type":"text",
+			"text":"The first microchip is already inserted.",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-60,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"011e2d2b1b14deb6",
+			"type":"text",
+			"text":"The second microchip is on the [[002 - Entrance Hall.canvas|002 - Entrance Hall]], you can find them by breaking the vases with a [[Sledgehammer.canvas|Sledgehammer]]",
+			"styleAttributes":{},
+			"x":-500,
+			"y":20,
+			"width":420,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"04be9f44fd433a0a",
+			"type":"text",
+			"text":"The third microchip is a mystery.",
+			"styleAttributes":{},
+			"x":-500,
+			"y":140,
+			"width":260,
+			"height":60,
+			"color":"3"
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

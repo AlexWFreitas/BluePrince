@@ -1056,6 +1056,17 @@
 			"width":260,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"3be0d0076a7d8179",
+			"type":"text",
+			"text":"[[Chapel Candle Puzzle.canvas|Chapel Candle Puzzle]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":921,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[]
