@@ -1,0 +1,117 @@
+{
+	"nodes":[
+		{
+			"id":"fd601b7b1cbc0008",
+			"type":"text",
+			"text":"Draft a room that has a \"door\" to the \"back\" of the Elevator on [[001 - The Foundation.canvas|001 - The Foundation]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":30,
+			"width":360,
+			"height":120
+		},
+		{
+			"id":"6f9785d2ee5abc7f",
+			"type":"text",
+			"text":"This will allow you to find a switch that enables the Elevator, allowing you to use the Elevator from now on.",
+			"styleAttributes":{},
+			"x":-720,
+			"y":190,
+			"width":400,
+			"height":120
+		},
+		{
+			"id":"fa6df858519ef46d",
+			"type":"text",
+			"text":"Get a [[Keycard.canvas|Keycard]] to be able to use keycard panels.",
+			"styleAttributes":{},
+			"x":-160,
+			"y":30,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"88f8b12b158e900f",
+			"type":"text",
+			"text":"Enter the [[Basement.canvas|Basement]] from another area and use the [[Basement Key.canvas|Basement Key]] to open the door that leads to [[001 - The Foundation.canvas|001 - The Foundation]] underground aera.",
+			"styleAttributes":{},
+			"x":-210,
+			"y":120,
+			"width":360,
+			"height":140
+		},
+		{
+			"id":"e26488558e787cae",
+			"type":"text",
+			"text":"Use the [[Keycard.canvas|Keycard]] to bring the Elevator down from above.",
+			"styleAttributes":{},
+			"x":-180,
+			"y":310,
+			"width":300,
+			"height":100
+		},
+		{
+			"id":"4ec77d35e19bb946",
+			"type":"text",
+			"text":"Draft [[001 - The Foundation.canvas|001 - The Foundation]] room at least once.",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-200,
+			"width":360,
+			"height":100
+		},
+		{
+			"id":"41cb7e4dd8bdda35",
+			"type":"text",
+			"text":"# Rewards\n- Access to the underground area of [[001 - The Foundation.canvas|001 - The Foundation]]\n- Access to the [[Basement.canvas|Basement]] path coming from [[001 - The Foundation.canvas|001 - The Foundation]]\n- Progress towards [[Open the Basement Door under the Foundation.canvas|Open the Basement Door under the Foundation]].",
+			"styleAttributes":{},
+			"x":-760,
+			"y":440,
+			"width":520,
+			"height":260
+		}
+	],
+	"edges":[
+		{
+			"id":"6112bf9837e1a89b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"88f8b12b158e900f",
+			"fromSide":"bottom",
+			"toNode":"e26488558e787cae",
+			"toSide":"top"
+		},
+		{
+			"id":"a13bf9d6a40a39ca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fa6df858519ef46d",
+			"fromSide":"bottom",
+			"toNode":"88f8b12b158e900f",
+			"toSide":"top"
+		},
+		{
+			"id":"72184a2673b3a7f1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4ec77d35e19bb946",
+			"fromSide":"bottom",
+			"toNode":"fa6df858519ef46d",
+			"toSide":"top",
+			"label":"Alternate Method"
+		},
+		{
+			"id":"c0d25c716d9e6e7f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4ec77d35e19bb946",
+			"fromSide":"bottom",
+			"toNode":"fd601b7b1cbc0008",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

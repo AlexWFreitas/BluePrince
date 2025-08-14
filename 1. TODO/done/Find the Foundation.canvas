@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"a84570edceb54478",
+			"type":"text",
+			"text":"Around the middle of the house you can draft a certain room called [[001 - The Foundation.canvas|001 - The Foundation]]\n\nThis room doesn't reset between each day, this means that it will stay on the same grid spot that you drafted it.\n\nThis room has an unreachable elevator that takes you underground.",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-240,
+			"width":560,
+			"height":220
+		},
+		{
+			"id":"5e0182e100a49805",
+			"type":"text",
+			"text":"# Rewards\n\n- Access to [[001 - The Foundation.canvas|001 - The Foundation]]\n- Progress towards the [[Enable the Foundation Elevator.canvas|Enable the Foundation Elevator]]",
+			"styleAttributes":{},
+			"x":20,
+			"y":-240,
+			"width":340,
+			"height":180
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

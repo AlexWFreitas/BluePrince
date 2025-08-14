@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"2a7a0c8056644578",
+			"type":"text",
+			"text":"A keycard is an item that is used to bypass keycard locked doors or to use keycard panels.",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-240,
+			"width":340,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"acc91d5460562070","type":"file","file":"99. attachments/BLUE_PRINCE_OfyuLuYJY2.png","x":-400,"y":-120,"width":400,"height":225},
+		{
+			"id":"1452d1bbd9378787",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-320,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

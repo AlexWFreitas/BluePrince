@@ -1,0 +1,49 @@
+{
+	"nodes":[
+		{
+			"id":"0b2a61f13f93ff3d",
+			"type":"text",
+			"text":"There are three hidden logins on the [[Blackbridge Grotto.canvas|Blackbridge Grotto]] - Central Server Terminal that have additional permissions that the known logins do not have.",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-280,
+			"width":520,
+			"height":100
+		},
+		{
+			"id":"c6bd9e431404213e",
+			"type":"text",
+			"text":"**Known Logins**\n- Randolph Moore - MoorR - Admin\n- Thompson Kimberly - ThomK - Admin\n- Anne Babbage - BabbA - Normal User\n- Hartley Ruota - RuotH - Disabled \n- Danny Revane - RevaD - Disabled",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-140,
+			"width":560,
+			"height":240
+		},
+		{
+			"id":"25b1b9c2f96f1a6e",
+			"type":"text",
+			"text":"**Hidden Logins**\n- ?\n- ?\n- ?",
+			"styleAttributes":{},
+			"x":-580,
+			"y":120,
+			"width":560,
+			"height":220
+		},
+		{
+			"id":"132985df6a022a91",
+			"type":"text",
+			"text":"**Attempted Logins**\n- [ ] Kirk Darren - DarrK?",
+			"styleAttributes":{},
+			"x":0,
+			"y":-140,
+			"width":480,
+			"height":240
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

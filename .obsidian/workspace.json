@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 817.3587076540101,
-                  "y": 1194.1713721844408,
-                  "zoom": -0.6666666666666667
+                  "x": 611.9747924687581,
+                  "y": 1197.5868827572274,
+                  "zoom": -1
                 }
               },
               "pinned": true,
@@ -27,29 +27,12 @@
             }
           },
           {
-            "id": "78b98f0014324f15",
+            "id": "aecc39876fd4b54a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/areas/018 - Wine Cellar.canvas",
-                "viewState": {
-                  "x": -400,
-                  "y": -190,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "018 - Wine Cellar"
-            }
-          },
-          {
-            "id": "c921014f936623cd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/The Pool room Puzzle.canvas",
+                "file": "1. TODO/todo/Blackbridge Grotto Hidden Logins Puzzle.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -57,84 +40,50 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "The Pool room Puzzle"
+              "title": "Blackbridge Grotto Hidden Logins Puzzle"
             }
           },
           {
-            "id": "495446da623cfc25",
+            "id": "824b15452fa0b105",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/done/Laundry Room Puzzle.canvas",
+                "file": "1. TODO/todo/Blackbridge Grotto Hidden Logins Puzzle.canvas",
                 "viewState": {
-                  "x": -410,
-                  "y": -250,
+                  "x": -7,
+                  "y": 1,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Laundry Room Puzzle"
+              "title": "Blackbridge Grotto Hidden Logins Puzzle"
             }
           },
           {
-            "id": "b523486188e634fb",
+            "id": "b5437e83efbe9d72",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Freezer Room Puzzle.canvas",
+                "file": "2. Canvas/info/Red Letters.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -822.1090407177364,
+                  "y": -316.44547964113184,
+                  "zoom": -0.65902945722146
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Freezer Room Puzzle"
+              "title": "Red Letters"
             }
           },
           {
-            "id": "06ea4eb798e7dff3",
+            "id": "84d30666c191a109",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/done/Fill the Reserve Tank on the Pump Room.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Fill the Reserve Tank on the Pump Room"
-            }
-          },
-          {
-            "id": "9d3788d999a18baf",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/Freezer Room Puzzle.canvas",
-                "viewState": {
-                  "x": -340,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Freezer Room Puzzle"
-            }
-          },
-          {
-            "id": "38429edd584057b0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/items/Broken Lever.canvas",
+                "file": "1. TODO/todo/Study Room Safe Puzzle.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -142,16 +91,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Broken Lever"
+              "title": "Study Room Safe Puzzle"
             }
           },
           {
-            "id": "75c581a817695f22",
+            "id": "f190e58a977d4f3d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/items/Battery Pack.canvas",
+                "file": "1. TODO/todo/Study Room Safe Puzzle.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -159,24 +108,109 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Battery Pack"
+              "title": "Study Room Safe Puzzle"
             }
           },
           {
-            "id": "8084b54987a18cf7",
+            "id": "817883a3ce795308",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/done/Open the Sealed Entrance.canvas",
+                "file": "1. TODO/todo/Classroom 8 Puzzle.canvas",
                 "viewState": {
-                  "x": -35,
-                  "y": -50,
+                  "x": 0,
+                  "y": 0,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Open the Sealed Entrance"
+              "title": "Classroom 8 Puzzle"
+            }
+          },
+          {
+            "id": "29e396213b68342a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Send Water to Greenhouse.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Send Water to Greenhouse"
+            }
+          },
+          {
+            "id": "c38638858ee581fe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/items/Burning Glass.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Burning Glass"
+            }
+          },
+          {
+            "id": "64364f09d902ea49",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Buy All Gifts from Gift Shop.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Buy All Gifts from Gift Shop"
+            }
+          },
+          {
+            "id": "f3684339f284958a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Buy All Books from Bookshop.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Buy All Books from Bookshop"
+            }
+          },
+          {
+            "id": "ee513399a3d262cd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Read All Books from Library.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Read All Books from Library"
             }
           }
         ]
@@ -327,19 +361,58 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "136a6cc2f745589a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0d8af222369e32a6",
+        "type": "window",
+        "children": [
+          {
+            "id": "a7ae0f425781a80e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2fbb5bcaa9ffd7e5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Legacy Notes/TODO.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "TODO"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 633,
+        "y": 147,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "b9aaf2342cf53910",
   "lastOpenFiles": [
-    "1. TODO/done/Open the Sealed Entrance.canvas",
-    "2. Canvas/items/Power Hammer.canvas",
-    "2. Canvas/info/Items.canvas",
-    "2. Canvas/items/Battery Pack.canvas",
-    "2. Canvas/items/Sledgehammer.canvas",
-    "2. Canvas/items/Shovel 1.canvas",
-    "2. Canvas/items/Broken Lever.canvas",
-    "1. TODO/done/Laundry Room Puzzle.canvas",
-    "1. TODO/todo/The Pool room Puzzle.canvas",
-    "1. TODO/todo/Freezer Room Puzzle.canvas",
+    "1. TODO/todo/Read All Books from Library.canvas",
+    "1. TODO/todo/Buy All Gifts from Gift Shop.canvas",
+    "1. TODO/todo/Buy All Books from Bookshop.canvas",
     "1. TODO/TODO Canvas.canvas",
+    "2. Canvas/items/Burning Glass.canvas",
+    "2. Canvas/info/Items.canvas",
+    "2. Canvas/items/Magnifying Glass.canvas",
+    "1. TODO/done/Send Water to Greenhouse.canvas",
+    "1. TODO/todo/Aquarium Puzzle.canvas",
+    "1. TODO/done/Activate the Boiler Room Generator.canvas",
+    "1. TODO/todo/Drawing Room Safe Puzzle.canvas",
     "4. Legacy Notes/TODO.md",
     "99. attachments/Obsidian_EsodK7ELWq.png",
     "2. Canvas/items",

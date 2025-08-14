@@ -1,6 +1,59 @@
 {
-	"nodes":[],
-	"edges":[],
+	"nodes":[
+		{
+			"id":"135d4cb06a2ec640",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"cc68759a03dd7a97",
+			"type":"text",
+			"text":"The Sledgehammer is an item that can be used to break Trunks open.",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-100,
+			"width":360,
+			"height":80
+		},
+		{"id":"b36b0cacc528d4ec","type":"file","file":"99. attachments/Pasted image 20250716212717.png","x":-600,"y":22,"width":400,"height":225},
+		{
+			"id":"670d04ae98d533bd",
+			"type":"text",
+			"text":"Game Progression Interactions",
+			"styleAttributes":{},
+			"x":-160,
+			"y":-7,
+			"width":260,
+			"height":89
+		},
+		{
+			"id":"70136aa70f911b9f",
+			"type":"text",
+			"text":"The Sledgehammer break the Vases on the [[002 - Entrance Hall.canvas|002 - Entrance Hall]] to reveal a [[Microchip.canvas|Microchip]] item.",
+			"styleAttributes":{},
+			"x":220,
+			"y":-20,
+			"width":400,
+			"height":117,
+			"color":"4"
+		}
+	],
+	"edges":[
+		{
+			"id":"b7323de46df0e78b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"670d04ae98d533bd",
+			"fromSide":"right",
+			"toNode":"70136aa70f911b9f",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
