@@ -204,9 +204,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 603.3653849089278,
-                  "y": 1297.2479146469773,
-                  "zoom": -0.6794639411307815
+                  "x": 2522.2706644031537,
+                  "y": 1407.8161967777469,
+                  "zoom": -1.6794639411307812
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -401,19 +401,20 @@
       }
     ]
   },
-  "active": "ef58b5cda7b61f44",
+  "active": "c8018dfb9a20d927",
   "lastOpenFiles": [
+    "2. Canvas/info/Inner Sanctum Key.canvas",
     "1. TODO/TODO Canvas.canvas",
+    "2. Canvas/areas/Inner Sanctum.canvas",
+    "2. Canvas/areas/Sealed Entrance.canvas",
+    "1. TODO/done/Discover the purpose of the Well.canvas",
+    "2. Canvas/info/Basement Key.canvas",
     "4. Legacy Notes/TODO.md",
     "1. TODO/done/Solve the Blue Fire Puzzle.canvas",
     "1. TODO/done/Enable the Blue Fire Valve on the Hovel.canvas",
     "1. TODO/done/Enable the Blue Fire Valve on the Schoolhouse.canvas",
     "1. TODO/done/Discover the Terminal Password.canvas",
     "1. TODO/done/Enable the Blue Fire valve on the Apple Orchard.canvas",
-    "1. TODO/done/Unlock the Apple Orchard Permanent Bonus.canvas",
-    "1. TODO/done/Solve the Dark Room puzzle.canvas",
-    "1. TODO/done/Unlock the Gemstone Cavern.canvas",
-    "1. TODO/continuous/Take notes and explore everything.canvas",
     "99. attachments/Pasted image 20250716141404.png",
     "99. attachments/BLUE_PRINCE_45iDUn5RGF.png",
     "4. Legacy Notes/Old Blue Prince Notes.md",

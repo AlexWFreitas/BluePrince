@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"884b9859d152dd08",
+			"type":"text",
+			"text":"This is a key obtained by reaching the [[045 - Antechamber.canvas|045 - Antechamber]], this item disappears when the run ends.",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-220,
+			"width":420,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

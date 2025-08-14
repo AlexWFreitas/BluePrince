@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"809038931dc32c0b",
+			"type":"text",
+			"text":"You can throw coins on the Well.\n\nThe well can be drained through the use of the [[033 - Pump Room.canvas|033 - Pump Room]].\n\nThe well has a door to the [[Basement.canvas|Basement]] that can be unlocked with the [[Basement Key.canvas|Basement Key]].",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-240,
+			"width":520,
+			"height":260
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

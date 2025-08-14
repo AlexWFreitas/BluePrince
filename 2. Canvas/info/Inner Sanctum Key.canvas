@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"dd220674a9c3587b",
+			"type":"text",
+			"text":"A key that can be used to open one of the eight doors in the [[Inner Sanctum.canvas|Inner Sanctum]]",
+			"styleAttributes":{},
+			"x":-320,
+			"y":-200,
+			"width":340,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
