@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"67e2d19f44e856f5",
+			"type":"text",
+			"text":"You can use the [[032 - Boiler Room.canvas|032 - Boiler Room]] to power up the [[Furnace.canvas|Furnace]] and craft a normal key from it.",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-320,
+			"width":380,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

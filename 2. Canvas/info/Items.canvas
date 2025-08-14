@@ -43,7 +43,7 @@
 		{"id":"7d36bd57b383238a","type":"file","file":"99. attachments/BLUE_PRINCE_KbYVcaBTZL 1.png","x":-1200,"y":405,"width":400,"height":225}
 	],
 	"edges":[
-		{"id":"841a2ce76532a0eb","fromNode":"2d7445205b05e7b4","fromSide":"top","toNode":"444722d7d501e086","toSide":"bottom"},
+		{"id":"841a2ce76532a0eb","toFloating":false,"fromNode":"2d7445205b05e7b4","fromSide":"top","toNode":"444722d7d501e086","toSide":"bottom"},
 		{"id":"29c1a340ea374db9","fromNode":"f1dcd4a3bebe80e1","fromSide":"bottom","toNode":"8f2a30658a050993","toSide":"top"},
 		{"id":"b0ff4d596a117361","fromNode":"28bc586033258ad8","fromSide":"top","toNode":"0b14c44c592aea4c","toSide":"bottom"},
 		{"id":"8f83e1e98fb24173","fromNode":"940b29747c6f92a5","fromSide":"top","toNode":"56b4317ea4696004","toSide":"bottom"}

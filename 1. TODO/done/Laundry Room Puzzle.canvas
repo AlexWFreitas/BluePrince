@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"771285ba4c810eae",
+			"type":"text",
+			"text":"You can use the [[032 - Boiler Room.canvas|032 - Boiler Room]] to power up the [[Laundry Room.canvas|Laundry Room]] so that you can have special additional options for laundering money.",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-320,
+			"width":380,
+			"height":140
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

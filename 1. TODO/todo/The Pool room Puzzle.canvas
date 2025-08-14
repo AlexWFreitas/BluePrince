@@ -1,0 +1,58 @@
+{
+	"nodes":[
+		{
+			"id":"2d92e281e182752a",
+			"type":"text",
+			"text":"Draft [[033 - Pump Room.canvas|033 - Pump Room]] and drain [[029 - The Pool.canvas|029 - The Pool]]",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-360,
+			"width":380,
+			"height":80
+		},
+		{
+			"id":"6920305e8bf86ed3",
+			"type":"text",
+			"text":"Draft [[032 - Boiler Room.canvas|032 - Boiler Room]] and send power to [[029 - The Pool.canvas|029 - The Pool]]",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-220,
+			"width":380,
+			"height":80
+		},
+		{
+			"id":"e55b348ef435ad46",
+			"type":"text",
+			"text":"Something will happen on [[029 - The Pool.canvas|029 - The Pool]] after that",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-80,
+			"width":380,
+			"height":80
+		}
+	],
+	"edges":[
+		{
+			"id":"cce5fea02524dfca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2d92e281e182752a",
+			"fromSide":"bottom",
+			"toNode":"6920305e8bf86ed3",
+			"toSide":"top"
+		},
+		{
+			"id":"f1239a4c7698db7d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6920305e8bf86ed3",
+			"fromSide":"bottom",
+			"toNode":"e55b348ef435ad46",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

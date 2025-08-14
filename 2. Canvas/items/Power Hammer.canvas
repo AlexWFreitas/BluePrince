@@ -1,6 +1,89 @@
 {
-	"nodes":[],
-	"edges":[],
+	"nodes":[
+		{
+			"id":"caa518e54a0ea16d",
+			"type":"text",
+			"text":"Item crafted on the Workshop with:\n- [[Sledgehammer.canvas|Sledgehammer]]\n- [[Broken Lever.canvas|Broken Lever]]\n- [[Battery Pack.canvas|Battery Pack]]",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-220,
+			"width":360,
+			"height":180
+		},
+		{
+			"id":"034e516e828070d9",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-300,
+			"width":260,
+			"height":60
+		},
+		{"id":"38eca2e44ad5f63e","type":"file","file":"99. attachments/BLUE_PRINCE_4udn34WZrN.png","x":-520,"y":20,"width":400,"height":225},
+		{
+			"id":"fbff0330352dff5a",
+			"type":"text",
+			"text":"The power hamer can be used to break walls on",
+			"styleAttributes":{},
+			"x":-100,
+			"y":-130,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d06c92dd70a022bb",
+			"type":"text",
+			"text":"[[Sealed Entrance.canvas|Sealed Entrance]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":-160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"1ce0d2b2f9189364",
+			"type":"text",
+			"text":"[[Secret Garden.canvas|Secret Garden]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":-250,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
+	],
+	"edges":[
+		{
+			"id":"98c10894bd1d0161",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"caa518e54a0ea16d",
+			"fromSide":"bottom",
+			"toNode":"38eca2e44ad5f63e",
+			"toSide":"top"
+		},
+		{
+			"id":"2b473eff73be0e00",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fbff0330352dff5a",
+			"fromSide":"right",
+			"toNode":"1ce0d2b2f9189364",
+			"toSide":"left"
+		},
+		{
+			"id":"559b8fb9e4fcb2a2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"fbff0330352dff5a",
+			"fromSide":"right",
+			"toNode":"d06c92dd70a022bb",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

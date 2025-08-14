@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"0960dce38bdf195d",
+			"type":"text",
+			"text":"You can use the [[032 - Boiler Room.canvas|032 - Boiler Room]] to send power to the [[033 - Pump Room.canvas|033 - Pump Room]].\n\nThis enable you to use the reserve tank on the [[033 - Pump Room.canvas|033 - Pump Room]] to be able to move additional water around the tanks.\n\nThe main purpose of the reserve tank is to be able to drain the [[Reservoir.canvas|Reservoir]] completely on the [[Drain Reservoir.canvas|Drain Reservoir]] task.",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-240,
+			"width":440,
+			"height":300,
+			"color":"4"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

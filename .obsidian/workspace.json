@@ -16,14 +16,167 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 155.64786852211273,
-                  "y": 1344.5993960298956,
-                  "zoom": 1.1102230246251565e-16
+                  "x": 817.3587076540101,
+                  "y": 1194.1713721844408,
+                  "zoom": -0.6666666666666667
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "TODO Canvas"
+            }
+          },
+          {
+            "id": "78b98f0014324f15",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/018 - Wine Cellar.canvas",
+                "viewState": {
+                  "x": -400,
+                  "y": -190,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "018 - Wine Cellar"
+            }
+          },
+          {
+            "id": "c921014f936623cd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/The Pool room Puzzle.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Pool room Puzzle"
+            }
+          },
+          {
+            "id": "495446da623cfc25",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Laundry Room Puzzle.canvas",
+                "viewState": {
+                  "x": -410,
+                  "y": -250,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Laundry Room Puzzle"
+            }
+          },
+          {
+            "id": "b523486188e634fb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Freezer Room Puzzle.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Freezer Room Puzzle"
+            }
+          },
+          {
+            "id": "06ea4eb798e7dff3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Fill the Reserve Tank on the Pump Room.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Fill the Reserve Tank on the Pump Room"
+            }
+          },
+          {
+            "id": "9d3788d999a18baf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Freezer Room Puzzle.canvas",
+                "viewState": {
+                  "x": -340,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Freezer Room Puzzle"
+            }
+          },
+          {
+            "id": "38429edd584057b0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/items/Broken Lever.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Broken Lever"
+            }
+          },
+          {
+            "id": "75c581a817695f22",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/items/Battery Pack.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Battery Pack"
+            }
+          },
+          {
+            "id": "8084b54987a18cf7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Open the Sealed Entrance.canvas",
+                "viewState": {
+                  "x": -35,
+                  "y": -50,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Open the Sealed Entrance"
             }
           }
         ]
@@ -58,7 +211,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "items.canvas",
+                "query": "wine cellar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,17 +329,18 @@
   },
   "active": "b9aaf2342cf53910",
   "lastOpenFiles": [
-    "4. Legacy Notes/TODO.md",
-    "1. TODO/TODO Canvas.canvas",
-    "1. TODO/todo/Discover all Sigils.canvas",
-    "2. Canvas/areas/Abandoned Mine.canvas",
-    "2. Canvas/info/Fenn Aries.canvas",
-    "2. Canvas/areas/The Precipice.canvas",
-    "1. TODO/done/Enter the Secret Garden.canvas",
-    "2. Canvas/info/East Wing.canvas",
-    "2. Canvas/areas/West Wing.canvas",
-    "2. Canvas/items/Secret Garden Key.canvas",
+    "1. TODO/done/Open the Sealed Entrance.canvas",
+    "2. Canvas/items/Power Hammer.canvas",
     "2. Canvas/info/Items.canvas",
+    "2. Canvas/items/Battery Pack.canvas",
+    "2. Canvas/items/Sledgehammer.canvas",
+    "2. Canvas/items/Shovel 1.canvas",
+    "2. Canvas/items/Broken Lever.canvas",
+    "1. TODO/done/Laundry Room Puzzle.canvas",
+    "1. TODO/todo/The Pool room Puzzle.canvas",
+    "1. TODO/todo/Freezer Room Puzzle.canvas",
+    "1. TODO/TODO Canvas.canvas",
+    "4. Legacy Notes/TODO.md",
     "99. attachments/Obsidian_EsodK7ELWq.png",
     "2. Canvas/items",
     "99. attachments/Pasted image 20250716141404.png",

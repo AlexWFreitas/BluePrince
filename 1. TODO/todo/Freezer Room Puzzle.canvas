@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{
+			"id":"2e24d77aec30fad7",
+			"type":"text",
+			"text":"You can enter the [[040 - Freezer.canvas|040 - Freezer]] room and let time pass so that most of the frozen things get unfrozen and then you can collect items and access notes and areas of the room that were unreachable.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-280,
+			"width":560,
+			"height":140
+		},
+		{
+			"id":"0a4654831b05884b",
+			"type":"text",
+			"text":"There is a part of the Freezer room that won't unfreeze though, to unfreeze that part, you need to have a [[Furnace.canvas|Furnace]] room close to the [[040 - Freezer.canvas|040 - Freezer]]. \n\nThis is mentioned in one of the emails from the terminals after you unlock the email capability through a admin key on the [[Blackbridge Grotto.canvas|Blackbridge Grotto]] terminal.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-100,
+			"width":560,
+			"height":220
+		},
+		{
+			"id":"ff4340f8995e26bc",
+			"type":"text",
+			"text":"The heat from the Furnace room will make the frozen content on the freezer melt so that you can access it.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":160,
+			"width":560,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

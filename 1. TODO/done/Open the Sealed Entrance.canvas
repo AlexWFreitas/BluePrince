@@ -1,0 +1,51 @@
+{
+	"nodes":[
+		{
+			"id":"7ca29410ab1598d4",
+			"type":"text",
+			"text":"Craft a [[Power Hammer.canvas|Power Hammer]] on the [[035 - Workshop.canvas|035 - Workshop]]",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-240,
+			"width":400,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"2b904fdbc4104c15",
+			"type":"text",
+			"text":"Go outside the mansion near the area with the Blue Fires and break the wooden barriers that are blocking the entrance to the [[Sealed Entrance.canvas|Sealed Entrance]] by using the [[Power Hammer.canvas|Power Hammer]]",
+			"styleAttributes":{},
+			"x":-550,
+			"y":-100,
+			"width":460,
+			"height":120,
+			"color":"4"
+		},
+		{
+			"id":"2c2d39034b255466",
+			"type":"text",
+			"text":"# Rewards\n\n- Access to the [[Sealed Entrance.canvas|Sealed Entrance]]\n- Access to the [[Basement.canvas|Basement]]",
+			"styleAttributes":{},
+			"x":0,
+			"y":-250,
+			"width":480,
+			"height":400
+		}
+	],
+	"edges":[
+		{
+			"id":"533ac658f35da982",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7ca29410ab1598d4",
+			"fromSide":"bottom",
+			"toNode":"2b904fdbc4104c15",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
