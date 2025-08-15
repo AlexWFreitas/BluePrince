@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"8d7bf6df4ae2ee12",
+			"type":"text",
+			"text":"[[023 - Vault.canvas|023 - Vault]]",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-560,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

@@ -1,7 +1,21 @@
 {
 	"nodes":[
 		{"id":"dd8f7678341cdcf7","type":"file","file":"99. attachments/BLUE_PRINCE_SV2e7iw7MZ.png","x":-627,"y":-260,"width":400,"height":225},
-		{"id":"4f919e234c164b99","type":"file","file":"99. attachments/BLUE_PRINCE_0EMEXnW7B9.png","x":-627,"y":0,"width":400,"height":225}
+		{"id":"4f919e234c164b99","type":"file","file":"99. attachments/BLUE_PRINCE_0EMEXnW7B9.png","x":-627,"y":0,"width":400,"height":225},
+		{"id":"1b7fd33408746c14","type":"file","file":"99. attachments/BLUE_PRINCE_LZbf5otcz9.png","x":-1060,"y":0,"width":400,"height":225},
+		{"id":"0110f356170a32f5","type":"file","file":"99. attachments/BLUE_PRINCE_f2N7JFHSGQ.png","x":-1060,"y":-260,"width":400,"height":225},
+		{"id":"49ec67f730b6fe66","type":"file","file":"99. attachments/BLUE_PRINCE_UIPH6J3zJS.png","x":-1060,"y":260,"width":400,"height":225},
+		{
+			"id":"4d6867a6b58e437c",
+			"type":"text",
+			"text":"**This room was fully explored.**",
+			"styleAttributes":{},
+			"x":-627,
+			"y":260,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[],
 	"metadata":{

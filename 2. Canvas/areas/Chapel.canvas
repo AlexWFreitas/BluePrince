@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"67943550505534d7","type":"text","text":"Rynna - 1","x":635,"y":-180,"width":250,"height":60},
 		{"id":"36eb96811733cbff","type":"file","file":"99. attachments/BLUE_PRINCE_npM5Vn7Jn5.png","x":-800,"y":640,"width":400,"height":225},
-		{"id":"fa36d80576c1fb59","type":"file","file":"99. attachments/BLUE_PRINCE_ugVtFBBsTQ.png","x":-300,"y":640,"width":400,"height":225},
 		{"id":"bf9d914822e5e32b","type":"file","file":"99. attachments/BLUE_PRINCE_r9DCHLn6Ih.png","x":360,"y":-1120,"width":400,"height":225},
 		{"id":"534a28762a366ddd","type":"text","text":"Burning Glass on Candles [[Items.canvas|Items]]","x":394,"y":-840,"width":333,"height":86},
 		{"id":"fc2bc19a97d5416f","type":"file","file":"99. attachments/BLUE_PRINCE_DmtP7Ot73y.png","x":810,"y":-1120,"width":400,"height":225},
@@ -23,15 +22,74 @@
 		{"id":"d7955e0f75ecbe90","type":"file","file":"99. attachments/Pasted image 20250716212049.png","x":760,"y":-80,"width":400,"height":225},
 		{"id":"e56607df8c0cb445","type":"text","text":"Orynda - 7","x":835,"y":200,"width":250,"height":60},
 		{"id":"aaca82840baf4e51","type":"file","file":"99. attachments/Pasted image 20250716211153.png","x":-100,"y":-677,"width":400,"height":225},
-		{"id":"1c60fcf588535212","type":"file","file":"99. attachments/BLUE_PRINCE_74UjOypE6d.png","x":-306,"y":35,"width":400,"height":225},
 		{"id":"084c16a278ad9a0e","type":"file","file":"99. attachments/BLUE_PRINCE_RJCO0ASMqt.png","x":-300,"y":320,"width":400,"height":225},
-		{"id":"809fa3e65e3c101b","type":"file","file":"99. attachments/BLUE_PRINCE_XeBhkf1PyB.png","x":-300,"y":-262,"width":400,"height":225}
+		{"id":"809fa3e65e3c101b","type":"file","file":"99. attachments/BLUE_PRINCE_XeBhkf1PyB.png","x":-300,"y":-262,"width":400,"height":225},
+		{"id":"fa36d80576c1fb59","type":"file","file":"99. attachments/BLUE_PRINCE_ugVtFBBsTQ.png","x":560,"y":380,"width":400,"height":225},
+		{"id":"52979c9f68c574bc","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":635,"y":700,"width":257,"height":400},
+		{
+			"id":"b6b6923049e410d9",
+			"type":"text",
+			"text":"Dauja - 3",
+			"styleAttributes":{},
+			"x":640,
+			"y":1140,
+			"width":260,
+			"height":60
+		},
+		{"id":"959cd9f244eaadc2","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":1120,"y":700,"width":218,"height":400},
+		{
+			"id":"9619ebef9243853d",
+			"type":"text",
+			"text":"Lydia - 6",
+			"styleAttributes":{},
+			"x":1099,
+			"y":1140,
+			"width":260,
+			"height":60
+		},
+		{"id":"1955672f944bb026","type":"file","file":"99. attachments/BLUE_PRINCE_74UjOypE6d.png","x":1060,"y":380,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"7d6a1d96cd2ad0d4","toFloating":false,"fromNode":"67943550505534d7","fromSide":"top","toNode":"e7e6d98d975f99e4","toSide":"bottom"},
 		{"id":"c74a74b783d3f840","fromNode":"e56607df8c0cb445","fromSide":"top","toNode":"d7955e0f75ecbe90","toSide":"bottom"},
 		{"id":"9e3a658c4d5110ae","fromNode":"856e054c8afa632e","fromSide":"top","toNode":"02b2a1e71f993500","toSide":"bottom"},
-		{"id":"ab990550edf61003","fromNode":"534a28762a366ddd","fromSide":"top","toNode":"bf9d914822e5e32b","toSide":"bottom"}
+		{"id":"ab990550edf61003","fromNode":"534a28762a366ddd","fromSide":"top","toNode":"bf9d914822e5e32b","toSide":"bottom"},
+		{
+			"id":"b99fcbca3a2d2649",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"52979c9f68c574bc",
+			"fromSide":"top",
+			"toNode":"fa36d80576c1fb59",
+			"toSide":"bottom"
+		},
+		{
+			"id":"7f1033f0d091cc59",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b6b6923049e410d9",
+			"fromSide":"top",
+			"toNode":"52979c9f68c574bc",
+			"toSide":"bottom"
+		},
+		{
+			"id":"7e141733a5dabecb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9619ebef9243853d",
+			"fromSide":"top",
+			"toNode":"959cd9f244eaadc2",
+			"toSide":"bottom"
+		},
+		{
+			"id":"c507789578dbc2a2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"959cd9f244eaadc2",
+			"fromSide":"top",
+			"toNode":"1955672f944bb026",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

@@ -8,13 +8,14 @@
 		{
 			"id":"eafe1076d8de052c",
 			"type":"text",
-			"text":"# Room Info\n\nAllows you to buy food for gold.\nAllows you to view today's dinner that will be served on the [[041 - Dining Room.canvas|041 - Dining Room]]",
+			"text":"# Room Info\n\nAllows you to buy food for gold.\nAllows you to view today's dinner that will be served on the [[041 - Dining Room.canvas|041 - Dining Room]]\nYou can send water to this room through the [[033 - Pump Room.canvas|033 - Pump Room]].\nThis can be used to refill the Watering Can item.",
 			"styleAttributes":{},
 			"x":-640,
 			"y":-660,
 			"width":640,
 			"height":280
-		}
+		},
+		{"id":"ffda6cdd4a08ff40","type":"file","file":"99. attachments/BLUE_PRINCE_CP68HCWZAW.png","x":-1080,"y":240,"width":400,"height":145}
 	],
 	"edges":[],
 	"metadata":{

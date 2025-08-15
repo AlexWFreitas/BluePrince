@@ -16,14 +16,33 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 736.2961652211784,
-                  "y": 1350.1016652705698,
-                  "zoom": -0.6666666666666667
+                  "x": 394.8984961552813,
+                  "y": 1322.8342523568065,
+                  "zoom": -0.3333333333333334
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "TODO Canvas"
+            }
+          },
+          {
+            "id": "f1ba0b08be6019d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/026 - Study.canvas",
+                "viewState": {
+                  "x": -506.2914287223791,
+                  "y": 922.8657050776546,
+                  "zoom": 0.562048683779643
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "026 - Study"
             }
           }
         ]
@@ -58,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "black water",
+                "query": "chape",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 540.5
   },
   "right": {
     "id": "07be804e2b3975b5",
@@ -179,58 +198,63 @@
     "type": "floating",
     "children": [
       {
-        "id": "0d8af222369e32a6",
+        "id": "0b8bd9e0a5a335c4",
         "type": "window",
         "children": [
           {
-            "id": "a7ae0f425781a80e",
+            "id": "66c834a0e3368698",
             "type": "tabs",
             "children": [
               {
-                "id": "2fbb5bcaa9ffd7e5",
+                "id": "914fbbc5751af7b8",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "4. Legacy Notes/TODO.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "99. attachments/BLUE_PRINCE_wlUK6I1tsP.png"
                   },
-                  "icon": "lucide-file",
-                  "title": "TODO"
+                  "icon": "lucide-image",
+                  "title": "BLUE_PRINCE_wlUK6I1tsP"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 633,
-        "y": 147,
+        "x": 448,
+        "y": 116,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "b9aaf2342cf53910",
   "lastOpenFiles": [
-    "1. TODO/done/Chapel Candle Puzzle.canvas",
+    "0. New Files/Trading Post Dynamite Puzzle.canvas",
     "1. TODO/TODO Canvas.canvas",
-    "1. TODO/todo/Blackbridge Grotto Puzzle.canvas",
-    "2. Canvas/items/Sledgehammer.canvas",
+    "1. TODO/todo/Vault Deposit Items Puzzles.canvas",
+    "1. TODO/todo/Blackbridge Grotto Computer Symbols Puzzle.canvas",
+    "2. Canvas/areas/023 - Vault.canvas",
+    "1. TODO/todo/Identify All The Angels.canvas",
     "2. Canvas/items/Magnifying Glass.canvas",
-    "2. Canvas/items/Power Hammer.canvas",
-    "2. Canvas/items/Burning Glass.canvas",
-    "1. TODO/todo/Mirror Chamber Puzzle.canvas",
-    "1. TODO/todo/Unlock Cursed Mode.canvas",
-    "1. TODO/todo/Unlock All Drafting Studio Rooms.canvas",
-    "2. Canvas/info/Inner Sanctum Key.canvas",
+    "2. Canvas/areas/Chapel.canvas",
+    "2. Canvas/areas/030 - Drafting Studio.canvas",
+    "2. Canvas/areas/026 - Study.canvas",
+    "1. TODO/todo/Drafting Studio Safe Puzzle.canvas",
+    "99. attachments/BLUE_PRINCE_EuHrsJxJwG.png",
+    "99. attachments/BLUE_PRINCE_9yvQdcwirB.png",
+    "99. attachments/BLUE_PRINCE_zyx2ezmJnh.png",
+    "99. attachments/BLUE_PRINCE_aPLk97kR1u.png",
+    "99. attachments/BLUE_PRINCE_2OSWJn0rZD.png",
+    "99. attachments/BLUE_PRINCE_bSpVQ9rrZV.png",
+    "99. attachments/BLUE_PRINCE_fOAfeyNjtL.png",
+    "99. attachments/BLUE_PRINCE_wlUK6I1tsP.png",
+    "99. attachments/BLUE_PRINCE_Na99OI9QSZ.png",
+    "99. attachments/BLUE_PRINCE_7sAF03TgZM.png",
     "4. Legacy Notes/TODO.md",
-    "99. attachments/Obsidian_EsodK7ELWq.png",
     "2. Canvas/items",
-    "99. attachments/Pasted image 20250716141404.png",
-    "99. attachments/BLUE_PRINCE_45iDUn5RGF.png",
     "4. Legacy Notes/Old Blue Prince Notes.md",
     "Daniel (Jones).md",
     "empty files.md",
@@ -255,21 +279,14 @@
     "3. Notes/Servant's Quarters.md",
     "3. Notes/Security Room.md",
     "3. Notes/Secret Passage.md",
-    "99. attachments/Obsidian_bfxGV2fzOf.png",
     "attachments",
     "2. Canvas/characters",
     "2. Canvas/papers",
     "2. Canvas/info",
     "2. Canvas/books",
     "2. Canvas/areas",
-    "99. attachments/BLUE_PRINCE_I9hDZsvDoB.png",
     "1. TODO/continuous",
     "0. New Files",
-    "1. TODO/todo",
-    "99. attachments/BLUE_PRINCE_rIsCgcdEKF.png",
-    "99. attachments/BLUE_PRINCE_VAH7dZkwQQ.png",
-    "99. attachments/BLUE_PRINCE_YBmqCpGmR8.png",
-    "99. attachments/BLUE_PRINCE_4ffbJQqFq6.png",
-    "99. attachments/BLUE_PRINCE_fThMMyLOOR.png"
+    "1. TODO/todo"
   ]
 }

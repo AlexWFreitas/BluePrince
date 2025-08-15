@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"e3ad20734c4418cd",
+			"type":"text",
+			"text":"[[Reservoir.canvas|Reservoir]] for more info",
+			"styleAttributes":{},
+			"x":-420,
+			"y":-320,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

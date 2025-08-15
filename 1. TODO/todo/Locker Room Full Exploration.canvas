@@ -1,5 +1,17 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"b28d66673816a839",
+			"type":"text",
+			"text":"[[016 - Locker Room.canvas|016 - Locker Room]]",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-100,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

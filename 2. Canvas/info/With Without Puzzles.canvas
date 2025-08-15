@@ -101,7 +101,20 @@
 		{"id":"abfd96ee9ea8def3","type":"file","file":"99. attachments/BLUE_PRINCE_uEychNR8is.png","x":-7340,"y":1620,"width":400,"height":225,"color":"4"},
 		{"id":"f6b7e646f1d86f6d","type":"text","text":"GRAIN - RAIN = G - C1R6","x":-7280,"y":1880,"width":250,"height":60,"color":"4"},
 		{"id":"ffd595094a7d8486","type":"file","file":"99. attachments/BLUE_PRINCE_rmf0xrK4aH.png","x":-7340,"y":1200,"width":400,"height":225,"color":"4"},
-		{"id":"74373b91e16c3718","type":"text","text":"Spine - Pine = S - C1R7","x":-7265,"y":1455,"width":250,"height":60,"color":"4"}
+		{"id":"74373b91e16c3718","type":"text","text":"Spine - Pine = S - C1R7","x":-7265,"y":1455,"width":250,"height":60,"color":"4"},
+		{
+			"id":"23d78a049c501064",
+			"type":"text",
+			"text":"Coast - Cost = A - C2R6",
+			"styleAttributes":{},
+			"x":-6802,
+			"y":1880,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"747f092b91423244","type":"file","file":"99. attachments/BLUE_PRINCE_E9hb06GCdD.png","x":-6872,"y":1620,"width":400,"height":225,"color":"4"},
+		{"id":"b4fdcde82049f99d","type":"file","file":"99. attachments/BLUE_PRINCE_i4MMoN895b.png","x":-6792,"y":1580,"width":400,"height":225,"color":"4"}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},

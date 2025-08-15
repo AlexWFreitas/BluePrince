@@ -41,7 +41,31 @@
 			"y":-240,
 			"width":400,
 			"height":90
-		}
+		},
+		{
+			"id":"713173e7e890f786",
+			"type":"text",
+			"text":"[[Find All Letter Stamps.canvas|Find All Letter Stamps]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":-225,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"bae0e7f85489516b",
+			"type":"text",
+			"text":"[[030 - Drafting Studio.canvas|030 - Drafting Studio]] - on the Drafting Strategy Vol 1 Book - Chapel Page and the mini safe",
+			"styleAttributes":{},
+			"x":440,
+			"y":-100,
+			"width":280,
+			"height":120
+		},
+		{"id":"78f4cea67a86b6dc","type":"file","file":"99. attachments/BLUE_PRINCE_AvtVZUFbX5.png","x":840,"y":-152,"width":400,"height":225},
+		{"id":"2ea7d308703e5d00","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":840,"y":102,"width":135,"height":209},
+		{"id":"b4137e5ff423193a","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":1020,"y":102,"width":114,"height":209}
 	],
 	"edges":[
 		{
@@ -51,6 +75,51 @@
 			"fromNode":"7ef84c68986eb399",
 			"fromSide":"right",
 			"toNode":"4a0b0959c3f642f7",
+			"toSide":"left"
+		},
+		{
+			"id":"99f1324955814d29",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7ef84c68986eb399",
+			"fromSide":"right",
+			"toNode":"713173e7e890f786",
+			"toSide":"left"
+		},
+		{
+			"id":"af924357eab86c1f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7ef84c68986eb399",
+			"fromSide":"right",
+			"toNode":"bae0e7f85489516b",
+			"toSide":"left"
+		},
+		{
+			"id":"8a444237145640e6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bae0e7f85489516b",
+			"fromSide":"right",
+			"toNode":"78f4cea67a86b6dc",
+			"toSide":"left"
+		},
+		{
+			"id":"3a599f6d79f8b8c7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bae0e7f85489516b",
+			"fromSide":"right",
+			"toNode":"2ea7d308703e5d00",
+			"toSide":"left"
+		},
+		{
+			"id":"e12944e328b7f02a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2ea7d308703e5d00",
+			"fromSide":"right",
+			"toNode":"b4137e5ff423193a",
 			"toSide":"left"
 		}
 	],

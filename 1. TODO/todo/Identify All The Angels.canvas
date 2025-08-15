@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"050482c1324c5408",
+			"type":"text",
+			"text":"Refer to [[Chapel.canvas|Chapel]]",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-200,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

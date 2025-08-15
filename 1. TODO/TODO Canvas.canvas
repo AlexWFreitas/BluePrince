@@ -346,7 +346,7 @@
 		{
 			"id":"9bc69c8d4a2eb858",
 			"type":"text",
-			"text":"[[Discover all Sigils.canvas|Discover all Sigils]]",
+			"text":"[[Sigils.canvas|Discover all Sigils]]",
 			"styleAttributes":{},
 			"x":-360,
 			"y":1400,
@@ -418,7 +418,7 @@
 			"y":1080,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"4c51d68c02962193",
@@ -440,7 +440,7 @@
 			"y":1240,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"cbe45c2fa8f587f8",
@@ -794,17 +794,6 @@
 			"color":"3"
 		},
 		{
-			"id":"db1f2409cf3f6fcf",
-			"type":"text",
-			"text":"[[Mansion Paintings Message Puzzle.canvas|Mansion Paintings Message Puzzle]]",
-			"styleAttributes":{},
-			"x":480,
-			"y":1290,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"cc8a39a9228e2621",
 			"type":"text",
 			"text":"[[Burning Glass.canvas|Burning Glass]] Puzzles",
@@ -818,7 +807,7 @@
 		{
 			"id":"cb49d1a87b6551fc",
 			"type":"text",
-			"text":"[[Classroom 8 Puzzle.canvas|Classroom 8 Puzzle]]",
+			"text":"[[Classroom 9 Puzzle.canvas|Classroom 8 Puzzle]]",
 			"styleAttributes":{},
 			"x":1880,
 			"y":1002,
@@ -847,17 +836,6 @@
 			"width":260,
 			"height":60,
 			"color":"3"
-		},
-		{
-			"id":"5badf05f764153cc",
-			"type":"text",
-			"text":"[[Blackbridge Grotto Computer Symbols Puzzle.canvas|Blackbridge Grotto Computer Symbols Puzzle]]",
-			"styleAttributes":{},
-			"x":760,
-			"y":1320,
-			"width":260,
-			"height":110,
-			"color":"1"
 		},
 		{
 			"id":"e8b0a46610ac87ca",
@@ -912,7 +890,7 @@
 			"y":1002,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"04afeda37a069eca",
@@ -967,17 +945,6 @@
 			"y":918,
 			"width":260,
 			"height":114,
-			"color":"3"
-		},
-		{
-			"id":"743f2225b28f4d04",
-			"type":"text",
-			"text":"[[Find complete Sigils Book.canvas|Find complete Sigils Book]]",
-			"styleAttributes":{},
-			"x":480,
-			"y":1370,
-			"width":260,
-			"height":60,
 			"color":"3"
 		},
 		{
@@ -1067,6 +1034,94 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"3dac5b3c6eff0f1f",
+			"type":"text",
+			"text":"[[Unlock Dare Mode.canvas|Unlock Dare Mode]]",
+			"styleAttributes":{},
+			"x":200,
+			"y":1480,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"0980f1c1b5c32939",
+			"type":"text",
+			"text":"[[Discover how to cross the Reservoir Water Body.canvas|Discover how to cross the Reservoir Water Body]]",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"1a974f230f6e7007",
+			"type":"text",
+			"text":"[[Baron Bafflers Puzzle - Bedroom Digspot.canvas|Baron Bafflers Puzzle - Bedroom Digspot]]",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"044027898165e396",
+			"type":"text",
+			"text":"[[Drafting Studio Safe Puzzle.canvas|Drafting Studio Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":2160,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"db1f2409cf3f6fcf",
+			"type":"text",
+			"text":"[[Mansion Paintings Message Puzzle.canvas|Mansion Paintings Message Puzzle]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":1270,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"743f2225b28f4d04",
+			"type":"text",
+			"text":"[[Find complete Sigils Book.canvas|Find complete Sigils Book]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":1350,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"5badf05f764153cc",
+			"type":"text",
+			"text":"[[Blackbridge Grotto Computer Symbols Puzzle.canvas|Blackbridge Grotto Computer Symbols Puzzle]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":1320,
+			"width":260,
+			"height":110,
+			"color":"1"
+		},
+		{
+			"id":"5a718078ac419130",
+			"type":"text",
+			"text":"[[Trading Post Dynamite Puzzle.canvas|Trading Post Dynamite Puzzle]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[]

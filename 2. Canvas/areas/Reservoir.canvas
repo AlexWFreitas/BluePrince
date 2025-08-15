@@ -30,11 +30,76 @@
 			"x":-1160,
 			"y":205,
 			"width":280,
-			"height":100
-		}
+			"height":100,
+			"color":"3"
+		},
+		{"id":"7f153bd2f4e087cf","type":"file","file":"99. attachments/BLUE_PRINCE_8v7daD6Hyp.png","x":-2051,"y":2200,"width":400,"height":225},
+		{"id":"5cd4285a5490fc6d","type":"file","file":"99. attachments/BLUE_PRINCE_OsVvd2n5xL.png","x":-1603,"y":2200,"width":400,"height":225},
+		{"id":"878417de6b4e87fc","type":"file","file":"99. attachments/BLUE_PRINCE_C4wzWIroSG.png","x":-1560,"y":1600,"width":400,"height":225},
+		{"id":"f0264f7a19945353","type":"file","file":"99. attachments/BLUE_PRINCE_MgJvle7ubW.png","x":-2451,"y":1600,"width":400,"height":225},
+		{"id":"21afa754e3a3f915","type":"file","file":"99. attachments/BLUE_PRINCE_U5bVRdvjr5.png","x":-2451,"y":1320,"width":400,"height":225},
+		{"id":"c79e55bc656df625","type":"file","file":"99. attachments/BLUE_PRINCE_sFmfmjInAp.png","x":-2451,"y":1040,"width":400,"height":225},
+		{"id":"9728b1dea540846d","type":"file","file":"99. attachments/BLUE_PRINCE_SS6YKH7mQE.png","x":-2451,"y":780,"width":400,"height":225},
+		{"id":"231732b0c77eb806","type":"file","file":"99. attachments/BLUE_PRINCE_PsY5Bt9Vle.png","x":-1603,"y":2480,"width":400,"height":225},
+		{"id":"23af1ace07cea1c7","type":"file","file":"99. attachments/BLUE_PRINCE_ydLjpVdaI1.png","x":-272,"y":1208,"width":400,"height":225},
+		{
+			"id":"639bc80002cb1d2c",
+			"type":"text",
+			"text":"[[Inner Sanctum Key.canvas|Inner Sanctum Key]] Box",
+			"styleAttributes":{},
+			"x":-202,
+			"y":1480,
+			"width":260,
+			"height":60
+		},
+		{"id":"cd99240b8ab8d6df","type":"file","file":"99. attachments/BLUE_PRINCE_lILQeRrXk1.png","x":-272,"y":1580,"width":400,"height":225},
+		{
+			"id":"d9b0ad1da1d79257",
+			"type":"text",
+			"text":"3 Allowance Box",
+			"styleAttributes":{},
+			"x":-202,
+			"y":1860,
+			"width":260,
+			"height":60
+		},
+		{"id":"745dedb7ae0980cc","type":"file","file":"99. attachments/BLUE_PRINCE_3Vy5aeOv0S.png","x":-1120,"y":1600,"width":400,"height":225},
+		{"id":"3787085b4754f133","type":"file","file":"99. attachments/BLUE_PRINCE_pSsJkOwMvB.png","x":-1120,"y":1321,"width":400,"height":225},
+		{"id":"a93c74876015e286","type":"file","file":"99. attachments/BLUE_PRINCE_98hRwUvfTf.png","x":-1120,"y":1040,"width":400,"height":225},
+		{"id":"87b37e235f63e4cf","type":"file","file":"99. attachments/BLUE_PRINCE_e7Z0ti8bme.png","x":-1120,"y":780,"width":400,"height":225},
+		{"id":"4156b05b755a6be5","type":"file","file":"99. attachments/BLUE_PRINCE_otDtkQSM14.png","x":-2880,"y":780,"width":400,"height":225},
+		{"id":"88109827ebb33687","type":"file","file":"99. attachments/BLUE_PRINCE_ypjmBH5p74.png","x":-2880,"y":1040,"width":400,"height":225},
+		{"id":"34f61ee5d404b40e","type":"file","file":"99. attachments/BLUE_PRINCE_0TtasABVsN.png","x":-2880,"y":1321,"width":400,"height":225},
+		{"id":"7beece45f47f553b","type":"file","file":"99. attachments/BLUE_PRINCE_UAch367qAj.png","x":-2880,"y":1600,"width":400,"height":225},
+		{"id":"cd9ee7b1640ffe5b","type":"file","file":"99. attachments/BLUE_PRINCE_eqtRWo00Ba.png","x":-3320,"y":1600,"width":400,"height":225},
+		{"id":"d54e8de7074702d3","type":"file","file":"99. attachments/BLUE_PRINCE_RxSfYSrOY3.png","x":-3320,"y":1321,"width":400,"height":225},
+		{"id":"ec96ac629ba661e0","type":"file","file":"99. attachments/BLUE_PRINCE_hONHyI5szY.png","x":-3320,"y":1040,"width":400,"height":225},
+		{
+			"id":"1483a6b63dc9c86b",
+			"type":"text",
+			"text":"# Assertions\n- Red Memos that are typed are lies.\n\n#### Cluster 1\n- White Box - Two Dashes - Green Memo - Green Memos are lies (Lie)\n- Blue Box - Sun - Blue Memo - Green Memos in Boxes near this Box are both lies (Truth)\n- Black Box - Two Dashes - Green Memo - The sanctum key is not in a box, it is buried (Lie)\n- Red Box - Moon - Red Memo - A black box contains allowance tokens (Lie)\n- Black Box - Moon - Red Memo - The box containing allowance tokens is marked by the Moon Symbol (Lie)\n\nThis means that the box with allowance tokens is not marked by the moon and is not black.\nThis also means that the [[Inner Sanctum Key.canvas|Inner Sanctum Key]] (is not buried or is in a box).\n\n\n#### Water Cluster\n- Black Box - Two Dashes - Red memo - The sanctum key is in a blue box (False)\n- Blue Box - Moon - Red Memo - The box containing allowance tokens is marked by dashes (False)\n- Blue Box - Dashes - Red Memo - All green memos found in boxes in the water are true (False)\n- Red Box - Moon - Green Memo - Only one box in the reservoir has a prize (False)\n- White Box - Sun - Blue Memo - This box contained 3 allowance tokens (True)\n- Blue Box - Sun - Green Memo - Green memos in blue boxes are true (??)\n- White Box - Sun - Blue Memo - Only one blue box in the water contains a memo with a true statement (??)\n- Red Box - Sun - Blue Memo - The sanctum key is not in a box in the water (True)\n\n\nThis means that the box with allowance tokens is not marked by the moon or dashes and is not black.\nThis means that the box with allowance tokens is marked by the sun and is either white, red or blue.\nThis also means that the [[Inner Sanctum Key.canvas|Inner Sanctum Key]] (is not buried or is in a box) and is not in a blue box and is not in the water.\n",
+			"styleAttributes":{},
+			"x":-4800,
+			"y":320,
+			"width":1240,
+			"height":1114
+		},
+		{"id":"0c6c16ea0a5b9c82","type":"file","file":"99. attachments/BLUE_PRINCE_0ZGIV16eBK.png","x":-1160,"y":340,"width":400,"height":265,"color":"3"},
+		{"id":"a3ac9fb3f8f323b4","type":"file","file":"99. attachments/BLUE_PRINCE_xANzoOwJNA.png","x":-2160,"y":-840,"width":400,"height":225},
+		{
+			"id":"9bc199a80497aba1",
+			"type":"text",
+			"text":"# Fountain + Boat Reservoir Setup\n- The reservoir water level should be one level below maximum for you to be able to use the boat.",
+			"styleAttributes":{},
+			"x":-2200,
+			"y":-580,
+			"width":480,
+			"height":200
+		},
+		{"id":"8676bbb9be9eab2e","type":"file","file":"99. attachments/BLUE_PRINCE_hPois6dB1s.png","x":-2620,"y":-840,"width":400,"height":225}
 	],
 	"edges":[
-		{"id":"fdeb365d6c94ce8c","fromNode":"17187e013df02c19","fromSide":"top","toNode":"1c6ea0fa509afe9d","toSide":"bottom"},
+		{"id":"fdeb365d6c94ce8c","toFloating":false,"fromNode":"17187e013df02c19","fromSide":"top","toNode":"1c6ea0fa509afe9d","toSide":"bottom"},
 		{"id":"20e98a3ea1a7c078","fromNode":"1c6ea0fa509afe9d","fromSide":"right","toNode":"16ff8e445198933f","toSide":"bottom"},
 		{"id":"0392f65251c0bd64","fromNode":"1c6ea0fa509afe9d","fromSide":"left","toNode":"72a0a5ae88ceb28a","toSide":"bottom"},
 		{"id":"1f4293fc8f1c8688","fromNode":"3e3159d5f010d16f","fromSide":"bottom","toNode":"92835c6e334f4eb0","toSide":"top"},
@@ -42,7 +107,52 @@
 		{"id":"40bdf31945ce2af2","fromNode":"16ff8e445198933f","fromSide":"right","toNode":"3e3159d5f010d16f","toSide":"left"},
 		{"id":"6dd22307ce48f4f6","fromNode":"93fa3cc6aef53a60","fromSide":"top","toNode":"38edde7f73d4b393","toSide":"bottom"},
 		{"id":"de46466d3bf4056e","fromNode":"38edde7f73d4b393","fromSide":"right","toNode":"def2dfc24ad396ba","toSide":"top"},
-		{"id":"a4941c126f5693f2","fromNode":"38edde7f73d4b393","fromSide":"right","toNode":"3a347024be1e850c","toSide":"left"}
+		{"id":"a4941c126f5693f2","fromNode":"38edde7f73d4b393","fromSide":"right","toNode":"3a347024be1e850c","toSide":"left"},
+		{
+			"id":"7b7f04ed21e6f599",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"639bc80002cb1d2c",
+			"fromSide":"top",
+			"toNode":"23af1ace07cea1c7",
+			"toSide":"bottom"
+		},
+		{
+			"id":"3dcdf80fd4445796",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d9b0ad1da1d79257",
+			"fromSide":"top",
+			"toNode":"cd99240b8ab8d6df",
+			"toSide":"bottom"
+		},
+		{
+			"id":"96888f6f56b582ea",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9bc199a80497aba1",
+			"fromSide":"top",
+			"toNode":"a3ac9fb3f8f323b4",
+			"toSide":"bottom"
+		},
+		{
+			"id":"02854aa00e843af3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a3ac9fb3f8f323b4",
+			"fromSide":"left",
+			"toNode":"8676bbb9be9eab2e",
+			"toSide":"right"
+		},
+		{
+			"id":"2b0b241fe566f82d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9bc199a80497aba1",
+			"fromSide":"left",
+			"toNode":"8676bbb9be9eab2e",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

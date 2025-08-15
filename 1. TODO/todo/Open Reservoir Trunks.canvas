@@ -9,6 +9,26 @@
 			"y":-120,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"c6590097dd912171",
+			"type":"text",
+			"text":"There are two boxes with rewards, everything else is a logic puzzle to find the correct box.",
+			"styleAttributes":{},
+			"x":-500,
+			"y":0,
+			"width":420,
+			"height":100
+		},
+		{
+			"id":"3ff1ed09bbb7ab5e",
+			"type":"text",
+			"text":"# Rewards\n- 3 [[Allowance.canvas|Allowance]] Tokens (6 gold)\n- 1 [[Inner Sanctum Key.canvas|Inner Sanctum Key]]",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-120,
+			"width":360,
+			"height":170
 		}
 	],
 	"edges":[],

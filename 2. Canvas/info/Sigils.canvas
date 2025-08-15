@@ -97,7 +97,18 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"323d1b04f4c762d6","type":"file","file":"99. attachments/BLUE_PRINCE_hp2rH4HIem.png","x":740,"y":-580,"width":400,"height":225}
+		{"id":"323d1b04f4c762d6","type":"file","file":"99. attachments/BLUE_PRINCE_hp2rH4HIem.png","x":740,"y":-580,"width":400,"height":225},
+		{"id":"24615083719da552","type":"file","file":"99. attachments/BLUE_PRINCE_UzwPSFlu7V.png","x":740,"y":280,"width":400,"height":225},
+		{
+			"id":"7255e4486dc61b1f",
+			"type":"text",
+			"text":"Found in the [[023 - Vault.canvas|023 - Vault]]",
+			"styleAttributes":{},
+			"x":420,
+			"y":165,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{
@@ -188,6 +199,24 @@
 			"fromNode":"f2b630656b43ba9f",
 			"fromSide":"right",
 			"toNode":"323d1b04f4c762d6",
+			"toSide":"left"
+		},
+		{
+			"id":"80122243467dd340",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2ee8dbd36f69dde",
+			"fromSide":"right",
+			"toNode":"7255e4486dc61b1f",
+			"toSide":"left"
+		},
+		{
+			"id":"19954052d7887e6e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7255e4486dc61b1f",
+			"fromSide":"right",
+			"toNode":"24615083719da552",
 			"toSide":"left"
 		}
 	],

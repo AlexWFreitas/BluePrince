@@ -3,15 +3,25 @@
 		{
 			"id":"853f64fc5b69e520",
 			"type":"text",
-			"text":"# Info\n\nAn outer room that allows you to donate gold to receive random [[Shrine Blessings.canvas|Shrine Blessings]] for a few days.\n\nIt's possible that giving more gold or an exact amount of gold will trigger a certain specific blessing.",
+			"text":"# Info\n\nAn outer room that allows you to donate gold to receive random shrine blessings for a few days.\n\nIt's possible that giving more gold or an exact amount of gold will trigger a certain specific blessing.",
 			"styleAttributes":{},
 			"x":-500,
 			"y":-320,
 			"width":560,
 			"height":340
-		}
+		},
+		{"id":"39cddd169e6a2c42","type":"text","text":"1g","x":-433,"y":478,"width":250,"height":60},
+		{"id":"e520b8674f7b2a45","type":"file","file":"99. attachments/BLUE_PRINCE_ulslFl1S4o.png","x":-68,"y":58,"width":400,"height":225},
+		{"id":"6c5534df54a5c487","type":"text","text":"8g","x":-19,"y":319,"width":250,"height":60},
+		{"id":"da12ad5c337d3083","type":"file","file":"99. attachments/BLUE_PRINCE_nNqvVMKbUQ.png","x":372,"y":68,"width":400,"height":372},
+		{"id":"1f0fc48ecb61e4cb","type":"text","text":"14g","x":447,"y":478,"width":250,"height":50},
+		{"id":"3d6480a7ed905827","type":"file","file":"99. attachments/BLUE_PRINCE_s8Gm9DzhPC.png","x":-508,"y":58,"width":400,"height":382}
 	],
-	"edges":[],
+	"edges":[
+		{"id":"ff37e012a5de6307","fromNode":"39cddd169e6a2c42","fromSide":"top","toNode":"3d6480a7ed905827","toSide":"bottom"},
+		{"id":"b0dd0148c4b6858c","fromNode":"6c5534df54a5c487","fromSide":"top","toNode":"e520b8674f7b2a45","toSide":"bottom"},
+		{"id":"293ad007ad044c2c","fromNode":"1f0fc48ecb61e4cb","fromSide":"top","toNode":"da12ad5c337d3083","toSide":"bottom"}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

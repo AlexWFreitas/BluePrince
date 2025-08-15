@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"a696017b099125e6",
+			"type":"text",
+			"text":"Seems like this person was helping [[Hannah Peterson.canvas|Hannah Peterson]] to get a book about [[Sigils.canvas|Sigils]]",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-300,
+			"width":380,
+			"height":120
+		},
+		{"id":"10640c3b8fadf23d","type":"file","file":"99. attachments/BLUE_PRINCE_sJeHgr4T2M.png","x":-280,"y":-580,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"nodes":[
+		{
+			"id":"dc50ea3e886f394c",
+			"type":"text",
+			"text":"[[Bedroom.canvas|Bedroom]]",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-300,
+			"width":260,
+			"height":60
+		},
+		{"id":"b10955736ef7503c","type":"file","file":"99. attachments/BLUE_PRINCE_EN0x1rlrdG.png","x":-1020,"y":-20,"width":400,"height":225},
+		{"id":"e864809b9c19943e","type":"file","file":"99. attachments/BLUE_PRINCE_P8roicN2KA.png","x":-1020,"y":-300,"width":400,"height":225},
+		{
+			"id":"b44e176b2ad67fd1",
+			"type":"text",
+			"text":"Treasure Map led me to this.",
+			"styleAttributes":{},
+			"x":-950,
+			"y":240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"61fdcb3dcddd0d7a",
+			"type":"text",
+			"text":"I wonder if this is related to the Castle puzzle",
+			"styleAttributes":{},
+			"x":-560,
+			"y":80,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"2347d29025c2bf86",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b44e176b2ad67fd1",
+			"fromSide":"top",
+			"toNode":"b10955736ef7503c",
+			"toSide":"bottom"
+		},
+		{
+			"id":"86fe4a64022ad31e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"61fdcb3dcddd0d7a",
+			"fromSide":"left",
+			"toNode":"b10955736ef7503c",
+			"toSide":"right"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
