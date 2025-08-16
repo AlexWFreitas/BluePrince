@@ -64,8 +64,19 @@
 			"height":120
 		},
 		{"id":"78f4cea67a86b6dc","type":"file","file":"99. attachments/BLUE_PRINCE_AvtVZUFbX5.png","x":840,"y":-152,"width":400,"height":225},
-		{"id":"2ea7d308703e5d00","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":840,"y":102,"width":135,"height":209},
-		{"id":"b4137e5ff423193a","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":1020,"y":102,"width":114,"height":209}
+		{"id":"2ea7d308703e5d00","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":840,"y":102,"width":134,"height":209},
+		{"id":"b4137e5ff423193a","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":1020,"y":102,"width":114,"height":209},
+		{"id":"1a5b9e04408abac2","type":"file","file":"99. attachments/BLUE_PRINCE_czJTNHV06C.png","x":860,"y":360,"width":400,"height":225},
+		{
+			"id":"d623576c75ac414a",
+			"type":"text",
+			"text":"[[Drafting Strategy Volume 5.canvas|Drafting Strategy Volume 5]]",
+			"styleAttributes":{},
+			"x":450,
+			"y":380,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{
@@ -120,6 +131,24 @@
 			"fromNode":"2ea7d308703e5d00",
 			"fromSide":"right",
 			"toNode":"b4137e5ff423193a",
+			"toSide":"left"
+		},
+		{
+			"id":"05f797268ed1ed65",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d623576c75ac414a",
+			"fromSide":"right",
+			"toNode":"1a5b9e04408abac2",
+			"toSide":"left"
+		},
+		{
+			"id":"984b3b523dca6054",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7ef84c68986eb399",
+			"fromSide":"right",
+			"toNode":"d623576c75ac414a",
 			"toSide":"left"
 		}
 	],

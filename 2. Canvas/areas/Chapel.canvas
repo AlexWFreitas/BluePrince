@@ -14,7 +14,7 @@
 			"x":-300,
 			"y":-1234,
 			"width":600,
-			"height":374
+			"height":394
 		},
 		{"id":"e7e6d98d975f99e4","type":"file","file":"99. attachments/Pasted image 20250716212028.png","x":560,"y":-452,"width":400,"height":225},
 		{"id":"02b2a1e71f993500","type":"file","file":"99. attachments/BLUE_PRINCE_95FIRT63Ou.png","x":1000,"y":-452,"width":400,"height":225},
@@ -22,7 +22,6 @@
 		{"id":"d7955e0f75ecbe90","type":"file","file":"99. attachments/Pasted image 20250716212049.png","x":760,"y":-80,"width":400,"height":225},
 		{"id":"e56607df8c0cb445","type":"text","text":"Orynda - 7","x":835,"y":200,"width":250,"height":60},
 		{"id":"aaca82840baf4e51","type":"file","file":"99. attachments/Pasted image 20250716211153.png","x":-100,"y":-677,"width":400,"height":225},
-		{"id":"084c16a278ad9a0e","type":"file","file":"99. attachments/BLUE_PRINCE_RJCO0ASMqt.png","x":-300,"y":320,"width":400,"height":225},
 		{"id":"809fa3e65e3c101b","type":"file","file":"99. attachments/BLUE_PRINCE_XeBhkf1PyB.png","x":-300,"y":-262,"width":400,"height":225},
 		{"id":"fa36d80576c1fb59","type":"file","file":"99. attachments/BLUE_PRINCE_ugVtFBBsTQ.png","x":560,"y":380,"width":400,"height":225},
 		{"id":"52979c9f68c574bc","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":635,"y":700,"width":257,"height":400},
@@ -47,7 +46,40 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"1955672f944bb026","type":"file","file":"99. attachments/BLUE_PRINCE_74UjOypE6d.png","x":1060,"y":380,"width":400,"height":225}
+		{"id":"1955672f944bb026","type":"file","file":"99. attachments/BLUE_PRINCE_74UjOypE6d.png","x":1060,"y":380,"width":400,"height":225},
+		{"id":"084c16a278ad9a0e","type":"file","file":"99. attachments/BLUE_PRINCE_RJCO0ASMqt.png","x":80,"y":520,"width":400,"height":225},
+		{"id":"75f490fcdc8b461b","type":"file","file":"99. attachments/BLUE_PRINCE_6fLfP1mce0.png","x":154,"y":800,"width":253,"height":400},
+		{
+			"id":"29eb341edf5d9b8c",
+			"type":"text",
+			"text":"Veia - 4",
+			"styleAttributes":{},
+			"x":150,
+			"y":1260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"235649e94193f3f1",
+			"type":"text",
+			"text":"Darxus - 8?",
+			"styleAttributes":{},
+			"x":1680,
+			"y":970,
+			"width":260,
+			"height":60
+		},
+		{"id":"9c58669b5e898da1","type":"file","file":"99. attachments/BLUE_PRINCE_QdsOarIPbn.png","x":1614,"y":440,"width":392,"height":400},
+		{
+			"id":"3fea129c258b089a",
+			"type":"text",
+			"text":"# Eight Ajeran Angels",
+			"styleAttributes":{},
+			"x":870,
+			"y":-705,
+			"width":340,
+			"height":141
+		}
 	],
 	"edges":[
 		{"id":"7d6a1d96cd2ad0d4","toFloating":false,"fromNode":"67943550505534d7","fromSide":"top","toNode":"e7e6d98d975f99e4","toSide":"bottom"},
@@ -88,6 +120,33 @@
 			"fromNode":"959cd9f244eaadc2",
 			"fromSide":"top",
 			"toNode":"1955672f944bb026",
+			"toSide":"bottom"
+		},
+		{
+			"id":"f3e6b5f07c8334a1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"75f490fcdc8b461b",
+			"fromSide":"top",
+			"toNode":"084c16a278ad9a0e",
+			"toSide":"bottom"
+		},
+		{
+			"id":"6194eba70142276b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"29eb341edf5d9b8c",
+			"fromSide":"top",
+			"toNode":"75f490fcdc8b461b",
+			"toSide":"bottom"
+		},
+		{
+			"id":"2eb48e74b8929e28",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"235649e94193f3f1",
+			"fromSide":"top",
+			"toNode":"9c58669b5e898da1",
 			"toSide":"bottom"
 		}
 	],

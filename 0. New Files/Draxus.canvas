@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"6368791ffdbd03c2","type":"file","file":"99. attachments/BLUE_PRINCE_Q9Hqh5jV9B.png","x":-543,"y":-160,"width":346,"height":400},
+		{
+			"id":"0b7417c8ca075036",
+			"type":"text",
+			"text":"Represents Death?",
+			"styleAttributes":{},
+			"x":-500,
+			"y":260,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

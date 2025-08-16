@@ -9,7 +9,31 @@
 		{"id":"61af41372b4a4fe9","type":"file","file":"99. attachments/BLUE_PRINCE_wNNGqX90bw.png","x":-1360,"y":-472,"width":400,"height":225},
 		{"id":"841a4d6acda491a9","type":"file","file":"99. attachments/BLUE_PRINCE_9Kw5tRjB6p.png","x":-1360,"y":-212,"width":400,"height":225},
 		{"id":"7b6e3ca6eb0e9875","type":"file","file":"99. attachments/BLUE_PRINCE_XveALL8nlH.png","x":-1800,"y":-472,"width":400,"height":225},
-		{"id":"056a5493bb129ccb","type":"file","file":"99. attachments/BLUE_PRINCE_xSKlajtBHH.png","x":-1800,"y":-212,"width":400,"height":225}
+		{"id":"056a5493bb129ccb","type":"file","file":"99. attachments/BLUE_PRINCE_xSKlajtBHH.png","x":-1800,"y":-212,"width":400,"height":225},
+		{"id":"994165237ed64707","type":"file","file":"99. attachments/BLUE_PRINCE_Wm1Vu94zfA 1.mp4","x":-1600,"y":160,"width":400,"height":225},
+		{"id":"0656b83bb878de51","type":"file","file":"99. attachments/BLUE_PRINCE_wjbOKFluRY.png","x":-1600,"y":440,"width":400,"height":225},
+		{"id":"574114dcc779a7f9","type":"file","file":"99. attachments/BLUE_PRINCE_Ed6TGR7rXe.png","x":-1140,"y":440,"width":400,"height":225},
+		{"id":"0d544abb31908344","type":"file","file":"99. attachments/BLUE_PRINCE_6I8QqZf91y.png","x":-700,"y":440,"width":400,"height":225},
+		{"id":"4353fd4d6eeb6694","type":"file","file":"99. attachments/BLUE_PRINCE_bvjTKmMYav.png","x":-1960,"y":840,"width":400,"height":225},
+		{"id":"bf2967cb5cc80ae7","type":"file","file":"99. attachments/BLUE_PRINCE_8pUWIQKYcT.png","x":-1520,"y":840,"width":400,"height":225},
+		{"id":"bdb1202f4c2711d8","type":"file","file":"99. attachments/BLUE_PRINCE_38tEL18Ntt.png","x":-1080,"y":840,"width":400,"height":225},
+		{"id":"2e8be428a4c979be","type":"file","file":"99. attachments/BLUE_PRINCE_bnp0fMwVJb.png","x":-640,"y":840,"width":400,"height":225},
+		{"id":"711d9f4df53d8dde","type":"file","file":"99. attachments/BLUE_PRINCE_iwO5yQllFy.png","x":-1840,"y":1100,"width":400,"height":225},
+		{"id":"720360a1c4bf1ad4","type":"file","file":"99. attachments/BLUE_PRINCE_6dJiQ1VIJr.png","x":-1400,"y":1100,"width":400,"height":225},
+		{"id":"b7d05eb55a45db0b","type":"file","file":"99. attachments/BLUE_PRINCE_gfXGN1dORz.png","x":-960,"y":1100,"width":400,"height":225},
+		{"id":"bebc03107cbe1c54","type":"file","file":"99. attachments/BLUE_PRINCE_F2JpSXoD0P.png","x":-520,"y":1100,"width":400,"height":225},
+		{
+			"id":"de78c863bcda718b",
+			"type":"text",
+			"text":"# Assertions\n- There are 8 clocks.\n- Each of these clocks should be set to a different time.\n- Five of these clocks should be set to a time ending \"On the hour\"\n- The third clock should be set to a time where the numbers are not all different.\n- The fourth clock neighbors should both be set to a time containing a 7\n- The fifth clock should be set on the hour. (Ending in :00)\n- None of these clocks should be set to times that contain the number 1, 2, 3 or 4.\n- The seventh clock should be set to a time that contains the same three numbers of another clock here but in reverse order.\n- The clocks are positioned so that their times will go up in ascending order.\n\nClock hour time will go from 05 to 09.\n\nSince there are five clocks ending on the hour, this means that five of the times are:\n- 05:00\n- 06:00\n- 07:00\n- 08:00\n- 09:00\n\nThe first clock should be 05:00\nThe second clock is between 05:00 and 05:57\nThe third clock should repeat a number and should contain a 7 - 05:57\nThe clock with 06:00 is between the first and fifth clock.\nThe fourth clock is probably 06:00\nThe fifth clock should contain a 7 and end in :00, therefore it should be 07:00\nThe sixth clock should be 08:00\nThe seventh clock should be the third or second clock, but reversed\nThe eighth clock should be 09:00\nThe seventh clock is between 08:00 and 09:00\n\n\nFirst clock 5:00\nSecond clock 5:08\nThird clock 5:57\nFourth clock 6:00\nFifth clock 7:00\nSixth Clock 8:00\nSeventh Clock 8:05\nEighth Clock 9:00\n\n",
+			"styleAttributes":{},
+			"x":-1780,
+			"y":1480,
+			"width":940,
+			"height":1100
+		},
+		{"id":"d04cc074be3e573e","type":"file","file":"99. attachments/BLUE_PRINCE_fVPXrm12jV.png","x":-800,"y":1560,"width":400,"height":225},
+		{"id":"137d80cc3810bc07","type":"file","file":"99. attachments/BLUE_PRINCE_Z2zAP5yQrX.png","x":-800,"y":1840,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

@@ -16,8 +16,8 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 2732.9640519245686,
-                  "y": 1321.8357488753156,
+                  "x": 505.8403760131846,
+                  "y": 1259.9271078485556,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -113,9 +113,196 @@
               "icon": "lucide-layout-dashboard",
               "title": "046 - Room 46"
             }
+          },
+          {
+            "id": "b33327ce54a269f9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0. New Files/Clock Tower Puzzle.canvas",
+                "viewState": {
+                  "x": -350,
+                  "y": -210,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Clock Tower Puzzle"
+            }
+          },
+          {
+            "id": "40f63d3c93aae8b2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/Clock Tower.canvas",
+                "viewState": {
+                  "x": -1104.8333333333333,
+                  "y": 1201.0697259284104,
+                  "zoom": -1.096654507411482
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Clock Tower"
+            }
+          },
+          {
+            "id": "888195450fd518d0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Items.canvas",
+                "viewState": {
+                  "x": -405,
+                  "y": 1040,
+                  "zoom": -1.9148833863620496
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Items"
+            }
+          },
+          {
+            "id": "aeb12e347a190e93",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/005 - Parlor.canvas",
+                "viewState": {
+                  "x": -660,
+                  "y": 1077.6490566037737,
+                  "zoom": -1.0582402452252817
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "005 - Parlor"
+            }
+          },
+          {
+            "id": "c5199a362443aef5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0. New Files/The Kennel Exploration.canvas",
+                "viewState": {
+                  "x": -190,
+                  "y": -250,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Kennel Exploration"
+            }
+          },
+          {
+            "id": "60b746feb906d5bc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Inner Sanctum Key.canvas",
+                "viewState": {
+                  "x": -494.25000000000017,
+                  "y": -268.74218750000006,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Inner Sanctum Key"
+            }
+          },
+          {
+            "id": "412fbd06d571984b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0. New Files/Trophy Room.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Trophy Room"
+            }
+          },
+          {
+            "id": "dad4ff88938c8b32",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/026 - Study.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": 612.5,
+                  "zoom": -1.1046179828870235
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "026 - Study"
+            }
+          },
+          {
+            "id": "9a3d81f104c0daab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0. New Files/Find the Ladyship Chamber.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Find the Ladyship Chamber"
+            }
+          },
+          {
+            "id": "f19897bd4665c6b4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/Gemstone Cavern.canvas",
+                "viewState": {
+                  "x": -1053.1210691823899,
+                  "y": -247.7688679245283,
+                  "zoom": -0.34948872202321735
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Gemstone Cavern"
+            }
+          },
+          {
+            "id": "5969a9dfd14beebf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Day Results.canvas",
+                "viewState": {
+                  "x": -360,
+                  "y": 1736.3349056603774,
+                  "zoom": -1.7734744571777896
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day Results"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +334,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: room ",
+                "query": "day",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,29 +451,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7726f07950313acb",
+  "active": "ffa98e77048689be",
   "lastOpenFiles": [
-    "99. attachments/BLUE_PRINCE_snKdJpvnMf.png",
-    "2. Canvas/areas/046 - Room 46.canvas",
     "2. Canvas/info/Day Results.canvas",
-    "99. attachments/BLUE_PRINCE_g57iMdu0vS.png",
-    "1. TODO/TODO Canvas.canvas",
-    "1. TODO/done/Find the Hidden Floorplan on the Reservoir Gear Bridge.canvas",
-    "0. New Files/The Kennel.canvas",
-    "2. Canvas/areas/Mechanarium.canvas",
-    "2. Canvas/areas/The Precipice.canvas",
-    "1. TODO/todo/Precipice Castle Puzzle.canvas",
-    "2. Canvas/items/Power Hammer.canvas",
-    "2. Canvas/areas/Clock Tower.canvas",
     "1. TODO/continuous/Diary.md",
-    "99. attachments/BLUE_PRINCE_xSKlajtBHH.png",
-    "99. attachments/BLUE_PRINCE_XveALL8nlH.png",
-    "99. attachments/BLUE_PRINCE_9Kw5tRjB6p.png",
-    "99. attachments/BLUE_PRINCE_wNNGqX90bw.png",
-    "99. attachments/BLUE_PRINCE_nOK9WXkeyT.png",
-    "99. attachments/BLUE_PRINCE_gB3QxFPmT7.png",
-    "99. attachments/BLUE_PRINCE_rlpRBNFEEC.png",
-    "99. attachments/BLUE_PRINCE_9KocYSBtO7.png",
+    "99. attachments/BLUE_PRINCE_wILSnCErNw.png",
+    "99. attachments/BLUE_PRINCE_rBtqIasn8Y.png",
+    "1. TODO/TODO Canvas.canvas",
+    "2. Canvas/areas/Gemstone Cavern.canvas",
+    "99. attachments/BLUE_PRINCE_3NJWXREkQt.png",
+    "2. Canvas/books/Gardener's Logbook.canvas",
+    "99. attachments/Pasted image 20250716211153.png",
+    "99. attachments/Pasted image 20250716210833.png",
+    "99. attachments/Pasted image 20250716210637.png",
+    "99. attachments/Pasted image 20250716210425.png",
+    "99. attachments/Pasted image 20250716210325.png",
+    "0. New Files/Find the Ladyship Chamber.canvas",
+    "99. attachments/BLUE_PRINCE_3JTmt9eTt1.png",
+    "2. Canvas/info/With Without Puzzles.canvas",
+    "2. Canvas/areas/026 - Study.canvas",
+    "2. Canvas/info/Black Hat Rooms.canvas",
+    "99. attachments/BLUE_PRINCE_1ywXGuIV8a.png",
+    "0. New Files/Trophy Room.canvas",
+    "0. New Files/Jack Hammer.canvas",
+    "99. attachments/BLUE_PRINCE_Wm1Vu94zfA 1.mp4",
+    "99. attachments/BLUE_PRINCE_Wm1Vu94zfA.mp4",
     "4. Legacy Notes/TODO.md",
     "2. Canvas/items",
     "4. Legacy Notes/Old Blue Prince Notes.md",
@@ -318,8 +507,6 @@
     "2. Canvas/info",
     "2. Canvas/books",
     "2. Canvas/areas",
-    "1. TODO/continuous",
-    "0. New Files",
-    "1. TODO/todo"
+    "1. TODO/continuous"
   ]
 }

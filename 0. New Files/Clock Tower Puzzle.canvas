@@ -8,8 +8,32 @@
 			"x":-620,
 			"y":-300,
 			"width":540,
-			"height":180
-		}
+			"height":160
+		},
+		{"id":"03a1de5cf958f11e","type":"file","file":"99. attachments/BLUE_PRINCE_Wm1Vu94zfA.mp4","x":-980,"y":-70,"width":400,"height":225},
+		{"id":"ae421dff2ea3ae80","type":"file","file":"99. attachments/BLUE_PRINCE_wjbOKFluRY.png","x":-510,"y":-70,"width":400,"height":225},
+		{"id":"e00ed7cebf6d8bbb","type":"file","file":"99. attachments/BLUE_PRINCE_Ed6TGR7rXe.png","x":-50,"y":-70,"width":400,"height":225},
+		{"id":"50918b744d5b1bb3","type":"file","file":"99. attachments/BLUE_PRINCE_6I8QqZf91y.png","x":390,"y":-70,"width":400,"height":225},
+		{"id":"7bb1d4796f52fb85","type":"file","file":"99. attachments/BLUE_PRINCE_bvjTKmMYav.png","x":-870,"y":330,"width":400,"height":225},
+		{"id":"cf09e1efb4b4a5cf","type":"file","file":"99. attachments/BLUE_PRINCE_8pUWIQKYcT.png","x":-430,"y":330,"width":400,"height":225},
+		{"id":"ff1f581582ec028b","type":"file","file":"99. attachments/BLUE_PRINCE_38tEL18Ntt.png","x":10,"y":330,"width":400,"height":225},
+		{"id":"9913ae2a226845f1","type":"file","file":"99. attachments/BLUE_PRINCE_bnp0fMwVJb.png","x":450,"y":330,"width":400,"height":225},
+		{"id":"d21c14367276a017","type":"file","file":"99. attachments/BLUE_PRINCE_iwO5yQllFy.png","x":-750,"y":590,"width":400,"height":225},
+		{"id":"d0396fff03bec898","type":"file","file":"99. attachments/BLUE_PRINCE_6dJiQ1VIJr.png","x":-310,"y":590,"width":400,"height":225},
+		{"id":"368e1d1779150456","type":"file","file":"99. attachments/BLUE_PRINCE_gfXGN1dORz.png","x":130,"y":590,"width":400,"height":225},
+		{"id":"0b496caf3d91a069","type":"file","file":"99. attachments/BLUE_PRINCE_F2JpSXoD0P.png","x":570,"y":590,"width":400,"height":225},
+		{
+			"id":"8d199b377964b8d5",
+			"type":"text",
+			"text":"# Assertions\n- There are 8 clocks.\n- Each of these clocks should be set to a different time.\n- Five of these clocks should be set to a time ending \"On the hour\"\n- The third clock should be set to a time where the numbers are not all different.\n- The fourth clock neighbors should both be set to a time containing a 7\n- The fifth clock should be set on the hour. (Ending in :00)\n- None of these clocks should be set to times that contain the number 1, 2, 3 or 4.\n- The seventh clock should be set to a time that contains the same three numbers of another clock here but in reverse order.\n- The clocks are positioned so that their times will go up in ascending order.\n\nClock hour time will go from 05 to 09.\n\nSince there are five clocks ending on the hour, this means that five of the times are:\n- 05:00\n- 06:00\n- 07:00\n- 08:00\n- 09:00\n\nThe first clock should be 05:00\nThe second clock is between 05:00 and 05:57\nThe third clock should repeat a number and should contain a 7 - 05:57\nThe clock with 06:00 is between the first and fifth clock.\nThe fourth clock is probably 06:00\nThe fifth clock should contain a 7 and end in :00, therefore it should be 07:00\nThe sixth clock should be 08:00\nThe seventh clock should be the third or second clock, but reversed\nThe eighth clock should be 09:00\nThe seventh clock is between 08:00 and 09:00\n\n\nFirst clock 5:00\nSecond clock 5:08\nThird clock 5:57\nFourth clock 6:00\nFifth clock 7:00\nSixth Clock 8:00\nSeventh Clock 8:05\nEighth Clock 9:00\n\n",
+			"styleAttributes":{},
+			"x":-690,
+			"y":970,
+			"width":940,
+			"height":1100
+		},
+		{"id":"e0a2089f32917643","type":"file","file":"99. attachments/BLUE_PRINCE_fVPXrm12jV.png","x":290,"y":1050,"width":400,"height":225},
+		{"id":"9f024d42cb4fc826","type":"file","file":"99. attachments/BLUE_PRINCE_Z2zAP5yQrX.png","x":290,"y":1330,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

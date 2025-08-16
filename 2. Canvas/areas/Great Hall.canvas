@@ -5,13 +5,14 @@
 		{
 			"id":"e935e953793470a1",
 			"type":"text",
-			"text":"# Room Info\n\nRoom that has 7 locked doors.\nGreat synergy with [[Foyer.canvas|Foyer]].\nHas a preview of the room design on the [[030 - Drafting Studio.canvas|030 - Drafting Studio]].\nSupposedly there is a lever that opens a door on the [[045 - Antechamber.canvas|045 - Antechamber]].",
+			"text":"# Room Info\n\nRoom that has 7 locked doors.\nGreat synergy with [[Foyer.canvas|Foyer]].\nHas a preview of the room design on the [[030 - Drafting Studio.canvas|030 - Drafting Studio]].\nThere is a lever that opens a the east door on the [[045 - Antechamber.canvas|045 - Antechamber]].",
 			"styleAttributes":{},
 			"x":-1040,
 			"y":-660,
 			"width":720,
 			"height":300
-		}
+		},
+		{"id":"fbc376ce63eccf93","type":"file","file":"99. attachments/BLUE_PRINCE_DBnmKcjGuA.png","x":-1500,"y":-300,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

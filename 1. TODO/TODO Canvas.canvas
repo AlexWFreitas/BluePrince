@@ -1106,18 +1106,18 @@
 			"y":1080,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"40d4027680190a73",
 			"type":"text",
-			"text":"[[Kennel Puzzle.canvas|Kennel Puzzle]]",
+			"text":"[[The Kennel Exploration.canvas|The Kennel Exploration]]",
 			"styleAttributes":{},
 			"x":3000,
 			"y":1080,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"a196f80966fc653c",

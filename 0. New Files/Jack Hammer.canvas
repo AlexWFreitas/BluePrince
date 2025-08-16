@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"1e28606b68aed65d","type":"file","file":"99. attachments/BLUE_PRINCE_IueGw2kxGF.png","x":-580,"y":-260,"width":400,"height":225},
+		{
+			"id":"4dadde2b1d121178",
+			"type":"text",
+			"text":"Workshop Combination\n\n[[Shovel.canvas|Shovel]] + [[Battery Pack.canvas|Battery Pack]] + [[Broken Lever.canvas|Broken Lever]]",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-420,
+			"width":540,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

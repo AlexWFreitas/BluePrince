@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"f289ea48ffed6cc4",
+			"type":"text",
+			"text":"I got coins for digging on this room, so there is nothing much, despite the tip about the C A T word.",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-320,
+			"width":380,
+			"height":140
+		},
+		{
+			"id":"28098c2b0ec3ead7",
+			"type":"text",
+			"text":"[[The Kennel.canvas|The Kennel]]",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-420,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
