@@ -343,50 +343,6 @@
 			"color":"4"
 		},
 		{
-			"id":"e27573f82babc6a4",
-			"type":"text",
-			"text":"[[Observatory Hidden Floorplan Puzzle.canvas|Observatory Hidden Floorplan Puzzle]]",
-			"styleAttributes":{},
-			"x":1040,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"b6f19b241db344b7",
-			"type":"text",
-			"text":"[[Enter the Secret Garden.canvas|Enter the Secret Garden]]",
-			"styleAttributes":{},
-			"x":1320,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"e31125f053ed3b69",
-			"type":"text",
-			"text":"[[Power Hammer.canvas|Power Hammer]] Puzzles",
-			"styleAttributes":{},
-			"x":1040,
-			"y":921,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"abccba8ed5eb8759",
-			"type":"text",
-			"text":"[[Magnifying Glass.canvas|Magnifying Glass]] Puzzles",
-			"styleAttributes":{},
-			"x":1320,
-			"y":919,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"473ae4abb9d56f18",
 			"type":"text",
 			"text":"[[Blue Fire Puzzle.canvas|Blue Fire Puzzle]]",
@@ -420,17 +376,6 @@
 			"color":"4"
 		},
 		{
-			"id":"cec25431ee083a15",
-			"type":"text",
-			"text":"[[Enable the Foundation Elevator.canvas|Enable the Foundation Elevator]]",
-			"styleAttributes":{},
-			"x":1600,
-			"y":920,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"0c54860658dba301",
 			"type":"text",
 			"text":"[[Open the Basement Door under the Foundation.canvas|Open the Basement Door under the Foundation]]",
@@ -459,39 +404,6 @@
 			"styleAttributes":{},
 			"x":-80,
 			"y":921,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"c6b6de79a5152bb8",
-			"type":"text",
-			"text":"[[Sledgehammer.canvas|Sledgehammer]] Puzzles",
-			"styleAttributes":{},
-			"x":1040,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"cc8a39a9228e2621",
-			"type":"text",
-			"text":"[[Burning Glass.canvas|Burning Glass]] Puzzles",
-			"styleAttributes":{},
-			"x":1320,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"f650690f6e0fbbe0",
-			"type":"text",
-			"text":"[[Reach Pool on a Run without Running.canvas|Reach Pool on a Run without Running]]",
-			"styleAttributes":{},
-			"x":1320,
-			"y":1240,
 			"width":260,
 			"height":60,
 			"color":"3"
@@ -648,39 +560,6 @@
 			"color":"3"
 		},
 		{
-			"id":"ef34f214c605d686",
-			"type":"text",
-			"text":"[[Abandoned Mine Torch Room Puzzle.canvas|Abandoned Mine Torch Room Puzzle]]",
-			"styleAttributes":{},
-			"x":1040,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"bc9a79a9fa7568ca",
-			"type":"text",
-			"text":"[[Tomb Candles Puzzle.canvas|Tomb Candles Puzzle]]",
-			"styleAttributes":{},
-			"x":1320,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"1a974f230f6e7007",
-			"type":"text",
-			"text":"[[Baron Bafflers Puzzle - Bedroom Digspot.canvas|Baron Bafflers Puzzle - Bedroom Digspot]]",
-			"styleAttributes":{},
-			"x":1040,
-			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"0c9bdbeb9c6155dc",
 			"type":"text",
 			"text":"Top to Bottom = Earliest to Latest in Terms of List of Requirements to Start",
@@ -690,28 +569,6 @@
 			"width":480,
 			"height":60,
 			"color":"6"
-		},
-		{
-			"id":"e8b0a46610ac87ca",
-			"type":"text",
-			"text":"[[Enable Security Room Video Playback.canvas|Enable Security Room Video Playback]]",
-			"styleAttributes":{},
-			"x":1040,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"d790982c2a0d5b44",
-			"type":"text",
-			"text":"[[Shelter Radiation Puzzle.canvas|Shelter Radiation Puzzle]]",
-			"styleAttributes":{},
-			"x":1320,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"3"
 		},
 		{
 			"id":"bd9d029dbf4be7f7",
@@ -810,17 +667,6 @@
 			"width":260,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"15883425878d94e8",
-			"type":"text",
-			"text":"[[Aquarium Puzzle.canvas|Aquarium Puzzle]]",
-			"styleAttributes":{},
-			"x":1880,
-			"y":921,
-			"width":260,
-			"height":60,
-			"color":"3"
 		},
 		{
 			"id":"cb49d1a87b6551fc",
@@ -1243,6 +1089,193 @@
 			"width":260,
 			"height":100,
 			"color":"4"
+		},
+		{
+			"id":"884632a33f658137",
+			"type":"text",
+			"text":"[[Find the Ladyship Chamber.canvas|Find the Ladyship Chamber]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"f650690f6e0fbbe0",
+			"type":"text",
+			"text":"[[Reach Pool on a Run without Running.canvas|Reach Pool on a Run without Running]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1400,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"ef34f214c605d686",
+			"type":"text",
+			"text":"[[Abandoned Mine Torch Room Puzzle.canvas|Abandoned Mine Torch Room Puzzle]]",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"bc9a79a9fa7568ca",
+			"type":"text",
+			"text":"[[Tomb Candles Puzzle.canvas|Tomb Candles Puzzle]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"1a974f230f6e7007",
+			"type":"text",
+			"text":"[[Baron Bafflers Puzzle - Bedroom Digspot.canvas|Baron Bafflers Puzzle - Bedroom Digspot]]",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1400,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"e8b0a46610ac87ca",
+			"type":"text",
+			"text":"[[Enable Security Room Video Playback.canvas|Enable Security Room Video Playback]]",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"d790982c2a0d5b44",
+			"type":"text",
+			"text":"[[Shelter Radiation Puzzle.canvas|Shelter Radiation Puzzle]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"1ba9cd1a59af6eec",
+			"type":"text",
+			"text":"[[Trophy of Sweeptakes.canvas|Trophy of Sweeptakes]]",
+			"styleAttributes":{},
+			"x":3280,
+			"y":1210,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"e27573f82babc6a4",
+			"type":"text",
+			"text":"[[Observatory Hidden Floorplan Puzzle.canvas|Observatory Hidden Floorplan Puzzle]]",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"b6f19b241db344b7",
+			"type":"text",
+			"text":"[[Enter the Secret Garden.canvas|Enter the Secret Garden]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"c6b6de79a5152bb8",
+			"type":"text",
+			"text":"[[Sledgehammer.canvas|Sledgehammer]] Puzzles",
+			"styleAttributes":{},
+			"x":1040,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"7af8b23c498891af",
+			"type":"text",
+			"text":"[[Jack Hammer.canvas|Jack Hammer]] Puzzles",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"15883425878d94e8",
+			"type":"text",
+			"text":"[[Aquarium Puzzle.canvas|Aquarium Puzzle]]",
+			"styleAttributes":{},
+			"x":1880,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"cec25431ee083a15",
+			"type":"text",
+			"text":"[[Enable the Foundation Elevator.canvas|Enable the Foundation Elevator]]",
+			"styleAttributes":{},
+			"x":1600,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"cc8a39a9228e2621",
+			"type":"text",
+			"text":"[[Burning Glass.canvas|Burning Glass]] Puzzles",
+			"styleAttributes":{},
+			"x":1320,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"e31125f053ed3b69",
+			"type":"text",
+			"text":"[[Power Hammer.canvas|Power Hammer]] Puzzles",
+			"styleAttributes":{},
+			"x":1040,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"abccba8ed5eb8759",
+			"type":"text",
+			"text":"[[Magnifying Glass.canvas|Magnifying Glass]] Puzzles",
+			"styleAttributes":{},
+			"x":1320,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[]

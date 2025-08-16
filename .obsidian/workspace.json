@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 505.8403760131846,
-                  "y": 1259.9271078485556,
-                  "zoom": -0.6666666666666667
+                  "x": 1563.7574260518113,
+                  "y": 1056.5805524848915,
+                  "zoom": -1.5849625007211563
                 }
               },
               "pinned": true,
@@ -81,228 +81,40 @@
             }
           },
           {
-            "id": "4f8f3e9e1e3f2c55",
+            "id": "0f0e7a956a71624e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/done/Find the Hidden Floorplan on the Reservoir Gear Bridge.canvas",
+                "file": "2. Canvas/items/Jack Hammer.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -310,
+                  "y": -227.5,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Find the Hidden Floorplan on the Reservoir Gear Bridge"
+              "title": "Jack Hammer"
             }
           },
           {
-            "id": "7726f07950313acb",
+            "id": "a76f8e6c363b75cf",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/areas/046 - Room 46.canvas",
-                "viewState": {
-                  "x": -660,
-                  "y": 112.5,
-                  "zoom": -0.8073549220576042
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "046 - Room 46"
-            }
-          },
-          {
-            "id": "b33327ce54a269f9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0. New Files/Clock Tower Puzzle.canvas",
-                "viewState": {
-                  "x": -350,
-                  "y": -210,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Clock Tower Puzzle"
-            }
-          },
-          {
-            "id": "40f63d3c93aae8b2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/areas/Clock Tower.canvas",
-                "viewState": {
-                  "x": -1104.8333333333333,
-                  "y": 1201.0697259284104,
-                  "zoom": -1.096654507411482
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Clock Tower"
-            }
-          },
-          {
-            "id": "888195450fd518d0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Items.canvas",
-                "viewState": {
-                  "x": -405,
-                  "y": 1040,
-                  "zoom": -1.9148833863620496
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Items"
-            }
-          },
-          {
-            "id": "aeb12e347a190e93",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/areas/005 - Parlor.canvas",
-                "viewState": {
-                  "x": -660,
-                  "y": 1077.6490566037737,
-                  "zoom": -1.0582402452252817
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "005 - Parlor"
-            }
-          },
-          {
-            "id": "c5199a362443aef5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0. New Files/The Kennel Exploration.canvas",
-                "viewState": {
-                  "x": -190,
-                  "y": -250,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "The Kennel Exploration"
-            }
-          },
-          {
-            "id": "60b746feb906d5bc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Inner Sanctum Key.canvas",
-                "viewState": {
-                  "x": -494.25000000000017,
-                  "y": -268.74218750000006,
-                  "zoom": 1.1102230246251565e-16
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Inner Sanctum Key"
-            }
-          },
-          {
-            "id": "412fbd06d571984b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0. New Files/Trophy Room.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Trophy Room"
-            }
-          },
-          {
-            "id": "dad4ff88938c8b32",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/areas/026 - Study.canvas",
-                "viewState": {
-                  "x": -240,
-                  "y": 612.5,
-                  "zoom": -1.1046179828870235
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "026 - Study"
-            }
-          },
-          {
-            "id": "9a3d81f104c0daab",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0. New Files/Find the Ladyship Chamber.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Find the Ladyship Chamber"
-            }
-          },
-          {
-            "id": "f19897bd4665c6b4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/areas/Gemstone Cavern.canvas",
-                "viewState": {
-                  "x": -1053.1210691823899,
-                  "y": -247.7688679245283,
-                  "zoom": -0.34948872202321735
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Gemstone Cavern"
-            }
-          },
-          {
-            "id": "5969a9dfd14beebf",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Day Results.canvas",
+                "file": "1. TODO/todo/Tunnel Exploration.canvas",
                 "viewState": {
                   "x": -360,
-                  "y": 1736.3349056603774,
-                  "zoom": -1.7734744571777896
+                  "y": -330,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Day Results"
+              "title": "Tunnel Exploration"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -334,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "day",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -355,8 +167,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -451,13 +262,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffa98e77048689be",
+  "active": "b9aaf2342cf53910",
   "lastOpenFiles": [
-    "2. Canvas/info/Day Results.canvas",
+    "1. TODO/todo/Tunnel Exploration.canvas",
+    "1. TODO/TODO Canvas.canvas",
+    "2. Canvas/items/Jack Hammer.canvas",
     "1. TODO/continuous/Diary.md",
+    "1. TODO/done/Find the Hidden Floorplan on the Reservoir Gear Bridge.canvas",
+    "2. Canvas/info/Day Results.canvas",
     "99. attachments/BLUE_PRINCE_wILSnCErNw.png",
     "99. attachments/BLUE_PRINCE_rBtqIasn8Y.png",
-    "1. TODO/TODO Canvas.canvas",
     "2. Canvas/areas/Gemstone Cavern.canvas",
     "99. attachments/BLUE_PRINCE_3NJWXREkQt.png",
     "2. Canvas/books/Gardener's Logbook.canvas",
@@ -466,14 +280,12 @@
     "99. attachments/Pasted image 20250716210637.png",
     "99. attachments/Pasted image 20250716210425.png",
     "99. attachments/Pasted image 20250716210325.png",
-    "0. New Files/Find the Ladyship Chamber.canvas",
+    "1. TODO/todo/Find the Ladyship Chamber.canvas",
     "99. attachments/BLUE_PRINCE_3JTmt9eTt1.png",
     "2. Canvas/info/With Without Puzzles.canvas",
     "2. Canvas/areas/026 - Study.canvas",
     "2. Canvas/info/Black Hat Rooms.canvas",
     "99. attachments/BLUE_PRINCE_1ywXGuIV8a.png",
-    "0. New Files/Trophy Room.canvas",
-    "0. New Files/Jack Hammer.canvas",
     "99. attachments/BLUE_PRINCE_Wm1Vu94zfA 1.mp4",
     "99. attachments/BLUE_PRINCE_Wm1Vu94zfA.mp4",
     "4. Legacy Notes/TODO.md",

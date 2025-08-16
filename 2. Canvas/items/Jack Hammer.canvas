@@ -10,6 +10,16 @@
 			"y":-420,
 			"width":540,
 			"height":100
+		},
+		{
+			"id":"91113531718a289c",
+			"type":"text",
+			"text":"Can be used on the [[Gemstone Cavern.canvas|Gemstone Cavern]] to retrieve more gems, but will risk destroying the cavern and losing the permanent bonus.",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-260,
+			"width":400,
+			"height":120
 		}
 	],
 	"edges":[],
