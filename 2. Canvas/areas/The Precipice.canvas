@@ -17,7 +17,6 @@
 		{"id":"a22529b7215d4529","type":"file","file":"99. attachments/BLUE_PRINCE_Z1bDESFQrA.png","x":-1240,"y":240,"width":180,"height":400},
 		{"id":"da307cbe0342a809","type":"file","file":"99. attachments/BLUE_PRINCE_yFnn13AEhz.png","x":-2200,"y":-62,"width":400,"height":225},
 		{"id":"cffe72601ee624bb","type":"text","text":"Power Hammer - [[Items.canvas|Items]]","x":-2125,"y":233,"width":250,"height":60},
-		{"id":"b30bcaae4c3595c3","type":"file","file":"99. attachments/BLUE_PRINCE_jMYaGVCGk7.png","x":-2640,"y":38,"width":400,"height":225},
 		{"id":"31e0afeeff38e959","type":"file","file":"99. attachments/BLUE_PRINCE_45iDUn5RGF.png","x":-2277,"y":468,"width":805,"height":453},
 		{
 			"id":"c7df8a298dc6119c",
@@ -28,6 +27,18 @@
 			"y":-727,
 			"width":948,
 			"height":145
+		},
+		{"id":"b30bcaae4c3595c3","type":"file","file":"99. attachments/BLUE_PRINCE_jMYaGVCGk7.png","x":-3440,"y":-120,"width":400,"height":225},
+		{"id":"f071723b6fe7db2c","type":"file","file":"99. attachments/BLUE_PRINCE_ADi0cEDyc8.png","x":-3000,"y":-120,"width":400,"height":225},
+		{
+			"id":"d834caaa64bc892c",
+			"type":"text",
+			"text":"[[Precipice Castle Puzzle.canvas|Precipice Castle Puzzle]]",
+			"styleAttributes":{},
+			"x":-3440,
+			"y":-240,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[

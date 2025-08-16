@@ -1,0 +1,49 @@
+{
+	"nodes":[
+		{
+			"id":"b62d7ce8933c6ac7",
+			"type":"text",
+			"text":"# Rewards\n- [[Allowance.canvas|Allowance]]\n- Letter from [[Anne Babbage.canvas|Anne Babbage]] to the [[Robert Nogula.canvas|Robert Nogula]]",
+			"styleAttributes":{},
+			"x":40,
+			"y":-200,
+			"width":380,
+			"height":260
+		},
+		{
+			"id":"f52461f395ecb568",
+			"type":"text",
+			"text":"[[Cloister.canvas|Cloister]]",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-300,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"efef076deb8d404c",
+			"type":"text",
+			"text":"This rooms opens up the center area after a certain condition is filled.",
+			"styleAttributes":{},
+			"x":-370,
+			"y":-200,
+			"width":380,
+			"height":120
+		},
+		{
+			"id":"b02d239e5e7435ec",
+			"type":"text",
+			"text":"Need to check if the Statue is breakable, but I guess not.",
+			"styleAttributes":{},
+			"x":-370,
+			"y":-40,
+			"width":380,
+			"height":80
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

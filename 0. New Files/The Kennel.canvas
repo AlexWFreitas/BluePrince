@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"1c495d9ff8feaef7","type":"file","file":"99. attachments/BLUE_PRINCE_jJlMTIcL8O.png","x":-680,"y":-300,"width":400,"height":225},
+		{"id":"115b9a625d5093a3","type":"file","file":"99. attachments/BLUE_PRINCE_qM7YdxId1L.png","x":-680,"y":-20,"width":400,"height":225},
+		{"id":"37d940b07c245ce0","type":"file","file":"99. attachments/BLUE_PRINCE_ADi0cEDyc8.png","x":-680,"y":240,"width":400,"height":225},
+		{"id":"c2829b2da3613e74","type":"file","file":"99. attachments/BLUE_PRINCE_fOYmSdFuTb.png","x":-260,"y":-300,"width":400,"height":225},
+		{
+			"id":"46bd87d7fc2b5198",
+			"type":"text",
+			"text":"[[Precipice Castle Puzzle.canvas|Precipice Castle Puzzle]]",
+			"styleAttributes":{},
+			"x":-220,
+			"y":323,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"87620036780e1a0e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"37d940b07c245ce0",
+			"fromSide":"right",
+			"toNode":"46bd87d7fc2b5198",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

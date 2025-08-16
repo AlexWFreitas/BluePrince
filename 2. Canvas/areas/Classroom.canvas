@@ -180,7 +180,19 @@
 		{"id":"25a518fc09ce30be","type":"file","file":"99. attachments/BLUE_PRINCE_2OSWJn0rZD.png","x":2680,"y":12080,"width":400,"height":225},
 		{"id":"2894db0175ce5a38","type":"file","file":"99. attachments/BLUE_PRINCE_aPLk97kR1u.png","x":2240,"y":12360,"width":400,"height":225},
 		{"id":"6c7d8b709fc67593","type":"file","file":"99. attachments/BLUE_PRINCE_zyx2ezmJnh.png","x":2680,"y":12360,"width":400,"height":225},
-		{"id":"cb1257d79bec5e51","type":"file","file":"99. attachments/BLUE_PRINCE_9yvQdcwirB.png","x":2240,"y":12640,"width":400,"height":225}
+		{"id":"cb1257d79bec5e51","type":"file","file":"99. attachments/BLUE_PRINCE_9yvQdcwirB.png","x":2240,"y":12640,"width":400,"height":225},
+		{"id":"ac68fa485e2ef5e1","type":"file","file":"99. attachments/BLUE_PRINCE_RgaTCYqYXa 1.png","x":320,"y":12704,"width":399,"height":323},
+		{"id":"0d059d6fed43610e","type":"file","file":"99. attachments/BLUE_PRINCE_XZRceaVIFq.png","x":740,"y":12704,"width":400,"height":225},
+		{
+			"id":"a26dea5700a7d3f7",
+			"type":"text",
+			"text":"Ovinn Nevarei\n\n**Towards a new future** ??",
+			"styleAttributes":{},
+			"x":2280,
+			"y":7780,
+			"width":380,
+			"height":120
+		}
 	],
 	"edges":[
 		{"id":"02e07874a98f1406","toFloating":false,"fromNode":"23dd88fdfede1afd","fromSide":"top","toNode":"e2a14c88aee7f736","toSide":"bottom"},

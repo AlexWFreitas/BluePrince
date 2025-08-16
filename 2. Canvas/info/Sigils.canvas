@@ -107,8 +107,11 @@
 			"x":420,
 			"y":165,
 			"width":260,
-			"height":60
-		}
+			"height":60,
+			"color":"4"
+		},
+		{"id":"c4cd2993547ec750","type":"file","file":"99. attachments/BLUE_PRINCE_xWpKye7jlZ 1.png","x":740,"y":600,"width":400,"height":225},
+		{"id":"ee899ed79fe70d44","type":"file","file":"99. attachments/BLUE_PRINCE_HuyDIS7oFS.png","x":740,"y":860,"width":400,"height":225}
 	],
 	"edges":[
 		{

@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"3c6fc162e419b930","type":"file","file":"99. attachments/BLUE_PRINCE_p8PSU7oBvZ.png","x":-1080,"y":-620,"width":392,"height":400},
-		{"id":"1331690f09a298ae","type":"file","file":"99. attachments/BLUE_PRINCE_ZzzCg3FEBD.png","x":-660,"y":-620,"width":400,"height":225},
 		{"id":"1788ecd9bfa4827b","type":"file","file":"99. attachments/BLUE_PRINCE_KmPvubbqz5.png","x":-640,"y":-240,"width":400,"height":225},
-		{"id":"825b58ef699340c9","type":"text","text":"After draining through [[033 - Pump Room.canvas|Pump Room Canvas]]","x":-565,"y":-360,"width":250,"height":60}
+		{"id":"825b58ef699340c9","type":"text","text":"After draining through [[033 - Pump Room.canvas|Pump Room Canvas]]","x":-565,"y":-360,"width":250,"height":60},
+		{"id":"1331690f09a298ae","type":"file","file":"99. attachments/BLUE_PRINCE_ZzzCg3FEBD.png","x":-640,"y":-620,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"829bba4770ee5418","fromNode":"825b58ef699340c9","fromSide":"bottom","toNode":"1788ecd9bfa4827b","toSide":"top"}

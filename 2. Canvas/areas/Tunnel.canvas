@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7e7ee73f07caaa56","type":"file","file":"99. attachments/BLUE_PRINCE_d5x7pINQOy.png","x":-680,"y":-320,"width":400,"height":225},
+		{"id":"a953767572dcfdc5","type":"file","file":"99. attachments/BLUE_PRINCE_Icd1NuePOK.png","x":-680,"y":-60,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

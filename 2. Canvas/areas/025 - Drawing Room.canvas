@@ -15,12 +15,32 @@
 		{
 			"id":"5f5e30b69246d885",
 			"type":"text",
-			"text":"There is a theme of distance between feet on this room drawings.\n\nLike there is a gap between two feets and this is represented by a line with arrows.\n\nOne of the candlelights can be pulled to reveal a locked safe. \n\nOne of the theories for the Safe Code is to count the number of pictures that are the same and interpret that as the number and the distance between feet as the order.\n\n\nIt seems there are four distances\n\nSmall Step - Old Man + Woman\nMiddle Step - Gentlemen\nLarge Jump - Kid\nLargest Step - Horse\n\nBased on the picture count it seems that they go above 10, so maybe the direction they are facing means negative or positive.\n\nWoman - -2 +2\nOld Man -  -11 + 4\nGentleman -  -4 +7\nKid - -1 +4\nHorse - -3 +3\n\n\nOld Man -  -11 + 4\nWoman - -2 +2\nGentleman -  -4 +7\nKid - -1 +4\nHorse - -3 +3",
+			"text":"There is a theme of distance between feet on this room drawings.\n\nLike there is a gap between two feets and this is represented by a line with arrows.\n\nOne of the candlelights can be pulled to reveal a locked safe. \n\nOne of the theories for the Safe Code is to count the number of pictures that are the same and interpret that as the number and the distance between feet as the order.\n\nThere are five pictures:\n\nKid - 4 Pictures to the Right - 1 to the Left\nWoman - 2 Pictures to the Right - 2 to the Left\nHorse - 3 Right - 3 Left\nMan\n- 1 Right\n- 1 Left\n- 1 Left\n- Split\n- 1 Right (3 Man)\n- 1 Right\n- Split\n- 1 Right\n- 1 Right\n- 1 Left\n- Split\n- 1 Left\n\nOld Man\n- 1 Left\n- 1 Left (3)\n- 1 Left\n- Split\n- 1 Left (3)\n- Split\n- 1 Right\n- 1 Right\n- 1 Right\n- 1 Right\n- 1 Left (3)",
 			"styleAttributes":{},
 			"x":-680,
-			"y":-1480,
+			"y":-2560,
 			"width":1020,
-			"height":700
+			"height":1780
+		},
+		{
+			"id":"16133adff3800f34",
+			"type":"text",
+			"text":"Old Man - Smallest Step - 9\nWoman - 4\nMan - 9\nKid - 5\nHorse - 6\n\nOld Man - 1\nWoman - 0\nMan - 1\nKid - 3\nHorse - 0\n\nOld Man - -11 + 4 = -7\nWoman - 0\nMan - 3\nKid - 3\nHorse - 0\n\n\nOld Man - 15\nWoman - 4\nMan - 11\nKid - 5\nHorse - 6",
+			"styleAttributes":{},
+			"x":-1280,
+			"y":-2300,
+			"width":520,
+			"height":580
+		},
+		{
+			"id":"400055a853a4c7c9",
+			"type":"text",
+			"text":"If I think about this room as a rotary telephone\n\n",
+			"styleAttributes":{},
+			"x":-1860,
+			"y":-2240,
+			"width":520,
+			"height":400
 		}
 	],
 	"edges":[],

@@ -35,12 +35,13 @@
 		{
 			"id":"d3bea8a46308e23f",
 			"type":"text",
-			"text":"Find a special key on the Music Room by drafting it on Rank 8-9",
+			"text":"Find a special key on the Music Room by drafting it on Rank 9",
 			"styleAttributes":{},
 			"x":-80,
 			"y":-140,
 			"width":300,
-			"height":120
+			"height":120,
+			"color":"4"
 		},
 		{"id":"5a6a4937b0836dc2","type":"file","file":"99. attachments/BLUE_PRINCE_oliXUFttfs.png","x":-880,"y":-540,"width":400,"height":321}
 	],

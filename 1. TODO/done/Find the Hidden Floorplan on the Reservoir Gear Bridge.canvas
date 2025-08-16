@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"0afedf7277d03e80",
+			"type":"text",
+			"text":"You can rotate the bridge in multiple ways and eventually reach one of the edges that contains the [[Mechanarium.canvas|Mechanarium]] floorplan",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-360,
+			"width":400,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

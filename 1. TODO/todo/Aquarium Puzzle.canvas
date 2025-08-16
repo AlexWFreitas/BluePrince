@@ -1,6 +1,98 @@
 {
-	"nodes":[],
-	"edges":[],
+	"nodes":[
+		{
+			"id":"4524db757901f3aa",
+			"type":"text",
+			"text":"[[044 - Aquarium.canvas|044 - Aquarium]]",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8e1a10cb1dfd691a",
+			"type":"text",
+			"text":"If you drain the water on the Aquarium, it shows some marked spots on layouts that remember existing draftable rooms",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-180,
+			"width":340,
+			"height":140
+		},
+		{
+			"id":"036769e6b1ca47ba",
+			"type":"text",
+			"text":"It's possible that drafting those rooms on a Treasure Map spot will allow you to dig on those spots and find a unique treasure",
+			"styleAttributes":{},
+			"x":-630,
+			"y":0,
+			"width":360,
+			"height":140
+		},
+		{"id":"4669bbe0845350b7","type":"file","file":"99. attachments/BLUE_PRINCE_pu6dUhRF2v.png","x":-1090,"y":-52,"width":400,"height":225},
+		{"id":"c2fc5c874dc709f5","type":"file","file":"99. attachments/BLUE_PRINCE_hcda6dRqa9.png","x":-210,"y":-312,"width":400,"height":225},
+		{"id":"6bd395c66a0b0f60","type":"file","file":"99. attachments/BLUE_PRINCE_trk6r7u7kw.png","x":-1090,"y":-424,"width":400,"height":225},
+		{
+			"id":"a6bc938e142ae4ef",
+			"type":"text",
+			"text":"[[Patio.canvas|Patio]]",
+			"styleAttributes":{},
+			"x":-1020,
+			"y":-170,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"87e64e634159c086",
+			"type":"text",
+			"text":"[[Archives.canvas|Archives]]",
+			"styleAttributes":{},
+			"x":-1020,
+			"y":200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2d5685ecb04ea407",
+			"type":"text",
+			"text":"[[Laundry Room.canvas|Laundry Room]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-60,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"b5b0e17f95d8441b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a6bc938e142ae4ef",
+			"fromSide":"top",
+			"toNode":"6bd395c66a0b0f60",
+			"toSide":"bottom"
+		},
+		{
+			"id":"d457b2fdf958ede8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"87e64e634159c086",
+			"fromSide":"top",
+			"toNode":"4669bbe0845350b7",
+			"toSide":"bottom"
+		},
+		{
+			"id":"bb633df993b60d33",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2d5685ecb04ea407",
+			"fromSide":"top",
+			"toNode":"c2fc5c874dc709f5",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"fd8d5d60957cd7ba","type":"file","file":"99. attachments/BLUE_PRINCE_SyANCQ279s.png","x":-660,"y":-320,"width":400,"height":225},
-		{"id":"baa057034804d986","type":"file","file":"99. attachments/BLUE_PRINCE_d7pAAyTLSS.png","x":-660,"y":-40,"width":400,"height":225},
 		{"id":"8c727366391c338c","type":"file","file":"99. attachments/BLUE_PRINCE_AvtVZUFbX5.png","x":-1100,"y":-40,"width":400,"height":225},
 		{"id":"d6a505cba16b3036","type":"file","file":"99. attachments/BLUE_PRINCE_DQ1WfABCtx.png","x":-660,"y":240,"width":400,"height":225},
 		{"id":"1149cd212f4287a8","type":"file","file":"99. attachments/BLUE_PRINCE_VeVxYp4nET.png","x":-220,"y":-40,"width":400,"height":225},
@@ -17,7 +16,23 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"20a019cada11d7b5","type":"text","text":"[[Drafting Strategy Volume 1.canvas|Drafting Strategy Volume 1]]","x":-1030,"y":-207,"width":250,"height":60}
+		{"id":"20a019cada11d7b5","type":"text","text":"[[Drafting Strategy Volume 1.canvas|Drafting Strategy Volume 1]]","x":-1030,"y":-207,"width":250,"height":60},
+		{"id":"b883d9a70d24b9ce","type":"file","file":"99. attachments/BLUE_PRINCE_s167HSlaZe.png","x":-220,"y":500,"width":400,"height":225},
+		{"id":"57f1356960419cb4","type":"file","file":"99. attachments/BLUE_PRINCE_3VmZJr2SvW.png","x":220,"y":-40,"width":400,"height":225},
+		{"id":"88a7a7a8aa5678cc","type":"file","file":"99. attachments/BLUE_PRINCE_e74Vw4jnJc.png","x":220,"y":220,"width":400,"height":225},
+		{"id":"ef4fa314084fd93b","type":"file","file":"99. attachments/BLUE_PRINCE_K5cvKfewNf.png","x":220,"y":500,"width":400,"height":225},
+		{"id":"e32ef96ba988a61f","type":"file","file":"99. attachments/BLUE_PRINCE_btAr0sbGj4.png","x":660,"y":220,"width":400,"height":225},
+		{"id":"baa057034804d986","type":"file","file":"99. attachments/BLUE_PRINCE_d7pAAyTLSS.png","x":-700,"y":530,"width":400,"height":225},
+		{
+			"id":"2f02571b571c5310",
+			"type":"text",
+			"text":"This is probably related to the safe password - 323?",
+			"styleAttributes":{},
+			"x":-665,
+			"y":820,
+			"width":330,
+			"height":100
+		}
 	],
 	"edges":[
 		{
@@ -27,6 +42,15 @@
 			"fromNode":"fc2390756f77b8fe",
 			"fromSide":"top",
 			"toNode":"f3279eaf41b59498",
+			"toSide":"bottom"
+		},
+		{
+			"id":"69003d3070ce3b92",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2f02571b571c5310",
+			"fromSide":"top",
+			"toNode":"baa057034804d986",
 			"toSide":"bottom"
 		}
 	],

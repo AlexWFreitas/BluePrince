@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"859ef6f1a4c4494d",
+			"type":"text",
+			"text":"Be in the [[Clock Tower.canvas|Clock Tower]] when the time is at 1:30 and something might happen.\n\nBecause there is one broken clock at 1:30 and the ground has a mark saying 1:30.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-300,
+			"width":540,
+			"height":180
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

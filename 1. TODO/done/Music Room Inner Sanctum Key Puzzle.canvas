@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"b0edadeb6422caea",
+			"type":"text",
+			"text":"Draft the [[015 - Music Room.canvas|015 - Music Room]] at Rank 9 and the \"Major Key\" will become a [[Inner Sanctum Key.canvas|Inner Sanctum Key]]",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-380,
+			"width":420,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

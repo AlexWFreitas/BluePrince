@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 394.8984961552813,
-                  "y": 1322.8342523568065,
-                  "zoom": -0.3333333333333334
+                  "x": 2732.9640519245686,
+                  "y": 1321.8357488753156,
+                  "zoom": -0.6666666666666667
                 }
               },
               "pinned": true,
@@ -44,8 +44,78 @@
               "icon": "lucide-layout-dashboard",
               "title": "026 - Study"
             }
+          },
+          {
+            "id": "8fa957501e960984",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Rooms Found.canvas",
+                "viewState": {
+                  "x": -130,
+                  "y": -111.5,
+                  "zoom": -0.44055667278286753
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Rooms Found"
+            }
+          },
+          {
+            "id": "ffa98e77048689be",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. TODO/continuous/Diary.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Diary"
+            }
+          },
+          {
+            "id": "4f8f3e9e1e3f2c55",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/done/Find the Hidden Floorplan on the Reservoir Gear Bridge.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Find the Hidden Floorplan on the Reservoir Gear Bridge"
+            }
+          },
+          {
+            "id": "7726f07950313acb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/046 - Room 46.canvas",
+                "viewState": {
+                  "x": -660,
+                  "y": 112.5,
+                  "zoom": -0.8073549220576042
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "046 - Room 46"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -77,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chape",
+                "query": "file: room ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,11 +168,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 296.5
   },
   "right": {
     "id": "07be804e2b3975b5",
@@ -193,66 +264,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "136a6cc2f745589a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0b8bd9e0a5a335c4",
-        "type": "window",
-        "children": [
-          {
-            "id": "66c834a0e3368698",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "914fbbc5751af7b8",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "99. attachments/BLUE_PRINCE_wlUK6I1tsP.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "BLUE_PRINCE_wlUK6I1tsP"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b9aaf2342cf53910",
+  "active": "7726f07950313acb",
   "lastOpenFiles": [
-    "0. New Files/Trading Post Dynamite Puzzle.canvas",
+    "99. attachments/BLUE_PRINCE_snKdJpvnMf.png",
+    "2. Canvas/areas/046 - Room 46.canvas",
+    "2. Canvas/info/Day Results.canvas",
+    "99. attachments/BLUE_PRINCE_g57iMdu0vS.png",
     "1. TODO/TODO Canvas.canvas",
-    "1. TODO/todo/Vault Deposit Items Puzzles.canvas",
-    "1. TODO/todo/Blackbridge Grotto Computer Symbols Puzzle.canvas",
-    "2. Canvas/areas/023 - Vault.canvas",
-    "1. TODO/todo/Identify All The Angels.canvas",
-    "2. Canvas/items/Magnifying Glass.canvas",
-    "2. Canvas/areas/Chapel.canvas",
-    "2. Canvas/areas/030 - Drafting Studio.canvas",
-    "2. Canvas/areas/026 - Study.canvas",
-    "1. TODO/todo/Drafting Studio Safe Puzzle.canvas",
-    "99. attachments/BLUE_PRINCE_EuHrsJxJwG.png",
-    "99. attachments/BLUE_PRINCE_9yvQdcwirB.png",
-    "99. attachments/BLUE_PRINCE_zyx2ezmJnh.png",
-    "99. attachments/BLUE_PRINCE_aPLk97kR1u.png",
-    "99. attachments/BLUE_PRINCE_2OSWJn0rZD.png",
-    "99. attachments/BLUE_PRINCE_bSpVQ9rrZV.png",
-    "99. attachments/BLUE_PRINCE_fOAfeyNjtL.png",
-    "99. attachments/BLUE_PRINCE_wlUK6I1tsP.png",
-    "99. attachments/BLUE_PRINCE_Na99OI9QSZ.png",
-    "99. attachments/BLUE_PRINCE_7sAF03TgZM.png",
+    "1. TODO/done/Find the Hidden Floorplan on the Reservoir Gear Bridge.canvas",
+    "0. New Files/The Kennel.canvas",
+    "2. Canvas/areas/Mechanarium.canvas",
+    "2. Canvas/areas/The Precipice.canvas",
+    "1. TODO/todo/Precipice Castle Puzzle.canvas",
+    "2. Canvas/items/Power Hammer.canvas",
+    "2. Canvas/areas/Clock Tower.canvas",
+    "1. TODO/continuous/Diary.md",
+    "99. attachments/BLUE_PRINCE_xSKlajtBHH.png",
+    "99. attachments/BLUE_PRINCE_XveALL8nlH.png",
+    "99. attachments/BLUE_PRINCE_9Kw5tRjB6p.png",
+    "99. attachments/BLUE_PRINCE_wNNGqX90bw.png",
+    "99. attachments/BLUE_PRINCE_nOK9WXkeyT.png",
+    "99. attachments/BLUE_PRINCE_gB3QxFPmT7.png",
+    "99. attachments/BLUE_PRINCE_rlpRBNFEEC.png",
+    "99. attachments/BLUE_PRINCE_9KocYSBtO7.png",
     "4. Legacy Notes/TODO.md",
     "2. Canvas/items",
     "4. Legacy Notes/Old Blue Prince Notes.md",
@@ -278,7 +312,6 @@
     "3. Notes/Shelter.md",
     "3. Notes/Servant's Quarters.md",
     "3. Notes/Security Room.md",
-    "3. Notes/Secret Passage.md",
     "attachments",
     "2. Canvas/characters",
     "2. Canvas/papers",

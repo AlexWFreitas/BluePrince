@@ -20,7 +20,7 @@
 		{"id":"dcbd496d13540d58","type":"file","file":"99. attachments/BLUE_PRINCE_eIY9N18xEx.png","x":-120,"y":2160,"width":400,"height":320}
 	],
 	"edges":[
-		{"id":"23f1a7189a90b12f","fromNode":"c868a90786032bfa","fromSide":"right","toNode":"dcbd496d13540d58","toSide":"left"}
+		{"id":"23f1a7189a90b12f","toFloating":false,"fromNode":"c868a90786032bfa","fromSide":"right","toNode":"dcbd496d13540d58","toSide":"left"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

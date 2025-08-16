@@ -19,7 +19,26 @@
 		{"id":"d82e95e284d42e65","type":"file","file":"99. attachments/BLUE_PRINCE_9KocYSBtO7.png","x":-1740,"y":1100,"width":400,"height":225},
 		{"id":"4831452c7570f758","type":"file","file":"99. attachments/BLUE_PRINCE_4ffbJQqFq6.png","x":-2180,"y":840,"width":400,"height":225},
 		{"id":"07f2dfc5d68446f7","type":"file","file":"99. attachments/BLUE_PRINCE_YBmqCpGmR8.png","x":-2180,"y":1100,"width":400,"height":225},
-		{"id":"37179a131a2b3491","type":"text","text":"8 places 8 months\n1. Orinda Aries\n2. Fenn Aries\n3. Arch Aries\n4. Eraja\n5. Corarica\n6. Mora Jai\n7. Verra\n8. Nuance","x":-820,"y":-960,"width":250,"height":320}
+		{"id":"37179a131a2b3491","type":"text","text":"8 places 8 months\n1. Orinda Aries\n2. Fenn Aries\n3. Arch Aries\n4. Eraja\n5. Corarica\n6. Mora Jai\n7. Verra\n8. Nuance","x":-820,"y":-960,"width":250,"height":320},
+		{
+			"id":"46d042fc470eb782",
+			"type":"text",
+			"text":"# Fenn Aries",
+			"styleAttributes":{},
+			"x":-4100,
+			"y":580,
+			"width":260,
+			"height":60
+		},
+		{"id":"a90614643e22c2ea","type":"file","file":"99. attachments/BLUE_PRINCE_P4RBsEqgV3.png","x":-4600,"y":728,"width":400,"height":225},
+		{"id":"010289a97da455b3","type":"file","file":"99. attachments/BLUE_PRINCE_vlyGewBXUB.png","x":-4180,"y":728,"width":400,"height":225},
+		{"id":"e01188deef827f39","type":"file","file":"99. attachments/BLUE_PRINCE_UzwPSFlu7V.png","x":-4600,"y":980,"width":400,"height":225},
+		{"id":"fb747bc3c0d75199","type":"file","file":"99. attachments/BLUE_PRINCE_6lAYUdwuSH.png","x":-4180,"y":980,"width":400,"height":225},
+		{"id":"87a0a3d3ebc98d09","type":"file","file":"99. attachments/BLUE_PRINCE_OACymDR18k.png","x":-4600,"y":1240,"width":400,"height":225},
+		{"id":"aa56238735add253","type":"file","file":"99. attachments/BLUE_PRINCE_q8yTBEM13i.png","x":-4180,"y":1240,"width":400,"height":225},
+		{"id":"8dbe8e5108f91c06","type":"file","file":"99. attachments/BLUE_PRINCE_qJK0LyH5hj.png","x":-4600,"y":1500,"width":400,"height":225},
+		{"id":"d4984d6f8f4c00c9","type":"file","file":"99. attachments/BLUE_PRINCE_rlpRBNFEEC.png","x":-4180,"y":1500,"width":400,"height":225},
+		{"id":"edda60133169fdce","type":"file","file":"99. attachments/BLUE_PRINCE_nOK9WXkeyT.png","x":-3740,"y":1500,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"7a65db818e8273e3","fromNode":"c3d5b5e7d5d75058","fromSide":"top","toNode":"0053e9344ca6c950","toSide":"bottom"},

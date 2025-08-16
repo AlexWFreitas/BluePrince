@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"153cca98b8e485ca",
+			"type":"text",
+			"text":"Samantha Hayes",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"335a4fac6b6d7bd0",
+			"type":"text",
+			"text":"Grey Daniels",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-200,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

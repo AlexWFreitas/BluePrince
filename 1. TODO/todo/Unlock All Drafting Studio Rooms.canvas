@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"e5779f7c2f96caaa",
+			"type":"text",
+			"text":"[[030 - Drafting Studio.canvas|030 - Drafting Studio]]",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-220,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

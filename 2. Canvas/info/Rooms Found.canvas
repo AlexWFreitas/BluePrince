@@ -83,7 +83,7 @@
 		{
 			"id":"920f6786af66b6c0",
 			"type":"text",
-			"text":"# Other Rooms\n[[Classroom.canvas|Classroom]]\n",
+			"text":"# Studio Additions\n[[Classroom.canvas|Classroom]]\n[[Solarium.canvas|Solarium]]\n[[The Kennel.canvas|The Kennel]]\n[[Clock Tower.canvas|Clock Tower]]",
 			"styleAttributes":{},
 			"x":-80,
 			"y":-143,
@@ -93,7 +93,7 @@
 		{
 			"id":"4570b12347d8959b",
 			"type":"text",
-			"text":"# Found Rooms\n[[Conservatory.canvas|Conservatory]]\n[[Planetarium.canvas|Planetarium]]\n",
+			"text":"# Found Floorplans\n[[Conservatory.canvas|Conservatory]]\n[[Planetarium.canvas|Planetarium]]\n[[Mechanarium.canvas|Mechanarium]]\n[[Tunnel.canvas|Tunnel]]",
 			"styleAttributes":{},
 			"x":200,
 			"y":-143,

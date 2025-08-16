@@ -74,6 +74,39 @@
 			"width":260,
 			"height":60,
 			"color":"3"
+		},
+		{
+			"id":"45df8aae6289ba19",
+			"type":"text",
+			"text":"[[Great Hall.canvas|Great Hall]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":103,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"03abd50af1ca20b4",
+			"type":"text",
+			"text":"[[Clock Tower.canvas|Clock Tower]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":185,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"e79e27805034e4ad",
+			"type":"text",
+			"text":"[[Tomb.canvas|Tomb]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":-330,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[

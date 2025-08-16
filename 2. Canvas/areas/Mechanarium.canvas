@@ -1,6 +1,16 @@
 {
 	"nodes":[
-		{"id":"fd3b5bf2d1c1da4b","type":"file","file":"99. attachments/BLUE_PRINCE_W7IHcDoJHo.png","x":-460,"y":-280,"width":400,"height":225}
+		{"id":"fd3b5bf2d1c1da4b","type":"file","file":"99. attachments/BLUE_PRINCE_W7IHcDoJHo.png","x":-460,"y":-280,"width":400,"height":225},
+		{
+			"id":"5e4d2f80ff92eb12",
+			"type":"text",
+			"text":"I think I found this room on Room 46, but I am not sure.",
+			"styleAttributes":{},
+			"x":-740,
+			"y":-480,
+			"width":360,
+			"height":80
+		}
 	],
 	"edges":[],
 	"metadata":{

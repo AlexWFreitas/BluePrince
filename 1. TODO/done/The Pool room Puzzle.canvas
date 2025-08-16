@@ -8,27 +8,29 @@
 			"x":-540,
 			"y":-360,
 			"width":380,
-			"height":80
+			"height":80,
+			"color":"4"
 		},
 		{
 			"id":"6920305e8bf86ed3",
 			"type":"text",
-			"text":"Draft [[032 - Boiler Room.canvas|032 - Boiler Room]] and send power to [[029 - The Pool.canvas|029 - The Pool]]",
+			"text":"You can now access resources that were submerged in the water when visiting th eroom.",
 			"styleAttributes":{},
 			"x":-540,
 			"y":-220,
 			"width":380,
-			"height":80
+			"height":100,
+			"color":"4"
 		},
 		{
-			"id":"e55b348ef435ad46",
+			"id":"497ebc67167719d3",
 			"type":"text",
-			"text":"Something will happen on [[029 - The Pool.canvas|029 - The Pool]] after that",
+			"text":"# Rewards\n- Random amount of coins\n- 2 Treasure Boxes",
 			"styleAttributes":{},
-			"x":-540,
-			"y":-80,
+			"x":-80,
+			"y":-400,
 			"width":380,
-			"height":80
+			"height":320
 		}
 	],
 	"edges":[
@@ -39,15 +41,6 @@
 			"fromNode":"2d92e281e182752a",
 			"fromSide":"bottom",
 			"toNode":"6920305e8bf86ed3",
-			"toSide":"top"
-		},
-		{
-			"id":"f1239a4c7698db7d",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"6920305e8bf86ed3",
-			"fromSide":"bottom",
-			"toNode":"e55b348ef435ad46",
 			"toSide":"top"
 		}
 	],

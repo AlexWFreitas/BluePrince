@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"376041db4645c82b",
+			"type":"text",
+			"text":"Check what happens if you draft 8 to 9 [[Tunnel.canvas|Tunnel]]s in a row.",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-380,
+			"width":400,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
