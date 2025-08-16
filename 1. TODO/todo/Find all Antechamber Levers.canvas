@@ -64,6 +64,17 @@
 			"y":-460,
 			"width":460,
 			"height":400
+		},
+		{
+			"id":"19a5be7724f570ba",
+			"type":"text",
+			"text":"[[Mechanarium.canvas|Mechanarium]] - West Lever",
+			"styleAttributes":{},
+			"x":-580,
+			"y":160,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[],

@@ -20,6 +20,16 @@
 			"y":-460,
 			"width":520,
 			"height":244
+		},
+		{
+			"id":"8829201da59f390e",
+			"type":"text",
+			"text":"Green = +\nYellow = -\nPink = X\nPurple = Division",
+			"styleAttributes":{},
+			"x":-60,
+			"y":-195,
+			"width":360,
+			"height":140
 		}
 	],
 	"edges":[],

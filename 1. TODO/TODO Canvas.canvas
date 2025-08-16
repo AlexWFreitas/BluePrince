@@ -732,7 +732,7 @@
 			"y":919,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"2bcd0a542e9c72c6",
@@ -919,7 +919,7 @@
 			"y":918,
 			"width":260,
 			"height":114,
-			"color":"3"
+			"color":"5"
 		},
 		{
 			"id":"f2e20250bb4ceeed",
@@ -1273,6 +1273,28 @@
 			"styleAttributes":{},
 			"x":1320,
 			"y":840,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"777b8ca377bd9d9a",
+			"type":"text",
+			"text":"[[Draft a Mechanarium with 8 doors.canvas|Draft a Mechanarium with 8 doors]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":1430,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"ca367d3f1c8f02f0",
+			"type":"text",
+			"text":"[[Investigate Rotunda.canvas|Investigate Rotunda]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1240,
 			"width":260,
 			"height":60,
 			"color":"3"

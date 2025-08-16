@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"3ff2b797aa8b0ed8",
+			"type":"text",
+			"text":"Try rotating it more than 4 times, to see if something happens.",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-260,
+			"width":360,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -36,3 +36,14 @@ Day 33
 - I discovered that I can use the Jack Hammer on the Gemstone Cavern to possibly retrieve more gems, but it affects the structural integrity of the cave and it will risk closing the cave permanently.
 
 ![[BLUE_PRINCE_rBtqIasn8Y.png]]
+
+Day 34
+- Made a Dowsing Rod and a Burning Glass
+- Ordered another book on Library
+- Bought all available books on the Book Shop
+- Got a Gear Wrench and changed the Rarity on the Workshop to Common
+- I changed Boiler Room rarity to common, but I think this may be a mistake.
+- Swapped the Coat Check item from Power Hammer to Burning Glass because I want to use it on the Abandoned Mine Torch Room and in the Trading Post
+- Ended the run on a Planetarium, therefore gained 2 stars + 1 from observatory.
+- The Billiards Room started to give me different order of operations calculations, it's interesting.
+- I discovered that the Mechanarium can have more than 4 doors, this is very interesting, because there might be something very important there. This may be related to the Inner Sanctum Keys notes tip that says that the key is in the last door.

@@ -4,13 +4,35 @@
 		{
 			"id":"5e4d2f80ff92eb12",
 			"type":"text",
-			"text":"I think I found this room on Room 46, but I am not sure.",
+			"text":"This floorplan was found in the Reservoir Rotating Gear Bridge",
 			"styleAttributes":{},
-			"x":-740,
+			"x":-920,
 			"y":-480,
 			"width":360,
 			"height":80
-		}
+		},
+		{
+			"id":"4c42d3798877b1ba",
+			"type":"text",
+			"text":"This room can have more than 4 doors.\nIt appears that this can have up to 8 doors total.",
+			"styleAttributes":{},
+			"x":-920,
+			"y":-380,
+			"width":360,
+			"height":100
+		},
+		{
+			"id":"a13c3832ee3c407a",
+			"type":"text",
+			"text":"There is a West Antechamber Lever on this room on one of the extra doors.",
+			"styleAttributes":{},
+			"x":-920,
+			"y":-260,
+			"width":360,
+			"height":93
+		},
+		{"id":"27902a1d00ae1bec","type":"file","file":"99. attachments/BLUE_PRINCE_mWsqEZH2H5.png","x":-460,"y":-552,"width":400,"height":225},
+		{"id":"fd41d6938079dd03","type":"file","file":"99. attachments/BLUE_PRINCE_oLwVyk6UvJ.png","x":-940,"y":-120,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

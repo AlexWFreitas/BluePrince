@@ -1,5 +1,18 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"f658e0723fc4fb91","type":"file","file":"99. attachments/BLUE_PRINCE_bhzBhJAjBz.png","x":-640,"y":-200,"width":400,"height":225},
+		{"id":"64a9d472c4e90e8e","type":"file","file":"99. attachments/BLUE_PRINCE_CxcCO3u0d2.png","x":-640,"y":80,"width":400,"height":225},
+		{
+			"id":"0148a26dc176823a",
+			"type":"text",
+			"text":"This item allows you to find which run of the ones you can draft will contain extra items.\n\nThis is useful, but maybe not so much.",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-200,
+			"width":360,
+			"height":160
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
