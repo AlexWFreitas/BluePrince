@@ -16,8 +16,8 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 1563.7574260518113,
-                  "y": 1056.5805524848915,
+                  "x": 1812.7574260518113,
+                  "y": 1566.5805524848915,
                   "zoom": -1.5849625007211563
                 }
               },
@@ -78,40 +78,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Diary"
-            }
-          },
-          {
-            "id": "0f0e7a956a71624e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/items/Jack Hammer.canvas",
-                "viewState": {
-                  "x": -310,
-                  "y": -227.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Jack Hammer"
-            }
-          },
-          {
-            "id": "a76f8e6c363b75cf",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/Tunnel Exploration.canvas",
-                "viewState": {
-                  "x": -360,
-                  "y": -330,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tunnel Exploration"
             }
           }
         ]
