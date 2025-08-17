@@ -121,7 +121,21 @@
 			"width":260,
 			"height":120
 		},
-		{"id":"f6c3b15eb713aed7","type":"file","file":"99. attachments/BLUE_PRINCE_n6sd2kadm5.png","x":-360,"y":2668,"width":400,"height":293}
+		{"id":"f6c3b15eb713aed7","type":"file","file":"99. attachments/BLUE_PRINCE_n6sd2kadm5.png","x":-360,"y":2668,"width":400,"height":293},
+		{
+			"id":"354f5c13143c5fae",
+			"type":"text",
+			"text":"This is the only true box\nThe gems are in the other box with a true statement\nOne of the other boxes is true",
+			"styleAttributes":{},
+			"x":-2060,
+			"y":2980,
+			"width":380,
+			"height":200
+		},
+		{"id":"2bfb0abd6f021d7e","type":"file","file":"99. attachments/BLUE_PRINCE_fsvomZLXuB.png","x":-1660,"y":2960,"width":399,"height":186,"color":"1"},
+		{"id":"b77d40caf59a21a6","type":"file","file":"99. attachments/BLUE_PRINCE_ogdvPsWaUy.png","x":-1240,"y":2960,"width":400,"height":199,"color":"4"},
+		{"id":"05aaeb4b900bc840","type":"file","file":"99. attachments/BLUE_PRINCE_IwKqEQpXaC.png","x":-820,"y":2962,"width":399,"height":197,"color":"4"},
+		{"id":"220688e88f1b7408","type":"file","file":"99. attachments/BLUE_PRINCE_Ak08y1zsTN.png","x":-380,"y":3002,"width":400,"height":315}
 	],
 	"edges":[],
 	"metadata":{

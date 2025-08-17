@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{
+			"id":"92e77a89b52fd8fb",
+			"type":"text",
+			"text":"Room obtained by chosing the Knight piece as the reward of the [[Precipice Chess Puzzle.canvas|Precipice Chess Puzzle]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-360,
+			"width":400,
+			"height":100
+		},
+		{"id":"65a6ab5248c07d23","type":"file","file":"99. attachments/BLUE_PRINCE_ZIdWHmSIYX.png","x":-660,"y":-220,"width":400,"height":225},
+		{"id":"158b709c513e2e4d","type":"file","file":"99. attachments/BLUE_PRINCE_eeelhVRob5.png","x":-660,"y":40,"width":400,"height":225},
+		{"id":"c83010600b916d6c","type":"file","file":"99. attachments/BLUE_PRINCE_exmtPSlnxR.png","x":-220,"y":-360,"width":400,"height":315},
+		{"id":"4fff640b5d5133d8","type":"file","file":"99. attachments/BLUE_PRINCE_uak8mYShuj.png","x":-220,"y":1,"width":400,"height":304},
+		{"id":"31cda372460d4599","type":"file","file":"99. attachments/BLUE_PRINCE_wGRXyblifM.png","x":-220,"y":340,"width":400,"height":300}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

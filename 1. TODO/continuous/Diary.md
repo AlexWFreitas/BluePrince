@@ -139,3 +139,29 @@ Day 38
 	- It seems that the third missing login is a login that replaced the admin logs with fake messages and that Mary Matthew might have placed tips and clues inside it to either mislead the person or to help them find something.
 		- I suspect that the one who has that login is a Detective like Bon Margle, but I haven't found the correct pattern to log in.
 		- If this is true, then the book A New Clue might also be a red herring made to confuse people while also leaving enough tips for those who can see it.
+
+
+Day 39
+- Reorganized my todo list to hold the tasks I think are more impactful and can be done realistically.
+- Drafted Library and read the Realms & Runes book, this has tips for the Sigils think
+	- I think I should combine the Book with the Stamps and other Books about history to get an idea of the characteristics of each realm.
+- Drafted Armory for the first time, there were three items:
+	- Morning Star - The item that breaks the locks on Chests and Trunks seems really good, also improves the rate of Stars
+	- Self Igniting Torch - The item that lights fuses and candles is also good, but eventually becomes useless because there are no more places to use it.
+	- Knights Shield - The shield seems "okayish", good against Weight Room and Archives, but that's it.
+- Drafted Rumpus Room and saw the fifth video with Alzara, very interesting, but not very helpful yet.
+- Used laboratory experiments and earned four extra mail letters (total 10), but didn't read them beyond the sixth one.
+- Used Workshop and crafted a Detector Shovel.
+- Reached 42 stars. on the observatory thing.
+- Got the Trophy for filling all spots on the grid with a room on this run.
+- Blessing of Dancer is extremely overpowered, because rotating is awesome except for Green Rooms.
+- Drafted Conservatory and made three bad rooms (Ball Room, Storeroom, Walk-in Closet) into Rare / Unusual, so my next drafts should be stronger.
+	- I will consider turning one of the dead ends back if I feel that the runs aren't flowing well.
+- Started planning for the Mechanarium Door 8, I feel that I need the Chamber of Mirrors to duplicate the Mechanical Rooms so that I have a chance of drafting 8 Mechanical Rooms.
+	- I am also wondering if a duplicated Mechanarium would duplicate the reward.
+- I was wondering if the Boudoir room is considered a Pawn because of the Lamp looking like a Pawn from a certain angle and I tested it on the Precipice Chess Puzzle, Boudoir doesn't contain a chess piece, so I think there are 15 rooms with pawns and one of them has two pawns (Bunk Room), making the full 16 pawns collection completed.
+	- I am still missing one King and one Knight chess pieces from my list of rooms.
+- I was at the Aquarium and I am wondering if I need to drain the Aquarium water to test the marked rooms to see if they change something, it's either this or the treasure map + Shovel combination.
+- I am trying to sleep on the Aquarium on this room, because it's considered a bedroom, maybe it will give an effect on the next day.
+
+![[BLUE_PRINCE_PjQq3Rd2U9.png]]

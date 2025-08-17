@@ -11,16 +11,6 @@
 			"height":60
 		},
 		{
-			"id":"7ef84c68986eb399",
-			"type":"text",
-			"text":"Progression",
-			"styleAttributes":{},
-			"x":80,
-			"y":-180,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"4a0b0959c3f642f7",
 			"type":"text",
 			"text":"[[Master Bedroom.canvas|Master Bedroom]] - Red Prince Book",
@@ -29,7 +19,7 @@
 			"y":-350,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{"id":"bdd058da072e2fe2","type":"file","file":"99. attachments/Pasted image 20250716201455.png","x":-380,"y":-120,"width":400,"height":225},
 		{
@@ -89,36 +79,30 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"7ef84c68986eb399",
+			"type":"text",
+			"text":"Progression",
+			"styleAttributes":{},
+			"x":440,
+			"y":-560,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"bf87d3071ce2b002",
+			"type":"text",
+			"text":"[[A New Clue.canvas|A New Clue]]",
+			"styleAttributes":{},
+			"x":450,
+			"y":473,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
-		{
-			"id":"0ff8f2d01c83c924",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7ef84c68986eb399",
-			"fromSide":"right",
-			"toNode":"4a0b0959c3f642f7",
-			"toSide":"left"
-		},
-		{
-			"id":"99f1324955814d29",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7ef84c68986eb399",
-			"fromSide":"right",
-			"toNode":"713173e7e890f786",
-			"toSide":"left"
-		},
-		{
-			"id":"af924357eab86c1f",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7ef84c68986eb399",
-			"fromSide":"right",
-			"toNode":"bae0e7f85489516b",
-			"toSide":"left"
-		},
 		{
 			"id":"8a444237145640e6",
 			"styleAttributes":{},
@@ -153,24 +137,6 @@
 			"fromNode":"d623576c75ac414a",
 			"fromSide":"right",
 			"toNode":"1a5b9e04408abac2",
-			"toSide":"left"
-		},
-		{
-			"id":"984b3b523dca6054",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7ef84c68986eb399",
-			"fromSide":"right",
-			"toNode":"d623576c75ac414a",
-			"toSide":"left"
-		},
-		{
-			"id":"e34a37b0a0c0f7f2",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7ef84c68986eb399",
-			"fromSide":"right",
-			"toNode":"df0639a48236ff8a",
 			"toSide":"left"
 		}
 	],

@@ -6,127 +6,7 @@
 	"nodes":[
 		{"id":"1879ff433b9680b7","type":"group","x":-400,"y":790,"width":4280,"height":2140,"label":"Progression Guide"},
 		{"id":"21b33cdf5e75929f","type":"group","x":-1400,"y":-680,"width":880,"height":1580,"color":"4","label":"Continuous Tasks"},
-		{
-			"id":"adf1479995922002",
-			"type":"text",
-			"text":"[[Order an Item through the Terminal.canvas|Order an Item through the Terminal]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-250,
-			"width":460,
-			"height":60
-		},
-		{
-			"id":"29e340e2fe4c541f",
-			"type":"text",
-			"text":"[[Pick Outer Room at the Start of the Run.canvas|Pick an Outer Room at the start of the Run]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-330,
-			"width":460,
-			"height":60
-		},
-		{
-			"id":"53c4a2b4f29ae6f7",
-			"type":"text",
-			"text":"[[Throw Coin on Well.canvas|Throw Coin on Well]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-410,
-			"width":460,
-			"height":60
-		},
-		{
-			"id":"323abfebe2befa35",
-			"type":"text",
-			"text":"[[Do Experiments on Laboratory.canvas|Do Experiments on Laboratory]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-490,
-			"width":460,
-			"height":60
-		},
-		{
-			"id":"5c018b925a0bc2bf",
-			"type":"text",
-			"text":"[[Take notes and explore everything.canvas|Take notes and explore everything]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-570,
-			"width":460,
-			"height":60
-		},
-		{
-			"id":"f181343f47f783bf",
-			"type":"text",
-			"text":"**Tasks that should be done every day whenever possible**",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-660,
-			"width":520,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"41dba1e3c4f981cb",
-			"type":"text",
-			"text":"[[Use Tomorrow Type rooms to boost the next day runs whenever possible.canvas|Use Tomorrow Type rooms to boost the next day runs whenever possible]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-90,
-			"width":580,
-			"height":80
-		},
-		{
-			"id":"a9cb94cd937abfde",
-			"type":"text",
-			"text":"[[Use the Coat Check Room to store an item between runs.canvas|Use the Coat Check room to store an item between runs]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-170,
-			"width":540,
-			"height":60
-		},
-		{
-			"id":"8b916f566c249a06",
-			"type":"text",
-			"text":"[[Use the Office Terminal to spread Gold on rooms.canvas|Use the Office Terminal to spread Gold on rooms]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":10,
-			"width":500,
-			"height":60
-		},
-		{
-			"id":"b7e4595012c7b579",
-			"type":"text",
-			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":270,
-			"width":640,
-			"height":60
-		},
-		{
-			"id":"4289e616125ca1d2",
-			"type":"text",
-			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":190,
-			"width":620,
-			"height":60
-		},
-		{
-			"id":"bdd4cd205bf789b6",
-			"type":"text",
-			"text":"[[Use the Security room terminal to manipulate the Keycard System in your favor.canvas|Use the Security room terminal to manipulate the Keycard System in your favor]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":90,
-			"width":580,
-			"height":80
-		},
+		{"id":"29f80ec514940b92","type":"group","x":180,"y":200,"width":900,"height":400,"label":"Focus"},
 		{
 			"id":"ed6456a156793f29",
 			"type":"text",
@@ -548,7 +428,7 @@
 		{
 			"id":"cb49d1a87b6551fc",
 			"type":"text",
-			"text":"[[Classroom 9 Puzzle.canvas|Classroom 9]]",
+			"text":"[[Classroom 9 Puzzle.canvas|Classroom 9]] Exam",
 			"styleAttributes":{},
 			"x":1880,
 			"y":1002,
@@ -642,7 +522,7 @@
 			"y":840,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"5"
 		},
 		{
 			"id":"15883425878d94e8",
@@ -887,17 +767,6 @@
 			"color":"3"
 		},
 		{
-			"id":"0faf6eee444508e1",
-			"type":"text",
-			"text":"[[1. TODO/todo/Lady Epsen Diary.canvas|Lady Epsen Diary]]",
-			"styleAttributes":{},
-			"x":1880,
-			"y":1320,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"4d823aad9af72103",
 			"type":"text",
 			"text":"[[Outer Room Unlock.canvas|Outer Room Unlock]]",
@@ -1042,17 +911,6 @@
 			"styleAttributes":{},
 			"x":2160,
 			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"884632a33f658137",
-			"type":"text",
-			"text":"[[Find the Ladyship Chamber.canvas|Find the Ladyship Chamber]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":1320,
 			"width":260,
 			"height":60,
 			"color":"3"
@@ -1320,6 +1178,248 @@
 			"width":260,
 			"height":100,
 			"color":"4"
+		},
+		{
+			"id":"884632a33f658137",
+			"type":"text",
+			"text":"[[Find the Ladyship Chamber.canvas|Find the Ladyship Chamber]]",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1400,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e1b1aa1c46086111",
+			"type":"text",
+			"text":"Translate [[Lady Epsen Note.canvas|Lady Epsen Note]]",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"0faf6eee444508e1",
+			"type":"text",
+			"text":"Read [[Lady Epsen Diary.canvas|Lady Epsen Diary]]",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1480,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"623955262dfe7be6",
+			"type":"text",
+			"text":"[[Cipher Cryptography Puzzle.canvas|Cipher Cryptography Puzzle]]",
+			"styleAttributes":{},
+			"x":1600,
+			"y":1400,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"adf1479995922002",
+			"type":"text",
+			"text":"[[Order an Item through the Terminal.canvas|Order an Item through the Terminal]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-250,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"41dba1e3c4f981cb",
+			"type":"text",
+			"text":"[[Use Tomorrow Type rooms to boost the next day runs whenever possible.canvas|Use Tomorrow Type rooms to boost the next day runs whenever possible]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-90,
+			"width":580,
+			"height":80
+		},
+		{
+			"id":"a9cb94cd937abfde",
+			"type":"text",
+			"text":"[[Use the Coat Check Room to store an item between runs.canvas|Use the Coat Check room to store an item between runs]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-170,
+			"width":540,
+			"height":60
+		},
+		{
+			"id":"8b916f566c249a06",
+			"type":"text",
+			"text":"[[Use the Office Terminal to spread Gold on rooms.canvas|Use the Office Terminal to spread Gold on rooms]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":10,
+			"width":500,
+			"height":60
+		},
+		{
+			"id":"b7e4595012c7b579",
+			"type":"text",
+			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":270,
+			"width":640,
+			"height":60
+		},
+		{
+			"id":"4289e616125ca1d2",
+			"type":"text",
+			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":190,
+			"width":620,
+			"height":60
+		},
+		{
+			"id":"bdd4cd205bf789b6",
+			"type":"text",
+			"text":"[[Use the Security room terminal to manipulate the Keycard System in your favor.canvas|Use the Security room terminal to manipulate the Keycard System in your favor]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":90,
+			"width":580,
+			"height":80
+		},
+		{
+			"id":"29e340e2fe4c541f",
+			"type":"text",
+			"text":"[[Pick Outer Room at the Start of the Run.canvas|Pick an Outer Room at the start of the Run]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-330,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"53c4a2b4f29ae6f7",
+			"type":"text",
+			"text":"[[Throw Coin on Well.canvas|Throw Coin on Well]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-410,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"323abfebe2befa35",
+			"type":"text",
+			"text":"[[Do Experiments on Laboratory.canvas|Do Experiments on Laboratory]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-490,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"5c018b925a0bc2bf",
+			"type":"text",
+			"text":"[[Take notes and explore everything.canvas|Take notes and explore everything]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-570,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"f181343f47f783bf",
+			"type":"text",
+			"text":"**Tasks that should be done every day whenever possible**",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-660,
+			"width":520,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2d72467b8808da42",
+			"type":"text",
+			"text":"[[Draft a Mechanarium with 8 doors.canvas|Draft a Mechanarium with 8 doors]]",
+			"styleAttributes":{},
+			"x":220,
+			"y":240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"68881974075d2294",
+			"type":"text",
+			"text":"[[Inner Sanctum Key.canvas|Inner Sanctum Keys]]",
+			"styleAttributes":{},
+			"x":500,
+			"y":240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"7b5ac10d8dc7a016",
+			"type":"text",
+			"text":"[[Study Room Safe Puzzle.canvas|Study Room Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":780,
+			"y":240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"dccb957aeb942176",
+			"type":"text",
+			"text":"[[Drafting Studio Safe Puzzle.canvas|Drafting Studio Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":220,
+			"y":320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"d5925775408dfa6e",
+			"type":"text",
+			"text":"[[Mirror Chamber Puzzle.canvas|Mirror Chamber Puzzle]]",
+			"styleAttributes":{},
+			"x":500,
+			"y":320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"2a2c58d3d3f7fcb0",
+			"type":"text",
+			"text":"[[Power Hammer.canvas|Power Hammer]] Puzzles",
+			"styleAttributes":{},
+			"x":780,
+			"y":320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"3e6164d15fb00301",
+			"type":"text",
+			"text":"[[Classroom 9 Puzzle.canvas|Classroom 9]] Exam",
+			"styleAttributes":{},
+			"x":220,
+			"y":400,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[]

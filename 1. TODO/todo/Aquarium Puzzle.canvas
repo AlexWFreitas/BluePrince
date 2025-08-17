@@ -28,7 +28,8 @@
 			"x":-630,
 			"y":0,
 			"width":360,
-			"height":140
+			"height":140,
+			"color":"3"
 		},
 		{"id":"4669bbe0845350b7","type":"file","file":"99. attachments/BLUE_PRINCE_pu6dUhRF2v.png","x":-1090,"y":-52,"width":400,"height":225},
 		{"id":"c2fc5c874dc709f5","type":"file","file":"99. attachments/BLUE_PRINCE_hcda6dRqa9.png","x":-210,"y":-312,"width":400,"height":225},
@@ -62,6 +63,17 @@
 			"y":-60,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"29f15f381fd780c3",
+			"type":"text",
+			"text":"Check if the behavior on the rooms change when they are drafted and the Aquarium is drained.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":173,
+			"width":340,
+			"height":120,
+			"color":"3"
 		}
 	],
 	"edges":[

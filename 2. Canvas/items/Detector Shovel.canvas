@@ -1,5 +1,29 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"9a92416f354d189d","type":"file","file":"99. attachments/BLUE_PRINCE_Ujlpe1w6Hk.png","x":-720,"y":-100,"width":400,"height":225},
+		{"id":"87f319466766790f","type":"file","file":"99. attachments/BLUE_PRINCE_FneROhz3ts.png","x":-720,"y":-380,"width":400,"height":225},
+		{
+			"id":"187a9830808e691c",
+			"type":"text",
+			"text":"Metal Detector + Shovel = Detector Shovel",
+			"styleAttributes":{},
+			"x":-720,
+			"y":-500,
+			"width":400,
+			"height":60
+		},
+		{"id":"152f4e0ab923c6e7","type":"file","file":"99. attachments/BLUE_PRINCE_WMuJwLtcw7.png","x":-280,"y":-380,"width":400,"height":225},
+		{
+			"id":"82492db45beaec3c",
+			"type":"text",
+			"text":"Probably a good item for using in every run.",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-100,
+			"width":400,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

@@ -111,7 +111,37 @@
 			"color":"4"
 		},
 		{"id":"c4cd2993547ec750","type":"file","file":"99. attachments/BLUE_PRINCE_xWpKye7jlZ 1.png","x":740,"y":600,"width":400,"height":225},
-		{"id":"ee899ed79fe70d44","type":"file","file":"99. attachments/BLUE_PRINCE_HuyDIS7oFS.png","x":740,"y":860,"width":400,"height":225}
+		{"id":"ee899ed79fe70d44","type":"file","file":"99. attachments/BLUE_PRINCE_HuyDIS7oFS.png","x":740,"y":860,"width":400,"height":225},
+		{
+			"id":"ee29bde4a63f2546",
+			"type":"text",
+			"text":"# Research",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-720,
+			"width":380,
+			"height":60
+		},
+		{
+			"id":"1e85fa9768a17101",
+			"type":"text",
+			"text":"[[Realm & Rune.canvas|Realm & Rune]]",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"79139c12f0fd1ef4",
+			"type":"text",
+			"text":"[[Find All Letter Stamps.canvas|Find All Letter Stamps]]",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-560,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{

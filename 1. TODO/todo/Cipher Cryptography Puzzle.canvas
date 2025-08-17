@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{
+			"id":"cbcfb7f68f111dba",
+			"type":"text",
+			"text":"[[040 - Freezer.canvas|040 - Freezer]]",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0d163f9f13f7dcf3",
+			"type":"text",
+			"text":"The note on the Freezer says that there is a ciphered note.",
+			"styleAttributes":{},
+			"x":-800,
+			"y":-180,
+			"width":260,
+			"height":120
+		},
+		{"id":"82cdc2f94212b9fc","type":"file","file":"99. attachments/BLUE_PRINCE_NBuHs3SEQG.png","x":-520,"y":-180,"width":400,"height":225},
+		{
+			"id":"5342d2a192dcc0f9",
+			"type":"text",
+			"text":"The book [[A New Clue.canvas|A New Clue]], also talks about using some sort of Cipher System to solve a cryptographed message",
+			"styleAttributes":{},
+			"x":-880,
+			"y":140,
+			"width":320,
+			"height":140
+		},
+		{"id":"8e110b2fce5a8dc4","type":"file","file":"99. attachments/BLUE_PRINCE_X8c9ECnWhj.png","x":-520,"y":139,"width":400,"height":282},
+		{"id":"c679904c7b9f92af","type":"file","file":"99. attachments/BLUE_PRINCE_a69A0AkCgt.png","x":-100,"y":140,"width":347,"height":399}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
