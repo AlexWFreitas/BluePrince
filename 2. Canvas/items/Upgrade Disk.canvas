@@ -44,12 +44,23 @@
 			"color":"4"
 		},
 		{
+			"id":"eab57288271d7a92",
+			"type":"text",
+			"text":"[[023 - Vault.canvas|023 - Vault]] - Vault 304",
+			"styleAttributes":{},
+			"x":-740,
+			"y":-100,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"e6f41fcc63d2af1b",
 			"type":"text",
 			"text":"[[Commissary.canvas|Commissary]]",
 			"styleAttributes":{},
 			"x":-740,
-			"y":120,
+			"y":200,
 			"width":260,
 			"height":60,
 			"color":"3"
@@ -60,18 +71,18 @@
 			"text":"[[Great Hall.canvas|Great Hall]]",
 			"styleAttributes":{},
 			"x":-740,
-			"y":40,
+			"y":120,
 			"width":260,
 			"height":60,
 			"color":"3"
 		},
 		{
-			"id":"eab57288271d7a92",
+			"id":"41864fb8ffee3d62",
 			"type":"text",
-			"text":"[[023 - Vault.canvas|023 - Vault]] - Vault 304",
+			"text":"[[The Ladyship Chamber.canvas|The Ladyship Chamber]]",
 			"styleAttributes":{},
 			"x":-740,
-			"y":-100,
+			"y":-20,
 			"width":260,
 			"height":60,
 			"color":"4"

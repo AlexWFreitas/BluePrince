@@ -107,7 +107,19 @@
 			"width":260,
 			"height":60,
 			"color":"1"
-		}
+		},
+		{
+			"id":"d3213ea7aa61fc12",
+			"type":"text",
+			"text":"[[Weight Room.canvas|Weight Room]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":280,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{"id":"54242972d5576f43","type":"file","file":"99. attachments/BLUE_PRINCE_8nMQluUXPM.png","x":820,"y":198,"width":400,"height":225}
 	],
 	"edges":[
 		{
@@ -136,6 +148,15 @@
 			"fromNode":"fbff0330352dff5a",
 			"fromSide":"right",
 			"toNode":"d06c92dd70a022bb",
+			"toSide":"left"
+		},
+		{
+			"id":"339f4f4e68d46451",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d3213ea7aa61fc12",
+			"fromSide":"right",
+			"toNode":"54242972d5576f43",
 			"toSide":"left"
 		}
 	],

@@ -80,18 +80,12 @@
 		{"id":"2f0d9cdf284b63a7","type":"text","text":"Chief - Chef = I - C1R9","x":-7195,"y":543,"width":250,"height":60,"color":"4"},
 		{"id":"1cd462074d8e3445","type":"file","file":"99. attachments/BLUE_PRINCE_TOZgEB8ffr.png","x":-7270,"y":240,"width":400,"height":225,"color":"4"},
 		{"id":"8c7a15326fda3d9e","type":"text","text":"FLIGHT - LIGHT = F - C2R9","x":-6640,"y":500,"width":300,"height":117,"color":"4"},
-		{"id":"c8c6a0007718a17d","type":"file","file":"99. attachments/BLUE_PRINCE_PqdJSCQHjp.png","x":-6742,"y":3892,"width":400,"height":225,"color":"4"},
-		{"id":"aff18859c5c0f224","type":"text","text":"Pray - Pry - A - C2R1","x":-6667,"y":4192,"width":250,"height":60,"color":"4"},
 		{"id":"f9b62dc8715d6102","type":"file","file":"99. attachments/BLUE_PRINCE_N3ZPqVpm9E.png","x":-6707,"y":2691,"width":400,"height":225,"color":"4"},
 		{"id":"0d8bd1e22fb7855a","type":"text","text":"Coat - Cot = A - C2R4","x":-6640,"y":2990,"width":250,"height":60,"color":"4"},
 		{"id":"67a57ed14771c8c1","type":"file","file":"99. attachments/BLUE_PRINCE_3GRJBN2RjM.png","x":-5787,"y":2691,"width":400,"height":225,"color":"4"},
 		{"id":"61ae236445209b52","type":"text","text":"Fire -  Fir = E - C4R4","x":-5712,"y":2981,"width":250,"height":60,"color":"4"},
 		{"id":"2b5ca6f0334bae47","type":"file","file":"99. attachments/BLUE_PRINCE_AOEQXTvbB8.png","x":-5266,"y":2153,"width":400,"height":225,"color":"4"},
 		{"id":"cc4178d928596f6d","type":"text","text":"TENT - TEN = T C5R5","x":-5157,"y":2451,"width":250,"height":60,"color":"4"},
-		{"id":"a3647467889ac81f","type":"file","file":"99. attachments/BLUE_PRINCE_t2al2QEYOR.png","x":-7314,"y":3452,"width":400,"height":225,"color":"4"},
-		{"id":"8323c4262261219b","type":"text","text":"Crow - Row = C? C1R2","x":-7280,"y":3729,"width":250,"height":60,"color":"4"},
-		{"id":"a3cfc6d884b1762c","type":"file","file":"99. attachments/BLUE_PRINCE_DcpJTGmQeK.png","x":-7314,"y":3892,"width":400,"height":225,"color":"4"},
-		{"id":"387168bed2e49411","type":"text","text":"Dessert - Desert = S - C1R1","x":-7280,"y":4192,"width":250,"height":60,"color":"4"},
 		{"id":"ef4c3da89e73d4cb","type":"file","file":"99. attachments/BLUE_PRINCE_4ZnKA1FAxb.png","x":-6280,"y":1620,"width":400,"height":225,"color":"4"},
 		{"id":"e7a9cc9cbbf1048d","type":"text","text":"Planet - Plane = T - C3R6","x":-6240,"y":1880,"width":250,"height":60,"color":"4"},
 		{"id":"04ce05fe619a61e7","type":"file","file":"99. attachments/BLUE_PRINCE_3BTmkfTqd6.png","x":-6840,"y":1200,"width":400,"height":225,"color":"4"},
@@ -114,7 +108,49 @@
 			"color":"4"
 		},
 		{"id":"747f092b91423244","type":"file","file":"99. attachments/BLUE_PRINCE_E9hb06GCdD.png","x":-6872,"y":1620,"width":400,"height":225,"color":"4"},
-		{"id":"b4fdcde82049f99d","type":"file","file":"99. attachments/BLUE_PRINCE_i4MMoN895b.png","x":-6792,"y":1580,"width":400,"height":225,"color":"4"}
+		{"id":"b4fdcde82049f99d","type":"file","file":"99. attachments/BLUE_PRINCE_i4MMoN895b.png","x":-6792,"y":1580,"width":400,"height":225,"color":"4"},
+		{
+			"id":"d967c3eccdc154f2",
+			"type":"text",
+			"text":"Clock - Lock = C - C4R3",
+			"styleAttributes":{},
+			"x":-5760,
+			"y":3440,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"888acca7b36fec48","type":"file","file":"99. attachments/BLUE_PRINCE_gkzM5EipKW.png","x":-5787,"y":3080,"width":325,"height":317,"color":"4"},
+		{"id":"ef2816d5077e7ab2","type":"file","file":"99. attachments/BLUE_PRINCE_UWZZs5zF3P.png","x":-5360,"y":3580,"width":400,"height":165},
+		{
+			"id":"ffcbdc9d02470134",
+			"type":"text",
+			"text":"CART - CAR = T - C5R2",
+			"styleAttributes":{},
+			"x":-5290,
+			"y":3799,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"a3647467889ac81f","type":"file","file":"99. attachments/BLUE_PRINCE_t2al2QEYOR.png","x":-7287,"y":3604,"width":400,"height":225,"color":"4"},
+		{"id":"a3cfc6d884b1762c","type":"file","file":"99. attachments/BLUE_PRINCE_DcpJTGmQeK.png","x":-7287,"y":4044,"width":400,"height":225,"color":"4"},
+		{"id":"8323c4262261219b","type":"text","text":"Crow - Row = C? C1R2","x":-7253,"y":3881,"width":250,"height":60,"color":"4"},
+		{"id":"387168bed2e49411","type":"text","text":"Dessert - Desert = S - C1R1","x":-7253,"y":4344,"width":250,"height":60,"color":"4"},
+		{"id":"c8c6a0007718a17d","type":"file","file":"99. attachments/BLUE_PRINCE_PqdJSCQHjp.png","x":-6715,"y":4044,"width":400,"height":225,"color":"4"},
+		{"id":"aff18859c5c0f224","type":"text","text":"Pray - Pry - A - C2R1","x":-6640,"y":4344,"width":250,"height":60,"color":"4"},
+		{
+			"id":"d1fbb4581e529643",
+			"type":"text",
+			"text":"Road - Rod = A - C3R3",
+			"styleAttributes":{},
+			"x":-6227,
+			"y":3470,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"23e664e84a77a968","type":"file","file":"99. attachments/BLUE_PRINCE_0zQUjOfR7b.png","x":-6233,"y":3080,"width":273,"height":327,"color":"4"}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},
@@ -164,7 +200,16 @@
 		{"id":"72f3e80460f8ec69","fromNode":"0d8bd1e22fb7855a","fromSide":"top","toNode":"f9b62dc8715d6102","toSide":"bottom"},
 		{"id":"92fb9d71ac0c07cd","fromNode":"61ae236445209b52","fromSide":"top","toNode":"67a57ed14771c8c1","toSide":"bottom"},
 		{"id":"df800ebd816c6b26","fromNode":"e7a9cc9cbbf1048d","fromSide":"top","toNode":"ef4c3da89e73d4cb","toSide":"bottom"},
-		{"id":"5d9162ef81b013f6","fromNode":"ae04553d9165a2a0","fromSide":"top","toNode":"617b06b19e58363c","toSide":"bottom"}
+		{"id":"5d9162ef81b013f6","fromNode":"ae04553d9165a2a0","fromSide":"top","toNode":"617b06b19e58363c","toSide":"bottom"},
+		{
+			"id":"d805189f9f8205d2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d1fbb4581e529643",
+			"fromSide":"top",
+			"toNode":"23e664e84a77a968",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

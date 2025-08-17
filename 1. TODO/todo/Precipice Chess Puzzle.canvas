@@ -14,7 +14,7 @@
 		{
 			"id":"9f18c643f25d7639",
 			"type":"text",
-			"text":"Queen and King comes from [[026 - Study.canvas|026 - Study]] and [[024 - Office.canvas|024 - Office]]",
+			"text":"Queen and King comes from [[026 - Study.canvas|026 - Study]], [[The Ladyship Chamber.canvas|The Ladyship Chamber]] and [[024 - Office.canvas|024 - Office]]",
 			"styleAttributes":{},
 			"x":-530,
 			"y":-200,
@@ -31,17 +31,23 @@
 			"y":-60,
 			"width":380,
 			"height":160,
-			"color":"3"
+			"color":"4"
 		},
+		{"id":"656d86e7e983122b","type":"file","file":"99. attachments/BLUE_PRINCE_NE9J8mPVij.png","x":-1040,"y":-345,"width":400,"height":225},
+		{"id":"76d7430dc92e9cac","type":"file","file":"99. attachments/BLUE_PRINCE_gBlLnPavX1.png","x":-1040,"y":-620,"width":400,"height":225},
+		{"id":"fad34583a93564a5","type":"file","file":"99. attachments/BLUE_PRINCE_6fRr7CUyGi.png","x":-1480,"y":-620,"width":400,"height":225},
+		{"id":"7b94cb9914750b1d","type":"file","file":"99. attachments/BLUE_PRINCE_6aD2s33TEB.png","x":-1040,"y":-65,"width":400,"height":225},
+		{"id":"b803c35a9652c768","type":"file","file":"99. attachments/BLUE_PRINCE_yL6ej4h0nS.png","x":-1480,"y":-60,"width":400,"height":225},
+		{"id":"2b53481dfe4ecad4","type":"file","file":"99. attachments/BLUE_PRINCE_s8WCczCdZC.png","x":-1480,"y":-345,"width":400,"height":225},
 		{
-			"id":"3053094b9079d280",
+			"id":"ac9b1ef002ca3a06",
 			"type":"text",
-			"text":"This could be related to [[Precipice Door Puzzle.canvas|Precipice Door Puzzle]] and [[Precipice Castle Puzzle.canvas|Precipice Castle Puzzle]].\n\nSpecially because \"castling\" is a certain type of move that exists in Chess.",
+			"text":"After solving the puzzle, you can obtain a permanent power among these pieces. Apparently you can change the chosen piece by doing something (probably doing the puzzle again.)",
 			"styleAttributes":{},
-			"x":-510,
-			"y":160,
-			"width":340,
-			"height":200
+			"x":-1220,
+			"y":260,
+			"width":460,
+			"height":160
 		}
 	],
 	"edges":[

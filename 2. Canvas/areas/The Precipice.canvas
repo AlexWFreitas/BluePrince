@@ -4,7 +4,6 @@
 		{"id":"42ac9329bc3029b2","type":"file","file":"99. attachments/BLUE_PRINCE_Wkus3Sy2gy.png","x":-180,"y":-400,"width":400,"height":225},
 		{"id":"81094c90fd22ef92","type":"file","file":"99. attachments/BLUE_PRINCE_VTKr5lOpdk.png","x":-1260,"y":-695,"width":400,"height":225},
 		{"id":"a4304b2a4ef373b5","type":"file","file":"99. attachments/BLUE_PRINCE_OKyNGBrwW6.png","x":-1260,"y":-435,"width":400,"height":225},
-		{"id":"74038f534fa8b4f7","type":"file","file":"99. attachments/BLUE_PRINCE_3GG6JuZgK5.png","x":-1260,"y":-175,"width":400,"height":225},
 		{"id":"7d5c732826332f4b","type":"file","file":"99. attachments/BLUE_PRINCE_Iaz7cTBAgc.png","x":-600,"y":-140,"width":400,"height":225},
 		{"id":"b58539a440f5fd6d","type":"file","file":"99. attachments/BLUE_PRINCE_HCVlig5sxC.png","x":-180,"y":-140,"width":400,"height":225},
 		{"id":"ef0fa7292affb0fe","type":"file","file":"99. attachments/BLUE_PRINCE_0gfWTMBpQo.png","x":-600,"y":120,"width":400,"height":225},
@@ -15,8 +14,6 @@
 		{"id":"f5009bfb6f31d2ab","type":"file","file":"99. attachments/BLUE_PRINCE_P4RBsEqgV3.png","x":-179,"y":640,"width":400,"height":225},
 		{"id":"b99e1681d55be9d7","type":"text","text":"Red\nMartial\nFog\nRe---?","x":-58,"y":921,"width":250,"height":179},
 		{"id":"a22529b7215d4529","type":"file","file":"99. attachments/BLUE_PRINCE_Z1bDESFQrA.png","x":-1240,"y":240,"width":180,"height":400},
-		{"id":"da307cbe0342a809","type":"file","file":"99. attachments/BLUE_PRINCE_yFnn13AEhz.png","x":-2200,"y":-62,"width":400,"height":225},
-		{"id":"cffe72601ee624bb","type":"text","text":"Power Hammer - [[Items.canvas|Items]]","x":-2125,"y":233,"width":250,"height":60},
 		{"id":"31e0afeeff38e959","type":"file","file":"99. attachments/BLUE_PRINCE_45iDUn5RGF.png","x":-2277,"y":468,"width":805,"height":453},
 		{
 			"id":"c7df8a298dc6119c",
@@ -39,10 +36,110 @@
 			"y":-240,
 			"width":260,
 			"height":60
-		}
+		},
+		{
+			"id":"341cb9cd6701396a",
+			"type":"text",
+			"text":"After unlocking [[The Precipice.canvas|The Precipice]] through the [[Blue Fire Puzzle.canvas|Blue Fire Puzzle]], you need to draft rooms until you have at least one of each chess piece.",
+			"styleAttributes":{},
+			"x":-430,
+			"y":-1840,
+			"width":440,
+			"height":120,
+			"color":"4"
+		},
+		{
+			"id":"cb99ac7ea4881008",
+			"type":"text",
+			"text":"Queen and King comes from [[026 - Study.canvas|026 - Study]], [[The Ladyship Chamber.canvas|The Ladyship Chamber]] and [[024 - Office.canvas|024 - Office]]",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-1660,
+			"width":380,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"44ae8322e28cb819",
+			"type":"text",
+			"text":"After drafting those rooms, go to [[The Precipice.canvas|The Precipice]], go to the chess puzzle and place the pieces exactly on where the rooms with the respective chess pieces are, this should solve the puzzle.",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-1520,
+			"width":380,
+			"height":160,
+			"color":"4"
+		},
+		{"id":"e429b1d9ba68e823","type":"file","file":"99. attachments/BLUE_PRINCE_NE9J8mPVij.png","x":-910,"y":-1805,"width":400,"height":225},
+		{"id":"9353f4ca97665b23","type":"file","file":"99. attachments/BLUE_PRINCE_gBlLnPavX1.png","x":-910,"y":-2080,"width":400,"height":225},
+		{"id":"d9c5b6b215f98db7","type":"file","file":"99. attachments/BLUE_PRINCE_6fRr7CUyGi.png","x":-1350,"y":-2080,"width":400,"height":225},
+		{"id":"f84c94614484f4a3","type":"file","file":"99. attachments/BLUE_PRINCE_6aD2s33TEB.png","x":-910,"y":-1525,"width":400,"height":225},
+		{"id":"11d6efce47af7e66","type":"file","file":"99. attachments/BLUE_PRINCE_yL6ej4h0nS.png","x":-1350,"y":-1520,"width":400,"height":225},
+		{"id":"e530c37f409197a3","type":"file","file":"99. attachments/BLUE_PRINCE_s8WCczCdZC.png","x":-1350,"y":-1805,"width":400,"height":225},
+		{
+			"id":"cf313683859d8d44",
+			"type":"text",
+			"text":"After solving the puzzle, you can obtain a permanent power among these pieces. Apparently you can change the chosen piece by doing something (probably doing the puzzle again.)",
+			"styleAttributes":{},
+			"x":-1090,
+			"y":-1200,
+			"width":460,
+			"height":160
+		},
+		{
+			"id":"42920da7e9002e4a",
+			"type":"text",
+			"text":"[[Abandoned Mine Torch Room Puzzle.canvas|Abandoned Mine Torch Room Puzzle]]",
+			"styleAttributes":{},
+			"x":-2005,
+			"y":1011,
+			"width":260,
+			"height":60
+		},
+		{"id":"da307cbe0342a809","type":"file","file":"99. attachments/BLUE_PRINCE_yFnn13AEhz.png","x":-3440,"y":198,"width":400,"height":225},
+		{"id":"cffe72601ee624bb","type":"text","text":"Power Hammer - [[Items.canvas|Items]]","x":-3365,"y":493,"width":250,"height":60},
+		{
+			"id":"dc6aa23886039dd2",
+			"type":"text",
+			"text":"[[Precipice Chess Puzzle.canvas|Precipice Chess Puzzle]]",
+			"styleAttributes":{},
+			"x":-1200,
+			"y":-2240,
+			"width":260,
+			"height":60
+		},
+		{"id":"ae5a975c800bb88d","type":"file","file":"99. attachments/BLUE_PRINCE_FmcWw7Cj9K.png","x":-1872,"y":-2080,"width":400,"height":225},
+		{"id":"74038f534fa8b4f7","type":"file","file":"99. attachments/BLUE_PRINCE_3GG6JuZgK5.png","x":-1872,"y":-1805,"width":400,"height":225}
 	],
 	"edges":[
-		{"id":"b02d955c37416a88","toFloating":false,"fromNode":"cffe72601ee624bb","fromSide":"top","toNode":"da307cbe0342a809","toSide":"bottom"}
+		{"id":"b02d955c37416a88","toFloating":false,"fromNode":"cffe72601ee624bb","fromSide":"top","toNode":"da307cbe0342a809","toSide":"bottom"},
+		{
+			"id":"b5deb70a766a34c2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"341cb9cd6701396a",
+			"fromSide":"bottom",
+			"toNode":"cb99ac7ea4881008",
+			"toSide":"top"
+		},
+		{
+			"id":"12cd2637d49ad34b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cb99ac7ea4881008",
+			"fromSide":"bottom",
+			"toNode":"44ae8322e28cb819",
+			"toSide":"top"
+		},
+		{
+			"id":"66fdb69f5640f030",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"42920da7e9002e4a",
+			"fromSide":"top",
+			"toNode":"31e0afeeff38e959",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

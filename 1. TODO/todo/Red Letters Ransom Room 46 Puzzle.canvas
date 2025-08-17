@@ -1,5 +1,42 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"8399ee179ac174fe",
+			"type":"text",
+			"text":"Based on the letter on the Office, it seems that the random letter for the Red Letters are not for me, but for Herbert Sinclair, so I am considering this temporarily solved.",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-120,
+			"width":460,
+			"height":120
+		},
+		{"id":"71d378dfa83810ea","type":"file","file":"99. attachments/BLUE_PRINCE_xRUaT6JzT5.png","x":120,"y":58,"width":400,"height":225},
+		{"id":"8cf71157770a0aa5","type":"file","file":"99. attachments/BLUE_PRINCE_3BIAPOV6ma.png","x":540,"y":58,"width":400,"height":225},
+		{"id":"8110f42158762129","type":"file","file":"99. attachments/BLUE_PRINCE_kYYslKFMne.png","x":120,"y":318,"width":400,"height":225},
+		{"id":"fa7619e8b70e3b71","type":"file","file":"99. attachments/BLUE_PRINCE_gtQy7RkwRx.png","x":540,"y":318,"width":400,"height":225},
+		{"id":"a644c83e8c4e3792","type":"file","file":"99. attachments/BLUE_PRINCE_YyWsuq0zyv.png","x":120,"y":585,"width":400,"height":225},
+		{
+			"id":"c34d06f471cafc1b",
+			"type":"text",
+			"text":"[[024 - Office.canvas|024 - Office]]",
+			"styleAttributes":{},
+			"x":-180,
+			"y":58,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8b5ecadc5b1e73e9",
+			"type":"text",
+			"text":"[[Red Letters.canvas|Red Letters]]",
+			"styleAttributes":{},
+			"x":-180,
+			"y":141,
+			"width":260,
+			"height":60
+		},
+		{"id":"db045d6e52baf784","type":"file","file":"99. attachments/BLUE_PRINCE_chfup24xXh.png","x":260,"y":-225,"width":400,"height":225}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

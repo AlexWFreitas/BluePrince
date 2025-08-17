@@ -97,6 +97,17 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"c78ebecedff0b39f",
+			"type":"text",
+			"text":"[[040 - Freezer.canvas|040 - Freezer]]",
+			"styleAttributes":{},
+			"x":340,
+			"y":0,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[],

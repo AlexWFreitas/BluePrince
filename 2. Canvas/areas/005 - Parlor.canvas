@@ -107,7 +107,21 @@
 		{"id":"9d4a35577f73b042","type":"file","file":"99. attachments/BLUE_PRINCE_uda1hOooyC.png","x":-1680,"y":2240,"width":400,"height":227,"color":"4"},
 		{"id":"023a7787ffa2652e","type":"file","file":"99. attachments/BLUE_PRINCE_CWdO5WbRnC.png","x":-1241,"y":2240,"width":400,"height":153,"color":"4"},
 		{"id":"c89e95e4a799ad78","type":"file","file":"99. attachments/BLUE_PRINCE_b7X5On04nZ.png","x":-820,"y":2264,"width":400,"height":203,"color":"1"},
-		{"id":"1c29e927e8d73f34","type":"file","file":"99. attachments/BLUE_PRINCE_a5EtQv7Nyp.png","x":-360,"y":2317,"width":400,"height":326}
+		{"id":"1c29e927e8d73f34","type":"file","file":"99. attachments/BLUE_PRINCE_a5EtQv7Nyp.png","x":-360,"y":2317,"width":400,"height":326},
+		{"id":"556fa26e8dc76959","type":"file","file":"99. attachments/BLUE_PRINCE_5JE0iQlyQO.png","x":-1680,"y":2643,"width":400,"height":242,"color":"4"},
+		{"id":"e24e29b435b12f57","type":"file","file":"99. attachments/BLUE_PRINCE_ZfVlvBKdE1.png","x":-1240,"y":2666,"width":400,"height":197,"color":"4"},
+		{"id":"90940870a4dd9d2c","type":"file","file":"99. attachments/BLUE_PRINCE_hguSGseLbI.png","x":-800,"y":2668,"width":400,"height":195,"color":"1"},
+		{
+			"id":"113d062d15479011",
+			"type":"text",
+			"text":"This box is empty\nThis box is empty\nThis puzzle is harder than it seems",
+			"styleAttributes":{},
+			"x":-1980,
+			"y":2646,
+			"width":260,
+			"height":120
+		},
+		{"id":"f6c3b15eb713aed7","type":"file","file":"99. attachments/BLUE_PRINCE_n6sd2kadm5.png","x":-360,"y":2668,"width":400,"height":293}
 	],
 	"edges":[],
 	"metadata":{

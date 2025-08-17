@@ -16,8 +16,8 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 892.7060863443495,
-                  "y": 1277.5863418548113,
+                  "x": 675.2321422247057,
+                  "y": 1306.1595607902384,
                   "zoom": -0.6666666666666665
                 }
               },
@@ -81,75 +81,41 @@
             }
           },
           {
-            "id": "f5e928259c29fdab",
+            "id": "8bcab713d6738f0a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/books/The History of Orindia - First Edition.canvas",
+                "file": "2. Canvas/areas/Shrine.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 39.5,
-                  "zoom": 0
+                  "x": 369.97581111043115,
+                  "y": 340.475,
+                  "zoom": -0.7710033264814025
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "The History of Orindia - First Edition"
+              "title": "Shrine"
             }
           },
           {
-            "id": "60c38d9a2b53906e",
+            "id": "6f56e3340976f904",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/areas/Abandoned Mine.canvas",
+                "file": "2. Canvas/areas/035 - Workshop.canvas",
                 "viewState": {
-                  "x": -563.3605870020965,
-                  "y": 520.1540880503145,
-                  "zoom": -0.24808668981500412
+                  "x": -1110,
+                  "y": -102.5,
+                  "zoom": -0.5215880946998668
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Abandoned Mine"
+              "title": "035 - Workshop"
             }
           },
           {
-            "id": "cda33c57b4003124",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/Lady Epsen Diary.canvas",
-                "viewState": {
-                  "x": -537,
-                  "y": -712.4921875,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lady Epsen Diary"
-            }
-          },
-          {
-            "id": "a538bc6f3294c5df",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/Precipice Door Puzzle.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Precipice Door Puzzle"
-            }
-          },
-          {
-            "id": "ebbb0ed595d3e851",
+            "id": "a3b674e9bcc55561",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -166,63 +132,114 @@
             }
           },
           {
-            "id": "c07c0bb48c7a09c5",
+            "id": "b8a92a503e5dbe6f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/items/Magnifying Glass.canvas",
+                "file": "2. Canvas/areas/040 - Freezer.canvas",
                 "viewState": {
-                  "x": 440,
-                  "y": 62.5,
-                  "zoom": -0.26894529471266854
+                  "x": 602.5340670859539,
+                  "y": 75.49528301886792,
+                  "zoom": -0.24106626213723184
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Magnifying Glass"
+              "title": "040 - Freezer"
             }
           },
           {
-            "id": "f4875994f32ac65a",
+            "id": "08291785f2de9fcb",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/items/Power Hammer.canvas",
+                "file": "2. Canvas/items/Burning Glass.canvas",
                 "viewState": {
-                  "x": 20,
-                  "y": -42.5,
+                  "x": 100,
+                  "y": -165.5,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Power Hammer"
+              "title": "Burning Glass"
             }
           },
           {
-            "id": "a08075c3a5c10691",
+            "id": "fe45a4e9baa82228",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/items/Jack Hammer.canvas",
+                "file": "2. Canvas/areas/032 - Boiler Room.canvas",
                 "viewState": {
-                  "x": -160,
-                  "y": -227.5,
+                  "x": -847,
+                  "y": -122,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Jack Hammer"
+              "title": "032 - Boiler Room"
             }
           },
           {
-            "id": "7bafc68afb90b9c7",
+            "id": "cb5137cab8864959",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Beat Dare Mode.canvas",
+                "file": "2. Canvas/areas/The Precipice.canvas",
+                "viewState": {
+                  "x": -485.77638888888896,
+                  "y": -1722.8131944444451,
+                  "zoom": -1.346168961974871
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Precipice"
+            }
+          },
+          {
+            "id": "3ff623c80fb2b93b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/The Precipice.canvas",
+                "viewState": {
+                  "x": -1609.5,
+                  "y": -570,
+                  "zoom": -1.9452904551058383
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Precipice"
+            }
+          },
+          {
+            "id": "0d016e9941175ee6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Spiral Draft Puzzle.canvas",
+                "viewState": {
+                  "x": -280,
+                  "y": 52.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Spiral Draft Puzzle"
+            }
+          },
+          {
+            "id": "5d249c2629f2929f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Red Letters Ransom Room 46 Puzzle.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -230,101 +247,33 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Beat Dare Mode"
+              "title": "Red Letters Ransom Room 46 Puzzle"
             }
           },
           {
-            "id": "0566788142d413ad",
+            "id": "f255e201b7d5fc84",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. TODO/todo/Blackbridge Grotto Puzzle.canvas",
+                "file": "1. TODO/todo/Red Letters Ransom Room 46 Puzzle.canvas",
                 "viewState": {
-                  "x": -270,
-                  "y": -20,
+                  "x": 300,
+                  "y": 173,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Blackbridge Grotto Puzzle"
+              "title": "Red Letters Ransom Room 46 Puzzle"
             }
           },
           {
-            "id": "04aa4faa2e530b40",
+            "id": "fb94a5bd4ef65998",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas/info/Room Upgrades.canvas",
-                "viewState": {
-                  "x": 7.4331370602998845,
-                  "y": 3387.3015149558896,
-                  "zoom": -0.031227979871302547
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Room Upgrades"
-            }
-          },
-          {
-            "id": "ce94ce88f546d176",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Room Upgrades.canvas",
-                "viewState": {
-                  "x": -225.65743344871123,
-                  "y": 3125.378777186188,
-                  "zoom": 0.30210535346203077
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Room Upgrades"
-            }
-          },
-          {
-            "id": "992f3d430ae81768",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Moon Relic.canvas",
-                "viewState": {
-                  "x": -570,
-                  "y": -77.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Moon Relic"
-            }
-          },
-          {
-            "id": "2baa75daae8d16ea",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/Blackbridge Grotto Hidden Logins Puzzle.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -40,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Blackbridge Grotto Hidden Logins Puzzle"
-            }
-          },
-          {
-            "id": "2a41048da527a417",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/Tomb Candles Puzzle.canvas",
+                "file": "1. TODO/todo/Investigate Black Water and RLCF.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -332,79 +281,10 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Tomb Candles Puzzle"
-            }
-          },
-          {
-            "id": "4871b8e289b54062",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/Cloister Puzzle.canvas",
-                "viewState": {
-                  "x": 25,
-                  "y": -120,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cloister Puzzle"
-            }
-          },
-          {
-            "id": "ffebdf12e378a20d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. TODO/todo/Discover Workshop Combinations.canvas",
-                "viewState": {
-                  "x": -250,
-                  "y": -230,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Discover Workshop Combinations"
-            }
-          },
-          {
-            "id": "4ff70deb3a6bbb22",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Day Results.canvas",
-                "viewState": {
-                  "x": -381.43915971632464,
-                  "y": 3176.31369941635,
-                  "zoom": -0.5703274972975914
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Day Results"
-            }
-          },
-          {
-            "id": "ecba89861c320a50",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Moon Relic.canvas",
-                "viewState": {
-                  "x": -440,
-                  "y": 214.5,
-                  "zoom": -0.6666666666666666
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Moon Relic"
+              "title": "Investigate Black Water and RLCF"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -436,7 +316,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: res",
+                "query": "file: room 46",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -457,8 +337,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -553,31 +432,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffa98e77048689be",
+  "active": "b9aaf2342cf53910",
   "lastOpenFiles": [
-    "2. Canvas/info/Moon Relic.canvas",
-    "1. TODO/TODO Canvas.canvas",
-    "2. Canvas/info/Day Results.canvas",
-    "99. attachments/BLUE_PRINCE_i0Z5so0tn0 2.png",
-    "99. attachments/BLUE_PRINCE_i0Z5so0tn0 1.png",
-    "99. attachments/BLUE_PRINCE_i0Z5so0tn0.png",
-    "99. attachments/BLUE_PRINCE_eN5JusaXaJ.mp4",
-    "99. attachments/BLUE_PRINCE_HuyDIS7oFS 1.png",
-    "2. Canvas/areas/Secret Garden.canvas",
-    "2. Canvas/areas/Clock Tower.canvas",
-    "1. TODO/todo/Discover Workshop Combinations.canvas",
-    "2. Canvas/areas/035 - Workshop.canvas",
-    "1. TODO/todo/Cloister Puzzle.canvas",
-    "2. Canvas/areas/Cloister.canvas",
-    "1. TODO/todo/Tomb Candles Puzzle.canvas",
     "1. TODO/continuous/Diary.md",
-    "1. TODO/todo/Blackbridge Grotto Hidden Logins Puzzle.canvas",
-    "99. attachments/BLUE_PRINCE_Hv81pPO6aT.png",
-    "99. attachments/BLUE_PRINCE_Cn0FGHdQpy.png",
-    "99. attachments/BLUE_PRINCE_ERPEViGs1J.png",
-    "99. attachments/BLUE_PRINCE_JyIjxZ5A7y.png",
-    "99. attachments/BLUE_PRINCE_2EYkmt7SLU.png",
-    "99. attachments/BLUE_PRINCE_a5EtQv7Nyp.png",
+    "1. TODO/TODO Canvas.canvas",
+    "1. TODO/todo/Investigate Black Water and RLCF.canvas",
+    "1. TODO/todo/Red Letters Ransom Room 46 Puzzle.canvas",
+    "2. Canvas/areas/046 - Room 46.canvas",
+    "2. Canvas/info/Red Letters.canvas",
+    "2. Canvas/areas/024 - Office.canvas",
+    "1. TODO/todo/Spiral Draft Puzzle.canvas",
+    "1. TODO/todo/Tunnel Exploration.canvas",
+    "1. TODO/todo/Outer Room Lady Puzzle.canvas",
+    "2. Canvas/areas/025 - Drawing Room.canvas",
+    "99. attachments/BLUE_PRINCE_FmcWw7Cj9K.png",
+    "99. attachments/BLUE_PRINCE_gBlLnPavX1.png",
+    "99. attachments/BLUE_PRINCE_s8WCczCdZC.png",
+    "99. attachments/BLUE_PRINCE_yL6ej4h0nS.png",
+    "99. attachments/BLUE_PRINCE_6aD2s33TEB.png",
+    "99. attachments/BLUE_PRINCE_6fRr7CUyGi.png",
+    "99. attachments/BLUE_PRINCE_NE9J8mPVij.png",
+    "99. attachments/BLUE_PRINCE_TuVn9UAvif.png",
+    "Drafting Strategy Vol 3.md",
+    "99. attachments/BLUE_PRINCE_SpXQhrgoFf.png",
+    "99. attachments/BLUE_PRINCE_Vl4Dj1qeuJ.png",
+    "99. attachments/BLUE_PRINCE_eN5JusaXaJ.mp4",
     "3. Notes/Tomb - Lady Epsen Tomb.md",
     "99. attachments/BLUE_PRINCE_fCAGKfzF8a.mp4",
     "99. attachments/BLUE_PRINCE_uF1fhZSs2W.mp4",
@@ -606,7 +485,6 @@
     "3. Notes/Shrine.md",
     "3. Notes/Showroom.md",
     "3. Notes/Shelter.md",
-    "3. Notes/Servant's Quarters.md",
     "attachments",
     "2. Canvas/characters",
     "2. Canvas/papers",

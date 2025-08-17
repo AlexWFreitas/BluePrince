@@ -1,5 +1,26 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"941de58cb651bcca",
+			"type":"text",
+			"text":"[[026 - Study.canvas|026 - Study]]",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"604cc79d15d965f5",
+			"type":"text",
+			"text":"[[With Without Puzzles.canvas|With Without Puzzles]]",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-260,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

@@ -23,6 +23,17 @@
 			"y":-540,
 			"width":560,
 			"height":277
+		},
+		{"id":"f6d5882d44f2b2f9","type":"file","file":"99. attachments/BLUE_PRINCE_to7oDVvfin.png","x":1420,"y":60,"width":400,"height":344},
+		{
+			"id":"3c9168c360f9f8ad",
+			"type":"text",
+			"text":"# Safe Solution\n\nThere are three small statues of Isaac Gates on this room.\nThere is a paper saying March Count.\nThis can be translated to 0303, which is the password for the safe.\n\nThe translated message on [[026 - Study.canvas|026 - Study]] says\nIf we count small gates, eight dates, crack eight safes.\nGates is a reference to Isaac Gates.",
+			"styleAttributes":{},
+			"x":1350,
+			"y":-340,
+			"width":540,
+			"height":320
 		}
 	],
 	"edges":[],

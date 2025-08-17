@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"d20c976a715d5305",
+			"type":"text",
+			"text":"Herbert Sinclair says something about Black Water Children on the note found in the [[040 - Freezer.canvas|040 - Freezer]]",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-260,
+			"width":500,
+			"height":100
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

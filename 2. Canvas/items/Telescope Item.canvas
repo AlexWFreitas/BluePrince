@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"2d032ea45061a3c1","type":"file","file":"99. attachments/BLUE_PRINCE_9ktl4vNO9N.png","x":-480,"y":-80,"width":400,"height":225},
+		{
+			"id":"8333c5671bb883aa",
+			"type":"text",
+			"text":"Gain an additional effect for each constellation observed in the Observatory",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-240,
+			"width":420,
+			"height":100
+		},
+		{
+			"id":"b01c4003b9615c68",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-320,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

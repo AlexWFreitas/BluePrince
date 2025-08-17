@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"c86fc297c80f95ae","type":"file","file":"99. attachments/BLUE_PRINCE_U24x0bI4kC 1.png","x":-640,"y":-280,"width":400,"height":225},
+		{
+			"id":"652aa49bb9cc502d",
+			"type":"text",
+			"text":"I think this note means that I should try to place the Antichamber here through the Monk Blessing?",
+			"styleAttributes":{},
+			"x":-610,
+			"y":-20,
+			"width":340,
+			"height":120
+		}
+	],
+	"edges":[
+		{
+			"id":"751e65f2dbf3a0ff",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"652aa49bb9cc502d",
+			"fromSide":"top",
+			"toNode":"c86fc297c80f95ae",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

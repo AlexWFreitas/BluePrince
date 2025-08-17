@@ -87,3 +87,50 @@ Day 37
 - Stored the Diary Key into the Coat Check.
 - Bought a Moon Pendant at the Showroom, went to the Secret Garden and moved the Moon Relic into display, then waited for the time of the day to become night, then tried to use the Moon Pendant on the Moon Relic or Call a day with the Moon Pendant in inventory at that particular room to see if something happens.
 
+Day 38
+- Moon Pendant gave me back the Burning Glass and Sledgehammer at the start of the run.
+- I drafted the Shrine and donated 49 gold to receive 6 days of The Dancer Blessing
+- Drafted a Library and ordered the Book about Runes
+- Drafted a Conservatory on one of the corners and reconfigured all my custom rarities by resetting rooms that aren't that useful anymore and removing some ones that were hurting my runs, while also changing the three rooms I drafted on this room.
+- In this run, I noticed that by buying the "Swimming Trunks", the gold I could find on the Pool has disappeared, and now there are always two Trunks (Treasure Chests), that need key / sledgehammer to open, it's debatable if this is a good thing.
+- I moved my notes that were on the Library about Drafting Strategy Volume 3 to a new note dedicated to the book.
+- I drafted a Furnace and a Freezer room in an attempt to melt the things inside the Freezer, but I wasn't able to do it closely enough.
+	- Then I discovered that the things in the Freezer room can be melted with the Burning Glass.
+		- This means I found a Prism Key and a Note from Herbert Sinclair that has a different letter stamp.
+		- This also gave me a tip about Safe Locks and how to solve them.
+- Because I froze the gems and gold I had, I started running through the remaining rooms with the Blessing of the Dancer and I was able to draft The Ladyship Chamber for the first time, I entered the room and took notes and pictures of everything, but I didn't have the Diary Key.
+	- I also got an Upgrade Disk here
+	- Found an item called Telescope too
+- I was ready to end the run, but I went to the last place I could draft a room and drafted a Coat Check room, I was able to retrieve the Diary Key.
+- By using the Diary Key, I was able to read Lady Epsen Sleep Diary and discovered that the bedrooms can have an effect into your next run if you end the day at a bedroom room.
+- I noticed that Lady Epsen diary had a picture about the Outer Room, I am not sure if I should try to use the Monk Blessing to place an Antichamber there or Room 46, but there is some secret it seems.
+- While coming back I noticed that the Weight Room looked breakable, so I will probably make a Power Hammer.
+- Then I went to the Coat Check and stored a Broken Lever into it because I want to make a Power Hammer to store in the Coat Check so I can easily check more walls in other runs.
+- I drafted a Workshop on this run but was not able to craft anything.
+- Finally, I went to the Office Room to use one Upgrade Disk I found
+	- I got the 2 Dice Upgrade for the Boudoir, but the 3 Apple one is also very interesting if I was going to use the Laboratory with Apples trigger.
+	- I remembered that the statue above the Safe was Isaac Gates.
+	- I remembered the message on the Room Grid that said something like If We Count Small Gates, Eight Dates Crack Eight Safes.
+	- I remembered that the paper on the Office Desk says March Count in black.
+	- I tried the password 0303 because the first part is March and the second part is Count Small Gates, and there are three small Isaac Gates statues.
+	- The password worked and I got the Red Letter number 8.
+- I went to the Drawing Room next and I changed the meaning of the message to
+	- Count Small Gaits instead of Gates
+	- This means that only the Old Man and the Woman are important.
+	- Since the Woman has the number 4 and for a date you might need 4 numbers, I assumed that she was first and meant 04, meanwhile the old man pictures counted up to 15 I think.
+	- When I tried the number, it worked and I opened the safe on this room too, this gave me the Red Letter number 6.
+- Since I drafted the Office and I had Lady Epsen Chamber, I had both the Queen and the King, so I went to The Precipice to try the Chess Puzzle.
+	- I was able to solve it and it revealed a bunch of giant chess pieces, I could pick one to get a permanent power up during my runs.
+	- The ones that I was interested the most The Rook and The Knight
+	- The Rook allows me to redraw four times on corner areas, this means that it becomes very easy to get a Conservatory to change Rarity on Rooms
+	- The Knight gives me an extra draftable room that I don't know what does.
+	- I picked the Knight, because I am curious about the Armory Room
+	- I saw some text that disappeared very quickly saying that I can change the power by doing something, I suppose solving the Chess Puzzle again.
+	- I plan to change into the Rook to abuse the Conservatory Room, because I need Study Room to become more common and maybe the Laundry Room.
+- In summary, I have 4 Red Letters, opened 4 Safes and now I have an idea of what I should do on the Drafting Studio Safe (Probably 0323) if I count the small gates on the calendar picture.
+- As an additional note, it seems there is some cryptic message using ciphers that I should try to solve based on the Freezer Letter
+- There is also a note with an Spiral starting anti-clockwise, I wonder if I have to start the run going right and then draft a spiral into the center to unlock an special room.
+- One interesting thing is that the Ransom Letter about Red Letters is probably something that happened in the past and was already solved by the time we reach Room 46.
+	- This is evidenced by the red letter in the Office where they say that Herbert should store incriminating letters inside Safes and that they are sorry about what they did.
+	- Is it possible that one of the letters is still with them?
+

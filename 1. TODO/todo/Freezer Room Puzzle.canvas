@@ -29,7 +29,26 @@
 			"y":160,
 			"width":560,
 			"height":120
-		}
+		},
+		{
+			"id":"e68e1c6cb0b5318a",
+			"type":"text",
+			"text":"You can also use the [[Burning Glass.canvas|Burning Glass]] to unfreeze the parts that won't melt.",
+			"styleAttributes":{},
+			"x":-20,
+			"y":-100,
+			"width":360,
+			"height":80
+		},
+		{"id":"260e80cc7be9f206","type":"file","file":"99. attachments/BLUE_PRINCE_IoupguDOwJ.png","x":-500,"y":320,"width":400,"height":225},
+		{"id":"3d790b01993df1aa","type":"file","file":"99. attachments/BLUE_PRINCE_QQeIMkx29S.png","x":-80,"y":320,"width":400,"height":225},
+		{"id":"06c7e84c93d6a5d8","type":"file","file":"99. attachments/BLUE_PRINCE_cpoh08ubcl.png","x":-508,"y":580,"width":336,"height":400},
+		{"id":"432553fc1c6434e9","type":"file","file":"99. attachments/BLUE_PRINCE_NBuHs3SEQG.png","x":-160,"y":580,"width":400,"height":225},
+		{"id":"be51f4cfb3e41ad3","type":"file","file":"99. attachments/BLUE_PRINCE_WmFBUUL6Tu.png","x":260,"y":580,"width":400,"height":225},
+		{"id":"7abe6ce7ce540740","type":"file","file":"99. attachments/BLUE_PRINCE_9HWgxfxcyO.png","x":-160,"y":840,"width":400,"height":225},
+		{"id":"9952029d9e2acdf6","type":"file","file":"99. attachments/BLUE_PRINCE_9FZ1XJX6Q7.png","x":260,"y":840,"width":400,"height":225},
+		{"id":"3bb97f6162d4ee71","type":"file","file":"99. attachments/BLUE_PRINCE_M56vnFSzcY.png","x":-160,"y":1100,"width":400,"height":225},
+		{"id":"1bc32e30507b6067","type":"file","file":"99. attachments/BLUE_PRINCE_OEfGhaqD2b.png","x":260,"y":1100,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{
