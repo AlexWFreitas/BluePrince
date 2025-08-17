@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"418867d7e7b07f33",
+			"type":"text",
+			"text":"[[035 - Workshop.canvas|035 - Workshop]]",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-260,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

@@ -77,6 +77,28 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"b4cb2405243b667a",
+			"type":"text",
+			"text":"[[Tunnel.canvas|Tunnel]]",
+			"styleAttributes":{},
+			"x":-620,
+			"y":80,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"30316585506cc5f2",
+			"type":"text",
+			"text":"[[Tomb.canvas|Tomb]] - Burning Glass",
+			"styleAttributes":{},
+			"x":-320,
+			"y":80,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[

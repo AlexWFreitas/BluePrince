@@ -30,16 +30,8 @@
 			"width":380,
 			"height":120
 		},
-		{
-			"id":"b02d239e5e7435ec",
-			"type":"text",
-			"text":"Need to check if the Statue is breakable, but I guess not.",
-			"styleAttributes":{},
-			"x":-370,
-			"y":-40,
-			"width":380,
-			"height":80
-		}
+		{"id":"b10855b3f2289884","type":"file","file":"99. attachments/BLUE_PRINCE_r0mlRoDl93.png","x":-450,"y":120,"width":400,"height":225},
+		{"id":"452ae1ca8cf6cdff","type":"file","file":"99. attachments/BLUE_PRINCE_b5iCpg9dyv.png","x":-30,"y":120,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

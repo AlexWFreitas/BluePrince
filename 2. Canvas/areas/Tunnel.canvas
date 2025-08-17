@@ -1,9 +1,30 @@
 {
 	"nodes":[
 		{"id":"7e7ee73f07caaa56","type":"file","file":"99. attachments/BLUE_PRINCE_d5x7pINQOy.png","x":-680,"y":-320,"width":400,"height":225},
-		{"id":"a953767572dcfdc5","type":"file","file":"99. attachments/BLUE_PRINCE_Icd1NuePOK.png","x":-680,"y":-60,"width":400,"height":225}
+		{"id":"a953767572dcfdc5","type":"file","file":"99. attachments/BLUE_PRINCE_Icd1NuePOK.png","x":-680,"y":-60,"width":400,"height":225},
+		{"id":"c90f5574929b60f8","type":"file","file":"99. attachments/BLUE_PRINCE_dJHXdMcnI3 1.png","x":-1120,"y":-60,"width":400,"height":225},
+		{
+			"id":"d210c13fcfb3b132",
+			"type":"text",
+			"text":"Rank 9 Column 1 - North",
+			"styleAttributes":{},
+			"x":-1050,
+			"y":220,
+			"width":260,
+			"height":60
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"d4817860a6485199",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d210c13fcfb3b132",
+			"fromSide":"top",
+			"toNode":"c90f5574929b60f8",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

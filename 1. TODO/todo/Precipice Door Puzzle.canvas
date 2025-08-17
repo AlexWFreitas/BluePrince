@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"d639d4a0c9a28cd3",
+			"type":"text",
+			"text":"The door is opened from the [[Abandoned Mine.canvas|Abandoned Mine]], after using the Burning Glass on the Torch Room.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-180,
+			"width":340,
+			"height":120
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

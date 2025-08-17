@@ -42,6 +42,18 @@
 			"y":-330,
 			"width":260,
 			"height":80
+		},
+		{"id":"22efdd2c66c9ce1a","type":"file","file":"99. attachments/BLUE_PRINCE_HuyDIS7oFS 1.png","x":-760,"y":240,"width":400,"height":225},
+		{
+			"id":"c359410b7b15b0b0",
+			"type":"text",
+			"text":"I tried calling a day after night with a moon pendant equipped at the Secret Garden with the Moon Relic visible and nothing happened.",
+			"styleAttributes":{},
+			"x":-1220,
+			"y":240,
+			"width":400,
+			"height":140,
+			"color":"1"
 		}
 	],
 	"edges":[

@@ -64,6 +64,17 @@
 			"width":260,
 			"height":60,
 			"color":"3"
+		},
+		{
+			"id":"eab57288271d7a92",
+			"type":"text",
+			"text":"[[023 - Vault.canvas|023 - Vault]] - Vault 304",
+			"styleAttributes":{},
+			"x":-740,
+			"y":-100,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[],

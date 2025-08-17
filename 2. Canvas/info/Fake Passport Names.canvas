@@ -19,6 +19,16 @@
 			"y":-200,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"3df0da765ccbf3c7",
+			"type":"text",
+			"text":"Jean Ribbon",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-120,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[],

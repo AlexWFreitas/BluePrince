@@ -10,9 +10,51 @@
 		{"id":"b63c88394c4e6d50","type":"file","file":"99. attachments/BLUE_PRINCE_a0K3A4YCcw.png","x":-120,"y":-825,"width":400,"height":225},
 		{"id":"e814d16d4d9f2a95","type":"file","file":"99. attachments/BLUE_PRINCE_hp2rH4HIem.png","x":-975,"y":-180,"width":400,"height":225},
 		{"id":"35a392a7b1a7537d","type":"file","file":"99. attachments/BLUE_PRINCE_xnYx4vg0Qa.png","x":-540,"y":-180,"width":400,"height":225},
-		{"id":"143e1858d799a12b","type":"text","text":"[[Reservoir.canvas|Reservoir]]","x":-700,"y":-580,"width":250,"height":60}
+		{"id":"143e1858d799a12b","type":"text","text":"[[Reservoir.canvas|Reservoir]]","x":-700,"y":-580,"width":250,"height":60},
+		{"id":"72ea5d52d8e4226d","type":"file","file":"99. attachments/BLUE_PRINCE_zCkb97uXbC.png","x":-975,"y":180,"width":400,"height":225},
+		{
+			"id":"d3770c87d0ef9e7d",
+			"type":"text",
+			"text":"[[Burning Glass.canvas|Burning Glass]]",
+			"styleAttributes":{},
+			"x":-905,
+			"y":460,
+			"width":260,
+			"height":60
+		},
+		{"id":"228ca33125e70bae","type":"file","file":"99. attachments/BLUE_PRINCE_rjnXFidgJ1.png","x":-540,"y":180,"width":400,"height":225},
+		{"id":"ca4a8f225f778ad8","type":"file","file":"99. attachments/BLUE_PRINCE_Ygwi1iLCA5.png","x":-575,"y":460,"width":400,"height":225},
+		{
+			"id":"331a81d384a1bffa",
+			"type":"text",
+			"text":"[[The Precipice.canvas|The Precipice]]",
+			"styleAttributes":{},
+			"x":-505,
+			"y":720,
+			"width":260,
+			"height":60
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"59dce92011ecb670",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d3770c87d0ef9e7d",
+			"fromSide":"top",
+			"toNode":"72ea5d52d8e4226d",
+			"toSide":"bottom"
+		},
+		{
+			"id":"14036f2134ee90e2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ca4a8f225f778ad8",
+			"fromSide":"bottom",
+			"toNode":"331a81d384a1bffa",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

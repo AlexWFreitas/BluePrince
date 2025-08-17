@@ -63,4 +63,27 @@ Day 35
 - Drafted Solarium and learned how to open the Cloister
 - Changed the rarity on the Chapel, Trophy Room and Vault, because I will probably be finding more Vault Keys soon and I want the Trophy Room to be slightly more common.
 - Found a Hallpass for the first time when trading an item in the Trading Post.
-- Found small text on some of the notes in the Reservoir area coming from the Sealed Entrance.
+- Found small text on some of the notes in the Reservoir area coming from the Sealed Entrance that are saying that there is a backup lever for every antechamber lever.
+
+Day 36
+- I used Tunnel until the limit of the House and found a Mora Jai Puzzlebox
+- I picked Vault 304 and drafted a Vault
+	- Found a fake passport for Jean Ribbon that is still valid
+	- Found an upgrade disk and used it to upgrade the Parlor to give 3 gems instead of 2.
+
+Day 37
+- Drafted Tomb
+- Got Burning Glass on Coat Check
+- Read the History of Orindia - First Edition book at the Library and took notes about it.
+- Found three areas to use Burning Glass on the Tomb / Abandoned Mines
+	- Lady Epsen Tomb
+	- A hidden wall at the start of the Tomb
+	- Abandoned Mines Torch Room
+- Unlocked the path between Abandoned Mines and The Precipice through the blocked door that was unsolved.
+- Found a letter written in Erajan Language at the Lady Epsen tomb, I still can't translate it properly.
+- Got an Upgrade Disk from a Burning Glass unlockable on the Tomb
+	- Upgraded the Aquarium to Electric Eel Aquarium to use it as a Power Source.
+- Solved a Mora Jai Box on the Tomb in one of the areas unlocked with the Burning Glass.
+- Stored the Diary Key into the Coat Check.
+- Bought a Moon Pendant at the Showroom, went to the Secret Garden and moved the Moon Relic into display, then waited for the time of the day to become night, then tried to use the Moon Pendant on the Moon Relic or Call a day with the Moon Pendant in inventory at that particular room to see if something happens.
+

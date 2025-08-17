@@ -19,7 +19,11 @@
 		{"id":"c868a90786032bfa","type":"file","file":"99. attachments/BLUE_PRINCE_vYUB9p0LQW.png","x":-620,"y":2160,"width":400,"height":310},
 		{"id":"9712621c420d3ba9","type":"file","file":"99. attachments/BLUE_PRINCE_3wszFOMfPb.png","x":-620,"y":2520,"width":400,"height":225},
 		{"id":"041c6575c7fdb35c","type":"file","file":"99. attachments/BLUE_PRINCE_ENsxCvjGAV.png","x":-120,"y":2520,"width":400,"height":225},
-		{"id":"dcbd496d13540d58","type":"file","file":"99. attachments/BLUE_PRINCE_eIY9N18xEx.png","x":-120,"y":2155,"width":400,"height":320}
+		{"id":"dcbd496d13540d58","type":"file","file":"99. attachments/BLUE_PRINCE_eIY9N18xEx.png","x":-120,"y":2155,"width":400,"height":320},
+		{"id":"5d9dbbdb6ece1a5c","type":"file","file":"99. attachments/BLUE_PRINCE_9Cb4lZgE3X.png","x":-620,"y":2780,"width":400,"height":313},
+		{"id":"67e09c2311e1f605","type":"file","file":"99. attachments/BLUE_PRINCE_07RGC410JQ.png","x":-120,"y":2782,"width":399,"height":311},
+		{"id":"3727a0ade8fd713e","type":"file","file":"99. attachments/BLUE_PRINCE_JyIjxZ5A7y.png","x":-620,"y":3140,"width":400,"height":312},
+		{"id":"da1e694d7975ecb6","type":"file","file":"99. attachments/BLUE_PRINCE_ERPEViGs1J.png","x":-120,"y":3141,"width":400,"height":311}
 	],
 	"edges":[
 		{"id":"23f1a7189a90b12f","toFloating":false,"fromNode":"c868a90786032bfa","fromSide":"right","toNode":"dcbd496d13540d58","toSide":"left"},
@@ -30,6 +34,24 @@
 			"fromNode":"9712621c420d3ba9",
 			"fromSide":"right",
 			"toNode":"041c6575c7fdb35c",
+			"toSide":"left"
+		},
+		{
+			"id":"4ac6a30867c45812",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d9dbbdb6ece1a5c",
+			"fromSide":"right",
+			"toNode":"67e09c2311e1f605",
+			"toSide":"left"
+		},
+		{
+			"id":"d36289774fac3db4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3727a0ade8fd713e",
+			"fromSide":"right",
+			"toNode":"da1e694d7975ecb6",
 			"toSide":"left"
 		}
 	],

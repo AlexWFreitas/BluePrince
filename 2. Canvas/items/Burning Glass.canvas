@@ -9,7 +9,7 @@
 			"y":-320,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"916f5495276a7ff9",
@@ -42,17 +42,7 @@
 			"y":-240,
 			"width":260,
 			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"e554c97a0ca6941a",
-			"type":"text",
-			"text":"Progression",
-			"styleAttributes":{},
-			"x":20,
-			"y":-480,
-			"width":260,
-			"height":60
+			"color":"4"
 		},
 		{
 			"id":"1452d1bbd9378787",
@@ -75,7 +65,39 @@
 			"height":100
 		},
 		{"id":"acc91d5460562070","type":"file","file":"99. attachments/BLUE_PRINCE_OfyuLuYJY2.png","x":-400,"y":-250,"width":400,"height":225},
-		{"id":"c76f86d5bb00b022","type":"file","file":"99. attachments/BLUE_PRINCE_nlP4LwUL75.png","x":-400,"y":20,"width":400,"height":209}
+		{"id":"c76f86d5bb00b022","type":"file","file":"99. attachments/BLUE_PRINCE_nlP4LwUL75.png","x":-400,"y":20,"width":400,"height":209},
+		{
+			"id":"e554c97a0ca6941a",
+			"type":"text",
+			"text":"Progression",
+			"styleAttributes":{},
+			"x":340,
+			"y":-560,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1ce38b83b5da4d42",
+			"type":"text",
+			"text":"[[Tomb.canvas|Tomb]]",
+			"styleAttributes":{},
+			"x":340,
+			"y":-160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"af3657c1037b07f7",
+			"type":"text",
+			"text":"[[Tomb.canvas|Tomb]] - Lady Epsen Tomb\n",
+			"styleAttributes":{},
+			"x":340,
+			"y":-85,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[],
 	"metadata":{

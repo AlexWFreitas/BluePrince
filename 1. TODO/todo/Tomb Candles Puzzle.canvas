@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"bfd05ba6bf2501eb",
+			"type":"text",
+			"text":"[[Tomb.canvas|Tomb]]",
+			"styleAttributes":{},
+			"x":-380,
+			"y":-320,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
