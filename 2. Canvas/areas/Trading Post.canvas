@@ -3,9 +3,32 @@
 		{"id":"e1d2f3a3cf57bee1","type":"file","file":"99. attachments/BLUE_PRINCE_OqnaohxBy2.png","x":-540,"y":-300,"width":400,"height":225},
 		{"id":"39aac453b252a6a1","type":"file","file":"99. attachments/BLUE_PRINCE_LOgVBY3Jim.png","x":-60,"y":-300,"width":400,"height":225},
 		{"id":"ad78304ff1ebbe8c","type":"file","file":"99. attachments/BLUE_PRINCE_KbYVcaBTZL.png","x":-320,"y":-20,"width":400,"height":225},
-		{"id":"44fc83ae8f952a4a","type":"file","file":"99. attachments/BLUE_PRINCE_0d93tcA7v4.png","x":-800,"y":-20,"width":400,"height":225}
+		{"id":"44fc83ae8f952a4a","type":"file","file":"99. attachments/BLUE_PRINCE_0d93tcA7v4.png","x":-1480,"y":-160,"width":400,"height":225},
+		{
+			"id":"e525cdfbc26dae47",
+			"type":"text",
+			"text":"[[Burning Glass.canvas|Burning Glass]]",
+			"styleAttributes":{},
+			"x":-1410,
+			"y":93,
+			"width":260,
+			"height":60
+		},
+		{"id":"a419f0f91ee3a8a4","type":"file","file":"99. attachments/ShareX_nIGe8gRj6U.png","x":-1480,"y":205,"width":400,"height":225},
+		{"id":"40f744cc702fbe5e","type":"file","file":"99. attachments/ShareX_FZn5R4KKjI.png","x":-1040,"y":205,"width":400,"height":225},
+		{"id":"2bac8e02c0f56514","type":"file","file":"99. attachments/BLUE_PRINCE_uF1fhZSs2W.mp4","x":-1040,"y":-160,"width":400,"height":225}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"131d1c7feb5c2e62",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e525cdfbc26dae47",
+			"fromSide":"top",
+			"toNode":"44fc83ae8f952a4a",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

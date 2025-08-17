@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"725011de9fce5cbd","type":"file","file":"99. attachments/BLUE_PRINCE_dqb89gqIeP 1.png","x":0,"y":0,"width":400,"height":225},
+		{
+			"id":"fae2843bc741b3f2",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f69d967e92bd6684",
+			"type":"text",
+			"text":"Does not lose steps when travelling between two hallways and also can draft hallways from hallways without paying gems.",
+			"styleAttributes":{},
+			"x":0,
+			"y":-180,
+			"width":380,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

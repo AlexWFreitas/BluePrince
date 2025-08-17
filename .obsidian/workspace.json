@@ -35,8 +35,8 @@
               "state": {
                 "file": "2. Canvas/areas/026 - Study.canvas",
                 "viewState": {
-                  "x": -506.2914287223791,
-                  "y": 922.8657050776546,
+                  "x": -213.0033682766006,
+                  "y": 416.21566070480856,
                   "zoom": 0.562048683779643
                 }
               },
@@ -79,8 +79,77 @@
               "icon": "lucide-file",
               "title": "Diary"
             }
+          },
+          {
+            "id": "9d73189a996ccf2b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/035 - Workshop.canvas",
+                "viewState": {
+                  "x": -1667.3655660377358,
+                  "y": -601.8383696933963,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "035 - Workshop"
+            }
+          },
+          {
+            "id": "02b7ee4d6a8c2407",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Chess Pieces.canvas",
+                "viewState": {
+                  "x": -675.0099542694384,
+                  "y": -444.5850074357081,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Chess Pieces"
+            }
+          },
+          {
+            "id": "5d1d070a0eea646c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Find all Antechamber Levers.canvas",
+                "viewState": {
+                  "x": -332,
+                  "y": 117,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Find all Antechamber Levers"
+            }
+          },
+          {
+            "id": "f9ddf1a96eaffb4f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Day Results.canvas",
+                "viewState": {
+                  "x": -835.5811317215444,
+                  "y": 2521.4368866297436,
+                  "zoom": -0.9036608306309246
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day Results"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -112,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file: day",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +202,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,30 +298,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9aaf2342cf53910",
+  "active": "f9ddf1a96eaffb4f",
   "lastOpenFiles": [
+    "99. attachments/BLUE_PRINCE_Y3K75YUhTp.png",
     "1. TODO/continuous/Diary.md",
-    "2. Canvas/items/Burning Glass.canvas",
-    "1. TODO/TODO Canvas.canvas",
-    "1. TODO/todo/Draft a Mechanarium with 8 doors.canvas",
-    "2. Canvas/info/Rooms Found.canvas",
-    "2. Canvas/areas/026 - Study.canvas",
-    "2. Canvas/items/Dowsing Rod.canvas",
-    "0. New Files/Investigate Rotunda.canvas",
-    "2. Canvas/areas/Mechanarium.canvas",
-    "99. attachments/BLUE_PRINCE_oLwVyk6UvJ.png",
-    "99. attachments/BLUE_PRINCE_mWsqEZH2H5.png",
     "1. TODO/todo/Find all Antechamber Levers.canvas",
     "1. TODO/done/Enter the Antechamber Room.canvas",
+    "2. Canvas/areas/Basement.canvas",
+    "99. attachments/BLUE_PRINCE_4JGoeDzK8R.png",
+    "99. attachments/BLUE_PRINCE_qeoOyf7eX4.png",
+    "99. attachments/BLUE_PRINCE_25IkVOIF7l.png",
+    "99. attachments/BLUE_PRINCE_8zMgdhBbck.png",
+    "2. Canvas/info/Chess Pieces.canvas",
+    "0. New Files/Upgrade Disk.canvas",
+    "2. Canvas/areas/026 - Study.canvas",
+    "2. Canvas/areas/035 - Workshop.canvas",
+    "2. Canvas/info/Items.canvas",
+    "0. New Files/Hallpass.canvas",
+    "99. attachments/BLUE_PRINCE_dqb89gqIeP 1.png",
+    "99. attachments/BLUE_PRINCE_dqb89gqIeP.png",
+    "2. Canvas/areas/007 - Gallery.canvas",
+    "99. attachments/BLUE_PRINCE_S0CCK7c3in.png",
+    "99. attachments/BLUE_PRINCE_uySumviHkC.png",
+    "99. attachments/BLUE_PRINCE_oxFobox5ZP.png",
+    "99. attachments/BLUE_PRINCE_40eLn9fpr3.png",
+    "99. attachments/BLUE_PRINCE_fCAGKfzF8a.mp4",
+    "99. attachments/BLUE_PRINCE_uF1fhZSs2W.mp4",
     "4. Legacy Notes/Old Blue Prince Notes.md",
-    "99. attachments/BLUE_PRINCE_CxcCO3u0d2.png",
-    "99. attachments/BLUE_PRINCE_bhzBhJAjBz.png",
-    "99. attachments/BLUE_PRINCE_hp2rH4HIem.png",
-    "99. attachments/BLUE_PRINCE_8HpTFXdIcY.png",
-    "99. attachments/BLUE_PRINCE_Z234TbJs1v.png",
-    "99. attachments/BLUE_PRINCE_AVZbccV98i.png",
-    "99. attachments/BLUE_PRINCE_pDuBdyqS0B.png",
-    "99. attachments/BLUE_PRINCE_3NJWXREkQt.png",
     "99. attachments/BLUE_PRINCE_Wm1Vu94zfA 1.mp4",
     "99. attachments/BLUE_PRINCE_Wm1Vu94zfA.mp4",
     "4. Legacy Notes/TODO.md",
@@ -282,8 +355,6 @@
     "2. Canvas/characters",
     "2. Canvas/papers",
     "2. Canvas/info",
-    "2. Canvas/books",
-    "2. Canvas/areas",
-    "1. TODO/continuous"
+    "2. Canvas/books"
   ]
 }

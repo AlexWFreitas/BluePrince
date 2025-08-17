@@ -1,61 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"a9cd6d899010867c",
-			"type":"text",
-			"text":"[[Inner Sanctum.canvas|Inner Sanctum]] - North Lever",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-20,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"9ac47a0f325b6402",
-			"type":"text",
-			"text":"[[Secret Garden.canvas|Secret Garden]] - East and West Levers",
-			"styleAttributes":{},
-			"x":-20,
-			"y":-20,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"3feca84a872062f7",
-			"type":"text",
-			"text":"[[Greenhouse.canvas|Greenhouse]] - South Lever",
-			"styleAttributes":{},
-			"x":-580,
-			"y":-20,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"e08f850618860e2a",
-			"type":"text",
-			"text":"[[Weight Room.canvas|Weight Room]] - Lever?",
-			"styleAttributes":{},
-			"x":-460,
-			"y":60,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"4fceb01a635d40eb",
-			"type":"text",
-			"text":"[[Great Hall.canvas|Great Hall]] - East Lever",
-			"styleAttributes":{},
-			"x":-180,
-			"y":60,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"9ddeb42d20509bfa",
 			"type":"text",
 			"text":"# Info\n\nAmong the rooms we know that might have levers we have:\n- [[Greenhouse.canvas|Greenhouse]] (South Door)\n- [[Inner Sanctum.canvas|Inner Sanctum]] (North Door - Leads to [[046 - Room 46.canvas|046 - Room 46]])\n- [[Secret Garden.canvas|Secret Garden]] (East and West Doors)\n- [[Weight Room.canvas|Weight Room]] - Supposedly there is a hidden lever on this room\n- [[Great Hall.canvas|Great Hall]] - Supposedly there is a hidden lever on this room",
@@ -66,13 +11,79 @@
 			"height":400
 		},
 		{
+			"id":"9ac47a0f325b6402",
+			"type":"text",
+			"text":"[[Secret Garden.canvas|Secret Garden]] - West Lever",
+			"styleAttributes":{},
+			"x":-680,
+			"y":270,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"19a5be7724f570ba",
 			"type":"text",
 			"text":"[[Mechanarium.canvas|Mechanarium]] - West Lever",
 			"styleAttributes":{},
-			"x":-580,
-			"y":160,
-			"width":260,
+			"x":-680,
+			"y":190,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4e259babc09df638",
+			"type":"text",
+			"text":"[[Secret Garden.canvas|Secret Garden]] - East Lever",
+			"styleAttributes":{},
+			"x":-360,
+			"y":270,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4fceb01a635d40eb",
+			"type":"text",
+			"text":"[[Great Hall.canvas|Great Hall]] - East Lever",
+			"styleAttributes":{},
+			"x":-360,
+			"y":190,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"3feca84a872062f7",
+			"type":"text",
+			"text":"[[Greenhouse.canvas|Greenhouse]] - South Lever",
+			"styleAttributes":{},
+			"x":-680,
+			"y":90,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e08f850618860e2a",
+			"type":"text",
+			"text":"[[Weight Room.canvas|Weight Room]] - Lever?",
+			"styleAttributes":{},
+			"x":-680,
+			"y":10,
+			"width":280,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"a9cd6d899010867c",
+			"type":"text",
+			"text":"[[Inner Sanctum.canvas|Inner Sanctum]] - North Lever",
+			"styleAttributes":{},
+			"x":-360,
+			"y":90,
+			"width":280,
 			"height":60,
 			"color":"4"
 		}

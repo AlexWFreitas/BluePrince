@@ -1,5 +1,9 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"0e54a32576803b86","type":"file","file":"99. attachments/BLUE_PRINCE_GErdinfz1E.png","x":-700,"y":-300,"width":400,"height":225},
+		{"id":"550b043b1fa49408","type":"file","file":"99. attachments/BLUE_PRINCE_r0mlRoDl93.png","x":-280,"y":-300,"width":400,"height":225},
+		{"id":"044573c0902bc227","type":"file","file":"99. attachments/BLUE_PRINCE_b5iCpg9dyv.png","x":140,"y":-300,"width":400,"height":225}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

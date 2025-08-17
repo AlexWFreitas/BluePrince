@@ -61,7 +61,8 @@
 			"x":440,
 			"y":-100,
 			"width":280,
-			"height":120
+			"height":120,
+			"color":"3"
 		},
 		{"id":"78f4cea67a86b6dc","type":"file","file":"99. attachments/BLUE_PRINCE_AvtVZUFbX5.png","x":840,"y":-152,"width":400,"height":225},
 		{"id":"2ea7d308703e5d00","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":840,"y":102,"width":134,"height":209},
@@ -75,7 +76,19 @@
 			"x":450,
 			"y":380,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"df0639a48236ff8a",
+			"type":"text",
+			"text":"[[A New Clue.canvas|A New Clue]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":-460,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -149,6 +162,15 @@
 			"fromNode":"7ef84c68986eb399",
 			"fromSide":"right",
 			"toNode":"d623576c75ac414a",
+			"toSide":"left"
+		},
+		{
+			"id":"e34a37b0a0c0f7f2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7ef84c68986eb399",
+			"fromSide":"right",
+			"toNode":"df0639a48236ff8a",
 			"toSide":"left"
 		}
 	],

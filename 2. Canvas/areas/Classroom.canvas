@@ -186,12 +186,12 @@
 		{
 			"id":"a26dea5700a7d3f7",
 			"type":"text",
-			"text":"Ovinn Nevarei\n\n**Towards a new future** ??",
+			"text":"Ovinn Nevarei\n\n**Towards a new future** ??\n\nJor = Name\nLor = Word",
 			"styleAttributes":{},
 			"x":2280,
 			"y":7780,
 			"width":380,
-			"height":120
+			"height":225
 		}
 	],
 	"edges":[

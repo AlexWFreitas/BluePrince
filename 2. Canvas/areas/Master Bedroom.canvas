@@ -21,7 +21,19 @@
 		{"id":"f4111a7d355c0a52","type":"file","file":"99. attachments/BLUE_PRINCE_o7t8FuhEdk.png","x":2180,"y":2125,"width":400,"height":225},
 		{"id":"18b19457fad0c59e","type":"file","file":"99. attachments/BLUE_PRINCE_uZfFjUS6E5.png","x":-160,"y":540,"width":400,"height":225},
 		{"id":"31b3a1be2d426395","type":"file","file":"99. attachments/BLUE_PRINCE_qoVB50p17t.png","x":280,"y":260,"width":400,"height":225},
-		{"id":"ab3ee64b636563f5","type":"file","file":"99. attachments/BLUE_PRINCE_PmQQkGI2zq.png","x":700,"y":-20,"width":400,"height":225}
+		{"id":"ab3ee64b636563f5","type":"file","file":"99. attachments/BLUE_PRINCE_PmQQkGI2zq.png","x":700,"y":-20,"width":400,"height":225},
+		{
+			"id":"574f4a9df99fe325",
+			"type":"text",
+			"text":"# Magnifying Glass",
+			"styleAttributes":{},
+			"x":2720,
+			"y":640,
+			"width":420,
+			"height":80
+		},
+		{"id":"53157ddb3e6a5d4b","type":"file","file":"99. attachments/BLUE_PRINCE_TaxWuNPKb8.png","x":2720,"y":807,"width":399,"height":141},
+		{"id":"96b9207c7a1f4051","type":"file","file":"99. attachments/BLUE_PRINCE_08OSwOgi5z.png","x":3160,"y":807,"width":399,"height":257}
 	],
 	"edges":[],
 	"metadata":{

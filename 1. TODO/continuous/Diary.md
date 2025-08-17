@@ -47,3 +47,20 @@ Day 34
 - Ended the run on a Planetarium, therefore gained 2 stars + 1 from observatory.
 - The Billiards Room started to give me different order of operations calculations, it's interesting.
 - I discovered that the Mechanarium can have more than 4 doors, this is very interesting, because there might be something very important there. This may be related to the Inner Sanctum Keys notes tip that says that the key is in the last door.
+
+Day 35
+- Drafted the Trading Post
+- Retrieved the Burning Glass and used it on the Trading Post's dynamite
+- This revealed a hidden room with a Upgrade Disk and a note from Danny Revane to Christoph
+	- They were making illegal moonshine and selling it, but Anne Babbage was close to discovering them.
+- Used the Upgrade Disk to upgrade the Billiard Room into a Billiard Room that adds hallways into the pool, the other option was very interesting though, since starting with a Keycard would make the runs a lot easier.
+- Read the book called A New Clue and got extremely confused.
+	- Added a task related to the Magnifying Glass to read this book later.
+- Found and used the Magnifying Glass on the Red Prince book on the Master Bedroom and on A New Clue on the Library
+- Drafted a Gallery and discovered the name of three paintings, couldn't find the last name though.
+- Stored the Burning Glass on the Coat Check again
+- Found one word from Erajan Language that I didn't know in "A New Clues" book
+- Drafted Solarium and learned how to open the Cloister
+- Changed the rarity on the Chapel, Trophy Room and Vault, because I will probably be finding more Vault Keys soon and I want the Trophy Room to be slightly more common.
+- Found a Hallpass for the first time when trading an item in the Trading Post.
+- Found small text on some of the notes in the Reservoir area coming from the Sealed Entrance.

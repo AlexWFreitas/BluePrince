@@ -66,6 +66,17 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"2a9cf652afef73b1",
+			"type":"text",
+			"text":"[[Solarium.canvas|Solarium]]",
+			"styleAttributes":{},
+			"x":-920,
+			"y":80,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"5e3ace5ea971e860","type":"file","file":"99. attachments/BLUE_PRINCE_1BJ5kJRIYX.png","x":-742,"y":-540,"width":400,"height":225},
+		{"id":"e6ef7df329532b0c","type":"file","file":"99. attachments/BLUE_PRINCE_JnCmWbx4jw.png","x":-302,"y":-540,"width":400,"height":225},
+		{"id":"1333c34b7c83b0c9","type":"file","file":"99. attachments/BLUE_PRINCE_21j3UvWRPn.png","x":138,"y":-540,"width":604,"height":340},
+		{"id":"182b6df915d4e4aa","type":"file","file":"99. attachments/BLUE_PRINCE_As0rjzvUFV.png","x":-742,"y":-280,"width":400,"height":225},
+		{"id":"14aa048bef5e128f","type":"file","file":"99. attachments/BLUE_PRINCE_dpJMDELH9d.png","x":-742,"y":-20,"width":400,"height":225},
+		{"id":"4eb704fb91bf32ee","type":"file","file":"99. attachments/BLUE_PRINCE_OgX8fcAmkO.png","x":-302,"y":-280,"width":400,"height":225},
+		{"id":"034b924d187f9a6f","type":"file","file":"99. attachments/BLUE_PRINCE_l14YajG6qj.png","x":-302,"y":-20,"width":400,"height":225},
+		{"id":"ad99a1451a5b2d72","type":"file","file":"99. attachments/BLUE_PRINCE_wiCSyH5HOZ.png","x":-742,"y":240,"width":400,"height":225},
+		{
+			"id":"a50681d849d44b6a",
+			"type":"text",
+			"text":"Hello, can you teach me a new word?\nAjlor Ulteach Nevlor\nFirst Word, you teach new word.\n\nThe large house is toward the east\nHewam ovett\nLarge House to the East\n\nI will swim at dawn\nElswim nevdau\nI will swim at start of day\n\nI won't read at night\nReadle nai\nLack of me reading at night\n\nThe branches of the tree are old\nTreivenven\nTree end old\n\nThe trunk of the tree is small\nManevtrei\nSmall Start of Tree\n\nAjlor = Hello\nNevdau = New Day / Tomorrow / Dawn\nUlgo = You will go?",
+			"styleAttributes":{},
+			"x":138,
+			"y":-167,
+			"width":604,
+			"height":707
+		},
+		{
+			"id":"160e7d6488a72ee3",
+			"type":"text",
+			"text":"Ovinn Nevarei\n\n**Towards a new future** ??\n\nJor = Name\nLor = Word",
+			"styleAttributes":{},
+			"x":-302,
+			"y":240,
+			"width":380,
+			"height":225
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,5 +1,36 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"f7e1772839208a22",
+			"type":"text",
+			"text":"[[Trading Post.canvas|Trading Post]]",
+			"styleAttributes":{},
+			"x":-420,
+			"y":-260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b258b88c790a11e4",
+			"type":"text",
+			"text":"You can use [[Burning Glass.canvas|Burning Glass]] to ignite the fuse on the dynamite inside the Trading Post.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-140,
+			"width":380,
+			"height":120
+		},
+		{
+			"id":"dcf66a22a165d940",
+			"type":"text",
+			"text":"# Rewards\n- Danny Revane note\n- Some gold\n- [[Upgrade Disk.canvas|Upgrade Disk]]",
+			"styleAttributes":{},
+			"x":0,
+			"y":-40,
+			"width":340,
+			"height":180
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

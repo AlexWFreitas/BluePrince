@@ -1,0 +1,100 @@
+{
+	"nodes":[
+		{"id":"9938da3354eb194a","type":"file","file":"99. attachments/BLUE_PRINCE_DiZn6sHCvZ.png","x":-680,"y":-360,"width":400,"height":225},
+		{"id":"61cee49f6f57e59f","type":"file","file":"99. attachments/BLUE_PRINCE_ap7znXzMgN.png","x":-260,"y":-360,"width":400,"height":225},
+		{"id":"f3da885f7ac125e6","type":"file","file":"99. attachments/BLUE_PRINCE_OZhv9aPSI3.png","x":-680,"y":-100,"width":400,"height":225},
+		{"id":"6c01de4119a8b0b9","type":"file","file":"99. attachments/BLUE_PRINCE_H0f8Sgr6sX.png","x":-260,"y":-100,"width":400,"height":225},
+		{"id":"c435a3b574022791","type":"file","file":"99. attachments/BLUE_PRINCE_8orIns2Kga.png","x":-680,"y":160,"width":400,"height":225},
+		{"id":"bd7c3fd02231499c","type":"file","file":"99. attachments/BLUE_PRINCE_4c2zCpqGK8.png","x":-260,"y":160,"width":400,"height":225},
+		{"id":"9d14cc1794356f6e","type":"file","file":"99. attachments/BLUE_PRINCE_yR1nHFZV80.png","x":-680,"y":420,"width":400,"height":225},
+		{"id":"d194c93c09e9a0f5","type":"file","file":"99. attachments/BLUE_PRINCE_ZdSJtMewt0.png","x":-260,"y":420,"width":400,"height":225},
+		{"id":"16afa97bb2084eb2","type":"file","file":"99. attachments/BLUE_PRINCE_O0stA5n7dE.png","x":-680,"y":680,"width":400,"height":225},
+		{"id":"5a05989124652bc1","type":"file","file":"99. attachments/BLUE_PRINCE_T7fFaafNJp.png","x":-260,"y":680,"width":400,"height":225},
+		{"id":"18a210f486737aaf","type":"file","file":"99. attachments/BLUE_PRINCE_txMUjaee45.png","x":-680,"y":940,"width":400,"height":225},
+		{"id":"1289923b362dba71","type":"file","file":"99. attachments/BLUE_PRINCE_hvUkLRVJfQ.png","x":-260,"y":940,"width":400,"height":225},
+		{
+			"id":"391e26a01e2dc047",
+			"type":"text",
+			"text":"# Magnifying Glass",
+			"styleAttributes":{},
+			"x":600,
+			"y":-560,
+			"width":420,
+			"height":80
+		},
+		{"id":"1bef650d3cb08196","type":"file","file":"99. attachments/BLUE_PRINCE_CplpWeG1F6.png","x":600,"y":-420,"width":400,"height":225},
+		{"id":"7e892756ad4290d8","type":"file","file":"99. attachments/BLUE_PRINCE_ZxTob4qRpZ.png","x":1020,"y":-420,"width":400,"height":225},
+		{"id":"e958ea8fe9fad089","type":"file","file":"99. attachments/BLUE_PRINCE_QMdogIQHI8.png","x":600,"y":-135,"width":400,"height":225},
+		{"id":"acdad1ddc172fad4","type":"file","file":"99. attachments/BLUE_PRINCE_fCAGKfzF8a.mp4","x":1060,"y":-135,"width":400,"height":347},
+		{"id":"54a39c3c789a95d4","type":"file","file":"99. attachments/Obsidian_JqPg4mWFjx.png","x":600,"y":148,"width":400,"height":237},
+		{"id":"e5b7aaf574c2f264","type":"file","file":"99. attachments/BLUE_PRINCE_PAYdcW6m4A.png","x":1060,"y":267,"width":400,"height":225},
+		{"id":"977756733c74d82c","type":"file","file":"99. attachments/BLUE_PRINCE_EpEITDBfjn.png","x":600,"y":420,"width":400,"height":225},
+		{"id":"910cbac40b431760","type":"file","file":"99. attachments/BLUE_PRINCE_r81ZPJNhaO.png","x":1560,"y":273,"width":400,"height":345},
+		{
+			"id":"55e320f1bf2952a6",
+			"type":"text",
+			"text":"The Fixed Stars?",
+			"styleAttributes":{},
+			"x":1630,
+			"y":645,
+			"width":260,
+			"height":60
+		},
+		{"id":"1bbd1325e7f2fced","type":"file","file":"99. attachments/BLUE_PRINCE_FK7RlJNLHu.png","x":600,"y":1165,"width":399,"height":304},
+		{
+			"id":"b1557402c8a70ff9",
+			"type":"text",
+			"text":"Break Vases with Hammer on the First Room of the House",
+			"styleAttributes":{},
+			"x":610,
+			"y":1540,
+			"width":380,
+			"height":80
+		},
+		{"id":"6df9e87b8153651e","type":"file","file":"99. attachments/BLUE_PRINCE_qjd0e48FRA.png","x":1060,"y":565,"width":400,"height":280},
+		{"id":"5921e89db92e5eb7","type":"file","file":"99. attachments/BLUE_PRINCE_8df94EKXog.png","x":600,"y":705,"width":400,"height":237},
+		{"id":"ef323e3df9a9414f","type":"file","file":"99. attachments/BLUE_PRINCE_X8c9ECnWhj.png","x":1060,"y":942,"width":400,"height":282},
+		{"id":"eb7326f0faa2a403","type":"file","file":"99. attachments/BLUE_PRINCE_AL2TJ501Br.png","x":1520,"y":793,"width":400,"height":193},
+		{"id":"86c980bb539f43cb","type":"file","file":"99. attachments/BLUE_PRINCE_8q8dNwPmqr.png","x":1520,"y":1083,"width":400,"height":198},
+		{"id":"cc1743cfd9151952","type":"file","file":"99. attachments/BLUE_PRINCE_a69A0AkCgt.png","x":1060,"y":1269,"width":347,"height":399},
+		{"id":"e2f2b79c349a6dbd","type":"file","file":"99. attachments/BLUE_PRINCE_ROqXjchaIo.png","x":1511,"y":1340,"width":379,"height":400},
+		{"id":"b1171a995fbe4238","type":"file","file":"99. attachments/BLUE_PRINCE_v8Fol75npF.png","x":240,"y":1180,"width":304,"height":400},
+		{"id":"33463b751f180cfd","type":"file","file":"99. attachments/BLUE_PRINCE_UkOACHdPmn.png","x":280,"y":1669,"width":400,"height":271},
+		{"id":"232a0098569491cf","type":"file","file":"99. attachments/BLUE_PRINCE_KeswlgmJGY.png","x":740,"y":1740,"width":400,"height":262},
+		{"id":"adf5c4a1147e9aa3","type":"file","file":"99. attachments/BLUE_PRINCE_YHqSZkcCwb.png","x":1234,"y":1805,"width":400,"height":276},
+		{
+			"id":"441c6ffde2ec2293",
+			"type":"text",
+			"text":"Major = Small Name in [[Eraja Language.canvas|Eraja Language]]",
+			"styleAttributes":{},
+			"x":350,
+			"y":2002,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"5058bf67a8d76646",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b1557402c8a70ff9",
+			"fromSide":"top",
+			"toNode":"1bbd1325e7f2fced",
+			"toSide":"bottom"
+		},
+		{
+			"id":"09574e177fe3c286",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"441c6ffde2ec2293",
+			"fromSide":"top",
+			"toNode":"33463b751f180cfd",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

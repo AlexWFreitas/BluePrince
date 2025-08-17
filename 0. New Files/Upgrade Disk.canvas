@@ -1,0 +1,74 @@
+{
+	"nodes":[
+		{
+			"id":"848d41ce291100fe",
+			"type":"text",
+			"text":"[[014 - Garage.canvas|014 - Garage]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":-260,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"3f017a2ac6d92419",
+			"type":"text",
+			"text":"There are 16 Upgrade Disks, some of the disks may not spawn based on RNG\n- Green = Guaranteed\n- Yellow = RNG",
+			"styleAttributes":{},
+			"x":-740,
+			"y":-600,
+			"width":420,
+			"height":160
+		},
+		{
+			"id":"ebbd0ca45f80b651",
+			"type":"text",
+			"text":"[[024 - Office.canvas|024 - Office]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":-340,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e71bdb11756b1680",
+			"type":"text",
+			"text":"[[Trading Post.canvas|Trading Post]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":-180,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e6f41fcc63d2af1b",
+			"type":"text",
+			"text":"[[Commissary.canvas|Commissary]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":120,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"a2dbd3d9118bd958",
+			"type":"text",
+			"text":"[[Great Hall.canvas|Great Hall]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":40,
+			"width":260,
+			"height":60,
+			"color":"3"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
