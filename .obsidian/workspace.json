@@ -283,8 +283,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Investigate Black Water and RLCF"
             }
+          },
+          {
+            "id": "55224e8029a4c435",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/027 - Library.canvas",
+                "viewState": {
+                  "x": -5378.509061324541,
+                  "y": 2428.3857875398226,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "027 - Library"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -316,7 +334,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: room 46",
+                "query": "file: person",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -337,7 +355,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -432,30 +451,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9aaf2342cf53910",
+  "active": "ffa98e77048689be",
   "lastOpenFiles": [
+    "2. Canvas/areas/027 - Library.canvas",
+    "2. Canvas/areas/Blackbridge Grotto.canvas",
+    "2. Canvas/books/A New Clue.canvas",
+    "99. attachments/BLUE_PRINCE_2fBctWlsFX.png",
+    "99. attachments/BLUE_PRINCE_F9CkEJX2bT.png",
+    "99. attachments/BLUE_PRINCE_JEesI4eOrS.png",
+    "99. attachments/BLUE_PRINCE_kfTq6XGOKD.png",
+    "99. attachments/BLUE_PRINCE_05qKHwc8ZY.png",
+    "99. attachments/BLUE_PRINCE_73DD1J65xZ.png",
+    "99. attachments/BLUE_PRINCE_3QUTDqLqu9.png",
+    "99. attachments/BLUE_PRINCE_BVua3kzQ7P.png",
+    "99. attachments/BLUE_PRINCE_bFEuYJ0FZ7.png",
+    "99. attachments/BLUE_PRINCE_96bvXquDFY.png",
+    "1. TODO/todo/Blackbridge Grotto Hidden Logins Puzzle.canvas",
+    "2. Canvas/characters/1. Person List.canvas",
+    "2. Canvas/info/Fake Passport Names.canvas",
     "1. TODO/continuous/Diary.md",
+    "2. Canvas/info/Rooms Found.canvas",
     "1. TODO/TODO Canvas.canvas",
     "1. TODO/todo/Investigate Black Water and RLCF.canvas",
     "1. TODO/todo/Red Letters Ransom Room 46 Puzzle.canvas",
     "2. Canvas/areas/046 - Room 46.canvas",
-    "2. Canvas/info/Red Letters.canvas",
-    "2. Canvas/areas/024 - Office.canvas",
-    "1. TODO/todo/Spiral Draft Puzzle.canvas",
-    "1. TODO/todo/Tunnel Exploration.canvas",
-    "1. TODO/todo/Outer Room Lady Puzzle.canvas",
-    "2. Canvas/areas/025 - Drawing Room.canvas",
-    "99. attachments/BLUE_PRINCE_FmcWw7Cj9K.png",
-    "99. attachments/BLUE_PRINCE_gBlLnPavX1.png",
-    "99. attachments/BLUE_PRINCE_s8WCczCdZC.png",
-    "99. attachments/BLUE_PRINCE_yL6ej4h0nS.png",
-    "99. attachments/BLUE_PRINCE_6aD2s33TEB.png",
-    "99. attachments/BLUE_PRINCE_6fRr7CUyGi.png",
-    "99. attachments/BLUE_PRINCE_NE9J8mPVij.png",
-    "99. attachments/BLUE_PRINCE_TuVn9UAvif.png",
     "Drafting Strategy Vol 3.md",
-    "99. attachments/BLUE_PRINCE_SpXQhrgoFf.png",
-    "99. attachments/BLUE_PRINCE_Vl4Dj1qeuJ.png",
     "99. attachments/BLUE_PRINCE_eN5JusaXaJ.mp4",
     "3. Notes/Tomb - Lady Epsen Tomb.md",
     "99. attachments/BLUE_PRINCE_fCAGKfzF8a.mp4",

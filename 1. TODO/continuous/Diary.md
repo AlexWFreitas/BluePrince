@@ -91,6 +91,7 @@ Day 38
 - Moon Pendant gave me back the Burning Glass and Sledgehammer at the start of the run.
 - I drafted the Shrine and donated 49 gold to receive 6 days of The Dancer Blessing
 - Drafted a Library and ordered the Book about Runes
+- I tested the password RibbJ from Jean Ribbon into the Blackbridge Terminal and was able to log in, but it seems that it doesn't have extra permissions compared to the other admin logins, there are two more logins left.
 - Drafted a Conservatory on one of the corners and reconfigured all my custom rarities by resetting rooms that aren't that useful anymore and removing some ones that were hurting my runs, while also changing the three rooms I drafted on this room.
 - In this run, I noticed that by buying the "Swimming Trunks", the gold I could find on the Pool has disappeared, and now there are always two Trunks (Treasure Chests), that need key / sledgehammer to open, it's debatable if this is a good thing.
 - I moved my notes that were on the Library about Drafting Strategy Volume 3 to a new note dedicated to the book.
@@ -133,4 +134,8 @@ Day 38
 - One interesting thing is that the Ransom Letter about Red Letters is probably something that happened in the past and was already solved by the time we reach Room 46.
 	- This is evidenced by the red letter in the Office where they say that Herbert should store incriminating letters inside Safes and that they are sorry about what they did.
 	- Is it possible that one of the letters is still with them?
-
+- At the end of the day I tried the RibbJ login on the Blackbridge Terminal and read the admin logs.
+	- I found many deleted messages and discovered one of the other logins (Paul With?? or Phillip With??) that resulted in the login WithP.
+	- It seems that the third missing login is a login that replaced the admin logs with fake messages and that Mary Matthew might have placed tips and clues inside it to either mislead the person or to help them find something.
+		- I suspect that the one who has that login is a Detective like Bon Margle, but I haven't found the correct pattern to log in.
+		- If this is true, then the book A New Clue might also be a red herring made to confuse people while also leaving enough tips for those who can see it.
