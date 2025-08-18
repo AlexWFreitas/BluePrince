@@ -190,3 +190,36 @@ Day 40
 - My main goals for the next few days is to get all unlockable rooms from Drafting Studio and use the Axe on the most important rooms. While tweaking the rarity of the rooms whenever possible so that they make exploration easier.
 - Hooray, we reached 5 Red Letters.
 - Also as a last note, I want to find Room 8.
+
+Day 41
+- Drafted Toolshed and got a Gear Wrench and a Shovel
+- Drafted Workshop and eventually created a Electro Magnet
+	- This means I crafted all workshop items.
+- Since I have the Electro Magnet and the Gear Wrench I was able to change the rarity of almost all Mechanical Rooms, including the Aquarium.
+- I drafted 7 Mechanical Rooms and then drafted a Mechanarium, this gave me a Inner Sanctum Key and an Upgrade Disk.
+	- I noticed that if I draft a Mechanarium on a a place where it can't place doors because of the surrounding sites, it might require less mechanical rooms drafted to reach the Inner Sanctum Key.
+		- Like, maybe it would only require 3-4 mechanical rooms drafted before instead of 7.
+- The upgrade disk was used to upgrade the Cloister to Cloister of Draxus
+	- Gaining four dices por dead end room drafted on the Cloister seems very strong because there are many strong Dead End rooms.
+	- Still not sure if I will be able to draft dead end rooms in the Cloister though.
+		- Synergy with the Secret Passage?
+	- I think the room stopped being Green though, so I might need to use The Axe on the Cloister to remove the cost.
+- Read the book about the Curse of the Black Bridge and took notes of the names in it, since they may be used on the Black Bridge Grotto terminal.
+	- This means I finished reading all books on the Library, except for the Magnifying Glass on each book.
+- Went to the room in Alzara and watched the sixth and last video.
+	- The video was interesting because it seems related to the Curse of the Black Bridge, in that it has shown a Lockbox that may contain a cursed item.
+	- It has also shown a scene about the blue fire puzzle / precipice.
+- I opened all doors to the Antechamber and nothing happened.
+	- I used the Conservatory to tweak the rarities of the Chamber of Mirrors and Foyer
+	- I tweaked another room, that I don't remember very well, but should be useful too.
+- I found a stopwatch item in the Clock Tower.
+- I called a day inside Room 46 with the Moon Pendant in inventory.
+
+Day 42
+- I drafted the Chamber of Mirrors and was able to reach the four corners of the room on the floor height.
+	- Then I noticed that there is a button on the center that takes you to the top of the room, where everything is vertically inverted.
+		- I brought all the glass walls down that I could, while letting the center button area remain open.
+		- After going to the top side, I found a normal key and two "random" floorplans that can be added permanently to the draft pool, this is a dangerous action that can't be reversed I think and can also ruin your drafting pool rng.
+			- I added a copy of the Passageway room, this might be a mistake.
+			- There was a copy of the Pantry, but I don't like that room, so I ignored it.
+- Besides that, I managed to kill my run by pressing a button and then getting stuck in one of the corners of the Chamber of Mirrors, so that's it...

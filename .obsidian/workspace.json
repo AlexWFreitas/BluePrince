@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 2169.4752710455523,
-                  "y": 1277.4278420229982,
-                  "zoom": -0.5681028321830774
+                  "x": 2393.8501956097493,
+                  "y": 1069.0661058439468,
+                  "zoom": -0.3333333333333332
                 }
               },
               "pinned": true,
@@ -89,8 +89,8 @@
               "state": {
                 "file": "2. Canvas/info/With Without Puzzles.canvas",
                 "viewState": {
-                  "x": -5800.454221759099,
-                  "y": 1861.0991108556263,
+                  "x": -6018.454221759099,
+                  "y": 3809.0991108556263,
                   "zoom": -1
                 }
               },
@@ -100,23 +100,126 @@
             }
           },
           {
-            "id": "d74ee0be51f77118",
+            "id": "39095737e9d8a80c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/items/Electro Magnet.canvas",
+                "viewState": {
+                  "x": -380,
+                  "y": -37.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Electro Magnet"
+            }
+          },
+          {
+            "id": "25d08c25697687f2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Sigils.canvas",
+                "viewState": {
+                  "x": 995.9147379459537,
+                  "y": 866.5629594519191,
+                  "zoom": 0.2758921438143764
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sigils"
+            }
+          },
+          {
+            "id": "6e7408f2103f8c19",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "2. Canvas/info/Inner Sanctum Key.canvas",
                 "viewState": {
-                  "x": -947.4070713990711,
-                  "y": -609.6564916833476,
-                  "zoom": -0.3333333333333332
+                  "x": -1100,
+                  "y": -710,
+                  "zoom": -0.07800251200127338
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Inner Sanctum Key"
             }
+          },
+          {
+            "id": "624a864b38ea5919",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Day Results.canvas",
+                "viewState": {
+                  "x": -387.5148713925022,
+                  "y": 3087.771085107817,
+                  "zoom": -0.11809221730371433
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day Results"
+            }
+          },
+          {
+            "id": "047f6f3f318a0f66",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/035 - Workshop.canvas",
+                "viewState": {
+                  "x": -1110,
+                  "y": -110,
+                  "zoom": -0.5388660861317022
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "035 - Workshop"
+            }
+          },
+          {
+            "id": "b1b4330f2e696876",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. TODO/todo/Vault Deposit Items Puzzles.canvas",
+                "viewState": {
+                  "x": -390,
+                  "y": -530,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Vault Deposit Items Puzzles"
+            }
+          },
+          {
+            "id": "9164631409966161",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/areas/028 - Chamber of Mirrors.canvas",
+                "viewState": {
+                  "x": -296,
+                  "y": -60,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "028 - Chamber of Mirrors"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +251,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: day",
+                "query": "file: chamber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +272,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -264,30 +368,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9aaf2342cf53910",
+  "active": "ffa98e77048689be",
   "lastOpenFiles": [
-    "2. Canvas/info/Inner Sanctum Key.canvas",
+    "2. Canvas/areas/028 - Chamber of Mirrors.canvas",
+    "99. attachments/BLUE_PRINCE_VB9krOiOSC.png",
+    "99. attachments/BLUE_PRINCE_f5dSz9zw5k.png",
+    "99. attachments/BLUE_PRINCE_9qjhVNixpx.png",
+    "99. attachments/BLUE_PRINCE_DHnZlSn0Q7.png",
+    "99. attachments/BLUE_PRINCE_GWZxHgHRqu.png",
+    "2. Canvas/areas/005 - Parlor.canvas",
+    "99. attachments/BLUE_PRINCE_rCZXQZc2RL.png",
+    "99. attachments/BLUE_PRINCE_mb8MnHNaJj.png",
+    "99. attachments/BLUE_PRINCE_hL2VOjzlpU.png",
+    "99. attachments/BLUE_PRINCE_MG1gO9wblR.png",
     "1. TODO/TODO Canvas.canvas",
     "1. TODO/continuous/Diary.md",
-    "1. TODO/todo/Find Room 8.canvas",
-    "1. TODO/done/Activate the Boiler Room Generator.canvas",
-    "1. TODO/todo/Find complete Sigils Book.canvas",
-    "2. Canvas/items/Power Hammer.canvas",
+    "1. TODO/todo/Vault Deposit Items Puzzles.canvas",
+    "2. Canvas/areas/035 - Workshop.canvas",
+    "2. Canvas/info/Inner Sanctum Key.canvas",
+    "1. TODO/todo/Discover Workshop Combinations.canvas",
     "2. Canvas/info/Day Results.canvas",
-    "99. attachments/BLUE_PRINCE_jK7qJdSuPd.png",
-    "2. Canvas/info/With Without Puzzles.canvas",
-    "99. attachments/BLUE_PRINCE_Ib8Lgf2zDd.png",
-    "1. TODO/todo/Find all Antechamber Levers.canvas",
-    "2. Canvas/items/Broken Lever.canvas",
-    "2. Canvas/areas/Weight Room.canvas",
-    "99. attachments/BLUE_PRINCE_DYjJb1D6zw.png",
-    "99. attachments/BLUE_PRINCE_8bDtwEk4D5.png",
-    "99. attachments/BLUE_PRINCE_HvsB5C7ZBc.png",
-    "99. attachments/BLUE_PRINCE_H1wXvhCtLc.png",
-    "99. attachments/BLUE_PRINCE_LcLnPFDkNB.png",
-    "99. attachments/BLUE_PRINCE_IOD9MaQn2e.png",
-    "99. attachments/BLUE_PRINCE_d1WJ8RjTTs.png",
-    "99. attachments/BLUE_PRINCE_qf31NWE2Tk.png",
+    "99. attachments/BLUE_PRINCE_EnqZgT1txH.png",
+    "2. Canvas/items/Upgrade Disk.canvas",
+    "2. Canvas/info/Sigils.canvas",
+    "2. Canvas/items/Stopwatch.canvas",
+    "99. attachments/BLUE_PRINCE_DWH9r2OS55.mp4",
     "99. attachments/BLUE_PRINCE_6KsKIV33pz.mp4",
     "3. Notes/ew.md",
     "Drafting Strategy Vol 3.md",
@@ -320,7 +425,6 @@
     "3. Notes/Shrine.md",
     "3. Notes/Showroom.md",
     "attachments",
-    "2. Canvas/characters",
-    "2. Canvas/papers"
+    "2. Canvas/characters"
   ]
 }

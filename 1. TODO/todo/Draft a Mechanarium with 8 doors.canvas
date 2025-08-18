@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"3d752ca33458ffff",
+			"type":"text",
+			"text":"The [[Electro Magnet.canvas|Electro Magnet]] is probably useful for this task.",
+			"styleAttributes":{},
+			"x":-320,
+			"y":-280,
+			"width":360,
+			"height":80
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

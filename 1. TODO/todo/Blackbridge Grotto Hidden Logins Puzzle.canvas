@@ -33,12 +33,12 @@
 		{
 			"id":"132985df6a022a91",
 			"type":"text",
-			"text":"**Attempted Logins**\n- Kirk Darren - DarrK - Fail\n- Jean Ribbon - RibbJ? - Found in Fake Passport\n- Paul / Phillip With??? - WithP - Found in the Terminal Admin Logs after using RibbJ.",
+			"text":"**Attempted Logins**\n- Kirk Darren - DarrK - Fail\n- Jean Ribbon - RibbJ? - Found in Fake Passport\n- Paul / Phillip With??? - WithP - Found in the Terminal Admin Logs after using RibbJ.\n- Bon Margle - Fail\n- Black bridge Book\n\t- Geoffrey Heartslasher\n\t- Jesper\n\t- Miller\n\t- Ravia\n\t- Fodric Lee",
 			"styleAttributes":{},
 			"x":0,
 			"y":-140,
 			"width":480,
-			"height":240
+			"height":420
 		},
 		{"id":"a78003c80c400115","type":"file","file":"99. attachments/BLUE_PRINCE_mb92Ccddpa.png","x":20,"y":-420,"width":400,"height":225}
 	],

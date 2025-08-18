@@ -1,0 +1,50 @@
+{
+	"nodes":[
+		{"id":"7c9afea46238f963","type":"file","file":"99. attachments/BLUE_PRINCE_8H0rrixj9R.png","x":-660,"y":-320,"width":400,"height":225},
+		{"id":"e35a7e4f2ed975fb","type":"file","file":"99. attachments/BLUE_PRINCE_Tg7s1nHdOj.png","x":-240,"y":-320,"width":400,"height":225},
+		{"id":"a9c3875ae9a765ee","type":"file","file":"99. attachments/BLUE_PRINCE_a1CoSMZsNJ.png","x":-660,"y":-60,"width":400,"height":225},
+		{"id":"8c9d556cfe5afc6e","type":"file","file":"99. attachments/BLUE_PRINCE_Cv7PrZKgKO.png","x":-240,"y":-60,"width":400,"height":225},
+		{"id":"a2df502053b80608","type":"file","file":"99. attachments/BLUE_PRINCE_NrKr3IA2hy.png","x":-660,"y":200,"width":400,"height":225},
+		{"id":"70f9c2fbd79827a2","type":"file","file":"99. attachments/BLUE_PRINCE_lfM5KXYATl.png","x":-240,"y":200,"width":400,"height":225},
+		{"id":"cfc9f140ff7b1ba8","type":"file","file":"99. attachments/BLUE_PRINCE_OBne2KOkal.png","x":-660,"y":480,"width":400,"height":225},
+		{"id":"5c84cc4e2e1bca81","type":"file","file":"99. attachments/BLUE_PRINCE_YsQZ3MeqT9.png","x":-240,"y":480,"width":400,"height":225},
+		{"id":"4628e6c128909a17","type":"file","file":"99. attachments/BLUE_PRINCE_gk57NBwemA.png","x":-660,"y":740,"width":400,"height":225},
+		{"id":"1aad72a3f8e12fd2","type":"file","file":"99. attachments/BLUE_PRINCE_YEaiM3CCgy.png","x":-240,"y":740,"width":400,"height":225},
+		{"id":"61eb04af5e71849b","type":"file","file":"99. attachments/BLUE_PRINCE_Pm7MAwmjth.png","x":-660,"y":1000,"width":400,"height":225},
+		{"id":"91becf5a64f3dc38","type":"file","file":"99. attachments/BLUE_PRINCE_zY2HrfCxwH.png","x":-240,"y":1000,"width":400,"height":225},
+		{"id":"b7edb603a4ff946a","type":"file","file":"99. attachments/BLUE_PRINCE_TryLpTqyBs.png","x":-660,"y":1260,"width":400,"height":225},
+		{"id":"93709b8e44f6cbc1","type":"file","file":"99. attachments/BLUE_PRINCE_eJ3jpZvC5X.png","x":-240,"y":1260,"width":400,"height":225},
+		{"id":"7b366533460b3181","type":"file","file":"99. attachments/BLUE_PRINCE_MhpFG11aqy.png","x":-660,"y":1520,"width":400,"height":225},
+		{"id":"7b1588089164a522","type":"file","file":"99. attachments/BLUE_PRINCE_JvtDaRE25s.png","x":-240,"y":1520,"width":400,"height":225},
+		{"id":"d85af8dec9cb8268","type":"file","file":"99. attachments/BLUE_PRINCE_5XSY8TJqv1.png","x":-660,"y":1780,"width":400,"height":225},
+		{"id":"c5038c9416c4db6e","type":"file","file":"99. attachments/BLUE_PRINCE_VHbruzcYpG.png","x":-240,"y":1780,"width":400,"height":225},
+		{"id":"813aaf51280ad4bd","type":"file","file":"99. attachments/BLUE_PRINCE_2dgqTvMtiS.png","x":-660,"y":2040,"width":400,"height":225},
+		{"id":"37ee4e411fb439bf","type":"file","file":"99. attachments/BLUE_PRINCE_6seoad83Ic.png","x":-240,"y":2040,"width":400,"height":225},
+		{"id":"79c189dccc283c0d","type":"file","file":"99. attachments/BLUE_PRINCE_FCCuwkEO7i.png","x":-660,"y":2300,"width":400,"height":225},
+		{"id":"fe2c9c959838c5c6","type":"file","file":"99. attachments/BLUE_PRINCE_EqWXfklQ1U.png","x":-240,"y":2300,"width":400,"height":225},
+		{"id":"741b82a763a1ceec","type":"file","file":"99. attachments/BLUE_PRINCE_RRUzo6ie8c.png","x":-660,"y":2560,"width":400,"height":225},
+		{"id":"f4c6b471b72bdf5b","type":"file","file":"99. attachments/BLUE_PRINCE_mKJaHw41UU.png","x":-240,"y":2560,"width":400,"height":225},
+		{"id":"3d3f668b988e7685","type":"file","file":"99. attachments/BLUE_PRINCE_o50pPrgfY6.png","x":-660,"y":2820,"width":400,"height":225},
+		{"id":"dc84be9e90507295","type":"file","file":"99. attachments/BLUE_PRINCE_Unz38zuU3t.png","x":-240,"y":2820,"width":400,"height":225},
+		{"id":"8e6355d9b8754ea5","type":"file","file":"99. attachments/BLUE_PRINCE_CPBtkqJn6J.png","x":-660,"y":3080,"width":400,"height":225},
+		{"id":"11c4f5a1bc501bc8","type":"file","file":"99. attachments/BLUE_PRINCE_uL5nUOnPzj.png","x":-1320,"y":2709,"width":400,"height":336},
+		{"id":"e5eed2cfec362ef8","type":"file","file":"99. attachments/BLUE_PRINCE_UX9MlfLNNQ.png","x":-1800,"y":2687,"width":400,"height":358},
+		{"id":"96f1b69e5f4aeb7d","type":"file","file":"99. attachments/BLUE_PRINCE_z1zp3pX1A3.png","x":-1800,"y":3080,"width":400,"height":322},
+		{"id":"6d93fb5663d8ddad","type":"file","file":"99. attachments/BLUE_PRINCE_HcMBFE2nTc.png","x":-1800,"y":2300,"width":400,"height":319},
+		{
+			"id":"04fe860d3973fd49",
+			"type":"text",
+			"text":"Maybe there is some sort of cursed item that ends the run in 13 steps?",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-320,
+			"width":360,
+			"height":80
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

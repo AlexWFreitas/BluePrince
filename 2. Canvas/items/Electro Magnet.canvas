@@ -1,5 +1,38 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"8c4be4f8dfd586bc",
+			"type":"text",
+			"text":"Compass + Battery Pack = Electro Magnet",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-200,
+			"width":260,
+			"height":60
+		},
+		{"id":"212fb5af6155c684","type":"file","file":"99. attachments/BLUE_PRINCE_eJgBFuXoQr.png","x":-580,"y":-100,"width":400,"height":225},
+		{"id":"5d7cd8ec7cfb4c58","type":"file","file":"99. attachments/BLUE_PRINCE_6vjoOflCQi.png","x":-580,"y":160,"width":400,"height":225},
+		{
+			"id":"6cd93dac15bd93c1",
+			"type":"text",
+			"text":"More likely to draw mechanical rooms while drafting.",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-100,
+			"width":260,
+			"height":113
+		},
+		{
+			"id":"e3520dbe3ae9a1e5",
+			"type":"text",
+			"text":"Automatically collect coins and keys when entering a room.",
+			"styleAttributes":{},
+			"x":-140,
+			"y":40,
+			"width":260,
+			"height":120
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

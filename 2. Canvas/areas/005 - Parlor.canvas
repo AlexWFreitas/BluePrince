@@ -136,8 +136,8 @@
 		{"id":"b77d40caf59a21a6","type":"file","file":"99. attachments/BLUE_PRINCE_ogdvPsWaUy.png","x":-1240,"y":2960,"width":400,"height":199,"color":"4"},
 		{"id":"05aaeb4b900bc840","type":"file","file":"99. attachments/BLUE_PRINCE_IwKqEQpXaC.png","x":-820,"y":2962,"width":399,"height":197,"color":"4"},
 		{"id":"220688e88f1b7408","type":"file","file":"99. attachments/BLUE_PRINCE_Ak08y1zsTN.png","x":-380,"y":3002,"width":400,"height":315},
-		{"id":"6e013c3b903d7376","type":"file","file":"99. attachments/BLUE_PRINCE_LjHcZPWYuz.png","x":-1820,"y":3480,"width":400,"height":191,"color":"4"},
-		{"id":"3e4cff8d50c0806e","type":"file","file":"99. attachments/BLUE_PRINCE_3nGcNrPoEy.png","x":-1400,"y":3480,"width":400,"height":169,"color":"1"},
+		{"id":"6e013c3b903d7376","type":"file","file":"99. attachments/BLUE_PRINCE_LjHcZPWYuz.png","x":-1820,"y":3480,"width":399,"height":191,"color":"4"},
+		{"id":"3e4cff8d50c0806e","type":"file","file":"99. attachments/BLUE_PRINCE_3nGcNrPoEy.png","x":-1400,"y":3480,"width":399,"height":169,"color":"1"},
 		{"id":"3e500bf10ee13a36","type":"file","file":"99. attachments/BLUE_PRINCE_Wbr8pOq6x6.png","x":-980,"y":3480,"width":400,"height":213,"color":"1"},
 		{
 			"id":"413dc8fbfc01534a",
@@ -149,7 +149,35 @@
 			"width":270,
 			"height":160
 		},
-		{"id":"f34fefceac9e22ae","type":"file","file":"99. attachments/BLUE_PRINCE_qQHqW1282G.png","x":-540,"y":3435,"width":400,"height":304}
+		{"id":"f34fefceac9e22ae","type":"file","file":"99. attachments/BLUE_PRINCE_qQHqW1282G.png","x":-540,"y":3435,"width":399,"height":304},
+		{"id":"67e60a2f2403674c","type":"file","file":"99. attachments/BLUE_PRINCE_asKO9gQnby.png","x":-940,"y":3800,"width":399,"height":228,"color":"4"},
+		{"id":"1b2cf1b11350da55","type":"file","file":"99. attachments/BLUE_PRINCE_tfYkqT8KCZ.png","x":-1380,"y":3821,"width":399,"height":207,"color":"1"},
+		{"id":"d827a7ceb5ac5154","type":"file","file":"99. attachments/BLUE_PRINCE_SXNygpi1qk.png","x":-1820,"y":3823,"width":399,"height":205,"color":"1"},
+		{
+			"id":"c7eab3150ff19fc6",
+			"type":"text",
+			"text":"The Gems are in the Black Box\nThe Gems are in the White Box\nOnly one box displays a true statement",
+			"styleAttributes":{},
+			"x":-2130,
+			"y":3821,
+			"width":260,
+			"height":179
+		},
+		{"id":"1cabd85599bd4aa5","type":"file","file":"99. attachments/BLUE_PRINCE_obC3CJhwQ9.png","x":-520,"y":3800,"width":400,"height":270},
+		{"id":"5e5b66854d4bdb57","type":"file","file":"99. attachments/BLUE_PRINCE_MG1gO9wblR.png","x":-1821,"y":4160,"width":400,"height":225,"color":"4"},
+		{"id":"b3e1ef01552028ce","type":"file","file":"99. attachments/BLUE_PRINCE_hL2VOjzlpU.png","x":-1381,"y":4160,"width":400,"height":222,"color":"4"},
+		{"id":"7ef2a9a70efe2e65","type":"file","file":"99. attachments/BLUE_PRINCE_mb8MnHNaJj.png","x":-941,"y":4160,"width":400,"height":213,"color":"1"},
+		{
+			"id":"04937c8919f64dbf",
+			"type":"text",
+			"text":"The gems are not in this box\nThe blue box is true\nThe gems are in this box",
+			"styleAttributes":{},
+			"x":-2165,
+			"y":4203,
+			"width":320,
+			"height":127
+		},
+		{"id":"4601b088aa5659e2","type":"file","file":"99. attachments/BLUE_PRINCE_rCZXQZc2RL.png","x":-500,"y":4160,"width":400,"height":279}
 	],
 	"edges":[],
 	"metadata":{

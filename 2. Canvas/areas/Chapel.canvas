@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"67943550505534d7","type":"text","text":"Rynna - 1","x":635,"y":-180,"width":250,"height":60},
-		{"id":"36eb96811733cbff","type":"file","file":"99. attachments/BLUE_PRINCE_npM5Vn7Jn5.png","x":-800,"y":640,"width":400,"height":225},
 		{"id":"bf9d914822e5e32b","type":"file","file":"99. attachments/BLUE_PRINCE_r9DCHLn6Ih.png","x":360,"y":-1120,"width":400,"height":225},
 		{"id":"534a28762a366ddd","type":"text","text":"Burning Glass on Candles [[Items.canvas|Items]]","x":394,"y":-840,"width":333,"height":86},
 		{"id":"fc2bc19a97d5416f","type":"file","file":"99. attachments/BLUE_PRINCE_DmtP7Ot73y.png","x":810,"y":-1120,"width":400,"height":225},
@@ -79,6 +78,17 @@
 			"y":-705,
 			"width":340,
 			"height":141
+		},
+		{"id":"c708b4cbd33ca476","type":"file","file":"99. attachments/BLUE_PRINCE_npM5Vn7Jn5.png","x":160,"y":-160,"width":400,"height":225},
+		{
+			"id":"7dfcd58f4ba24de4",
+			"type":"text",
+			"text":"Joya - 2",
+			"styleAttributes":{},
+			"x":230,
+			"y":145,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -147,6 +157,15 @@
 			"fromNode":"235649e94193f3f1",
 			"fromSide":"top",
 			"toNode":"9c58669b5e898da1",
+			"toSide":"bottom"
+		},
+		{
+			"id":"f919e5832ee3b3eb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7dfcd58f4ba24de4",
+			"fromSide":"top",
+			"toNode":"c708b4cbd33ca476",
 			"toSide":"bottom"
 		}
 	],

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"b96dd06507c270e1","type":"file","file":"99. attachments/BLUE_PRINCE_IzH5wBIpjn.png","x":-500,"y":-200,"width":400,"height":225},
+		{
+			"id":"54815ae8476dd6c4",
+			"type":"text",
+			"text":"Found in the [[Clock Tower.canvas|Clock Tower]]",
+			"styleAttributes":{},
+			"x":-500,
+			"y":80,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

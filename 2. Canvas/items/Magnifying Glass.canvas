@@ -56,19 +56,7 @@
 		},
 		{"id":"78f4cea67a86b6dc","type":"file","file":"99. attachments/BLUE_PRINCE_AvtVZUFbX5.png","x":840,"y":-152,"width":400,"height":225},
 		{"id":"2ea7d308703e5d00","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":840,"y":102,"width":134,"height":209},
-		{"id":"b4137e5ff423193a","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":1020,"y":102,"width":114,"height":209},
 		{"id":"1a5b9e04408abac2","type":"file","file":"99. attachments/BLUE_PRINCE_czJTNHV06C.png","x":860,"y":360,"width":400,"height":225},
-		{
-			"id":"d623576c75ac414a",
-			"type":"text",
-			"text":"[[Drafting Strategy Volume 5.canvas|Drafting Strategy Volume 5]]",
-			"styleAttributes":{},
-			"x":450,
-			"y":380,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
 		{
 			"id":"df0639a48236ff8a",
 			"type":"text",
@@ -91,22 +79,35 @@
 			"height":60
 		},
 		{
-			"id":"bf87d3071ce2b002",
+			"id":"d623576c75ac414a",
 			"type":"text",
-			"text":"[[A New Clue.canvas|A New Clue]]",
+			"text":"[[Drafting Strategy Volume 5.canvas|Drafting Strategy Volume 5]]",
 			"styleAttributes":{},
-			"x":450,
-			"y":473,
+			"x":440,
+			"y":45,
 			"width":260,
 			"height":60,
-			"color":"4"
-		}
+			"color":"3"
+		},
+		{
+			"id":"c7225486b678aa3c",
+			"type":"text",
+			"text":"[[The Curse of Black Bridge.canvas|The Curse of Black Bridge]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":147,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"b4137e5ff423193a","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":1003,"y":102,"width":114,"height":209}
 	],
 	"edges":[
 		{
 			"id":"8a444237145640e6",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"bae0e7f85489516b",
 			"fromSide":"right",
 			"toNode":"78f4cea67a86b6dc",
@@ -116,6 +117,7 @@
 			"id":"3a599f6d79f8b8c7",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"bae0e7f85489516b",
 			"fromSide":"right",
 			"toNode":"2ea7d308703e5d00",
@@ -134,6 +136,7 @@
 			"id":"05f797268ed1ed65",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"d623576c75ac414a",
 			"fromSide":"right",
 			"toNode":"1a5b9e04408abac2",
