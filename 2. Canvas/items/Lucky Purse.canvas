@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"2ea9e4e0691f6b98","type":"file","file":"99. attachments/BLUE_PRINCE_6qhVPEsgN1.png","x":-660,"y":-260,"width":400,"height":225},
+		{"id":"830d118423939f61","type":"file","file":"99. attachments/BLUE_PRINCE_dkC6X26yag.png","x":-660,"y":0,"width":400,"height":225},
+		{
+			"id":"c8a20c47b96fec9c",
+			"type":"text",
+			"text":"Rabbit's Foot + Coin Purse = Lucky Purse",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0636c20cba52cf34",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-440,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

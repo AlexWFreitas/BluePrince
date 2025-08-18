@@ -1,16 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"9ddeb42d20509bfa",
-			"type":"text",
-			"text":"# Info\n\nAmong the rooms we know that might have levers we have:\n- [[Greenhouse.canvas|Greenhouse]] (South Door)\n- [[Inner Sanctum.canvas|Inner Sanctum]] (North Door - Leads to [[046 - Room 46.canvas|046 - Room 46]])\n- [[Secret Garden.canvas|Secret Garden]] (East and West Doors)\n- [[Weight Room.canvas|Weight Room]] - Supposedly there is a hidden lever on this room\n- [[Great Hall.canvas|Great Hall]] - Supposedly there is a hidden lever on this room",
-			"styleAttributes":{},
-			"x":-580,
-			"y":-460,
-			"width":460,
-			"height":400
-		},
-		{
 			"id":"9ac47a0f325b6402",
 			"type":"text",
 			"text":"[[Secret Garden.canvas|Secret Garden]] - West Lever",
@@ -68,13 +58,13 @@
 		{
 			"id":"e08f850618860e2a",
 			"type":"text",
-			"text":"[[Weight Room.canvas|Weight Room]] - Lever?",
+			"text":"[[Weight Room.canvas|Weight Room]] - South Lever",
 			"styleAttributes":{},
 			"x":-680,
 			"y":10,
 			"width":280,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"a9cd6d899010867c",
@@ -86,6 +76,16 @@
 			"width":280,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"9ddeb42d20509bfa",
+			"type":"text",
+			"text":"# Info\n\nAmong the rooms we know that might have levers we have:\n- [[Greenhouse.canvas|Greenhouse]] (South Door)\n- [[Inner Sanctum.canvas|Inner Sanctum]] (North Door - Leads to [[046 - Room 46.canvas|046 - Room 46]])\n- [[Secret Garden.canvas|Secret Garden]] (East and West Doors)\n- [[Weight Room.canvas|Weight Room]] - You can break the wall on the Weight Room to reveal the Antechamber South Lever.\n- [[Great Hall.canvas|Great Hall]] - Sometimes a lever spawns on this room, maybe sometimes it will need a [[Power Hammer.canvas|Power Hammer]] (Unconfirmed need) - East Lever",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-520,
+			"width":500,
+			"height":440
 		}
 	],
 	"edges":[],

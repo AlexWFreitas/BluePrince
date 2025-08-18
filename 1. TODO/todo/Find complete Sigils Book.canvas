@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"091597bfd319430b",
+			"type":"text",
+			"text":"It was on the Bookshop -Realms and Runes.",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-40,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

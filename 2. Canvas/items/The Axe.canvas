@@ -1,0 +1,45 @@
+{
+	"nodes":[
+		{
+			"id":"c6ca27013754d61b",
+			"type":"text",
+			"text":"Supposedly this item can only be bought / used a limited amount of times.",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-260,
+			"width":380,
+			"height":80
+		},
+		{"id":"99c9f89b6e027ef5","type":"file","file":"99. attachments/BLUE_PRINCE_Oi7Izty4CX.png","x":-680,"y":-140,"width":400,"height":225},
+		{
+			"id":"6c42e26a682bf66c",
+			"type":"text",
+			"text":"[[The Armory.canvas|The Armory]]",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"787f760c6da69266",
+			"type":"text",
+			"text":"# Room Candidates",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-360,
+			"width":460,
+			"height":80
+		},
+		{"id":"867a3a77dec74202","type":"file","file":"99. attachments/BLUE_PRINCE_Pi8ZrKYdIL.png","x":-180,"y":-247,"width":400,"height":207},
+		{"id":"f66315d72460e16a","type":"file","file":"99. attachments/BLUE_PRINCE_e0drhutjwL.png","x":-180,"y":240,"width":400,"height":217},
+		{"id":"239b70e9b14eb8bc","type":"file","file":"99. attachments/BLUE_PRINCE_UbrjadBkKf.png","x":-180,"y":0,"width":399,"height":201},
+		{"id":"509e06bbbb980277","type":"file","file":"99. attachments/BLUE_PRINCE_E0vGA75tXo.png","x":240,"y":247,"width":400,"height":210},
+		{"id":"3488f1469976e330","type":"file","file":"99. attachments/BLUE_PRINCE_iPzxHy4lCn.png","x":240,"y":0,"width":399,"height":204}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

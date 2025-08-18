@@ -38,7 +38,7 @@
 			"y":1350,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"5badf05f764153cc",
@@ -786,7 +786,7 @@
 			"y":920,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"5"
 		},
 		{
 			"id":"e4876cf69fa26da3",
@@ -913,7 +913,7 @@
 			"y":1240,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"765fd6de18524e15",
@@ -1417,6 +1417,17 @@
 			"styleAttributes":{},
 			"x":220,
 			"y":400,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"8fc1a6dcf2b9c056",
+			"type":"text",
+			"text":"[[Find Room 8.canvas|Find Room 8]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":1450,
 			"width":260,
 			"height":60,
 			"color":"3"

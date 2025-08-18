@@ -32,7 +32,30 @@
 			"y":820,
 			"width":330,
 			"height":100
-		}
+		},
+		{
+			"id":"37786acbe4dae97b",
+			"type":"text",
+			"text":"# Safe Solution\n\nI tried 0323 because of the number of small gates at the Calendar and it didn't work.\nThen I tried 1108 because of the month of the calendar and then the small gates.\nThis worked.",
+			"styleAttributes":{},
+			"x":-1960,
+			"y":230,
+			"width":800,
+			"height":190
+		},
+		{"id":"2eeedf64524a8a7f","type":"file","file":"99. attachments/BLUE_PRINCE_zD3oUQvaHr.png","x":-1960,"y":465,"width":400,"height":343},
+		{"id":"71496d78d5d4d9d6","type":"file","file":"99. attachments/BLUE_PRINCE_eapG7yNt8Q.png","x":-1540,"y":465,"width":308,"height":399},
+		{
+			"id":"80fde39ab74b267a",
+			"type":"text",
+			"text":"[[Red Letters.canvas|Red Letters]]",
+			"styleAttributes":{},
+			"x":-1960,
+			"y":834,
+			"width":260,
+			"height":60
+		},
+		{"id":"4b5e17517248eba8","type":"file","file":"99. attachments/BLUE_PRINCE_qf31NWE2Tk.png","x":-2380,"y":480,"width":400,"height":374}
 	],
 	"edges":[
 		{

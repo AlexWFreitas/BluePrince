@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{
+			"id":"00398bc3ecb7a68c",
+			"type":"text",
+			"text":"Lock Pick Kit + Metal Detector = Pick Sound Amplifier",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-340,
+			"width":440,
+			"height":80
+		},
+		{"id":"2f15db372bdcbe86","type":"file","file":"99. attachments/BLUE_PRINCE_hWYWtSattq.png","x":-700,"y":-200,"width":400,"height":225},
+		{"id":"7f23a53c44c5e5f2","type":"file","file":"99. attachments/BLUE_PRINCE_s4H1LOInqL.png","x":-700,"y":80,"width":400,"height":225},
+		{
+			"id":"7697aa74e3327738",
+			"type":"text",
+			"text":"Greater chance of picking high sensitivity locks.",
+			"styleAttributes":{},
+			"x":-280,
+			"y":80,
+			"width":320,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

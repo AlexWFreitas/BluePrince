@@ -135,7 +135,21 @@
 		{"id":"2bfb0abd6f021d7e","type":"file","file":"99. attachments/BLUE_PRINCE_fsvomZLXuB.png","x":-1660,"y":2960,"width":399,"height":186,"color":"1"},
 		{"id":"b77d40caf59a21a6","type":"file","file":"99. attachments/BLUE_PRINCE_ogdvPsWaUy.png","x":-1240,"y":2960,"width":400,"height":199,"color":"4"},
 		{"id":"05aaeb4b900bc840","type":"file","file":"99. attachments/BLUE_PRINCE_IwKqEQpXaC.png","x":-820,"y":2962,"width":399,"height":197,"color":"4"},
-		{"id":"220688e88f1b7408","type":"file","file":"99. attachments/BLUE_PRINCE_Ak08y1zsTN.png","x":-380,"y":3002,"width":400,"height":315}
+		{"id":"220688e88f1b7408","type":"file","file":"99. attachments/BLUE_PRINCE_Ak08y1zsTN.png","x":-380,"y":3002,"width":400,"height":315},
+		{"id":"6e013c3b903d7376","type":"file","file":"99. attachments/BLUE_PRINCE_LjHcZPWYuz.png","x":-1820,"y":3480,"width":400,"height":191,"color":"4"},
+		{"id":"3e4cff8d50c0806e","type":"file","file":"99. attachments/BLUE_PRINCE_3nGcNrPoEy.png","x":-1400,"y":3480,"width":400,"height":169,"color":"1"},
+		{"id":"3e500bf10ee13a36","type":"file","file":"99. attachments/BLUE_PRINCE_Wbr8pOq6x6.png","x":-980,"y":3480,"width":400,"height":213,"color":"1"},
+		{
+			"id":"413dc8fbfc01534a",
+			"type":"text",
+			"text":"There are two false statements\nThis is the only true statement\nThe white box is empty",
+			"styleAttributes":{},
+			"x":-2115,
+			"y":3480,
+			"width":270,
+			"height":160
+		},
+		{"id":"f34fefceac9e22ae","type":"file","file":"99. attachments/BLUE_PRINCE_qQHqW1282G.png","x":-540,"y":3435,"width":400,"height":304}
 	],
 	"edges":[],
 	"metadata":{

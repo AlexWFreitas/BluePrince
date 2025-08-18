@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 733.9582786658182,
-                  "y": 307.4263175766205,
-                  "zoom": -0.23476949884974413
+                  "x": 680.7224296092143,
+                  "y": 1018.2906009122714,
+                  "zoom": -0.9014361655164107
                 }
               },
               "pinned": true,
@@ -81,193 +81,26 @@
             }
           },
           {
-            "id": "ef7d67c449e433aa",
+            "id": "4b401b8269ae39b9",
             "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/items/Magnifying Glass.canvas",
-                "viewState": {
-                  "x": 462.89360587002113,
-                  "y": -242.17931191599737,
-                  "zoom": -0.26894529471266854
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Magnifying Glass"
-            }
-          },
-          {
-            "id": "ec03ecf4bad98e7e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Inner Sanctum Key.canvas",
-                "viewState": {
-                  "x": -330,
-                  "y": -280,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Inner Sanctum Key"
-            }
-          },
-          {
-            "id": "1aabce46fd834f50",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/items/Sledgehammer.canvas",
-                "viewState": {
-                  "x": 10,
-                  "y": 33.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sledgehammer"
-            }
-          },
-          {
-            "id": "825fe6f7877fc3fe",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "2. Canvas/info/With Without Puzzles.canvas",
                 "viewState": {
-                  "x": -5714.881422696839,
-                  "y": 4129.34622998401,
-                  "zoom": -0.3333333333333332
+                  "x": -5800.454221759099,
+                  "y": 1861.0991108556263,
+                  "zoom": -1
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "With Without Puzzles"
             }
-          },
-          {
-            "id": "1a7fc4d207de5f29",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Chess Pieces.canvas",
-                "viewState": {
-                  "x": -413.8742502291955,
-                  "y": 970.4622418320566,
-                  "zoom": -0.9067696098194515
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Chess Pieces"
-            }
-          },
-          {
-            "id": "748d5e3cd83f5d13",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Chess Pieces.canvas",
-                "viewState": {
-                  "x": -141.28920983005247,
-                  "y": 10.300949494293747,
-                  "zoom": -0.9999999999999998
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Chess Pieces"
-            }
-          },
-          {
-            "id": "fa1e6d16267c42e6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/items/Detector Shovel.canvas",
-                "viewState": {
-                  "x": -234,
-                  "y": -249,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Detector Shovel"
-            }
-          },
-          {
-            "id": "1b5baf2cfb9893fe",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/areas/019 - Trophy Room.canvas",
-                "viewState": {
-                  "x": -500,
-                  "y": -107.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "019 - Trophy Room"
-            }
-          },
-          {
-            "id": "93b13ca211b51787",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/areas/028 - Chamber of Mirrors.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "028 - Chamber of Mirrors"
-            }
-          },
-          {
-            "id": "d7ac7216182bc673",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/areas/028 - Chamber of Mirrors.canvas",
-                "viewState": {
-                  "x": -350,
-                  "y": -210,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "028 - Chamber of Mirrors"
-            }
-          },
-          {
-            "id": "eaebdd4bfefeb7b3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas/info/Day Results.canvas",
-                "viewState": {
-                  "x": -397.2672540411439,
-                  "y": 2782.121646428677,
-                  "zoom": -0.34819012997574256
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Day Results"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ",
+                "query": "file: day",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -415,30 +248,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9aaf2342cf53910",
+  "active": "ffa98e77048689be",
   "lastOpenFiles": [
-    "2. Canvas/info/Day Results.canvas",
-    "99. attachments/BLUE_PRINCE_PjQq3Rd2U9 1.png",
-    "1. TODO/continuous/Diary.md",
-    "99. attachments/BLUE_PRINCE_PjQq3Rd2U9.png",
-    "2. Canvas/areas/028 - Chamber of Mirrors.canvas",
-    "99. attachments/BLUE_PRINCE_EuS7oiK2Ek.png",
-    "1. TODO/todo/Mirror Chamber Puzzle.canvas",
-    "2. Canvas/info/Rooms Found.canvas",
-    "2. Canvas/areas/019 - Trophy Room.canvas",
-    "2. Canvas/items/Detector Shovel.canvas",
-    "99. attachments/BLUE_PRINCE_WMuJwLtcw7.png",
-    "2. Canvas/info/Chess Pieces.canvas",
-    "99. attachments/BLUE_PRINCE_FneROhz3ts.png",
-    "99. attachments/BLUE_PRINCE_Ujlpe1w6Hk.png",
-    "1. TODO/todo/Aquarium Puzzle.canvas",
     "1. TODO/TODO Canvas.canvas",
-    "2. Canvas/areas/044 - Aquarium.canvas",
-    "2. Canvas/info/Trophies.canvas",
-    "99. attachments/BLUE_PRINCE_2VfUJUoJgM.png",
-    "99. attachments/BLUE_PRINCE_NXrwDfx5fX.png",
-    "99. attachments/BLUE_PRINCE_RKL3vxrGAI.png",
-    "99. attachments/BLUE_PRINCE_UPIbnbcgzQ.png",
+    "1. TODO/todo/Find Room 8.canvas",
+    "1. TODO/done/Activate the Boiler Room Generator.canvas",
+    "1. TODO/todo/Find complete Sigils Book.canvas",
+    "2. Canvas/items/Power Hammer.canvas",
+    "1. TODO/continuous/Diary.md",
+    "2. Canvas/info/Day Results.canvas",
+    "99. attachments/BLUE_PRINCE_jK7qJdSuPd.png",
+    "2. Canvas/info/With Without Puzzles.canvas",
+    "99. attachments/BLUE_PRINCE_Ib8Lgf2zDd.png",
+    "1. TODO/todo/Find all Antechamber Levers.canvas",
+    "2. Canvas/items/Broken Lever.canvas",
+    "2. Canvas/areas/Weight Room.canvas",
+    "99. attachments/BLUE_PRINCE_DYjJb1D6zw.png",
+    "2. Canvas/areas/Abandoned Mine.canvas",
+    "99. attachments/BLUE_PRINCE_8bDtwEk4D5.png",
+    "99. attachments/BLUE_PRINCE_HvsB5C7ZBc.png",
+    "99. attachments/BLUE_PRINCE_H1wXvhCtLc.png",
+    "99. attachments/BLUE_PRINCE_LcLnPFDkNB.png",
+    "99. attachments/BLUE_PRINCE_IOD9MaQn2e.png",
+    "99. attachments/BLUE_PRINCE_d1WJ8RjTTs.png",
+    "99. attachments/BLUE_PRINCE_qf31NWE2Tk.png",
     "99. attachments/BLUE_PRINCE_6KsKIV33pz.mp4",
     "3. Notes/ew.md",
     "Drafting Strategy Vol 3.md",

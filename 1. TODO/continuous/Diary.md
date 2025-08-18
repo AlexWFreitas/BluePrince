@@ -165,3 +165,28 @@ Day 39
 - I am trying to sleep on the Aquarium on this room, because it's considered a bedroom, maybe it will give an effect on the next day.
 
 ![[BLUE_PRINCE_PjQq3Rd2U9.png]]
+
+
+Day 40
+- Drafted a Trading Post on this run, didn't use it for anything on this run, lmao.
+- Crafted a Power Hammer for future endeavors.
+- At the Library, I ordered book about Black Water / Bridge History or something.
+- Discovered The Axe at the Armory, Sastre warned me that the Axe can only be bought / used a limited amount of times, I am still thinking about the rooms that I want to use it on.
+- Crafted the Lucky Purse and Pick Sound Amplifier at the Workshop, only Compass + Battery Pack remains.
+- I was able to open the safe at the Drafting Studio and found a letter with small text.
+- I added Casino to the draftable rooms list through the Drafting Studio.
+- I went to the Mail Room and added more Letter Stamps to use on the Sigil Research, but did not read the letter contents.
+	- I think I found two extra stamps, compared to what I had before.
+	- I wonder if this is unfair, since it's possible that those stamps are in the mansion on other notes or something.
+- I changed the rarity of Furnace and Archives on the Conservatory and made another room that I don't remember more common because it was useful to draw.
+- I went to the Pump Room and filled the Fountain and drained the Aquarium for future progression checks.
+	- One interesting thing is that the Electric Eel Aquarium seems to be working despite having no fishes inside.
+- I entered the Study room and tried to solve the safe puzzle, but I could not find a way to solve it...
+	- I wonder if the Castle puzzle on the Precipice has something to do with this or if there is something else I am missing.
+- After drafting the Study Room, I used the last available drafting spot on the map to reroll with dices and gem rerolls and drafted a Weight Room, then I broke the wall there and found the second Antechamber Lever for the South Door.
+	- I don't know if there is another Room 46 Lever besides the Inner Sanctum, so maybe the task about the Antechamber Levers is finished.
+- I ended the run by storing the Power Hammer at the Coat Check, going to the Inner Sanctum and then reaching Room 46 with one step left.
+	- This gave me two extra allowance coins because of the Quest Bedroom.
+- My main goals for the next few days is to get all unlockable rooms from Drafting Studio and use the Axe on the most important rooms. While tweaking the rarity of the rooms whenever possible so that they make exploration easier.
+- Hooray, we reached 5 Red Letters.
+- Also as a last note, I want to find Room 8.

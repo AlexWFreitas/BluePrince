@@ -9,7 +9,11 @@
 			"y":-420,
 			"width":640,
 			"height":360
-		}
+		},
+		{"id":"2fbb47da94ce5e50","type":"file","file":"99. attachments/BLUE_PRINCE_HvsB5C7ZBc.png","x":-980,"y":-386,"width":400,"height":293},
+		{"id":"e375e46be69d69ad","type":"file","file":"99. attachments/BLUE_PRINCE_8nMQluUXPM.png","x":-980,"y":-940,"width":400,"height":225},
+		{"id":"cc70af290fcf49c3","type":"file","file":"99. attachments/BLUE_PRINCE_H1wXvhCtLc.png","x":-980,"y":-678,"width":400,"height":225},
+		{"id":"04f0abbb0df5200e","type":"file","file":"99. attachments/BLUE_PRINCE_DYjJb1D6zw.png","x":-540,"y":-678,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

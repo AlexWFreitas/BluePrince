@@ -35,9 +35,6 @@
 		{"id":"179be36f1d0296ee","type":"file","file":"99. attachments/BLUE_PRINCE_PXI0G4ST6J.png","x":-1155,"y":1600,"width":400,"height":225},
 		{"id":"d3e3e2e1ce8cc4a4","type":"text","text":"Flan - Fan = N","x":-1100,"y":1860,"width":250,"height":60},
 		{"id":"23ff757a3eff0204","type":"text","text":"Plane - Plan = E?","x":-440,"y":1480,"width":250,"height":60},
-		{"id":"baa17da69fc495a3","type":"file","file":"99. attachments/BLUE_PRINCE_s2UldzlOwZ.png","x":-3000,"y":-210,"width":400,"height":225},
-		{"id":"e5279eac15f1ffb5","type":"file","file":"99. attachments/BLUE_PRINCE_EObdrM7pXi.png","x":-3460,"y":-210,"width":400,"height":225},
-		{"id":"ab0c98364a4f7eae","type":"text","text":"Paint - Pint = A?","x":-3160,"y":120,"width":250,"height":60},
 		{"id":"5541cb288e77b68b","type":"file","file":"99. attachments/BLUE_PRINCE_lCUoYN2rY3.png","x":-3200,"y":370,"width":400,"height":225},
 		{"id":"89a918f40ab57c2b","type":"text","text":"Crown - Crow = N","x":-3160,"y":640,"width":250,"height":60},
 		{"id":"24b0eecd0da27b78","type":"file","file":"99. attachments/BLUE_PRINCE_9tAOAV0AtI.png","x":-2835,"y":854,"width":400,"height":225},
@@ -307,7 +304,83 @@
 			"width":260,
 			"height":60,
 			"color":"4"
-		}
+		},
+		{
+			"id":"da910e983473aeab",
+			"type":"text",
+			"text":"Plane - Plan = E - C1R2",
+			"styleAttributes":{},
+			"x":-7311,
+			"y":3850,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"c78e00a011f3187e","type":"file","file":"99. attachments/BLUE_PRINCE_kv8yQUI8wq.png","x":-7381,"y":3580,"width":400,"height":225,"color":"4"},
+		{"id":"5b12570ef16760bf","type":"file","file":"99. attachments/BLUE_PRINCE_bTH064MKIJ.png","x":-6315,"y":2709,"width":400,"height":189,"color":"4"},
+		{
+			"id":"bb11f81195b7734a",
+			"type":"text",
+			"text":"Stage - Sage = T - C3R4",
+			"styleAttributes":{},
+			"x":-6260,
+			"y":2940,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"efb634a64ba2bd69",
+			"type":"text",
+			"text":"Stage - Stag = E - C4R6",
+			"styleAttributes":{},
+			"x":-5760,
+			"y":1910,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"9c093259cf9c7dcf","type":"file","file":"99. attachments/BLUE_PRINCE_wsuACzTSN4.png","x":-6280,"y":746,"width":400,"height":225,"color":"4"},
+		{
+			"id":"6c2441448638dd21",
+			"type":"text",
+			"text":"House - Hose = U - C3R8",
+			"styleAttributes":{},
+			"x":-6210,
+			"y":1060,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"334528556ce1edf1","type":"file","file":"99. attachments/BLUE_PRINCE_mD4RSMA0Fg.png","x":-6760,"y":746,"width":400,"height":225,"color":"4"},
+		{"id":"4182a0d5e485ccef","type":"file","file":"99. attachments/BLUE_PRINCE_1Zy6KvzBfM.png","x":-6792,"y":716,"width":400,"height":225,"color":"4"},
+		{
+			"id":"2944f155d4ad07dd",
+			"type":"text",
+			"text":"Boat - Bat = O - C2R8",
+			"styleAttributes":{},
+			"x":-6722,
+			"y":1040,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"2def81631654e15a","type":"file","file":"99. attachments/BLUE_PRINCE_s2UldzlOwZ.png","x":-6285,"y":1205,"width":400,"height":225,"color":"4"},
+		{"id":"b1e8a3229d372fca","type":"file","file":"99. attachments/BLUE_PRINCE_EObdrM7pXi.png","x":-6320,"y":1165,"width":400,"height":225,"color":"4"},
+		{"id":"5b7de22d352e962c","type":"text","text":"Paint - Pint = A - C3R7","x":-6210,"y":1490,"width":250,"height":60,"color":"4"},
+		{"id":"f4df6d3c17c45242","type":"file","file":"99. attachments/BLUE_PRINCE_z2NoDAJkpo.png","x":-5282,"y":1200,"width":400,"height":225,"color":"4"},
+		{
+			"id":"2281d7133cd10552",
+			"type":"text",
+			"text":"Plane - Pane = L - C5R7",
+			"styleAttributes":{},
+			"x":-5239,
+			"y":1455,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"2c14b29760161839","type":"file","file":"99. attachments/BLUE_PRINCE_Ib8Lgf2zDd.png","x":-5787,"y":1620,"width":400,"height":225,"color":"4"}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},
@@ -330,8 +403,6 @@
 		{"id":"5b80fc0485a9ee68","fromNode":"c0b2c51ef64ac666","fromSide":"top","toNode":"6b972e130ee530b4","toSide":"bottom"},
 		{"id":"b2658298dfcecc4f","fromNode":"677f88bf724ff5a6","fromSide":"top","toNode":"2f433a60aaddbde1","toSide":"bottom"},
 		{"id":"09a5ed2661a76484","fromNode":"d3e3e2e1ce8cc4a4","fromSide":"top","toNode":"179be36f1d0296ee","toSide":"bottom"},
-		{"id":"dc1616491e3c00f8","fromNode":"ab0c98364a4f7eae","fromSide":"top","toNode":"e5279eac15f1ffb5","toSide":"bottom"},
-		{"id":"d0f0c6a721937a37","fromNode":"ab0c98364a4f7eae","fromSide":"top","toNode":"baa17da69fc495a3","toSide":"bottom"},
 		{"id":"8538499f0850fcf9","fromNode":"89a918f40ab57c2b","fromSide":"top","toNode":"5541cb288e77b68b","toSide":"bottom"},
 		{"id":"bd218f5d5b688f47","fromNode":"0dbf3196243f2cda","fromSide":"top","toNode":"ff5a9caa657e3f6c","toSide":"bottom"},
 		{"id":"dcad5db7c38b87ac","fromNode":"b2cefc11a7098afb","fromSide":"left","toNode":"0d01cc35ffe94659","toSide":"right"},
@@ -491,6 +562,42 @@
 			"fromNode":"2d73f471dd70ed1b",
 			"fromSide":"top",
 			"toNode":"5c56dfa3a1e5eed6",
+			"toSide":"bottom"
+		},
+		{
+			"id":"e5bdb35aa1a3a82b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"da910e983473aeab",
+			"fromSide":"top",
+			"toNode":"c78e00a011f3187e",
+			"toSide":"bottom"
+		},
+		{
+			"id":"2da3bc8ffd54f11a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6c2441448638dd21",
+			"fromSide":"top",
+			"toNode":"9c093259cf9c7dcf",
+			"toSide":"bottom"
+		},
+		{
+			"id":"87287d9c23395e60",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2944f155d4ad07dd",
+			"fromSide":"top",
+			"toNode":"334528556ce1edf1",
+			"toSide":"bottom"
+		},
+		{
+			"id":"d373bab6fadd0b50",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5b7de22d352e962c",
+			"fromSide":"top",
+			"toNode":"2def81631654e15a",
 			"toSide":"bottom"
 		}
 	],
