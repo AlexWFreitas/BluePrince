@@ -62,7 +62,7 @@
 			"y":-70,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"4a95402f7cb39f8b",
@@ -84,7 +84,7 @@
 			"y":103,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"1"
 		},
 		{
 			"id":"03abd50af1ca20b4",
@@ -114,10 +114,21 @@
 			"text":"[[Weight Room.canvas|Weight Room]]",
 			"styleAttributes":{},
 			"x":300,
-			"y":280,
+			"y":260,
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"d2666b54d62049ee",
+			"type":"text",
+			"text":"[[Patio.canvas|Patio]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":340,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[

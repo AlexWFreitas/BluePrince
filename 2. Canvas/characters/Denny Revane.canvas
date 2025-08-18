@@ -1,0 +1,62 @@
+{
+	"nodes":[
+		{
+			"id":"6e876652e1f42bd1",
+			"type":"text",
+			"text":"# Info\n\nDenny Revane was the previous groundskeeper, supposedly he was fired due to not watering the plants and doing his job incorrectly.",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-260,
+			"width":540,
+			"height":300
+		},
+		{"id":"46a02c419e7e0e15","type":"file","file":"99. attachments/BLUE_PRINCE_6JXgdeZozC.png","x":-740,"y":-222,"width":400,"height":225},
+		{
+			"id":"9494370829b1d9d3",
+			"type":"text",
+			"text":"The guy that wrote the Ransom Letter to Herbert Sinclair related to the Red Letters is probably [[Denny Revane.canvas|Denny Revane]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":38,
+			"width":380,
+			"height":120
+		},
+		{
+			"id":"4ec0dfa29ab05208",
+			"type":"text",
+			"text":"[[039 - Mail Room.canvas|039 - Mail Room]]",
+			"styleAttributes":{},
+			"x":-280,
+			"y":100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"21fe7190a0ff9711",
+			"type":"text",
+			"text":"[[Greenhouse.canvas|Greenhouse]]",
+			"styleAttributes":{},
+			"x":-280,
+			"y":180,
+			"width":260,
+			"height":60
+		},
+		{"id":"31cdb5129d7aa5a2","type":"file","file":"99. attachments/BLUE_PRINCE_9TUyrAd98H.png","x":-1181,"y":210,"width":400,"height":242},
+		{"id":"bb92ce916e09fb6d","type":"file","file":"99. attachments/BLUE_PRINCE_3Iy6XfL9G2.png","x":-750,"y":227,"width":400,"height":225},
+		{
+			"id":"9e88617c4c047311",
+			"type":"text",
+			"text":"[[The Original Gardener's Logbook.canvas|The Original Gardener's Logbook]]",
+			"styleAttributes":{},
+			"x":-280,
+			"y":271,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

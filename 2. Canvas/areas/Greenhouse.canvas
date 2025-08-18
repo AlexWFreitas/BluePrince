@@ -10,9 +10,61 @@
 			"y":-780,
 			"width":640,
 			"height":320
+		},
+		{"id":"acb7360619212cfb","type":"file","file":"99. attachments/BLUE_PRINCE_LdSgMzOuLP.png","x":-1040,"y":-360,"width":400,"height":225},
+		{
+			"id":"1939a8f4896bbe91",
+			"type":"text",
+			"text":"[[Power Hammer.canvas|Power Hammer]]",
+			"styleAttributes":{},
+			"x":-970,
+			"y":-100,
+			"width":260,
+			"height":60
+		},
+		{"id":"40f86b4c46be4842","type":"file","file":"99. attachments/BLUE_PRINCE_6JXgdeZozC.png","x":-1460,"y":20,"width":400,"height":225},
+		{
+			"id":"350d53a5e3854e78",
+			"type":"text",
+			"text":"[[1. Person List.canvas|1. Person List]]",
+			"styleAttributes":{},
+			"x":-1590,
+			"y":-195,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"97a3173e2b6986bb",
+			"type":"text",
+			"text":"The guy that wrote the Ransom Letter to Herbert Sinclair related to the Red Letters is probably [[Denny Revane.canvas|Denny Revane]]",
+			"styleAttributes":{},
+			"x":-1460,
+			"y":280,
+			"width":380,
+			"height":120
+		},
+		{
+			"id":"5579f2c5c74890eb",
+			"type":"text",
+			"text":"[[The Original Gardener's Logbook.canvas|The Original Gardener's Logbook]]",
+			"styleAttributes":{},
+			"x":-1740,
+			"y":185,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"5e3f276ab47b6d05",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1939a8f4896bbe91",
+			"fromSide":"top",
+			"toNode":"acb7360619212cfb",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

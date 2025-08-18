@@ -20,6 +20,16 @@
 			"y":-700,
 			"width":600,
 			"height":260
+		},
+		{
+			"id":"e77edf96230cd061",
+			"type":"text",
+			"text":"[[Patio X Spot Puzzle.canvas|Patio X Spot Puzzle]]",
+			"styleAttributes":{},
+			"x":-980,
+			"y":460,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[],

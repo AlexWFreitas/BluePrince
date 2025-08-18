@@ -20,6 +20,57 @@
 			"y":-260,
 			"width":400,
 			"height":120
+		},
+		{
+			"id":"53c2638718ea4c5c",
+			"type":"text",
+			"text":"Progression",
+			"styleAttributes":{},
+			"x":420,
+			"y":-280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"bcdd7e7070c2de3a",
+			"type":"text",
+			"text":"[[Gemstone Cavern.canvas|Gemstone Cavern]]",
+			"styleAttributes":{},
+			"x":420,
+			"y":-200,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"0a12212cfef1e397",
+			"type":"text",
+			"text":"[[Patio.canvas|Patio]]",
+			"styleAttributes":{},
+			"x":420,
+			"y":-120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"095859df78201c49",
+			"type":"text",
+			"text":"[[Archives.canvas|Archives]]",
+			"styleAttributes":{},
+			"x":420,
+			"y":-40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8dfdc9336a251f6c",
+			"type":"text",
+			"text":"[[Laundry Room.canvas|Laundry Room]]",
+			"styleAttributes":{},
+			"x":420,
+			"y":40,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[],

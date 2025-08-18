@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"8ec6a2c4228753b3",
+			"type":"text",
+			"text":"This is not solved by having a Treasure Map and drafting [[Patio.canvas|Patio]], so the solution is something else.",
+			"styleAttributes":{},
+			"x":-340,
+			"y":-180,
+			"width":340,
+			"height":120
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

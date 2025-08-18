@@ -15,9 +15,39 @@
 			"y":-780,
 			"width":740,
 			"height":280
+		},
+		{
+			"id":"e01fdf4c82a92f06",
+			"type":"text",
+			"text":"[[Jack Hammer.canvas|Jack Hammer]]",
+			"styleAttributes":{},
+			"x":-1670,
+			"y":-100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9a23a8a5e8d1cc5a",
+			"type":"text",
+			"text":"You can try to dig more gems (for the run) by using a [[Jack Hammer.canvas|Jack Hammer]] but there is an increasing chance of closing this site permanently.",
+			"styleAttributes":{},
+			"x":-1780,
+			"y":-520,
+			"width":500,
+			"height":100
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"8e5e7b955622a983",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e01fdf4c82a92f06",
+			"fromSide":"top",
+			"toNode":"37391a24bfc9d6d4",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

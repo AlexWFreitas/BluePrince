@@ -21,21 +21,6 @@
 			"width":420,
 			"height":140
 		},
-		{"id":"e1506ae4599034ca","type":"file","file":"99. attachments/BLUE_PRINCE_GWZxHgHRqu.png","x":-800,"y":260,"width":400,"height":225},
-		{"id":"1117a7a0342c1b88","type":"file","file":"99. attachments/BLUE_PRINCE_DHnZlSn0Q7.png","x":-360,"y":260,"width":400,"height":225},
-		{"id":"ccad15667ed21695","type":"file","file":"99. attachments/BLUE_PRINCE_9qjhVNixpx.png","x":-800,"y":520,"width":400,"height":225},
-		{"id":"8f5b4e199b713d11","type":"file","file":"99. attachments/BLUE_PRINCE_f5dSz9zw5k.png","x":-360,"y":520,"width":400,"height":225},
-		{
-			"id":"8bfad778fe76aeeb",
-			"type":"text",
-			"text":"Key",
-			"styleAttributes":{},
-			"x":-290,
-			"y":780,
-			"width":260,
-			"height":60
-		},
-		{"id":"246d2b8309c8ca24","type":"file","file":"99. attachments/BLUE_PRINCE_VB9krOiOSC.png","x":-800,"y":780,"width":400,"height":225},
 		{
 			"id":"2dfb330098abd023",
 			"type":"text",
@@ -49,12 +34,37 @@
 		{
 			"id":"450a2a7e797a1676",
 			"type":"text",
-			"text":"The room itself has rewards such as coins or gold multiplied by the 4 on the corners.\n\nIf you enable the teleport to go above, you can go to the inverted area, the inverted area has copies of existing floorplans that can be permanently added to your \"drafting pool\".\n\nYou can get stuck if you press a button and then go to an area that will be closed, killing the run.",
+			"text":"The room itself has rewards such as coins or gold multiplied by the 4 on the corners.\n\nIf you open the wall to the center area, you can go up by pressing the button, this takes you to a vertically inverted area, you can find items in the cup board, there are copies of existing floorplans that can be permanently added to your \"drafting pool\".\n\nYou can get stuck if you press a button and then go to an area that will be closed, killing the run.",
 			"styleAttributes":{},
 			"x":-90,
 			"y":-380,
 			"width":350,
-			"height":400
+			"height":440
+		},
+		{"id":"e1506ae4599034ca","type":"file","file":"99. attachments/BLUE_PRINCE_GWZxHgHRqu.png","x":-800,"y":380,"width":400,"height":225},
+		{"id":"ccad15667ed21695","type":"file","file":"99. attachments/BLUE_PRINCE_9qjhVNixpx.png","x":-800,"y":640,"width":400,"height":225},
+		{"id":"246d2b8309c8ca24","type":"file","file":"99. attachments/BLUE_PRINCE_VB9krOiOSC.png","x":-800,"y":900,"width":400,"height":225},
+		{"id":"8f5b4e199b713d11","type":"file","file":"99. attachments/BLUE_PRINCE_f5dSz9zw5k.png","x":-360,"y":900,"width":400,"height":225},
+		{"id":"1117a7a0342c1b88","type":"file","file":"99. attachments/BLUE_PRINCE_DHnZlSn0Q7.png","x":-360,"y":640,"width":400,"height":225},
+		{
+			"id":"8bfad778fe76aeeb",
+			"type":"text",
+			"text":"Normal key",
+			"styleAttributes":{},
+			"x":-290,
+			"y":1180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0eedc1f57c7c4d07",
+			"type":"text",
+			"text":"# Inverted Area",
+			"styleAttributes":{},
+			"x":-810,
+			"y":240,
+			"width":540,
+			"height":80
 		}
 	],
 	"edges":[

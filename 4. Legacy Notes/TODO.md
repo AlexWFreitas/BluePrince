@@ -22,7 +22,7 @@
 	- Thompson Kimberly - ThomK
 	- Anne Babbage - BabbA
 	- Hartley Ruota - RuotH
-	- Danny Revane- RevaD
+	- Denny Revane- RevaD
 - Three more logins
 	- Kirk Darren - DarrK
 	- ?

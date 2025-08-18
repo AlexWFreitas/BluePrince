@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"5b986b6b34747f46","type":"file","file":"99. attachments/BLUE_PRINCE_qTbzIgTLvb.png","x":-260,"y":-280,"width":400,"height":225},
+		{"id":"91f6291a04d59819","type":"file","file":"99. attachments/BLUE_PRINCE_3Om7EISwEs.png","x":-680,"y":-280,"width":400,"height":225},
+		{"id":"b92f206a0f9db8e2","type":"file","file":"99. attachments/BLUE_PRINCE_JHiQ991ukU.png","x":-680,"y":-20,"width":400,"height":225},
+		{
+			"id":"68d1d70edd7038ff",
+			"type":"text",
+			"text":"[[Denny Revane.canvas|Denny Revane]] is probably the author.",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-380,
+			"width":260,
+			"height":60
+		},
+		{"id":"ead16304b1464f10","type":"file","file":"99. attachments/BLUE_PRINCE_jE0jBvCb2Q.png","x":-260,"y":-20,"width":400,"height":225},
+		{"id":"59da2685008fde81","type":"file","file":"99. attachments/BLUE_PRINCE_EtcdxdkrEL.png","x":-680,"y":240,"width":400,"height":225},
+		{"id":"01a8e049e3fc12a5","type":"file","file":"99. attachments/BLUE_PRINCE_tGqNv2J1Xq.png","x":-260,"y":240,"width":400,"height":225},
+		{"id":"cf2630df2a8a0883","type":"file","file":"99. attachments/BLUE_PRINCE_Y6GbnJb7Fs.png","x":-680,"y":500,"width":400,"height":225},
+		{"id":"6506f81e2b7eaa21","type":"file","file":"99. attachments/BLUE_PRINCE_5z69wdyOrd.png","x":-260,"y":500,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

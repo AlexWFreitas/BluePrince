@@ -51,7 +51,7 @@ Day 34
 Day 35
 - Drafted the Trading Post
 - Retrieved the Burning Glass and used it on the Trading Post's dynamite
-- This revealed a hidden room with a Upgrade Disk and a note from Danny Revane to Christoph
+- This revealed a hidden room with a Upgrade Disk and a note from Denny Revane to Christoph
 	- They were making illegal moonshine and selling it, but Anne Babbage was close to discovering them.
 - Used the Upgrade Disk to upgrade the Billiard Room into a Billiard Room that adds hallways into the pool, the other option was very interesting though, since starting with a Keycard would make the runs a lot easier.
 - Read the book called A New Clue and got extremely confused.
@@ -223,3 +223,22 @@ Day 42
 			- I added a copy of the Passageway room, this might be a mistake.
 			- There was a copy of the Pantry, but I don't like that room, so I ignored it.
 - Besides that, I managed to kill my run by pressing a button and then getting stuck in one of the corners of the Chamber of Mirrors, so that's it...
+
+Day 43
+- Drafted a Conservatory
+	- Changed Casino to Common
+	- Den stayed Common
+	- Office stayed Standard
+	- Resetted Chamber of Mirrors because this room hurts every run because of how hard it's to draft around it
+- Drafted a Greenhouse, Patio, Great Hall and tried to use the Power Hammer on them
+	- Patio and Great Hall have no destructable walls.
+	- Found a destructable wall on the Greenhouse
+		- Found that Denny Revane stole the red letters and made the ransom letter.
+		- Denny Revane made a logbook / diary that tells you about the Antechamber Levers and most destructable walls.
+		- From what he said in the book, it's possible that there is another lever for the North Door of the Antechamber.
+- Tried 0408 and 0804 on the Study Room safe and it didn't work
+	- Based on d8 position of Queen.
+	- What if I invert d8 tp 98 to 0908?
+- Drafted Rumpus Room and Alzara does not work anymore.
+- Activated a laboratory experiment for hallways drafted in hallways and was able to trigger it 6 times, for 6 new mails.
+- Ended the run at the Planetarium and reached 50 stars, finally.

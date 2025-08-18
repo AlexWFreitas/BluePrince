@@ -164,7 +164,7 @@
 			"height":179
 		},
 		{"id":"1cabd85599bd4aa5","type":"file","file":"99. attachments/BLUE_PRINCE_obC3CJhwQ9.png","x":-520,"y":3800,"width":400,"height":270},
-		{"id":"5e5b66854d4bdb57","type":"file","file":"99. attachments/BLUE_PRINCE_MG1gO9wblR.png","x":-1821,"y":4160,"width":400,"height":225,"color":"4"},
+		{"id":"5e5b66854d4bdb57","type":"file","file":"99. attachments/BLUE_PRINCE_MG1gO9wblR.png","x":-1821,"y":4160,"width":399,"height":225,"color":"4"},
 		{"id":"b3e1ef01552028ce","type":"file","file":"99. attachments/BLUE_PRINCE_hL2VOjzlpU.png","x":-1381,"y":4160,"width":400,"height":222,"color":"4"},
 		{"id":"7ef2a9a70efe2e65","type":"file","file":"99. attachments/BLUE_PRINCE_mb8MnHNaJj.png","x":-941,"y":4160,"width":400,"height":213,"color":"1"},
 		{
@@ -177,7 +177,21 @@
 			"width":320,
 			"height":127
 		},
-		{"id":"4601b088aa5659e2","type":"file","file":"99. attachments/BLUE_PRINCE_rCZXQZc2RL.png","x":-500,"y":4160,"width":400,"height":279}
+		{"id":"4601b088aa5659e2","type":"file","file":"99. attachments/BLUE_PRINCE_rCZXQZc2RL.png","x":-500,"y":4160,"width":399,"height":279},
+		{
+			"id":"3180be267500a1d0",
+			"type":"text",
+			"text":"This box is not blue\nEvery statement with the word blue is false\nThe black box and blue box are empty",
+			"styleAttributes":{},
+			"x":-2200,
+			"y":4520,
+			"width":355,
+			"height":160
+		},
+		{"id":"4c47b3d256ede0d3","type":"file","file":"99. attachments/BLUE_PRINCE_TR1x52qEId.png","x":-1821,"y":4498,"width":400,"height":205,"color":"1"},
+		{"id":"46bf77b1a71e5795","type":"file","file":"99. attachments/BLUE_PRINCE_ZUuCK9RCak.png","x":-1381,"y":4498,"width":400,"height":221,"color":"1"},
+		{"id":"57509cc254d5d0e1","type":"file","file":"99. attachments/BLUE_PRINCE_gmeC4d7RXo.png","x":-941,"y":4498,"width":400,"height":240,"color":"4"},
+		{"id":"97b5250f8ffc43c2","type":"file","file":"99. attachments/BLUE_PRINCE_07u4RH0i0w.png","x":-500,"y":4480,"width":400,"height":345}
 	],
 	"edges":[],
 	"metadata":{
