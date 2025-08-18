@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. TODO/TODO Canvas.canvas",
                 "viewState": {
-                  "x": 680.7224296092143,
-                  "y": 1018.2906009122714,
-                  "zoom": -0.9014361655164107
+                  "x": 2169.4752710455523,
+                  "y": 1277.4278420229982,
+                  "zoom": -0.5681028321830774
                 }
               },
               "pinned": true,
@@ -98,9 +98,25 @@
               "icon": "lucide-layout-dashboard",
               "title": "With Without Puzzles"
             }
+          },
+          {
+            "id": "d74ee0be51f77118",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas/info/Inner Sanctum Key.canvas",
+                "viewState": {
+                  "x": -947.4070713990711,
+                  "y": -609.6564916833476,
+                  "zoom": -0.3333333333333332
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Inner Sanctum Key"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,14 +264,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffa98e77048689be",
+  "active": "b9aaf2342cf53910",
   "lastOpenFiles": [
+    "2. Canvas/info/Inner Sanctum Key.canvas",
     "1. TODO/TODO Canvas.canvas",
+    "1. TODO/continuous/Diary.md",
     "1. TODO/todo/Find Room 8.canvas",
     "1. TODO/done/Activate the Boiler Room Generator.canvas",
     "1. TODO/todo/Find complete Sigils Book.canvas",
     "2. Canvas/items/Power Hammer.canvas",
-    "1. TODO/continuous/Diary.md",
     "2. Canvas/info/Day Results.canvas",
     "99. attachments/BLUE_PRINCE_jK7qJdSuPd.png",
     "2. Canvas/info/With Without Puzzles.canvas",
@@ -264,7 +281,6 @@
     "2. Canvas/items/Broken Lever.canvas",
     "2. Canvas/areas/Weight Room.canvas",
     "99. attachments/BLUE_PRINCE_DYjJb1D6zw.png",
-    "2. Canvas/areas/Abandoned Mine.canvas",
     "99. attachments/BLUE_PRINCE_8bDtwEk4D5.png",
     "99. attachments/BLUE_PRINCE_HvsB5C7ZBc.png",
     "99. attachments/BLUE_PRINCE_H1wXvhCtLc.png",

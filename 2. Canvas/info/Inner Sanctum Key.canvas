@@ -1,49 +1,104 @@
 {
 	"nodes":[
+		{"id":"5a6a4937b0836dc2","type":"file","file":"99. attachments/BLUE_PRINCE_oliXUFttfs.png","x":-1860,"y":-980,"width":897,"height":720},
+		{
+			"id":"0c070346425d2774",
+			"type":"text",
+			"text":"First key is in Rank 10 at [[046 - Room 46.canvas|046 - Room 46]]",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-980,
+			"width":460,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"0e588323c71cae9f",
+			"type":"text",
+			"text":"Third key is in the [[Clock Tower.canvas|Clock Tower]]",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-820,
+			"width":460,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"dd9d6dbeedb7043d",
+			"type":"text",
+			"text":"The fifth key is held by a king on his throne?",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-660,
+			"width":460,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"32019648da048ae5",
+			"type":"text",
+			"text":"Fourth key is in the [[Reservoir.canvas|Reservoir]] in one of the trunks, reachable by draining the Reservoir and coming from the Basement.",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-740,
+			"width":600,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"9a5517201eee1807",
+			"type":"text",
+			"text":"Second key is in the [[023 - Vault.canvas|023 - Vault]]",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-900,
+			"width":460,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"7e011b8d150526f3",
+			"type":"text",
+			"text":"The sixth key is in a station?",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-580,
+			"width":460,
+			"height":60,
+			"color":"1"
+		},
 		{
 			"id":"dd220674a9c3587b",
 			"type":"text",
 			"text":"A key that can be used to open one of the eight doors in the [[Inner Sanctum.canvas|Inner Sanctum]]",
 			"styleAttributes":{},
-			"x":-460,
-			"y":-440,
-			"width":340,
+			"x":-1860,
+			"y":-1160,
+			"width":480,
 			"height":120
 		},
 		{
-			"id":"a22dd832187af6ab",
+			"id":"54aecb72e550a9d0",
 			"type":"text",
-			"text":"[[Reservoir.canvas|Reservoir]] has one key in one of the trunks, after you drain the [[Reservoir.canvas|Reservoir]] with the [[033 - Pump Room.canvas|033 - Pump Room]] using the reserve tank that is filled through the use of the [[032 - Boiler Room.canvas|032 - Boiler Room]] power.",
+			"text":"The seventh key is in the [[015 - Music Room.canvas|015 - Music Room]] at Rank 9",
 			"styleAttributes":{},
-			"x":-860,
-			"y":-140,
-			"width":440,
-			"height":120,
-			"color":"4"
-		},
-		{
-			"id":"9d29537090e1b5a2",
-			"type":"text",
-			"text":"[[046 - Room 46.canvas|046 - Room 46]] has another key on the desk",
-			"styleAttributes":{},
-			"x":-400,
-			"y":-140,
-			"width":300,
+			"x":-940,
+			"y":-500,
+			"width":480,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"d3bea8a46308e23f",
+			"id":"9c5e027f4f1d9d4a",
 			"type":"text",
-			"text":"Find a special key on the Music Room by drafting it on Rank 9",
+			"text":"The last key is waiting behind the last door of eight - [[Mechanarium.canvas|Mechanarium]]",
 			"styleAttributes":{},
-			"x":-80,
-			"y":-140,
-			"width":300,
-			"height":120,
-			"color":"4"
-		},
-		{"id":"5a6a4937b0836dc2","type":"file","file":"99. attachments/BLUE_PRINCE_oliXUFttfs.png","x":-880,"y":-540,"width":400,"height":321}
+			"x":-940,
+			"y":-420,
+			"width":480,
+			"height":60,
+			"color":"3"
+		}
 	],
 	"edges":[],
 	"metadata":{

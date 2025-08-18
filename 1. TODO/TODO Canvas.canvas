@@ -1378,17 +1378,6 @@
 			"color":"3"
 		},
 		{
-			"id":"dccb957aeb942176",
-			"type":"text",
-			"text":"[[Drafting Studio Safe Puzzle.canvas|Drafting Studio Safe Puzzle]]",
-			"styleAttributes":{},
-			"x":220,
-			"y":320,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"d5925775408dfa6e",
 			"type":"text",
 			"text":"[[Mirror Chamber Puzzle.canvas|Mirror Chamber Puzzle]]",
@@ -1411,23 +1400,23 @@
 			"color":"3"
 		},
 		{
-			"id":"3e6164d15fb00301",
-			"type":"text",
-			"text":"[[Classroom 9 Puzzle.canvas|Classroom 9]] Exam",
-			"styleAttributes":{},
-			"x":220,
-			"y":400,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"8fc1a6dcf2b9c056",
 			"type":"text",
 			"text":"[[Find Room 8.canvas|Find Room 8]]",
 			"styleAttributes":{},
 			"x":760,
 			"y":1450,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"3e6164d15fb00301",
+			"type":"text",
+			"text":"[[Classroom 9 Puzzle.canvas|Classroom 9]] Exam",
+			"styleAttributes":{},
+			"x":220,
+			"y":320,
 			"width":260,
 			"height":60,
 			"color":"3"
