@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"e13d92d6013a2494","type":"file","file":"99. attachments/BLUE_PRINCE_ZDKlnK7i3w.png","x":-677,"y":-320,"width":400,"height":225},
-		{"id":"6b4b75a09f2106e1","type":"file","file":"99. attachments/BLUE_PRINCE_K803QZtnaP.png","x":-677,"y":-60,"width":400,"height":225},
 		{"id":"6230e0b55fe9c106","type":"file","file":"99. attachments/BLUE_PRINCE_ACBTAqvkld.png","x":-677,"y":200,"width":400,"height":225},
 		{"id":"1e246551d636cdbf","type":"file","file":"99. attachments/BLUE_PRINCE_lOixqksNcX.png","x":-240,"y":200,"width":400,"height":225},
 		{"id":"d3529b1f973c30da","type":"file","file":"99. attachments/BLUE_PRINCE_lJkDQsSnkS 1.png","x":-677,"y":480,"width":400,"height":225},
@@ -19,6 +18,27 @@
 			"y":645,
 			"width":260,
 			"height":60
+		},
+		{"id":"6b4b75a09f2106e1","type":"file","file":"99. attachments/BLUE_PRINCE_K803QZtnaP.png","x":-1840,"y":532,"width":400,"height":225},
+		{
+			"id":"1bfebb74f778ea04",
+			"type":"text",
+			"text":"# Safe Solution",
+			"styleAttributes":{},
+			"x":-1840,
+			"y":797,
+			"width":460,
+			"height":80
+		},
+		{
+			"id":"e6a55e74ad86b542",
+			"type":"text",
+			"text":"There is a chess board in the center.\nWe know that the safes are cracked by dates.\nThe queen piece is in d8 and there is a queen besides the safe.\nd8 means December 8th\n\nSo the password is 1208.",
+			"styleAttributes":{},
+			"x":-1840,
+			"y":900,
+			"width":460,
+			"height":220
 		}
 	],
 	"edges":[

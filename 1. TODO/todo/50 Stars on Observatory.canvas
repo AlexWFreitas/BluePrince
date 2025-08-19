@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"25fd3a3321f5cb36",
+			"type":"text",
+			"text":"This unlocks a constellation that uses stars to reroll rooms.\n\nThis is always shown after 50 stars.",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-340,
+			"width":320,
+			"height":120
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

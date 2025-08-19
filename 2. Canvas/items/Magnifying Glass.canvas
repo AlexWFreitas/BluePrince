@@ -100,7 +100,18 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"b4137e5ff423193a","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":1003,"y":102,"width":114,"height":209}
+		{"id":"b4137e5ff423193a","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":1003,"y":102,"width":114,"height":209},
+		{
+			"id":"89660b314b64d5b4",
+			"type":"text",
+			"text":"[[The History of Orindia - First Edition.canvas|The History of Orindia - First Edition]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":251,
+			"width":260,
+			"height":60,
+			"color":"1"
+		}
 	],
 	"edges":[
 		{

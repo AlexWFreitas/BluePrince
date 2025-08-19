@@ -1,3 +1,28 @@
+Day 45
+- Drafted a Conservatory
+	- Changed Observatory to Common
+	- Changed Dark Room to Unusual
+	- Changed East Wing Hall to Common
+- Drafted a Casino and had a Broken Lever
+	- The Golden Slot Machine can do five bonus spins instead of three.
+		- I feel that this room should synergize with luck, since my build doesn't add luck, maybe this is a bad room for me?
+		- Still can use the remaining gold from each run to try to get more allowance.
+- I entered the Ballroom again to check if there is something to do in it, but didn't find anything.
+	- I checked the reflections in the ground, and still nothing.
+- Read the History of Orindia with Magnifying Glasses and didn't find anything of importance.
+- I feel that I should focus on drafting the Drafting Studio through any means necessary to get the remaining rooms.
+- Before this day I did a review of the Final Exam and fixed most answers, I feel that I can get all questions correct except for four, because I do not have enough information.
+- I tried calling it a day in the Dark Room without power to see if something happens.
+- I am thinking about sleeping in the Maid's Quarter, I know that Lady Epsen didn't try it, so maybe something will happen if I do it.
+	- Sastre said something about a room called Lost and Found, since that room reduces the items found in a run, maybe she is the one responsible for finding items and taking it to the Lost and Found room.
+- I opened the Study Room, I was thinking about 0408 and 0804 because of the fourth letter of the alphabet.
+	- Then I tried inverting d to become a 9, so 0908 and it didn't work.
+	- When I was talking about my attempts with Sastre, he laughed when I inverted the d, so I figured out that it d meant something different, so I tried December 8th.
+		- It worked...
+- I want to try drafting the Servant's Quarter after drafting eight bedroom rooms, I feel that maybe the Inner Sanctum Key is there.
+- Since the Commissary room had an upgrade disk, maybe the Trading Post can have one too.
+	- I wonder if it's possible that the Showroom can have it too, since they have expensive things?
+
 Day 44
 - Drafted a Casino and discovered that there are three types of games.
 	- One normal slot machine.

@@ -9,6 +9,16 @@
 			"y":-320,
 			"width":580,
 			"height":300
+		},
+		{
+			"id":"ea99d77eb6b31e35",
+			"type":"text",
+			"text":"# Constellation Logs",
+			"styleAttributes":{},
+			"x":-1160,
+			"y":80,
+			"width":1000,
+			"height":640
 		}
 	],
 	"edges":[],

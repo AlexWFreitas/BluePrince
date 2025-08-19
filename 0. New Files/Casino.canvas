@@ -15,6 +15,17 @@
 			"y":460,
 			"width":260,
 			"height":80
+		},
+		{"id":"7a4e17e35db1302c","type":"file","file":"99. attachments/BLUE_PRINCE_n3On4w3162.png","x":-400,"y":580,"width":400,"height":225},
+		{
+			"id":"360190045ca641aa",
+			"type":"text",
+			"text":"Five bonus spins instead of three.",
+			"styleAttributes":{},
+			"x":-330,
+			"y":860,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -25,6 +36,15 @@
 			"fromNode":"31ddb649af3983c3",
 			"fromSide":"top",
 			"toNode":"f421675fb6bcfd98",
+			"toSide":"bottom"
+		},
+		{
+			"id":"a7e4055921d439d5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"360190045ca641aa",
+			"fromSide":"top",
+			"toNode":"7a4e17e35db1302c",
 			"toSide":"bottom"
 		}
 	],
