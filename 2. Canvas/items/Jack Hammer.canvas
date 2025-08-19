@@ -50,7 +50,8 @@
 			"x":420,
 			"y":-120,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"1"
 		},
 		{
 			"id":"095859df78201c49",
@@ -60,7 +61,8 @@
 			"x":420,
 			"y":-40,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"3"
 		},
 		{
 			"id":"8dfdc9336a251f6c",
@@ -70,10 +72,40 @@
 			"x":420,
 			"y":40,
 			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"11c199c2d7582e7c",
+			"type":"text",
+			"text":"Not very confident about these ones.",
+			"styleAttributes":{},
+			"x":800,
+			"y":0,
+			"width":260,
 			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"bb9e593626254729",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8dfdc9336a251f6c",
+			"fromSide":"right",
+			"toNode":"11c199c2d7582e7c",
+			"toSide":"left"
+		},
+		{
+			"id":"4f5d9e6034086702",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"095859df78201c49",
+			"fromSide":"right",
+			"toNode":"11c199c2d7582e7c",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

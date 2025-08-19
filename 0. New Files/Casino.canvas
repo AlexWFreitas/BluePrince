@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"5124c58b7a059b84","type":"file","file":"99. attachments/BLUE_PRINCE_4RP402xO9t.png","x":40,"y":-500,"width":400,"height":225},
+		{"id":"2f33bf1bb5196779","type":"file","file":"99. attachments/BLUE_PRINCE_iPttFH74p8.png","x":40,"y":-247,"width":400,"height":225},
+		{"id":"26fddbe2d1334419","type":"file","file":"99. attachments/BLUE_PRINCE_BmanpKDKas.png","x":40,"y":20,"width":400,"height":225},
+		{"id":"8d3cb61fe511fcbd","type":"file","file":"99. attachments/BLUE_PRINCE_6TH1fixP4j.png","x":-400,"y":-60,"width":400,"height":225},
+		{"id":"cf30f558dae25c77","type":"file","file":"99. attachments/BLUE_PRINCE_8WkY7gG2ha.png","x":-400,"y":-320,"width":400,"height":225},
+		{"id":"f421675fb6bcfd98","type":"file","file":"99. attachments/BLUE_PRINCE_1BAOYw95ih.png","x":-400,"y":200,"width":400,"height":225},
+		{
+			"id":"31ddb649af3983c3",
+			"type":"text",
+			"text":"Needs a [[Broken Lever.canvas|Broken Lever]] to use it in a run.",
+			"styleAttributes":{},
+			"x":-330,
+			"y":460,
+			"width":260,
+			"height":80
+		}
+	],
+	"edges":[
+		{
+			"id":"960651a737b10f6e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"31ddb649af3983c3",
+			"fromSide":"top",
+			"toNode":"f421675fb6bcfd98",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,3 +1,20 @@
+Day 44
+- Drafted a Casino and discovered that there are three types of games.
+	- One normal slot machine.
+	- One special slot machine that needs a Broken Lever to use.
+	- One Roulette machine that allows you to possibly gain more 2 to 12 allowance per run.
+- Crafted a Jack Hammer and drafted the Patio room, did not find anything to interact based on the Aquarium's X Spot on the Patio replica.
+- Craft a Burning Glass and tried on the Patio room too, didn't work.
+- Ordered the Book about History of Orindia again, I need to use magnifying glass on it.
+- Stored the Jack Hammer in the Coat Check.
+- Saw the Constellation for 50 Stars, it feels like it is kinda shit, if it keeps consuming 50 stars every day when above 50, I think I will try to reduce my star number to 40 and then slowly go up to 50 again while enjoying the benefits of the constellations below 50.
+	- The constellation allows me to use stars to reroll rooms.
+	- It's interesting to take notes about the constellation combinations that happen at 40+, because I might find a good number that has tons of bonuses and then I will be able to roll them every run.
+	- Maybe I need to try to achieve a number like 50 + 40-49 to get the best bonuses and still being able to reroll rooms to use stars on demand.
+- I was wondering what would happen if I call it a day inside a Dark Room when it's dark.
+	- I am thinking about what Sastre said about Lost and Found room.
+
+
 
 Day 32
 - Discovered the Clock Tower on the Drafting Studio

@@ -191,7 +191,21 @@
 		{"id":"4c47b3d256ede0d3","type":"file","file":"99. attachments/BLUE_PRINCE_TR1x52qEId.png","x":-1821,"y":4498,"width":400,"height":205,"color":"1"},
 		{"id":"46bf77b1a71e5795","type":"file","file":"99. attachments/BLUE_PRINCE_ZUuCK9RCak.png","x":-1381,"y":4498,"width":400,"height":221,"color":"1"},
 		{"id":"57509cc254d5d0e1","type":"file","file":"99. attachments/BLUE_PRINCE_gmeC4d7RXo.png","x":-941,"y":4498,"width":400,"height":240,"color":"4"},
-		{"id":"97b5250f8ffc43c2","type":"file","file":"99. attachments/BLUE_PRINCE_07u4RH0i0w.png","x":-500,"y":4480,"width":400,"height":345}
+		{"id":"97b5250f8ffc43c2","type":"file","file":"99. attachments/BLUE_PRINCE_07u4RH0i0w.png","x":-500,"y":4480,"width":400,"height":345},
+		{"id":"aff7fc0c7cd08c39","type":"file","file":"99. attachments/BLUE_PRINCE_Q6obyWdvWt.png","x":-934,"y":4902,"width":400,"height":213,"color":"4"},
+		{"id":"8365c8c208ac8f6e","type":"file","file":"99. attachments/BLUE_PRINCE_tvVKIboKC3.png","x":-1815,"y":4900,"width":400,"height":198,"color":"4"},
+		{
+			"id":"0f44244e35a595f8",
+			"type":"text",
+			"text":"The black box is true\nThe gems are in the true box\nThe blue box is true",
+			"styleAttributes":{},
+			"x":-2172,
+			"y":4915,
+			"width":300,
+			"height":120
+		},
+		{"id":"89aeaa9ae6852258","type":"file","file":"99. attachments/BLUE_PRINCE_7QMQhmM9wA.png","x":-1381,"y":4906,"width":400,"height":187,"color":"1"},
+		{"id":"873fc84e2e1b38f8","type":"file","file":"99. attachments/BLUE_PRINCE_6ZmFUqLml3.png","x":-501,"y":4900,"width":400,"height":284}
 	],
 	"edges":[],
 	"metadata":{

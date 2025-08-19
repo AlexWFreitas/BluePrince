@@ -20,7 +20,8 @@
 			"y":-940,
 			"width":855,
 			"height":460
-		}
+		},
+		{"id":"f8d9638e00c7ede5","type":"file","file":"99. attachments/BLUE_PRINCE_Eev8AXE4i2.png","x":560,"y":300,"width":680,"height":383}
 	],
 	"edges":[
 		{"id":"40ae6f701351537c","fromNode":"53bd4ef87b9eb026","fromSide":"top","toNode":"9cb268989cca7d5c","toSide":"bottom"},
