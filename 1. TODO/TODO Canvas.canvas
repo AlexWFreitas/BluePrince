@@ -451,17 +451,6 @@
 			"color":"3"
 		},
 		{
-			"id":"c6b6de79a5152bb8",
-			"type":"text",
-			"text":"[[Sledgehammer.canvas|Sledgehammer]] Puzzles",
-			"styleAttributes":{},
-			"x":1040,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"5badf05f764153cc",
 			"type":"text",
 			"text":"[[Blackbridge Grotto Computer Symbols Puzzle.canvas|Blackbridge Grotto Computer Symbols Puzzle]]",
@@ -1420,6 +1409,17 @@
 			"width":260,
 			"height":100,
 			"color":"4"
+		},
+		{
+			"id":"c6b6de79a5152bb8",
+			"type":"text",
+			"text":"[[Sledgehammer.canvas|Sledgehammer]] Puzzles",
+			"styleAttributes":{},
+			"x":1040,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"6"
 		}
 	],
 	"edges":[]
