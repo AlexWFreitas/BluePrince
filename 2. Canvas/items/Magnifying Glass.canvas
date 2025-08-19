@@ -111,6 +111,17 @@
 			"width":260,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"149a4a3a7c8c74e0",
+			"type":"text",
+			"text":"[[A Sightseer's Guide to Reddington.canvas|A Sightseer's Guide to Reddington]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":360,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[

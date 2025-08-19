@@ -1,3 +1,21 @@
+Day 47
+- Drafted a Schoolhouse as the Outer Room
+- Drafted a Conservatory
+	- Hallway stayed Common
+	- Kitchen stayed Common
+	- Study from Unusual to Common
+- Did the Final Exam after much suffering drafting the rooms.
+- Drafted a Drafting Studio and added the Dormitory
+- Drafted the Dormitory and got the Drafting Strategy Volume 2 book.
+	- Interesting info about the Freezer inside.
+	- Should transform Sauna into common too.
+
+Day 46
+- Drafted a Library and ordered the Reddington Sightseeing Guide
+- Tried to pass through the Red Door and was not able to do it
+	- Tested with Moon Pendant and Crown of Blueprints
+- Lastly I wanted to test the Crown in a run, so I placed it inside the Coat Check to use it later.
+
 Day 45
 - Drafted a Conservatory
 	- Changed Observatory to Common

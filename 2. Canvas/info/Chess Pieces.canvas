@@ -40,7 +40,7 @@
 		{
 			"id":"e64f393b43f5b663",
 			"type":"text",
-			"text":"Not sure about this one",
+			"text":"This is not a chess piece.",
 			"styleAttributes":{},
 			"x":1220,
 			"y":-1197,
@@ -50,13 +50,14 @@
 		{
 			"id":"6380af426302bd66",
 			"type":"text",
-			"text":"Count as 2?",
+			"text":"Count as 1",
 			"styleAttributes":{},
 			"x":-50,
 			"y":-320,
 			"width":260,
 			"height":60
-		}
+		},
+		{"id":"96945636cdc5f843","type":"file","file":"99. attachments/BLUE_PRINCE_lfeME17Pc2.png","x":1200,"y":-597,"width":400,"height":225}
 	],
 	"edges":[
 		{

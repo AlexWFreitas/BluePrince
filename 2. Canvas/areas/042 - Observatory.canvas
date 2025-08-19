@@ -19,6 +19,39 @@
 			"y":80,
 			"width":1000,
 			"height":640
+		},
+		{"id":"82669bcf67fd3769","type":"file","file":"99. attachments/BLUE_PRINCE_8lMrGpKsWg.png","x":-2000,"y":-189,"width":400,"height":269},
+		{
+			"id":"2288ae4a73220798",
+			"type":"text",
+			"text":"50",
+			"styleAttributes":{},
+			"x":-1730,
+			"y":-80,
+			"width":110,
+			"height":60
+		},
+		{"id":"330167eb679a1ec4","type":"file","file":"99. attachments/BLUE_PRINCE_0qarasnKiM.png","x":-1560,"y":-144,"width":400,"height":189},
+		{
+			"id":"c013136ff1c60e10",
+			"type":"text",
+			"text":"4",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":-140,
+			"width":60,
+			"height":60
+		},
+		{"id":"8abf1d457346356c","type":"file","file":"99. attachments/BLUE_PRINCE_hH9R4zULnE.png","x":-1650,"y":140,"width":400,"height":203},
+		{
+			"id":"c3159cf2765cc3e8",
+			"type":"text",
+			"text":"5",
+			"styleAttributes":{},
+			"x":-1560,
+			"y":140,
+			"width":60,
+			"height":60
 		}
 	],
 	"edges":[],

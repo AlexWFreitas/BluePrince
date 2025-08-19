@@ -16,14 +16,24 @@
 		{
 			"id":"569032f0f920e78a",
 			"type":"text",
-			"text":"# Combinations\n\n- [[Burning Glass.canvas|Burning Glass]] - Magnifying lens + Metal Detector\n- [[Power Hammer.canvas|Power Hammer]] - Sledgehammer + Battery Pack + Broken Lever\n- [[Jack Hammer.canvas|Jack Hammer]] - Shovel + Battery Pack + Broken Lever\n- [[Dowsing Rod.canvas|Dowsing Rod]] - Shovel + Compass\n- [[Detector Shovel.canvas|Detector Shovel]] - Shovel + Metal Detector\n- [[Electro Magnet.canvas|Electro Magnet]] - Compass + Battery Pack\n- [[Lucky Purse.canvas|Lucky Purse]] - Rabbit's Foot + Coin Purse\n- [[Pick Sound Amplifier.canvas|Pick Sound Amplifier]] - Lock Pick Kit + Metal Detector",
+			"text":"# Combinations\n\n- [[Burning Glass.canvas|Burning Glass]] - Magnifying lens + Metal Detector\n- [[Power Hammer.canvas|Power Hammer]] - Sledgehammer + Battery Pack + Broken Lever\n- [[Jack Hammer.canvas|Jack Hammer]] - Shovel + Battery Pack + Broken Lever\n- [[Dowsing Rod.canvas|Dowsing Rod]] - Shovel + Compass\n- [[Detector Shovel.canvas|Detector Shovel]] - Shovel + Metal Detector\n- [[Electro Magnet.canvas|Electro Magnet]] - Compass + Battery Pack\n- [[Lucky Purse.canvas|Lucky Purse]] - Rabbit's Foot + Coin Purse\n- [[Pick Sound Amplifier.canvas|Pick Sound Amplifier]] - Lock Pick Kit + Metal Detector\n- ~~??? - [[Moon Pendant.canvas|Moon Pendant]] + ???~~\n\t- ~~Not Rabbit Foot, Sleeping Mask, Keycard, Sledge Hammer, Compass, Battery Pack, Coin Purse, Magnifying Glass, Metal Detector, Salt, Broken Lever.~~",
 			"styleAttributes":{},
 			"x":-2100,
 			"y":-360,
 			"width":920,
 			"height":880
 		},
-		{"id":"fad729e4c8b250bd","type":"file","file":"99. attachments/BLUE_PRINCE_UQ5y3YH7MB.png","x":-2100,"y":-740,"width":640,"height":360}
+		{"id":"fad729e4c8b250bd","type":"file","file":"99. attachments/BLUE_PRINCE_UQ5y3YH7MB.png","x":-2100,"y":-740,"width":640,"height":360},
+		{
+			"id":"1d8a6956db2952da",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-440,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[],
 	"metadata":{
