@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"4bab3985b6e6f2b6","type":"file","file":"99. attachments/BLUE_PRINCE_6VDrshVPhL.png","x":-440,"y":-736,"width":400,"height":225},
+		{"id":"900a28dd071bf2ce","type":"file","file":"99. attachments/BLUE_PRINCE_IIrAlnEndg.png","x":40,"y":-736,"width":400,"height":225},
+		{"id":"ee91b8a736ef22ad","type":"file","file":"99. attachments/BLUE_PRINCE_jKTpGBTTV1.png","x":-440,"y":-456,"width":400,"height":225},
+		{"id":"25aed5c2e9830b1a","type":"file","file":"99. attachments/BLUE_PRINCE_PYnk7Ce8SC.png","x":40,"y":-456,"width":400,"height":225},
+		{"id":"d581b30da776b348","type":"file","file":"99. attachments/BLUE_PRINCE_wV84roqro4.png","x":-440,"y":-156,"width":400,"height":225},
+		{"id":"e38c072272aa9246","type":"file","file":"99. attachments/BLUE_PRINCE_POwGsXHHg5.png","x":40,"y":-141,"width":400,"height":225},
+		{"id":"43a3752117b696d0","type":"file","file":"99. attachments/BLUE_PRINCE_RqfNbtWjZE.png","x":-440,"y":196,"width":400,"height":225},
+		{"id":"a1ab392285405cfb","type":"file","file":"99. attachments/BLUE_PRINCE_v2azKZeCzd.png","x":40,"y":196,"width":400,"height":225},
+		{"id":"8bb4fba16e9639e5","type":"file","file":"99. attachments/BLUE_PRINCE_Fd3GuUi5D0.png","x":-440,"y":511,"width":400,"height":225},
+		{
+			"id":"c985bb2ea29acf41",
+			"type":"text",
+			"text":"Richard Witt",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-860,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
