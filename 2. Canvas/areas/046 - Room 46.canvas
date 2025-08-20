@@ -13,9 +13,30 @@
 		{"id":"ee2241d9cc3548a2","type":"file","file":"99. attachments/BLUE_PRINCE_XrB1sTF1eG.png","x":-1480,"y":-260,"width":400,"height":225},
 		{"id":"1936ed6a5d197bc4","type":"file","file":"99. attachments/BLUE_PRINCE_chfup24xXh.png","x":-1480,"y":0,"width":400,"height":225},
 		{"id":"1c12f6d1872b142f","type":"text","text":"This Secret Room is Not as Secure as You Thought\nWe Have your Letters\n8 Letters 8 Payments of 100 Gold\nInstructions to Follow","x":-1405,"y":260,"width":285,"height":225},
-		{"id":"29bd85d74a483d8d","type":"file","file":"99. attachments/BLUE_PRINCE_1uOrlfrMep.png","x":-1920,"y":-260,"width":400,"height":225}
+		{"id":"29bd85d74a483d8d","type":"file","file":"99. attachments/BLUE_PRINCE_1uOrlfrMep.png","x":-1920,"y":-260,"width":400,"height":225},
+		{"id":"41f1451095a2517b","type":"file","file":"99. attachments/BLUE_PRINCE_R0MxC5JzzO.png","x":-1520,"y":660,"width":400,"height":225},
+		{
+			"id":"adb1943e6cb11259",
+			"type":"text",
+			"text":"[[Eight Months Eight Places Puzzle.canvas|Eight Months Eight Places Puzzle]]",
+			"styleAttributes":{},
+			"x":-1450,
+			"y":940,
+			"width":260,
+			"height":60
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"d6045ffe49f71245",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"adb1943e6cb11259",
+			"fromSide":"top",
+			"toNode":"41f1451095a2517b",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

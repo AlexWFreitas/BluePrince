@@ -5,7 +5,7 @@
 		{
 			"id":"22ac67e1f57bef8a",
 			"type":"text",
-			"text":"1. Orinda Aries / Black Bridge\n2. a\n3. a\n4. a\n5. a\n6. a\n7. a\n8. Fenn Aries\n\nVenn Shores came before Corarica\n\nProbably Arch Aries came before Fenn Aries\nProbably Mora Jai came before Arch Aries\nProbably Nuance came after Eraja\nProbably Eraja came after Orindia Aries\n",
+			"text":"1. Orinda Aries / Black Bridge\n2. a\n3. a\n4. a\n5. a\n6. a\n7. a\n8. Fenn Aries\n\nVenn Shores comes before Corarica\nArch Aries comes after Mora Jai\nMaybe Nuance comes before Fenn Aries\n",
 			"styleAttributes":{},
 			"x":-880,
 			"y":-440,
@@ -17,12 +17,12 @@
 		{
 			"id":"7ae4fe5b9b2d825c",
 			"type":"text",
-			"text":"Predicted Order\n\n1. Orinda Aries\n2. Eraja\n3. Nuance\n4. Venn Shores\n5. Corarica\n6. Mora Jai\n7. Arch Aries\n8. Fenn Aries",
+			"text":"Predicted Order\n\n1. Orinda Aries\n2. Eraja\n3. Nuance\n4. Venn Shores\n5. Corarica\n6. Mora Jai\n7. Arch Aries\n8. Fenn Aries\n\n**This was incorrect**\n\nProbably Arch Aries came before Fenn Aries\nProbably Mora Jai came before Arch Aries\nProbably Nuance came after Eraja\nProbably Eraja came after Orindia Aries",
 			"styleAttributes":{},
 			"x":-1280,
 			"y":-440,
 			"width":360,
-			"height":400
+			"height":340
 		}
 	],
 	"edges":[],

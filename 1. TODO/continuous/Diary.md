@@ -1,3 +1,22 @@
+Day 49
+- Conservatory
+	- West Wing Hall from Standard to Common
+	- Maid Chamber to Rare
+	- Hallway Closet to Rare
+- Tried the combination of locations on Room 46 8 Months 8 Places puzzle and it wasn't correct sadly.
+- I drafted Root Cellar.
+- I activated the Laboratory Experiment for trash digging, since I have both the Blessing of Gardener and the Root Cellar, I should be able to dig lots of trash if I have a shovel.
+	- Activated the Experiment 16 times, earning 16 stars!
+- I tested the Tunnel on a Length 7 tunnel and found nothing again.
+	- The reason I did that is that the Tunnel has tons of digging spots.
+- I earned 300 gold at the Casino
+- I spent like 250 gold or something at the Showroom and got the Trophy for the Showroom.
+- I tried reading the letters in the Sigil Rooms and didn't get much progress.
+- I want to try doing Laboratory + Shelter combo in a run to see if the Red Door is unlocked.
+
+
+![[BLUE_PRINCE_c1wP65Uv7V.png]]
+
 Day 48
 - I received the results from the Final Exam
 	- I think I missed one or two questions on math and a lot of questions in Erajan Language.

@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"57867065143f759c",
+			"type":"text",
+			"text":"I think I need to draft a Laboratory, do 6-12 Experiment Triggers and then access the Shelter to check if the Radiation surpassed 12.",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-280,
+			"width":440,
+			"height":120
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

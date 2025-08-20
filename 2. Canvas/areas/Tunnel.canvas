@@ -12,6 +12,16 @@
 			"y":220,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"f60f656f5402acb4",
+			"type":"text",
+			"text":"There is no need to explore more, I tried on Rank 9 Column 2 and it had no rewards.",
+			"styleAttributes":{},
+			"x":-1050,
+			"y":320,
+			"width":260,
+			"height":120
 		}
 	],
 	"edges":[
@@ -22,6 +32,15 @@
 			"fromNode":"d210c13fcfb3b132",
 			"fromSide":"top",
 			"toNode":"c90f5574929b60f8",
+			"toSide":"bottom"
+		},
+		{
+			"id":"fa5fa43cc6b3e4f7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f60f656f5402acb4",
+			"fromSide":"top",
+			"toNode":"d210c13fcfb3b132",
 			"toSide":"bottom"
 		}
 	],
