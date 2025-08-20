@@ -523,7 +523,7 @@
 		{
 			"id":"e518cfa1189ebc54",
 			"type":"text",
-			"text":"Inn Ett Iss - North East South\n\nEtt Trei - East Tree\n\n**Ajinn Ett Ovtrei Issja Treivo -** \n**First East Toward Tree, South Last Away From Tree**\n\nMainn Ettam Matrei Ettiss Maorr - \nSmall North, Long East, Small Tree, South East, Small West",
+			"text":"Inn Ett Iss - North East South\n\nEtt Trei - East Tree\n\n**Ajinn Ett Ovtrei Issja Treivo -** \n**First North East Toward Tree, South Last Away From Tree**\n\nMainn Ettam Matrei Ettiss Maorr - \nSmall North, Long East, Small Tree, South East, Small West",
 			"styleAttributes":{},
 			"x":3980,
 			"y":20040,
@@ -542,7 +542,8 @@
 			"y":20560,
 			"width":260,
 			"height":180
-		}
+		},
+		{"id":"500e6acab4d76a72","type":"file","file":"99. attachments/BLUE_PRINCE_IbOo9EjvIh.png","x":740,"y":12993,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"02e07874a98f1406","toFloating":false,"fromNode":"23dd88fdfede1afd","fromSide":"top","toNode":"e2a14c88aee7f736","toSide":"bottom"},

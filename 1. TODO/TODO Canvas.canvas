@@ -1474,6 +1474,17 @@
 			"y":660,
 			"width":360,
 			"height":100
+		},
+		{
+			"id":"49ea8ddef54d855f",
+			"type":"text",
+			"text":"[[Revisit Geography Class - Erajan Words and Map Details.canvas|Revisit Geography Class - Erajan Words and Map Details]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1400,
+			"width":260,
+			"height":110,
+			"color":"3"
 		}
 	],
 	"edges":[]

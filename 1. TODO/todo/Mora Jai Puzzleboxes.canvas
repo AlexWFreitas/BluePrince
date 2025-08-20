@@ -14,7 +14,7 @@
 		{
 			"id":"105ef7e46fe5bec8",
 			"type":"text",
-			"text":"[[Orinda Aries - Inner Sanctum Door.canvas|Orinda Aries - Inner Sanctum Door]]",
+			"text":"[[Inner Sanctum - Orinda Aries.canvas|Orinda Aries - Inner Sanctum Door]]",
 			"styleAttributes":{},
 			"x":-320,
 			"y":-40,
@@ -59,7 +59,7 @@
 		{
 			"id":"a8b9a41a8d2fd621",
 			"type":"text",
-			"text":"[[Fenn Aries - Innser Sanctum Door.canvas]]",
+			"text":"[[Fenn Aries - Inner Sanctum]]",
 			"styleAttributes":{},
 			"x":-20,
 			"y":-40,
@@ -96,6 +96,28 @@
 			"styleAttributes":{},
 			"x":-320,
 			"y":80,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"01cb00dbf3898773",
+			"type":"text",
+			"text":"[[Inner Sanctum - Arch Aries.canvas|Inner Sanctum - Arch Aries]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":80,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"c5937fd275fbe5b1",
+			"type":"text",
+			"text":"[[Inner Sanctum - Corarica.canvas|Inner Sanctum - Corarica]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":180,
 			"width":260,
 			"height":60,
 			"color":"4"

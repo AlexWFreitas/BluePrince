@@ -1,3 +1,36 @@
+Day 48
+- I received the results from the Final Exam
+	- I think I missed one or two questions on math and a lot of questions in Erajan Language.
+	- Sigh...
+	- I want to go back to the Classroom to use a Magnifying Glass on the Geography class, I noticed that there are a lot of Erajan words in those maps.
+- Drafted a Shrine and got 8 days of Gardener Blessing
+- I tried using the Tunnel again, but I placed it on another line and didn't find anything, this means that the Tunnel exploration is over and the only reward is a single Mora Jai Puzzlebox.
+- I ordered the censored book about the history of Orindia, I will try to check if there is any text in it that I didn't see.
+- I ruined my run because of the tunnel test.
+- I took the time to check the other areas around The Grounds
+	- I tried to solve the Sigil Puzzles for the rooms I have opened.
+		- Corarica - Solved
+		- Arch Aries - Solved
+		- Eraja - Not Solved
+			- I feel that I am missing some info on this.
+- Based on those puzzles, I have an idea of the order of travel that Herbert might have done.
+	- What makes sense for me is:
+		- Orinda Aries
+		- Eraja
+		- Nuance
+		- Verra Shores
+		- Corarica
+		- Mora Jai
+		- Arch Aries
+		- Fenn Aries
+	- Some of the groupings can be inferred by some of the letters Herbert left in the Sigil rooms.
+		- Like, it starts with him going to Orinda Aries
+		- It's highly probable that if you are in Orinda Aries, you will try to go to Eraja just based on distance.
+		- Corarica comes after Verra Shores
+		- Arch Aries seems to be one of the latest ones, since he has already traveled by ship and air by that point.
+		- Fenn Aries is the last letter.
+- I got some allowances from the Puzzleboxes, the total value is now 75.
+
 Day 47
 - Drafted a Schoolhouse as the Outer Room
 - Drafted a Conservatory
@@ -8,7 +41,7 @@ Day 47
 - Drafted a Drafting Studio and added the Dormitory
 - Drafted the Dormitory and got the Drafting Strategy Volume 2 book.
 	- Interesting info about the Freezer inside.
-	- Should transform Sauna into common too.
+	- Should transform Sauna into common room too so I can use Freezer with more freedom.
 - After ending the day, I tried to translate the note in Erajan, it seems to be a message saying that Erajan people should go south instead of north?
 
 Day 46

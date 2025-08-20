@@ -42,13 +42,24 @@
 			"width":60,
 			"height":60
 		},
-		{"id":"8abf1d457346356c","type":"file","file":"99. attachments/BLUE_PRINCE_hH9R4zULnE.png","x":-1650,"y":140,"width":400,"height":203},
+		{"id":"8abf1d457346356c","type":"file","file":"99. attachments/BLUE_PRINCE_hH9R4zULnE.png","x":-1650,"y":140,"width":399,"height":203},
 		{
 			"id":"c3159cf2765cc3e8",
 			"type":"text",
 			"text":"5",
 			"styleAttributes":{},
 			"x":-1560,
+			"y":140,
+			"width":60,
+			"height":60
+		},
+		{"id":"22a82128349e4d84","type":"file","file":"99. attachments/BLUE_PRINCE_ceHNJzTRMt.png","x":-2130,"y":140,"width":400,"height":137},
+		{
+			"id":"5f134c3b1913ec49",
+			"type":"text",
+			"text":"2",
+			"styleAttributes":{},
+			"x":-1960,
 			"y":140,
 			"width":60,
 			"height":60

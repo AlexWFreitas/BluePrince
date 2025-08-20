@@ -141,6 +141,68 @@
 			"y":-560,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"df2911c3f06e1ce2",
+			"type":"text",
+			"text":"# Erajan Sigil\n\nRainy\nRough Terrain\nSpiritual\nPurple",
+			"styleAttributes":{},
+			"x":0,
+			"y":-1480,
+			"width":680,
+			"height":300
+		},
+		{"id":"360c7a5396ca3056","type":"file","file":"99. attachments/Obsidian_oSt43fI1sz.png","x":740,"y":-1480,"width":399,"height":209},
+		{"id":"73f421b54d3f5e2a","type":"file","file":"99. attachments/BLUE_PRINCE_dodoxVpnWm.png","x":1640,"y":-1447,"width":400,"height":352},
+		{"id":"cf8c43a75835c97f","type":"file","file":"99. attachments/BLUE_PRINCE_EiZVJJfFhC.png","x":1200,"y":-1454,"width":400,"height":359},
+		{"id":"6607446739ee670c","type":"file","file":"99. attachments/BLUE_PRINCE_TVzbzaFikz.png","x":1200,"y":-1067,"width":400,"height":229},
+		{"id":"60bbad9ff30035b9","type":"file","file":"99. attachments/BLUE_PRINCE_xWpKye7jlZ.png","x":600,"y":-1880,"width":600,"height":338},
+		{
+			"id":"7097633676e466de",
+			"type":"text",
+			"text":"# Arch Aries\n\nStormy\nIndustrial\nTrain\nYellow",
+			"styleAttributes":{},
+			"x":260,
+			"y":1280,
+			"width":400,
+			"height":200
+		},
+		{"id":"cf3f8d664237d6be","type":"file","file":"99. attachments/BLUE_PRINCE_GFuGk6lDX6.png","x":700,"y":1520,"width":400,"height":354},
+		{"id":"6707eebd8d6f608d","type":"file","file":"99. attachments/BLUE_PRINCE_tv5xkqirTx.png","x":700,"y":1243,"width":400,"height":237},
+		{"id":"fd345f5bd57a7534","type":"file","file":"99. attachments/BLUE_PRINCE_QsRBuLgmlX.png","x":260,"y":1560,"width":400,"height":225},
+		{"id":"f7be18c26c66fdbd","type":"file","file":"99. attachments/BLUE_PRINCE_wF9eE2gfdH.png","x":260,"y":1840,"width":400,"height":225},
+		{
+			"id":"0a48ef42b570b22b",
+			"type":"text",
+			"text":"# Corarica\nRoads, Streets, Carriages\nAcademic\nSnow\nOrange - Based on Dormitory Wall Posters\n",
+			"styleAttributes":{},
+			"x":1260,
+			"y":1262,
+			"width":440,
+			"height":258
+		},
+		{"id":"52b45fe630eed20e","type":"file","file":"99. attachments/BLUE_PRINCE_1lvSfF1fcN.png","x":1720,"y":1262,"width":311,"height":400},
+		{"id":"06b7eb4ec597dfd5","type":"file","file":"99. attachments/BLUE_PRINCE_k9Ev7KaAif.png","x":1260,"y":1560,"width":400,"height":225},
+		{
+			"id":"22522e1d8a9699b2",
+			"type":"text",
+			"text":"# Verra Shores\nDesert?\nHeat\nTurtle\nPink or White",
+			"styleAttributes":{},
+			"x":1260,
+			"y":713,
+			"width":576,
+			"height":347
+		},
+		{"id":"61680aeb6790280c","type":"file","file":"99. attachments/Obsidian_zGZ9Unjw3T.png","x":1201,"y":0,"width":347,"height":400},
+		{
+			"id":"a604ccb56c9a2252",
+			"type":"text",
+			"text":"# Orinda Aries\nMetropolitan\nTrains\nFoggy Weather\nBlack",
+			"styleAttributes":{},
+			"x":1180,
+			"y":-380,
+			"width":280,
+			"height":283
 		}
 	],
 	"edges":[

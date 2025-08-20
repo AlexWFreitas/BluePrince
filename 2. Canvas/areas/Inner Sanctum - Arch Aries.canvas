@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{
+			"id":"5d913e4c8da4d0f9",
+			"type":"text",
+			"text":"# Arch Aries\n\nStormy\nIndustrial\nTrain\nYellow",
+			"styleAttributes":{},
+			"x":-1420,
+			"y":-564,
+			"width":400,
+			"height":200
+		},
+		{"id":"afb1217937a664da","type":"file","file":"99. attachments/BLUE_PRINCE_GFuGk6lDX6.png","x":-980,"y":-324,"width":400,"height":354},
+		{"id":"cc0a6cb608569e61","type":"file","file":"99. attachments/BLUE_PRINCE_tv5xkqirTx.png","x":-980,"y":-601,"width":400,"height":237},
+		{"id":"9d597154e487e670","type":"file","file":"99. attachments/BLUE_PRINCE_QsRBuLgmlX.png","x":-1420,"y":-284,"width":400,"height":225},
+		{"id":"09fc7bad2af1c227","type":"file","file":"99. attachments/BLUE_PRINCE_wF9eE2gfdH.png","x":-1420,"y":-4,"width":400,"height":225},
+		{"id":"e5e20bb3d70e2b93","type":"file","file":"99. attachments/BLUE_PRINCE_9t5bzxepIH.png","x":-980,"y":60,"width":400,"height":225},
+		{"id":"15656cc9074e0cf1","type":"file","file":"99. attachments/BLUE_PRINCE_5u8eID2BIC.png","x":-560,"y":60,"width":400,"height":225},
+		{"id":"4b9bb2ad8ecd40a0","type":"file","file":"99. attachments/BLUE_PRINCE_d0tf4Jwg0q.png","x":-560,"y":-195,"width":400,"height":225},
+		{"id":"0c2da4b2676cfba2","type":"file","file":"99. attachments/BLUE_PRINCE_Lyka4yzvGv.png","x":-560,"y":-464,"width":400,"height":225},
+		{"id":"8f33b60e675f1221","type":"file","file":"99. attachments/BLUE_PRINCE_w59r2E9TVQ.png","x":-560,"y":-720,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
