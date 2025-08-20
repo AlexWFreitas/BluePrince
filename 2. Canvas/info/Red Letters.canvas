@@ -3,7 +3,7 @@
 		{
 			"id":"e527dc3b4a2ba277",
 			"type":"text",
-			"text":"# Info\n\nThere are eight letters with eight jewels.\n\nSeems to be related to the [[Ruby Crown.canvas|Ruby Crown]], an item that was stolen from a Museum or something.\n\nLetter Locations\n- 4th Letter - [[Boudoir.canvas|Boudoir]]\n- 7th Letter - [[Shelter.canvas|Shelter]]",
+			"text":"# Info\n\nThere are eight letters with eight jewels.\n\nSeems to be related to the [[Ruby Crown.canvas|Ruby Crown]], an item that was stolen from a Museum or something.\n\nLetter Locations\n- 1st Letter - [[Red Door Area.canvas|Red Door Area]] - [[Underpass.canvas|Underpass]]\n- 2nd Letter - [[026 - Study.canvas|026 - Study]]\n- 4th Letter - [[Boudoir.canvas|Boudoir]]\n- 5th Letter - [[030 - Drafting Studio.canvas|030 - Drafting Studio]]\n- 6th Letter - [[025 - Drawing Room.canvas|025 - Drawing Room]]\n- 7th Letter - [[Shelter.canvas|Shelter]]\n- 8th Letter - [[024 - Office.canvas|024 - Office]]",
 			"styleAttributes":{},
 			"x":-1780,
 			"y":-980,
@@ -42,7 +42,12 @@
 			"y":-860,
 			"width":560,
 			"height":320
-		}
+		},
+		{"id":"a51747ca5329394c","type":"file","file":"99. attachments/BLUE_PRINCE_nXFtaRd5J1.png","x":-6900,"y":-400,"width":400,"height":225},
+		{"id":"424066268874fe83","type":"file","file":"99. attachments/BLUE_PRINCE_JIbTsw2h6l.png","x":-6480,"y":-400,"width":400,"height":225},
+		{"id":"5424871b54d3f5f9","type":"file","file":"99. attachments/BLUE_PRINCE_zhYX5FpLfk.png","x":-6900,"y":-140,"width":400,"height":225},
+		{"id":"35bc3e8f997d775e","type":"file","file":"99. attachments/BLUE_PRINCE_zK0Mf1YYxO.png","x":-6480,"y":-140,"width":400,"height":225},
+		{"id":"9a50b30af8ffd34a","type":"file","file":"99. attachments/BLUE_PRINCE_wkdUHkM22K.png","x":-6900,"y":120,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

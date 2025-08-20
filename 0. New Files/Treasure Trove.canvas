@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"f9a83c4e7d0ff80f","type":"file","file":"99. attachments/BLUE_PRINCE_3cs51dZ7qZ 1.png","x":-620,"y":-300,"width":400,"height":225},
+		{"id":"f4a324714df0b294","type":"file","file":"99. attachments/BLUE_PRINCE_9QYi3GY8KZ.png","x":-1040,"y":-300,"width":400,"height":225},
+		{
+			"id":"8e1c2c2112af34c4",
+			"type":"text",
+			"text":"Found in [[Red Door Area.canvas|Red Door Area]] after solving the lock puzzle.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-420,
+			"width":400,
+			"height":80
+		},
+		{"id":"6927c0871bcc5522","type":"file","file":"99. attachments/BLUE_PRINCE_ugxVeIQet0.png","x":-1040,"y":-40,"width":400,"height":225},
+		{"id":"b058b73c63dcfa45","type":"file","file":"99. attachments/BLUE_PRINCE_88nCYxO4zG.png","x":-620,"y":-40,"width":400,"height":225},
+		{"id":"769b23b04559f630","type":"file","file":"99. attachments/BLUE_PRINCE_ZA8gHyQ6rH.png","x":-1040,"y":220,"width":400,"height":225},
+		{"id":"4e3efa760fb5c852","type":"file","file":"99. attachments/BLUE_PRINCE_B3O4lCxenV.png","x":-180,"y":-40,"width":400,"height":225},
+		{"id":"2f19a37f146f6352","type":"file","file":"99. attachments/BLUE_PRINCE_B835rs0grM.png","x":-180,"y":-300,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

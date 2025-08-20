@@ -85,13 +85,49 @@
 		{
 			"id":"896efd47cb9ec9c8",
 			"type":"text",
-			"text":"Failed Attempts:\nTASK\n",
+			"text":"TASK\nMAY8\n\n",
 			"styleAttributes":{},
 			"x":640,
 			"y":1320,
 			"width":260,
-			"height":300
-		}
+			"height":80
+		},
+		{
+			"id":"53c572df22bb9281",
+			"type":"text",
+			"text":"**Remember that this is a Date**",
+			"styleAttributes":{},
+			"x":960,
+			"y":1180,
+			"width":260,
+			"height":60
+		},
+		{"id":"0734a9cccf97d315","type":"file","file":"99. attachments/BLUE_PRINCE_flStHh89Ee.png","x":920,"y":1320,"width":400,"height":225},
+		{
+			"id":"9567987a93b37ca2",
+			"type":"text",
+			"text":"The password is MAY8",
+			"styleAttributes":{},
+			"x":960,
+			"y":1100,
+			"width":260,
+			"height":60
+		},
+		{"id":"03a9c1c78c8495ff","type":"file","file":"99. attachments/BLUE_PRINCE_zaHUXW8z7f.png","x":220,"y":985,"width":400,"height":225},
+		{"id":"508d62014b919827","type":"file","file":"99. attachments/BLUE_PRINCE_3cs51dZ7qZ.png","x":220,"y":1240,"width":400,"height":225},
+		{"id":"c853db2dfa86a5c7","type":"file","file":"99. attachments/BLUE_PRINCE_57QmkimWmc.png","x":220,"y":1500,"width":400,"height":225},
+		{
+			"id":"730d97849c71178d",
+			"type":"text",
+			"text":"[[Red Letters.canvas|Red Letters]]",
+			"styleAttributes":{},
+			"x":360,
+			"y":1740,
+			"width":260,
+			"height":60
+		},
+		{"id":"d4591dfff83752a5","type":"file","file":"99. attachments/BLUE_PRINCE_xsIVwKwUZa 1.png","x":640,"y":1575,"width":400,"height":225},
+		{"id":"98d0608d976d1f1f","type":"file","file":"99. attachments/BLUE_PRINCE_FY78SDfvkD.png","x":240,"y":1880,"width":1067,"height":600}
 	],
 	"edges":[
 		{

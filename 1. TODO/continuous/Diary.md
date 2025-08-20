@@ -1,3 +1,33 @@
+Day 52
+- Drafted a Treasure Trove
+	- Seems there is a chest that has memo notes with tips that may or may not help every time you draft it.
+	- This is the 4th knight piece room for the chess pieces.
+- Went to the Inner Sanctum and used the Magnifying Glass on the Stamp of Orindia Aries, this means that I completed the Letter Stamps.
+- Added the Dovecote room through Drafting Studio, one room left.
+- Based on the Planetarium, 90 Stars should be a sweet spot with 7 Constellations + Stars for Rerolls if needed.
+- Created another jack hammer and left it at the Coat Check instead of the Power Hammer.
+- Tested Power Hammer on the Red Door Area, before discarding it.
+- I want to enter Terrace one more time, because I only visited it once since I started this save, to check if there are possible secrets in there, like breakable walls.
+- I need to call a day inside the Hovel to see what happens, since it is a Bedroom.
+- Added a task to check the effects of all Bedrooms to my todo notes.
+
+Day 51
+- Drafted a Conservatorium
+	- Changed Rotunda, Solarium and Lavatory to Rare
+- Drafted a Security Room and discovered the password SWANSONGHSS based on the displayed rooms in the monitors.
+	- This can be used to view recorded videos from the Security Room.
+	- There are three videos in 1987 and 8 videos in 1993 (current year)
+		- It seems that there is a video showing where Mary Matthew stored something based on the Metro Lines - Dead End
+		- It seems there is a video of someone hiding something in a Vase in the Entrance Hall
+		- It seems there is a video about a book in the Library.
+- I went to the Red Door Area and tried the password May8 because it's the only month and day that can be written on the lock.
+	- With this I got the Red Letter Number 1
+	- I also discovered the Treasure Trove Floorplan
+	- There is a view of something in construction at in the Orinda Aries Symbol at that place.
+- Run ended early because I drafted Hovel
+	- I want to try sleeping in the Hovel.
+- I bought a Cursed Coffers at the Mount Holly Gift Shop, I don't know why it's there.
+
 Day 50
 - Drafted a Toolshed at the start.
 - Drafted a Library and ordered one of the Drafting Strategy Books to use a Magnifying Glass

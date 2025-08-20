@@ -22,11 +22,141 @@
 			"height":460
 		},
 		{"id":"f8d9638e00c7ede5","type":"file","file":"99. attachments/BLUE_PRINCE_Eev8AXE4i2.png","x":560,"y":300,"width":680,"height":383},
-		{"id":"7982c890eabb7216","type":"file","file":"99. attachments/BLUE_PRINCE_E2Sl7ZIdZ9 1.png","x":-1000,"y":280,"width":400,"height":225}
+		{"id":"7982c890eabb7216","type":"file","file":"99. attachments/BLUE_PRINCE_E2Sl7ZIdZ9 1.png","x":-1000,"y":280,"width":400,"height":225},
+		{
+			"id":"04ed80aa4a411423",
+			"type":"text",
+			"text":"[[Safehouse Station.canvas|Safehouse Station]]",
+			"styleAttributes":{},
+			"x":-930,
+			"y":540,
+			"width":260,
+			"height":60
+		},
+		{"id":"ed92c0e139b40325","type":"file","file":"99. attachments/BLUE_PRINCE_8CuOFn5dPI 1.png","x":-1120,"y":-280,"width":400,"height":289},
+		{
+			"id":"f8e2fb77342bd368",
+			"type":"text",
+			"text":"S-W-A-N\nS-O-N-G\nH-S-S\n\nSWANSONGHSS\n",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":20,
+			"width":400,
+			"height":180
+		},
+		{"id":"1c014d7662bbce9c","type":"file","file":"99. attachments/BLUE_PRINCE_XfVnc8uJTN.png","x":-1640,"y":-326,"width":400,"height":381},
+		{"id":"96150eba825f81c9","type":"file","file":"99. attachments/BLUE_PRINCE_X7OFyCjlTt.png","x":-1500,"y":-710,"width":400,"height":225},
+		{
+			"id":"9408e53094f34d22",
+			"type":"text",
+			"text":"B-V-P",
+			"styleAttributes":{},
+			"x":-1640,
+			"y":80,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"84d3c881899e2291",
+			"type":"text",
+			"text":"L-W\nM-V\nN",
+			"styleAttributes":{},
+			"x":-1500,
+			"y":-460,
+			"width":400,
+			"height":100
+		},
+		{
+			"id":"3d60a57023fc72e2",
+			"type":"text",
+			"text":"# SWANSONGHSS\n\n",
+			"styleAttributes":{},
+			"x":-1720,
+			"y":580,
+			"width":360,
+			"height":80
+		},
+		{"id":"c06f15294dfe6a8b","type":"file","file":"99. attachments/BLUE_PRINCE_gublYcTIKX.png","x":-1720,"y":700,"width":400,"height":225},
+		{"id":"b2bd225b19af853a","type":"file","file":"99. attachments/BLUE_PRINCE_fFhR4tfmMP.png","x":-1720,"y":960,"width":400,"height":225},
+		{
+			"id":"71fcdfa167b83a5e",
+			"type":"text",
+			"text":"# 1987",
+			"styleAttributes":{},
+			"x":-1720,
+			"y":1480,
+			"width":260,
+			"height":60
+		},
+		{"id":"10bf8d8847c52b1a","type":"file","file":"99. attachments/BLUE_PRINCE_TMklTlt3Us.mp4","x":-1720,"y":1580,"width":400,"height":225},
+		{
+			"id":"e4eda6a5e66e4f7a",
+			"type":"text",
+			"text":"1987-02-09 10:59 - Library\nTwo books at the same time?",
+			"styleAttributes":{},
+			"x":-1720,
+			"y":1840,
+			"width":400,
+			"height":100
+		},
+		{"id":"cb76d1e3cb796c73","type":"file","file":"99. attachments/BLUE_PRINCE_R4NfSn5OOT.mp4","x":-1280,"y":1580,"width":400,"height":225},
+		{
+			"id":"8b952d4ccf2ec367",
+			"type":"text",
+			"text":"1987-02-09 12:01 - Entrance Hall\nEntrance Hall - Vase",
+			"styleAttributes":{},
+			"x":-1280,
+			"y":1840,
+			"width":400,
+			"height":100
+		},
+		{"id":"73d82889e7f77dad","type":"file","file":"99. attachments/BLUE_PRINCE_hqfE9bhaRl.mp4","x":-860,"y":1580,"width":400,"height":225},
+		{
+			"id":"52140b104b254964",
+			"type":"text",
+			"text":"1987-02-10 04:22 - Security\nA weird figure that reminds me of a underground metro map.",
+			"styleAttributes":{},
+			"x":-860,
+			"y":1840,
+			"width":400,
+			"height":100
+		},
+		{
+			"id":"7eb74267d82c16de",
+			"type":"text",
+			"text":"[[Safehouse Station.canvas|Safehouse Station]]",
+			"styleAttributes":{},
+			"x":-820,
+			"y":1980,
+			"width":260,
+			"height":60
+		},
+		{"id":"16295f0fc47b57b0","type":"file","file":"99. attachments/BLUE_PRINCE_hzSZTtdu6z.png","x":-860,"y":2100,"width":400,"height":225},
+		{"id":"9e42501b0e16d70d","type":"file","file":"99. attachments/Obsidian_pP9FSuISM2.png","x":-820,"y":2380,"width":361,"height":400},
+		{
+			"id":"6b5d5b29759a5e8c",
+			"type":"text",
+			"text":"# 1993",
+			"styleAttributes":{},
+			"x":-1720,
+			"y":2900,
+			"width":260,
+			"height":60
+		},
+		{"id":"4df9bf1f144546e2","type":"file","file":"99. attachments/BLUE_PRINCE_d3XZoDyJZN.png","x":-1720,"y":3000,"width":460,"height":259}
 	],
 	"edges":[
 		{"id":"40ae6f701351537c","fromNode":"53bd4ef87b9eb026","fromSide":"top","toNode":"9cb268989cca7d5c","toSide":"bottom"},
-		{"id":"823ad6485eff16fe","fromNode":"3656e34299ca8a80","fromSide":"top","toNode":"817f0a973a55061f","toSide":"bottom"}
+		{"id":"823ad6485eff16fe","fromNode":"3656e34299ca8a80","fromSide":"top","toNode":"817f0a973a55061f","toSide":"bottom"},
+		{
+			"id":"c7b4de23fb0d3731",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"04ed80aa4a411423",
+			"fromSide":"top",
+			"toNode":"7982c890eabb7216",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

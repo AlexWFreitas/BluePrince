@@ -69,162 +69,6 @@
 			"height":60
 		},
 		{
-			"id":"68881974075d2294",
-			"type":"text",
-			"text":"[[Inner Sanctum Key.canvas|Inner Sanctum Keys]]",
-			"styleAttributes":{},
-			"x":500,
-			"y":320,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"20455dba4157d42d",
-			"type":"text",
-			"text":"[[Open the Red Door on Underpass.canvas|Open the Red Door on Underpass]]",
-			"styleAttributes":{},
-			"x":220,
-			"y":320,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"8ceb12a79e9bedf3",
-			"type":"text",
-			"text":"[[Vault Deposit Items Puzzles.canvas|Vault Deposit Items Puzzles]]",
-			"styleAttributes":{},
-			"x":500,
-			"y":240,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"327fe16adb3f7eb5",
-			"type":"text",
-			"text":"[[Magnifying Glass.canvas|Magnifying Glass]] Puzzles",
-			"styleAttributes":{},
-			"x":782,
-			"y":240,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"2d7f201fd05dfdb3",
-			"type":"text",
-			"text":"[[Sigils.canvas|Discover all Sigils]]",
-			"styleAttributes":{},
-			"x":220,
-			"y":240,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"398f7cb3b4b8d055",
-			"type":"text",
-			"text":"[[Shelter Radiation Puzzle.canvas|Shelter Radiation Puzzle]]",
-			"styleAttributes":{},
-			"x":782,
-			"y":320,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"1cdb5c6b9ed20bca",
-			"type":"text",
-			"text":"[[End the run on the Planetarium to receive two stars as a permanent resource.canvas|End the run on the Planetarium to receive two stars as a permanent resource]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":530,
-			"width":680,
-			"height":60
-		},
-		{
-			"id":"c93872785e0ebda0",
-			"type":"text",
-			"text":"[[Draft an Observatory whenever possible for the permanent bonuses.canvas|Draft an Observatory whenever possible for the permanent bonuses]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":450,
-			"width":640,
-			"height":60
-		},
-		{
-			"id":"4289e616125ca1d2",
-			"type":"text",
-			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":190,
-			"width":620,
-			"height":60
-		},
-		{
-			"id":"bdd4cd205bf789b6",
-			"type":"text",
-			"text":"[[Use the Security room terminal to manipulate the Keycard System in your favor.canvas|Use the Security room terminal to manipulate the Keycard System in your favor]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":90,
-			"width":580,
-			"height":80
-		},
-		{
-			"id":"855343f1307f6643",
-			"type":"text",
-			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":350,
-			"width":620,
-			"height":80
-		},
-		{
-			"id":"b7e4595012c7b579",
-			"type":"text",
-			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":270,
-			"width":640,
-			"height":60
-		},
-		{
-			"id":"8b916f566c249a06",
-			"type":"text",
-			"text":"[[Use the Office Terminal to spread Gold on rooms.canvas|Use the Office Terminal to spread Gold on rooms]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":10,
-			"width":500,
-			"height":60
-		},
-		{
-			"id":"41dba1e3c4f981cb",
-			"type":"text",
-			"text":"[[Use Tomorrow Type rooms to boost the next day runs whenever possible.canvas|Use Tomorrow Type rooms to boost the next day runs whenever possible]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-90,
-			"width":580,
-			"height":80
-		},
-		{
-			"id":"a9cb94cd937abfde",
-			"type":"text",
-			"text":"[[Use the Coat Check Room to store an item between runs.canvas|Use the Coat Check room to store an item between runs]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":-170,
-			"width":540,
-			"height":60
-		},
-		{
 			"id":"044027898165e396",
 			"type":"text",
 			"text":"[[Drafting Studio Safe Puzzle.canvas|Drafting Studio Safe Puzzle]]",
@@ -321,7 +165,7 @@
 			"y":840,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"3b4c0c9ead1572e3",
@@ -354,7 +198,7 @@
 			"y":1320,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"6"
 		},
 		{
 			"id":"884632a33f658137",
@@ -904,7 +748,7 @@
 			"y":1240,
 			"width":260,
 			"height":100,
-			"color":"3"
+			"color":"6"
 		},
 		{
 			"id":"1a974f230f6e7007",
@@ -937,7 +781,7 @@
 			"y":1240,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"e27573f82babc6a4",
@@ -1403,7 +1247,7 @@
 		{
 			"id":"9bc69c8d4a2eb858",
 			"type":"text",
-			"text":"[[Sigils.canvas|Discover all Sigils]]",
+			"text":"[[Sigils.canvas|Solve all Sigils Puzzles]]",
 			"styleAttributes":{},
 			"x":-360,
 			"y":1400,
@@ -1518,7 +1362,7 @@
 			"y":1510,
 			"width":260,
 			"height":110,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"0c9bdbeb9c6155dc",
@@ -1551,6 +1395,250 @@
 			"width":260,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"68881974075d2294",
+			"type":"text",
+			"text":"[[Inner Sanctum Key.canvas|Inner Sanctum Keys]]",
+			"styleAttributes":{},
+			"x":500,
+			"y":320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"1cdb5c6b9ed20bca",
+			"type":"text",
+			"text":"[[End the run on the Planetarium to receive two stars as a permanent resource.canvas|End the run on the Planetarium to receive two stars as a permanent resource]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":530,
+			"width":680,
+			"height":60
+		},
+		{
+			"id":"c93872785e0ebda0",
+			"type":"text",
+			"text":"[[Draft an Observatory whenever possible for the permanent bonuses.canvas|Draft an Observatory whenever possible for the permanent bonuses]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":450,
+			"width":640,
+			"height":60
+		},
+		{
+			"id":"4289e616125ca1d2",
+			"type":"text",
+			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":190,
+			"width":620,
+			"height":60
+		},
+		{
+			"id":"bdd4cd205bf789b6",
+			"type":"text",
+			"text":"[[Use the Security room terminal to manipulate the Keycard System in your favor.canvas|Use the Security room terminal to manipulate the Keycard System in your favor]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":90,
+			"width":580,
+			"height":80
+		},
+		{
+			"id":"855343f1307f6643",
+			"type":"text",
+			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":350,
+			"width":620,
+			"height":80
+		},
+		{
+			"id":"b7e4595012c7b579",
+			"type":"text",
+			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":270,
+			"width":640,
+			"height":60
+		},
+		{
+			"id":"8ceb12a79e9bedf3",
+			"type":"text",
+			"text":"[[Vault Deposit Items Puzzles.canvas|Vault Deposit Items Puzzles]]",
+			"styleAttributes":{},
+			"x":500,
+			"y":240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"327fe16adb3f7eb5",
+			"type":"text",
+			"text":"[[Magnifying Glass.canvas|Magnifying Glass]] Puzzles",
+			"styleAttributes":{},
+			"x":782,
+			"y":240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"398f7cb3b4b8d055",
+			"type":"text",
+			"text":"[[Shelter Radiation Puzzle.canvas|Shelter Radiation Puzzle]]",
+			"styleAttributes":{},
+			"x":782,
+			"y":320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"8b916f566c249a06",
+			"type":"text",
+			"text":"[[Use the Office Terminal to spread Gold on rooms.canvas|Use the Office Terminal to spread Gold on rooms]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":10,
+			"width":500,
+			"height":60
+		},
+		{
+			"id":"e749cdf1e6e7a63d",
+			"type":"text",
+			"text":"[[End the Day in the Hovel.canvas|End the Day in the Hovel]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":1360,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"94a6ea76bfbb2ebc",
+			"type":"text",
+			"text":"[[End the Day in all Bedrooms rooms.canvas|End the Day in all Bedrooms rooms]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1445,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"8ac302d10cf7bfab",
+			"type":"text",
+			"text":"Write about [[Bedrooms Rooms - Sleep Effects.canvas|Bedrooms Rooms - Sleep Effects]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":1445,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"edddd3e0c911f6a6",
+			"type":"text",
+			"text":"[[Verify the Terrace room.canvas|Verify the Terrace room]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1520,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"385aa63bf6437aa8",
+			"type":"text",
+			"text":"[[Understand Cursed Coffers.canvas|Understand Cursed Coffers]]",
+			"styleAttributes":{},
+			"x":3280,
+			"y":1445,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"0650efa24ea0d6c5",
+			"type":"text",
+			"text":"[[Revisit Geography Class - Erajan Words and Map Details.canvas|Revisit Geography Class - Erajan Words and Map Details]]",
+			"styleAttributes":{},
+			"x":220,
+			"y":320,
+			"width":260,
+			"height":110,
+			"color":"3"
+		},
+		{
+			"id":"41dba1e3c4f981cb",
+			"type":"text",
+			"text":"[[Use Tomorrow Type rooms to boost the next day runs whenever possible.canvas|Use Tomorrow Type rooms to boost the next day runs whenever possible]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-90,
+			"width":580,
+			"height":80
+		},
+		{
+			"id":"a9cb94cd937abfde",
+			"type":"text",
+			"text":"[[Use the Coat Check Room to store an item between runs.canvas|Use the Coat Check room to store an item between runs]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":-170,
+			"width":540,
+			"height":60
+		},
+		{
+			"id":"78177804a0993832",
+			"type":"text",
+			"text":"[[Sigils.canvas|Solve all Sigils Puzzles]]",
+			"styleAttributes":{},
+			"x":220,
+			"y":240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"4bfb153156f2e403",
+			"type":"text",
+			"text":"[[End the Day in all Bedrooms rooms.canvas|End the Day in all Bedrooms rooms]]",
+			"styleAttributes":{},
+			"x":500,
+			"y":400,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"dd2764af61cb785b",
+			"type":"text",
+			"text":"[[End the Day in the Hovel.canvas|End the Day in the Hovel]]",
+			"styleAttributes":{},
+			"x":780,
+			"y":400,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"3d2f0cba9da59776",
+			"type":"text",
+			"text":"Write about [[Bedrooms Rooms - Sleep Effects.canvas|Bedrooms Rooms - Sleep Effects]]",
+			"styleAttributes":{},
+			"x":220,
+			"y":460,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[]

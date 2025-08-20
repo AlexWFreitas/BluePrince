@@ -22,15 +22,17 @@
 			"width":260,
 			"height":60
 		},
+		{"id":"038f60b45913d080","type":"file","file":"99. attachments/BLUE_PRINCE_jMYaGVCGk7.png","x":-560,"y":-187,"width":400,"height":225},
+		{"id":"1573a96141812620","type":"file","file":"99. attachments/BLUE_PRINCE_ADi0cEDyc8.png","x":-140,"y":-60,"width":400,"height":225},
 		{
-			"id":"61fdcb3dcddd0d7a",
+			"id":"8d5b793269cded45",
 			"type":"text",
-			"text":"I wonder if this is related to the Castle puzzle",
+			"text":"Kept behind locked doors\n\n--CAT-\n\n",
 			"styleAttributes":{},
 			"x":-560,
-			"y":80,
-			"width":260,
-			"height":60
+			"y":53,
+			"width":400,
+			"height":140
 		}
 	],
 	"edges":[
@@ -42,15 +44,6 @@
 			"fromSide":"top",
 			"toNode":"b10955736ef7503c",
 			"toSide":"bottom"
-		},
-		{
-			"id":"86fe4a64022ad31e",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"61fdcb3dcddd0d7a",
-			"fromSide":"left",
-			"toNode":"b10955736ef7503c",
-			"toSide":"right"
 		}
 	],
 	"metadata":{

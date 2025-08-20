@@ -11,50 +11,6 @@
 			"height":60
 		},
 		{
-			"id":"d623576c75ac414a",
-			"type":"text",
-			"text":"[[Drafting Strategy Volume 5.canvas|Drafting Strategy Volume 5]]",
-			"styleAttributes":{},
-			"x":440,
-			"y":318,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"c7225486b678aa3c",
-			"type":"text",
-			"text":"[[The Curse of Black Bridge.canvas|The Curse of Black Bridge]]",
-			"styleAttributes":{},
-			"x":440,
-			"y":404,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"89660b314b64d5b4",
-			"type":"text",
-			"text":"[[The History of Orindia - First Edition.canvas|The History of Orindia - First Edition]]",
-			"styleAttributes":{},
-			"x":440,
-			"y":480,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"149a4a3a7c8c74e0",
-			"type":"text",
-			"text":"[[A Sightseer's Guide to Reddington.canvas|A Sightseer's Guide to Reddington]]",
-			"styleAttributes":{},
-			"x":440,
-			"y":560,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"713173e7e890f786",
 			"type":"text",
 			"text":"[[Find All Letter Stamps.canvas|Find All Letter Stamps]]",
@@ -141,7 +97,84 @@
 			"width":400,
 			"height":90
 		},
-		{"id":"bdd058da072e2fe2","type":"file","file":"99. attachments/Pasted image 20250716201455.png","x":-80,"y":-282,"width":400,"height":225}
+		{"id":"bdd058da072e2fe2","type":"file","file":"99. attachments/Pasted image 20250716201455.png","x":-80,"y":-282,"width":400,"height":225},
+		{
+			"id":"cf60cac9170fa424",
+			"type":"text",
+			"text":"[[Drafting Strategy Volume 3.canvas|Drafting Strategy Volume 3]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":80,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"c2374897c7c574b9",
+			"type":"text",
+			"text":"Library Progress Book",
+			"styleAttributes":{},
+			"x":740,
+			"y":-560,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"b577328e7dc26d44",
+			"type":"text",
+			"text":"[[Drafting Strategy Volume 4.canvas|Drafting Strategy Volume 4]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":160,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"d623576c75ac414a",
+			"type":"text",
+			"text":"[[Drafting Strategy Volume 5.canvas|Drafting Strategy Volume 5]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":239,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"c7225486b678aa3c",
+			"type":"text",
+			"text":"[[The Curse of Black Bridge.canvas|The Curse of Black Bridge]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":325,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"89660b314b64d5b4",
+			"type":"text",
+			"text":"[[The History of Orindia - First Edition.canvas|The History of Orindia - First Edition]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":401,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"149a4a3a7c8c74e0",
+			"type":"text",
+			"text":"[[A Sightseer's Guide to Reddington.canvas|A Sightseer's Guide to Reddington]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":481,
+			"width":260,
+			"height":60,
+			"color":"1"
+		}
 	],
 	"edges":[
 		{
