@@ -35,25 +35,101 @@
 		{
 			"id":"814579002f6b0124",
 			"type":"text",
-			"text":"Ovinn Nevarei\n\n**Towards a new future** ??\n\nJor = Name\nLor = Word",
+			"text":"Ovinn Nevarei\n\n**Towards a bright future** ??\n\nJor = Name\nLor = Word",
 			"styleAttributes":{},
 			"x":-1540,
 			"y":287,
 			"width":380,
 			"height":225
 		},
+		{"id":"ad4311440b304490","type":"file","file":"99. attachments/BLUE_PRINCE_JnCmWbx4jw.png","x":-1349,"y":-1140,"width":853,"height":480},
+		{"id":"0177d65aa14154c3","type":"file","file":"99. attachments/BLUE_PRINCE_As0rjzvUFV.png","x":-1349,"y":-620,"width":853,"height":480},
+		{
+			"id":"24ef0a0abb7594c6",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]]",
+			"styleAttributes":{},
+			"x":-1400,
+			"y":-100,
+			"width":260,
+			"height":60
+		},
+		{"id":"119b8a369fb99ea7","type":"file","file":"99. attachments/BLUE_PRINCE_OgX8fcAmkO.png","x":-2660,"y":-870,"width":1227,"height":690},
+		{"id":"0522d0f22b1c916a","type":"file","file":"99. attachments/Obsidian_J6vqtwitw6.png","x":-170,"y":-1860,"width":399,"height":195},
+		{
+			"id":"62fd389e5850860f",
+			"type":"text",
+			"text":"Hew",
+			"styleAttributes":{},
+			"x":270,
+			"y":-1792,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e9c4cd9f454f6ff9",
+			"type":"text",
+			"text":"New Gate",
+			"styleAttributes":{},
+			"x":270,
+			"y":-1600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"38eb02b7a69062bc",
+			"type":"text",
+			"text":"Tree Old Not Me\n\nC - I can not see the tree trunk.",
+			"styleAttributes":{},
+			"x":250,
+			"y":-1380,
+			"width":260,
+			"height":140
+		},
+		{
+			"id":"138c2c0a53fa555c",
+			"type":"text",
+			"text":"Dauvenja - End of Yesterday / Last Day?\n\n**Ulraajoram - Your first name large**\n\nNai Dau = Night Day ( Eclipse? )\n\nLorlu Raadau - You are not word night",
+			"styleAttributes":{},
+			"x":250,
+			"y":-1100,
+			"width":300,
+			"height":280
+		},
+		{
+			"id":"e9d2292d190a3ea1",
+			"type":"text",
+			"text":"Eraja Nai - Eraja Night\n\n**Elcountvo - Me Count Away**\n\nLeavelu - Leave you not\n\nLe - I am not\n",
+			"styleAttributes":{},
+			"x":250,
+			"y":-760,
+			"width":300,
+			"height":200
+		},
+		{
+			"id":"533c53d70bf28f2b",
+			"type":"text",
+			"text":"Inn Ett Iss - North East South\n\nEtt Trei - East Tree\n\n**Ajinn Ett Ovtrei Issja Treivo -** \n**First East Toward Tree, South Last Away From Tree**\n\nMainn Ettam Matrei Ettiss Maorr - \nSmall North, Long East, Small Tree, South East, Small West",
+			"styleAttributes":{},
+			"x":190,
+			"y":-500,
+			"width":380,
+			"height":300
+		},
 		{
 			"id":"582505e23046e8d4",
 			"type":"text",
-			"text":"Oreldajiris\nWelddau weldnai, weldmora\nOrulelgift Eldhew Oriss Nerdau Uldareile\nNerdau Eldareilu. Ajelbid ulheed eldlor: Ulloddiris\nHewsinclairlu Hewepsenlu Forget uldein inn\nUldjorjeari Uldareiorissfennro Uldeinjororo\nOreraja Oviss Nevarei\n\nLorja eldiris\nUldjora\n\nOreldajiris\n\n\nOviss Nevarei = Towards a new Future\n",
+			"text":"Oveldajiris\nToward my first (iris/hometown)\n\nUlelddau, Uleldnai, Ueldmova\nWe day, We night, We move(?)\nWe move through day and night (?)\n\nOvulelgift Eldhew Oviss\nToward our (gift/birthplace), my home is towards south.\n\nNevdau uldareile\nA new day, your future without me\n\nNevdau eldareilu.\nA new day, my future without you.\n\nAjelbid ulheed eldlor - Ulloddiris\nFirst me (bid) you (heed) my word - You (loddiris/lord)\n\nHewsinclairlu Hewepsenlu.. Forget uldein inn.\nThose who are not House Sinclair, Those who are not House Epsen.. Forget you (ein) north?\n\nUldjorjeari.. Uldareiovinnfennvo\nYour name (jeari/journey).. Your future is toward south (fennvo)\n\nUldeinjovovo Overaja\nYour (einj) toward toward toward Eraja.\n\nOviss Nevarei\nTowards south a new future.\n\nLorja Eldiris\nLast word, I (diris)\n\nUldjora\nYour name\n\n\nOvinn Nevarei = Towards the north is future\n",
 			"styleAttributes":{},
 			"x":-480,
-			"y":-680,
+			"y":-1220,
 			"width":540,
-			"height":540
+			"height":1080
 		},
-		{"id":"ad4311440b304490","type":"file","file":"99. attachments/BLUE_PRINCE_JnCmWbx4jw.png","x":-1349,"y":-1140,"width":853,"height":480},
-		{"id":"0177d65aa14154c3","type":"file","file":"99. attachments/BLUE_PRINCE_As0rjzvUFV.png","x":-1349,"y":-620,"width":853,"height":480}
+		{"id":"e363d67224f0371b","type":"file","file":"99. attachments/Obsidian_uVeQAnmM0a.png","x":-1000,"y":-1620,"width":305,"height":400},
+		{"id":"3ce55cc1ab26415e","type":"file","file":"99. attachments/Obsidian_819jUunvBf.png","x":-640,"y":-1691,"width":400,"height":201},
+		{"id":"ad9c1a76baf5f3ff","type":"file","file":"99. attachments/Obsidian_ouwvVNJ06y.png","x":-210,"y":-1485,"width":400,"height":211},
+		{"id":"a4fe3271c0640243","type":"file","file":"99. attachments/BLUE_PRINCE_wiCSyH5HOZ.png","x":-2660,"y":-2140,"width":1636,"height":920}
 	],
 	"edges":[],
 	"metadata":{

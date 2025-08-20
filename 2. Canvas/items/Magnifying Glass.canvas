@@ -1,74 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"b461b7dc0a4faecb",
-			"type":"text",
-			"text":"[[Items.canvas|Items]]",
-			"styleAttributes":{},
-			"x":-380,
-			"y":-320,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"4a0b0959c3f642f7",
-			"type":"text",
-			"text":"[[Master Bedroom.canvas|Master Bedroom]] - Red Prince Book",
-			"styleAttributes":{},
-			"x":440,
-			"y":-350,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{"id":"bdd058da072e2fe2","type":"file","file":"99. attachments/Pasted image 20250716201455.png","x":-380,"y":-120,"width":400,"height":225},
-		{
-			"id":"3f4d764deca50764",
-			"type":"text",
-			"text":"An item that can be used to inspect documents more closely and read finer print.",
-			"styleAttributes":{},
-			"x":-380,
-			"y":-240,
-			"width":400,
-			"height":90
-		},
-		{
-			"id":"713173e7e890f786",
-			"type":"text",
-			"text":"[[Find All Letter Stamps.canvas|Find All Letter Stamps]]",
-			"styleAttributes":{},
-			"x":440,
-			"y":-225,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"bae0e7f85489516b",
-			"type":"text",
-			"text":"[[030 - Drafting Studio.canvas|030 - Drafting Studio]] - on the Drafting Strategy Vol 1 Book - Chapel Page and the mini safe",
-			"styleAttributes":{},
-			"x":440,
-			"y":-100,
-			"width":280,
-			"height":120,
-			"color":"3"
-		},
-		{"id":"78f4cea67a86b6dc","type":"file","file":"99. attachments/BLUE_PRINCE_AvtVZUFbX5.png","x":840,"y":-152,"width":400,"height":225},
-		{"id":"2ea7d308703e5d00","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":840,"y":102,"width":134,"height":209},
-		{"id":"1a5b9e04408abac2","type":"file","file":"99. attachments/BLUE_PRINCE_czJTNHV06C.png","x":860,"y":360,"width":400,"height":225},
-		{
-			"id":"df0639a48236ff8a",
-			"type":"text",
-			"text":"[[A New Clue.canvas|A New Clue]]",
-			"styleAttributes":{},
-			"x":440,
-			"y":-460,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"7ef84c68986eb399",
 			"type":"text",
 			"text":"Progression",
@@ -84,7 +16,7 @@
 			"text":"[[Drafting Strategy Volume 5.canvas|Drafting Strategy Volume 5]]",
 			"styleAttributes":{},
 			"x":440,
-			"y":45,
+			"y":318,
 			"width":260,
 			"height":60,
 			"color":"3"
@@ -95,19 +27,18 @@
 			"text":"[[The Curse of Black Bridge.canvas|The Curse of Black Bridge]]",
 			"styleAttributes":{},
 			"x":440,
-			"y":147,
+			"y":404,
 			"width":260,
 			"height":60,
 			"color":"1"
 		},
-		{"id":"b4137e5ff423193a","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":1003,"y":102,"width":114,"height":209},
 		{
 			"id":"89660b314b64d5b4",
 			"type":"text",
 			"text":"[[The History of Orindia - First Edition.canvas|The History of Orindia - First Edition]]",
 			"styleAttributes":{},
 			"x":440,
-			"y":251,
+			"y":480,
 			"width":260,
 			"height":60,
 			"color":"1"
@@ -118,42 +49,101 @@
 			"text":"[[A Sightseer's Guide to Reddington.canvas|A Sightseer's Guide to Reddington]]",
 			"styleAttributes":{},
 			"x":440,
-			"y":360,
+			"y":560,
 			"width":260,
 			"height":60,
 			"color":"1"
-		}
+		},
+		{
+			"id":"713173e7e890f786",
+			"type":"text",
+			"text":"[[Find All Letter Stamps.canvas|Find All Letter Stamps]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":-300,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"4a0b0959c3f642f7",
+			"type":"text",
+			"text":"[[Master Bedroom.canvas|Master Bedroom]] - Red Prince Book",
+			"styleAttributes":{},
+			"x":440,
+			"y":-390,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"df0639a48236ff8a",
+			"type":"text",
+			"text":"[[A New Clue.canvas|A New Clue]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":-470,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"bae0e7f85489516b",
+			"type":"text",
+			"text":"[[030 - Drafting Studio.canvas|030 - Drafting Studio]] - Mini Safe",
+			"styleAttributes":{},
+			"x":440,
+			"y":-210,
+			"width":260,
+			"height":81,
+			"color":"4"
+		},
+		{
+			"id":"1dc3450dcb15f46b",
+			"type":"text",
+			"text":"[[Drafting Strategy Volume 1.canvas|Drafting Strategy Volume 1]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":-97,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"04c5f375db8b2f07",
+			"type":"text",
+			"text":"[[Drafting Strategy Volume 2.canvas|Drafting Strategy Volume 2]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":-10,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"1a5b9e04408abac2","type":"file","file":"99. attachments/BLUE_PRINCE_czJTNHV06C.png","x":840,"y":236,"width":400,"height":225},
+		{
+			"id":"b461b7dc0a4faecb",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-482,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3f4d764deca50764",
+			"type":"text",
+			"text":"An item that can be used to inspect documents more closely and read finer print.",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-402,
+			"width":400,
+			"height":90
+		},
+		{"id":"bdd058da072e2fe2","type":"file","file":"99. attachments/Pasted image 20250716201455.png","x":-80,"y":-282,"width":400,"height":225}
 	],
 	"edges":[
-		{
-			"id":"8a444237145640e6",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"bae0e7f85489516b",
-			"fromSide":"right",
-			"toNode":"78f4cea67a86b6dc",
-			"toSide":"left"
-		},
-		{
-			"id":"3a599f6d79f8b8c7",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"bae0e7f85489516b",
-			"fromSide":"right",
-			"toNode":"2ea7d308703e5d00",
-			"toSide":"left"
-		},
-		{
-			"id":"e12944e328b7f02a",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"2ea7d308703e5d00",
-			"fromSide":"right",
-			"toNode":"b4137e5ff423193a",
-			"toSide":"left"
-		},
 		{
 			"id":"05f797268ed1ed65",
 			"styleAttributes":{},

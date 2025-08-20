@@ -5,8 +5,8 @@
 	},
 	"nodes":[
 		{"id":"1879ff433b9680b7","type":"group","x":-400,"y":790,"width":4280,"height":2140,"label":"Progression Guide"},
-		{"id":"29f80ec514940b92","type":"group","x":180,"y":200,"width":900,"height":400,"label":"Focus"},
 		{"id":"21b33cdf5e75929f","type":"group","x":-1400,"y":-680,"width":880,"height":1580,"color":"4","label":"Continuous Tasks"},
+		{"id":"29f80ec514940b92","type":"group","x":180,"y":200,"width":900,"height":400,"label":"Focus"},
 		{
 			"id":"323abfebe2befa35",
 			"type":"text",
@@ -57,416 +57,6 @@
 			"y":-410,
 			"width":460,
 			"height":60
-		},
-		{
-			"id":"af94154a4cdde82f",
-			"type":"text",
-			"text":"[[Tunnel.canvas|Tunnel]] Exploration",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"c53a2bc47d9c6873",
-			"type":"text",
-			"text":"[[Wine Cellar Number Puzzle.canvas|Wine Cellar Number Puzzle]]",
-			"styleAttributes":{},
-			"x":3000,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"04afeda37a069eca",
-			"type":"text",
-			"text":"[[50 Stars on Observatory.canvas|50 Stars on Observatory]]",
-			"styleAttributes":{},
-			"x":3000,
-			"y":919,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"b9859c96d1a73265",
-			"type":"text",
-			"text":"[[Vault Deposit Items Puzzles.canvas|Vault Deposit Items Puzzles]]",
-			"styleAttributes":{},
-			"x":3000,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"40d4027680190a73",
-			"type":"text",
-			"text":"[[The Kennel Exploration.canvas|The Kennel Exploration]]",
-			"styleAttributes":{},
-			"x":3000,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"5c7500eb1160f8ff",
-			"type":"text",
-			"text":"[[View all Alzara Videos.canvas|View all Alzara Videos]]",
-			"styleAttributes":{},
-			"x":3280,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"f650690f6e0fbbe0",
-			"type":"text",
-			"text":"[[Reach Pool on a Run without Running.canvas|Reach Pool on a Run without Running]]",
-			"styleAttributes":{},
-			"x":3280,
-			"y":919,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"a196f80966fc653c",
-			"type":"text",
-			"text":"[[Music Room Inner Sanctum Key Puzzle.canvas|Music Room Inner Sanctum Key Puzzle]]",
-			"styleAttributes":{},
-			"x":3280,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"5a718078ac419130",
-			"type":"text",
-			"text":"[[Trading Post Dynamite Puzzle.canvas|Trading Post Dynamite Puzzle]]",
-			"styleAttributes":{},
-			"x":3280,
-			"y":1082,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"3fc9f0cef434881b",
-			"type":"text",
-			"text":"[[Find the uncensored Book about History of Orindia.canvas|Find the uncensored Book about History of Orindia]]",
-			"styleAttributes":{},
-			"x":3280,
-			"y":1160,
-			"width":260,
-			"height":114,
-			"color":"4"
-		},
-		{
-			"id":"277760f6657821d7",
-			"type":"text",
-			"text":"[[Find All Letter Stamps.canvas|Find All Letter Stamps]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"3b4c0c9ead1572e3",
-			"type":"text",
-			"text":"[[Collect all Mails from Mailroom.canvas|Collect all Mails from Mailroom]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":919,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"e50b1ef928311206",
-			"type":"text",
-			"text":"[[Locker Room Full Exploration.canvas|Locker Room Full Exploration]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"416fa22915f3931d",
-			"type":"text",
-			"text":"[[Clock Tower Puzzle.canvas|Clock Tower Puzzle]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"f086163594565d11",
-			"type":"text",
-			"text":"[[Check if Trading Post can have a Upgrade Disk available for trade.canvas|Check if Trading Post can have a Upgrade Disk available for trade]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1240,
-			"width":260,
-			"height":100,
-			"color":"3"
-		},
-		{
-			"id":"3e181c269b172055",
-			"type":"text",
-			"text":"[[Discover Workshop Combinations.canvas|Discover Workshop Combinations]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"765fd6de18524e15",
-			"type":"text",
-			"text":"[[Send Water to Greenhouse.canvas|Send Water to Greenhouse]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"f7e2fb31ba8f3846",
-			"type":"text",
-			"text":"[[Identify All The Angels.canvas|Identify All The Angels]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":919,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"a3075737fdc90828",
-			"type":"text",
-			"text":"[[Draft and Explore All Rooms.canvas|Draft and Explore All Rooms]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"6f6c63ba5235bc3f",
-			"type":"text",
-			"text":"[[Cloister Puzzle.canvas|Cloister Puzzle]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"ca367d3f1c8f02f0",
-			"type":"text",
-			"text":"[[Investigate Rotunda.canvas|Investigate Rotunda]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"db88973d78e1a6d2",
-			"type":"text",
-			"text":"[[Sleep in the Maid's Quarter.canvas|Sleep in the Maid's Quarter]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":1320,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"8cb6a2f6fa3b368e",
-			"type":"text",
-			"text":"[[Draft a Servant's Quarter with 7-8 Bedrooms.canvas|Draft a Servant's Quarter with 7-8 Bedrooms]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1320,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"1ba9cd1a59af6eec",
-			"type":"text",
-			"text":"[[Trophy of Sweeptakes.canvas|Trophy of Sweeptakes]]",
-			"styleAttributes":{},
-			"x":3000,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"f2e20250bb4ceeed",
-			"type":"text",
-			"text":"[[Unlock All Drafting Studio Rooms.canvas|Unlock All Drafting Studio Rooms]]",
-			"styleAttributes":{},
-			"x":3560,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"3be0d0076a7d8179",
-			"type":"text",
-			"text":"[[Chapel Candle Puzzle.canvas|Chapel Candle Puzzle]]",
-			"styleAttributes":{},
-			"x":3560,
-			"y":921,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"5a958861dfec3dc1",
-			"type":"text",
-			"text":"[[Use Burning Glass to Illuminate the Tunnel on The Grounds.canvas|Use Burning Glass to Illuminate the Tunnel on The Grounds]]",
-			"styleAttributes":{},
-			"x":3560,
-			"y":1007,
-			"width":260,
-			"height":110,
-			"color":"4"
-		},
-		{
-			"id":"2ce4cc8e4281ff86",
-			"type":"text",
-			"text":"[[Trading Post - Check if I can restore the Stillery.canvas|Trading Post - Check if I can restore the Stillery]]",
-			"styleAttributes":{},
-			"x":3560,
-			"y":1256,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"cac2f8cf3da5d4c2",
-			"type":"text",
-			"text":"[[Find the Hidden Floorplan on the Reservoir Gear Bridge.canvas|Find the Hidden Floorplan on the Reservoir Gear Bridge]]",
-			"styleAttributes":{},
-			"x":3560,
-			"y":1140,
-			"width":260,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"a17cd3b4e10dadb8",
-			"type":"text",
-			"text":"[[Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade.canvas|Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":610,
-			"width":720,
-			"height":80
-		},
-		{
-			"id":"6c389afab7ff78c7",
-			"type":"text",
-			"text":"[[Find the Treasure in Treasure Maps.canvas|Find the Treasure in Treasure Maps]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":710,
-			"width":720,
-			"height":60
-		},
-		{
-			"id":"d820403279139bdb",
-			"type":"text",
-			"text":"[[Sleep in the Bunk Room and then go to the Tomb on the next day.canvas|Sleep in the Bunk Room and then go to the Tomb on the next day]]",
-			"styleAttributes":{},
-			"x":3000,
-			"y":1240,
-			"width":260,
-			"height":100,
-			"color":"3"
-		},
-		{
-			"id":"1cdb5c6b9ed20bca",
-			"type":"text",
-			"text":"[[End the run on the Planetarium to receive two stars as a permanent resource.canvas|End the run on the Planetarium to receive two stars as a permanent resource]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":530,
-			"width":680,
-			"height":60
-		},
-		{
-			"id":"c93872785e0ebda0",
-			"type":"text",
-			"text":"[[Draft an Observatory whenever possible for the permanent bonuses.canvas|Draft an Observatory whenever possible for the permanent bonuses]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":450,
-			"width":640,
-			"height":60
-		},
-		{
-			"id":"855343f1307f6643",
-			"type":"text",
-			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":350,
-			"width":620,
-			"height":80
-		},
-		{
-			"id":"b7e4595012c7b579",
-			"type":"text",
-			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":270,
-			"width":640,
-			"height":60
-		},
-		{
-			"id":"4289e616125ca1d2",
-			"type":"text",
-			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":190,
-			"width":620,
-			"height":60
-		},
-		{
-			"id":"bdd4cd205bf789b6",
-			"type":"text",
-			"text":"[[Use the Security room terminal to manipulate the Keycard System in your favor.canvas|Use the Security room terminal to manipulate the Keycard System in your favor]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":90,
-			"width":580,
-			"height":80
 		},
 		{
 			"id":"8b916f566c249a06",
@@ -638,7 +228,7 @@
 			"y":1002,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"6"
 		},
 		{
 			"id":"5badf05f764153cc",
@@ -770,7 +360,7 @@
 			"y":1400,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"6"
 		},
 		{
 			"id":"9d2772508614fcc8",
@@ -1100,7 +690,7 @@
 			"y":1002,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"c0cd54c0bc4ee524",
@@ -1276,7 +866,7 @@
 			"y":1450,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"1"
 		},
 		{
 			"id":"e59afe391f96779c",
@@ -1356,28 +946,6 @@
 			"color":"3"
 		},
 		{
-			"id":"2d7f201fd05dfdb3",
-			"type":"text",
-			"text":"[[Sigils.canvas|Discover all Sigils]]",
-			"styleAttributes":{},
-			"x":220,
-			"y":320,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"3e6164d15fb00301",
-			"type":"text",
-			"text":"[[Classroom 9 Puzzle.canvas|Classroom 9]] Exam",
-			"styleAttributes":{},
-			"x":220,
-			"y":240,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"8ceb12a79e9bedf3",
 			"type":"text",
 			"text":"[[Vault Deposit Items Puzzles.canvas|Vault Deposit Items Puzzles]]",
@@ -1409,17 +977,6 @@
 			"width":260,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"20455dba4157d42d",
-			"type":"text",
-			"text":"[[Open the Red Door on Underpass.canvas|Open the Red Door on Underpass]]",
-			"styleAttributes":{},
-			"x":780,
-			"y":320,
-			"width":260,
-			"height":60,
-			"color":"3"
 		},
 		{
 			"id":"2bcd0a542e9c72c6",
@@ -1475,6 +1032,448 @@
 			"width":260,
 			"height":60,
 			"color":"3"
+		},
+		{
+			"id":"db88973d78e1a6d2",
+			"type":"text",
+			"text":"[[Sleep in the Maid's Quarter.canvas|Sleep in the Maid's Quarter]]",
+			"styleAttributes":{},
+			"x":2160,
+			"y":1320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"3e181c269b172055",
+			"type":"text",
+			"text":"[[Discover Workshop Combinations.canvas|Discover Workshop Combinations]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"765fd6de18524e15",
+			"type":"text",
+			"text":"[[Send Water to Greenhouse.canvas|Send Water to Greenhouse]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f7e2fb31ba8f3846",
+			"type":"text",
+			"text":"[[Identify All The Angels.canvas|Identify All The Angels]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":919,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a3075737fdc90828",
+			"type":"text",
+			"text":"[[Draft and Explore All Rooms.canvas|Draft and Explore All Rooms]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"6f6c63ba5235bc3f",
+			"type":"text",
+			"text":"[[Cloister Puzzle.canvas|Cloister Puzzle]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ca367d3f1c8f02f0",
+			"type":"text",
+			"text":"[[Investigate Rotunda.canvas|Investigate Rotunda]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"8cb6a2f6fa3b368e",
+			"type":"text",
+			"text":"[[Draft a Servant's Quarter with 7-8 Bedrooms.canvas|Draft a Servant's Quarter with 7-8 Bedrooms]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"af94154a4cdde82f",
+			"type":"text",
+			"text":"[[Tunnel.canvas|Tunnel]] Exploration",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"277760f6657821d7",
+			"type":"text",
+			"text":"[[Find All Letter Stamps.canvas|Find All Letter Stamps]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"3b4c0c9ead1572e3",
+			"type":"text",
+			"text":"[[Collect all Mails from Mailroom.canvas|Collect all Mails from Mailroom]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":919,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"e50b1ef928311206",
+			"type":"text",
+			"text":"[[Locker Room Full Exploration.canvas|Locker Room Full Exploration]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"416fa22915f3931d",
+			"type":"text",
+			"text":"[[Clock Tower Puzzle.canvas|Clock Tower Puzzle]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f086163594565d11",
+			"type":"text",
+			"text":"[[Check if Trading Post can have a Upgrade Disk available for trade.canvas|Check if Trading Post can have a Upgrade Disk available for trade]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1240,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"c53a2bc47d9c6873",
+			"type":"text",
+			"text":"[[Wine Cellar Number Puzzle.canvas|Wine Cellar Number Puzzle]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"04afeda37a069eca",
+			"type":"text",
+			"text":"[[50 Stars on Observatory.canvas|50 Stars on Observatory]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":919,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"b9859c96d1a73265",
+			"type":"text",
+			"text":"[[Vault Deposit Items Puzzles.canvas|Vault Deposit Items Puzzles]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"40d4027680190a73",
+			"type":"text",
+			"text":"[[The Kennel Exploration.canvas|The Kennel Exploration]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"1ba9cd1a59af6eec",
+			"type":"text",
+			"text":"[[Trophy of Sweeptakes.canvas|Trophy of Sweeptakes]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"d820403279139bdb",
+			"type":"text",
+			"text":"[[Sleep in the Bunk Room and then go to the Tomb on the next day.canvas|Sleep in the Bunk Room and then go to the Tomb on the next day]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":1240,
+			"width":260,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"2d7f201fd05dfdb3",
+			"type":"text",
+			"text":"[[Sigils.canvas|Discover all Sigils]]",
+			"styleAttributes":{},
+			"x":220,
+			"y":240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"20455dba4157d42d",
+			"type":"text",
+			"text":"[[Open the Red Door on Underpass.canvas|Open the Red Door on Underpass]]",
+			"styleAttributes":{},
+			"x":220,
+			"y":320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"5c7500eb1160f8ff",
+			"type":"text",
+			"text":"[[View all Alzara Videos.canvas|View all Alzara Videos]]",
+			"styleAttributes":{},
+			"x":3280,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f650690f6e0fbbe0",
+			"type":"text",
+			"text":"[[Reach Pool on a Run without Running.canvas|Reach Pool on a Run without Running]]",
+			"styleAttributes":{},
+			"x":3280,
+			"y":919,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"a196f80966fc653c",
+			"type":"text",
+			"text":"[[Music Room Inner Sanctum Key Puzzle.canvas|Music Room Inner Sanctum Key Puzzle]]",
+			"styleAttributes":{},
+			"x":3280,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5a718078ac419130",
+			"type":"text",
+			"text":"[[Trading Post Dynamite Puzzle.canvas|Trading Post Dynamite Puzzle]]",
+			"styleAttributes":{},
+			"x":3280,
+			"y":1082,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"3fc9f0cef434881b",
+			"type":"text",
+			"text":"[[Find the uncensored Book about History of Orindia.canvas|Find the uncensored Book about History of Orindia]]",
+			"styleAttributes":{},
+			"x":3280,
+			"y":1160,
+			"width":260,
+			"height":114,
+			"color":"4"
+		},
+		{
+			"id":"f2e20250bb4ceeed",
+			"type":"text",
+			"text":"[[Unlock All Drafting Studio Rooms.canvas|Unlock All Drafting Studio Rooms]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"3be0d0076a7d8179",
+			"type":"text",
+			"text":"[[Chapel Candle Puzzle.canvas|Chapel Candle Puzzle]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":921,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5a958861dfec3dc1",
+			"type":"text",
+			"text":"[[Use Burning Glass to Illuminate the Tunnel on The Grounds.canvas|Use Burning Glass to Illuminate the Tunnel on The Grounds]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":1007,
+			"width":260,
+			"height":110,
+			"color":"4"
+		},
+		{
+			"id":"2ce4cc8e4281ff86",
+			"type":"text",
+			"text":"[[Trading Post - Check if I can restore the Stillery.canvas|Trading Post - Check if I can restore the Stillery]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":1256,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"cac2f8cf3da5d4c2",
+			"type":"text",
+			"text":"[[Find the Hidden Floorplan on the Reservoir Gear Bridge.canvas|Find the Hidden Floorplan on the Reservoir Gear Bridge]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":1140,
+			"width":260,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"a17cd3b4e10dadb8",
+			"type":"text",
+			"text":"[[Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade.canvas|Access an extra terminal through a terminal after you unlocked the Blackbridge Grotto permanent upgrade]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":610,
+			"width":720,
+			"height":80
+		},
+		{
+			"id":"6c389afab7ff78c7",
+			"type":"text",
+			"text":"[[Find the Treasure in Treasure Maps.canvas|Find the Treasure in Treasure Maps]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":710,
+			"width":720,
+			"height":60
+		},
+		{
+			"id":"1cdb5c6b9ed20bca",
+			"type":"text",
+			"text":"[[End the run on the Planetarium to receive two stars as a permanent resource.canvas|End the run on the Planetarium to receive two stars as a permanent resource]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":530,
+			"width":680,
+			"height":60
+		},
+		{
+			"id":"c93872785e0ebda0",
+			"type":"text",
+			"text":"[[Draft an Observatory whenever possible for the permanent bonuses.canvas|Draft an Observatory whenever possible for the permanent bonuses]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":450,
+			"width":640,
+			"height":60
+		},
+		{
+			"id":"855343f1307f6643",
+			"type":"text",
+			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":350,
+			"width":620,
+			"height":80
+		},
+		{
+			"id":"b7e4595012c7b579",
+			"type":"text",
+			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":270,
+			"width":640,
+			"height":60
+		},
+		{
+			"id":"4289e616125ca1d2",
+			"type":"text",
+			"text":"[[Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room.canvas|Draft the Utility Closet whenever possible to manipulate the energy on rooms and combo with the Security Room]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":190,
+			"width":620,
+			"height":60
+		},
+		{
+			"id":"bdd4cd205bf789b6",
+			"type":"text",
+			"text":"[[Use the Security room terminal to manipulate the Keycard System in your favor.canvas|Use the Security room terminal to manipulate the Keycard System in your favor]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":90,
+			"width":580,
+			"height":80
+		},
+		{
+			"id":"e1318216890e03a7",
+			"type":"text",
+			"text":"Green - Done\nPurple - Done, but may have more\nRed - Blocked progress",
+			"styleAttributes":{},
+			"x":120,
+			"y":660,
+			"width":360,
+			"height":100
 		}
 	],
 	"edges":[]

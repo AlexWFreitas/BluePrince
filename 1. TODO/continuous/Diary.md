@@ -9,6 +9,7 @@ Day 47
 - Drafted the Dormitory and got the Drafting Strategy Volume 2 book.
 	- Interesting info about the Freezer inside.
 	- Should transform Sauna into common too.
+- After ending the day, I tried to translate the note in Erajan, it seems to be a message saying that Erajan people should go south instead of north?
 
 Day 46
 - Drafted a Library and ordered the Reddington Sightseeing Guide

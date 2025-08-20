@@ -18,9 +18,21 @@
 			"y":-520,
 			"width":260,
 			"height":60
+		},
+		{"id":"979c3ec61ffe85f7","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":-1040,"y":336,"width":134,"height":209},
+		{"id":"1bccceaeb2d20573","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":-877,"y":336,"width":114,"height":209}
+	],
+	"edges":[
+		{
+			"id":"55b828e541458c93",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"979c3ec61ffe85f7",
+			"fromSide":"right",
+			"toNode":"1bccceaeb2d20573",
+			"toSide":"left"
 		}
 	],
-	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
