@@ -203,7 +203,22 @@
 			"y":-380,
 			"width":280,
 			"height":283
-		}
+		},
+		{"id":"5ae18a24473892dd","type":"file","file":"99. attachments/BLUE_PRINCE_HHyaAHZmwA.png","x":3200,"y":713,"width":399,"height":316},
+		{
+			"id":"1672590f9a1b0a98",
+			"type":"text",
+			"text":"# Nuance Sigil\n\n",
+			"styleAttributes":{},
+			"x":2840,
+			"y":713,
+			"width":320,
+			"height":300
+		},
+		{"id":"4acd91ba287d4dbe","type":"file","file":"99. attachments/Obsidian_czfBT62QbT.png","x":3200,"y":1060,"width":147,"height":140},
+		{"id":"66a60f7182f4b19c","type":"file","file":"99. attachments/Obsidian_j07WXYR3c0.png","x":3380,"y":1060,"width":400,"height":140},
+		{"id":"aa0dfc08220aa0ca","type":"file","file":"99. attachments/Obsidian_w0gBDodtBS.png","x":3640,"y":904,"width":400,"height":125},
+		{"id":"1386b3df0b9b48b9","type":"file","file":"99. attachments/Obsidian_oH396U3X83.png","x":2760,"y":1060,"width":400,"height":78}
 	],
 	"edges":[
 		{

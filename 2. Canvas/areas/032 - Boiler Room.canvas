@@ -1,17 +1,28 @@
 {
 	"nodes":[
-		{"id":"25730c39a62cbd0b","type":"file","file":"99. attachments/BLUE_PRINCE_fldcD2x5XW.png","x":-640,"y":-380,"width":400,"height":225},
+		{"id":"1b873565d14ce29d","type":"file","file":"99. attachments/BLUE_PRINCE_6pbBSPnyZ9.png","x":-1860,"y":-462,"width":1093,"height":615},
+		{"id":"25730c39a62cbd0b","type":"file","file":"99. attachments/BLUE_PRINCE_fldcD2x5XW.png","x":-740,"y":-462,"width":400,"height":225},
 		{
 			"id":"dea42d70c56195ea",
 			"type":"text",
 			"text":"You can experiment with this room to enable the Boiler Room Generator permanently, while also opening the bridge that connects all sides of the room at once.\n\nThen you can use the Generator to send power through the power vents over rooms many steps away as long as the power vent line isn't broken and it connects on the correct side.",
 			"styleAttributes":{},
-			"x":-720,
-			"y":-100,
+			"x":-740,
+			"y":-200,
 			"width":460,
 			"height":260
 		},
-		{"id":"1b873565d14ce29d","type":"file","file":"99. attachments/BLUE_PRINCE_6pbBSPnyZ9.png","x":-1860,"y":-462,"width":1093,"height":615}
+		{"id":"e2b4d8fdba31491c","type":"file","file":"99. attachments/BLUE_PRINCE_gkLIfP1QLF 2.png","x":-1860,"y":280,"width":400,"height":225},
+		{
+			"id":"3a9faa4c99808b0f",
+			"type":"text",
+			"text":"[[Open the Red Door on Underpass.canvas|Open the Red Door on Underpass]]",
+			"styleAttributes":{},
+			"x":-1780,
+			"y":540,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[],
 	"metadata":{

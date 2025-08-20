@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"5186417bf8fadfd3",
+			"type":"text",
+			"text":"Check the Central Server Site if they could have logins.\nIt's possible that White is Phillip / Paul White from one of the logins in the [[Blackbridge Grotto.canvas|Blackbridge Grotto]]",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-340,
+			"width":480,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -23,7 +23,7 @@
 		{
 			"id":"25b1b9c2f96f1a6e",
 			"type":"text",
-			"text":"**Hidden Logins**\n- Jean Ribbon - RibbJ - Admin\n- Paul / Phillip With?? - WithP - Admin\n- ?",
+			"text":"**Hidden Logins**\n- Jean Ribbon - RibbJ - Admin\n- Paul Withe / Phillip White - WithP - Admin\n- ??",
 			"styleAttributes":{},
 			"x":-580,
 			"y":120,
@@ -33,12 +33,12 @@
 		{
 			"id":"132985df6a022a91",
 			"type":"text",
-			"text":"**Attempted Logins**\n- Kirk Darren - DarrK - Fail\n- Jean Ribbon - RibbJ? - Found in Fake Passport\n- Paul / Phillip With??? - WithP - Found in the Terminal Admin Logs after using RibbJ.\n- Bon Margle - Fail\n- Black bridge Book\n\t- Geoffrey Heartslasher\n\t- Jesper\n\t- Miller\n\t- Ravia\n\t- Fodric Lee",
+			"text":"**Attempted Logins**\n- Kirk Darren - DarrK - Fail\n- Jean Ribbon - RibbJ? - Found in Fake Passport\n- Paul / Phillip With??? - WithP - Found in the Terminal Admin Logs after using RibbJ.\n\t- This is actually Phillip White, one of the publishers associated with Marion Marigold\n- Bon Margle - Fail\n- Black bridge Book \n\t- Geoffrey Heartslasher \n\t- Jesper\n\t- Miller\n\t- Ravia\n\t- Fodric Lee\n- Try **Caleb Manning**, since he is also associated with Marion Marigold.",
 			"styleAttributes":{},
 			"x":0,
 			"y":-140,
 			"width":480,
-			"height":420
+			"height":480
 		},
 		{"id":"a78003c80c400115","type":"file","file":"99. attachments/BLUE_PRINCE_mb92Ccddpa.png","x":20,"y":-420,"width":400,"height":225}
 	],

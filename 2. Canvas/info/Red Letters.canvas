@@ -32,7 +32,17 @@
 		{"id":"d55fbd432fe73d26","type":"file","file":"99. attachments/BLUE_PRINCE_LcLnPFDkNB.png","x":-2520,"y":-142,"width":401,"height":442},
 		{"id":"c8df7320370219bb","type":"file","file":"99. attachments/BLUE_PRINCE_Y4YAUeL5sn.png","x":-5760,"y":-400,"width":400,"height":225},
 		{"id":"9b7c501e9617decb","type":"file","file":"99. attachments/BLUE_PRINCE_YfToSStQlA.png","x":-5320,"y":-400,"width":400,"height":225},
-		{"id":"2cfd080288d765f9","type":"file","file":"99. attachments/BLUE_PRINCE_TubMRYxo3w.png","x":-5760,"y":-140,"width":400,"height":225}
+		{"id":"2cfd080288d765f9","type":"file","file":"99. attachments/BLUE_PRINCE_TubMRYxo3w.png","x":-5760,"y":-140,"width":400,"height":225},
+		{
+			"id":"814c2b27fc7c7a8d",
+			"type":"text",
+			"text":"These letters are incriminating many people about the robery over [[Red Letters.canvas|Red Letters]] - [[Ruby Crown.canvas|Ruby Crown]]\n\nIt appears that [[Mary Matthew Jones.canvas|Mary Matthew Jones]], [[Phillips White.canvas|Phillips White]], [[Caleb Manning.canvas|Calleb Manning]], [[Farro.canvas|Farro]]  and maybe more people.\n",
+			"styleAttributes":{},
+			"x":-2360,
+			"y":-860,
+			"width":560,
+			"height":320
+		}
 	],
 	"edges":[],
 	"metadata":{

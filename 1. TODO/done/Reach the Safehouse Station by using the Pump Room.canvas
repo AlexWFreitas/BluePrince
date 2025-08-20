@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"73c1cc3b0e353418",
+			"type":"text",
+			"text":"1. Need to drain [[029 - The Pool.canvas|029 - The Pool]] or have a [[Tomb.canvas|Tomb]] to access the [[Reservoir.canvas|Reservoir]] Boat\n2. Then need to set the Reservoir Level at 13.\n3. Cross the Reservoir with the Boat\n4. Drain the Reservoir to 6\n5. Use the Boat to reach the [[Safehouse Station.canvas|Safehouse Station]]\n",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-300,
+			"width":560,
+			"height":220
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

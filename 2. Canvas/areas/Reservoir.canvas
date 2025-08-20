@@ -96,7 +96,39 @@
 			"width":480,
 			"height":200
 		},
-		{"id":"8676bbb9be9eab2e","type":"file","file":"99. attachments/BLUE_PRINCE_hPois6dB1s.png","x":-2620,"y":-840,"width":400,"height":225}
+		{"id":"8676bbb9be9eab2e","type":"file","file":"99. attachments/BLUE_PRINCE_hPois6dB1s.png","x":-2620,"y":-840,"width":400,"height":225},
+		{"id":"58ba9e8d5694088d","type":"file","file":"99. attachments/BLUE_PRINCE_jS1lBIuUBZ 1.png","x":-3660,"y":-840,"width":400,"height":225},
+		{
+			"id":"598c8e9ab3a48ee0",
+			"type":"text",
+			"text":"[[Red Door Area.canvas|Red Door Room]]",
+			"styleAttributes":{},
+			"x":-3220,
+			"y":-840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"435305940920ce75",
+			"type":"text",
+			"text":"# Reservoir - Path to Station\n\n1. Need to drain [[029 - The Pool.canvas|029 - The Pool]] or have a [[Tomb.canvas|Tomb]] to access the [[Reservoir.canvas|Reservoir]] Boat\n2. Then need to set the Reservoir Level at 13.\n3. Cross the Reservoir with the Boat\n4. Drain the Reservoir to 6\n5. Use the Boat to reach the [[Safehouse Station.canvas|Station]]\n",
+			"styleAttributes":{},
+			"x":-3660,
+			"y":-560,
+			"width":520,
+			"height":260
+		},
+		{
+			"id":"ac120704855d82fe",
+			"type":"text",
+			"text":"[[Safehouse Station.canvas|Station]]",
+			"styleAttributes":{},
+			"x":-3530,
+			"y":-260,
+			"width":260,
+			"height":60
+		},
+		{"id":"a90076c0c746468a","type":"file","file":"99. attachments/BLUE_PRINCE_Dxi2Ss7tdG.png","x":-4100,"y":-560,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"fdeb365d6c94ce8c","toFloating":false,"fromNode":"17187e013df02c19","fromSide":"top","toNode":"1c6ea0fa509afe9d","toSide":"bottom"},
@@ -152,6 +184,24 @@
 			"fromSide":"left",
 			"toNode":"8676bbb9be9eab2e",
 			"toSide":"bottom"
+		},
+		{
+			"id":"b48d690874b7dd55",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"435305940920ce75",
+			"fromSide":"top",
+			"toNode":"58ba9e8d5694088d",
+			"toSide":"bottom"
+		},
+		{
+			"id":"146ddbe22337f27b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"435305940920ce75",
+			"fromSide":"bottom",
+			"toNode":"ac120704855d82fe",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

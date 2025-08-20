@@ -1,6 +1,16 @@
 {
 	"nodes":[
-		{"id":"d4013be5bc3594dc","type":"file","file":"99. attachments/BLUE_PRINCE_mb92Ccddpa 1.png","x":-480,"y":-280,"width":400,"height":225}
+		{"id":"d4013be5bc3594dc","type":"file","file":"99. attachments/BLUE_PRINCE_mb92Ccddpa 1.png","x":-480,"y":-280,"width":400,"height":225},
+		{
+			"id":"42b00ec625f246d7",
+			"type":"text",
+			"text":"[[Farro.canvas|Farro]] - Kirk Darren might be Farro? (0% confidence)",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-380,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[],
 	"metadata":{

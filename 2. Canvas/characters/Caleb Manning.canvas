@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"0f3e83ad521a4be2","type":"file","file":"99. attachments/BLUE_PRINCE_YfToSStQlA.png","x":-660,"y":-300,"width":400,"height":225},
+		{"id":"d5d7a8b5af0fd27c","type":"file","file":"99. attachments/BLUE_PRINCE_TubMRYxo3w.png","x":-660,"y":-42,"width":400,"height":225},
+		{
+			"id":"c4db271fbb0dd9b5",
+			"type":"text",
+			"text":"[[026 - Study.canvas|026 - Study]]",
+			"styleAttributes":{},
+			"x":-230,
+			"y":-300,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"64de7f8132534e1f",
+			"type":"text",
+			"text":"[[Red Letters.canvas|Red Letters]]",
+			"styleAttributes":{},
+			"x":-230,
+			"y":-217,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

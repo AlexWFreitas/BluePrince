@@ -121,6 +121,17 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"593c8a94d6b7b893",
+			"type":"text",
+			"text":"[[Red Door Area.canvas|Red Door Room]]",
+			"styleAttributes":{},
+			"x":-920,
+			"y":180,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[

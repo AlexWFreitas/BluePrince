@@ -65,7 +65,7 @@
 			"y":-580,
 			"width":460,
 			"height":60,
-			"color":"1"
+			"color":"4"
 		},
 		{
 			"id":"dd220674a9c3587b",
@@ -98,9 +98,39 @@
 			"width":480,
 			"height":60,
 			"color":"4"
+		},
+		{"id":"0094658e184ee4ab","type":"file","file":"99. attachments/BLUE_PRINCE_JhPPRg54Cv.png","x":-20,"y":-665,"width":400,"height":225},
+		{
+			"id":"3febf67b0357e217",
+			"type":"text",
+			"text":"[[Safehouse Station.canvas|Safehouse Station]]",
+			"styleAttributes":{},
+			"x":50,
+			"y":-390,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"bde8700700db0a0e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7e011b8d150526f3",
+			"fromSide":"right",
+			"toNode":"0094658e184ee4ab",
+			"toSide":"left"
+		},
+		{
+			"id":"73a71818669b9879",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3febf67b0357e217",
+			"fromSide":"top",
+			"toNode":"0094658e184ee4ab",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

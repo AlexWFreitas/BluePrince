@@ -1,5 +1,17 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"36beac7d3e24da2f","type":"file","file":"99. attachments/BLUE_PRINCE_gkLIfP1QLF 1.png","x":-660,"y":-180,"width":400,"height":225},
+		{
+			"id":"bd9271ecb240de7e",
+			"type":"text",
+			"text":"[[032 - Boiler Room.canvas|032 - Boiler Room]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-280,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

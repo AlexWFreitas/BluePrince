@@ -1,3 +1,30 @@
+Day 50
+- Drafted a Toolshed at the start.
+- Drafted a Library and ordered one of the Drafting Strategy Books to use a Magnifying Glass
+- Drafted Conservatory
+	- Changed Drafting Studio to common
+	- The others I don't remember
+- Drafted a Boiler Room and started sending power to the Red Box... due to SPOILERS FROM SASTRE
+- Crafted a Power Hammer again and stored it in the Coat Check at the end of the run
+- After I powered up the Red Box at the Boiler Room I went to the Reservoir to the Red Door Area.
+	- The red box there was powered up and I was able to press the button to open the door.
+	- This revealed a huge generator that is probably related to the Boiler Room with stairs that took me to the area above the Rotating Bridge.
+		- I already lifted the Rotating Bridge by one level, so this is already solved.
+	- I explored both sections and found a Black Mirror with a lock that requires a password made of four characters.
+	- The other section had a tip about the existence of some sort of Station underground that was flooded by pumping water into it.
+- Because of that I eventually drafted a Pump Room and drained the Fountain set the Reservoir Water Level to 13.
+- I crossed the Reservoir with the Boat by entering through the Fountain.
+- Then I drained the Reservoir to Level 6.
+- I took the boat to get into a Safehouse, this Safehouse had an Inner Sanctum Key and lots of lore things.
+	- There is another note related to the Security Room monitor setup, it seems that each monitor represents a letter?
+	- Maybe it creates a message.
+- I discovered that WithP is Phillip White / Paul With...
+- This means that the other login could be Caleb Manning, since he seems related as well.
+- There is another guy named Farro.
+- This is related to the Red Letters obviously.
+- Then lastly, I tried to solve the Nuance Sigil Puzzle and I wasn't able to.
+	- Sometimes I think that the color of the letter stamp is a red herring.
+
 Day 49
 - Conservatory
 	- West Wing Hall from Standard to Common
