@@ -8,7 +8,21 @@
 			"x":-480,
 			"y":-340,
 			"width":260,
-			"height":180
+			"height":140
+		},
+		{"id":"21f0b8d7030599b0","type":"file","file":"99. attachments/BLUE_PRINCE_iGJ2U8ites.png","x":-1020,"y":-140,"width":400,"height":225},
+		{"id":"2f502af4e67616d2","type":"file","file":"99. attachments/BLUE_PRINCE_IZVHNS1dew.png","x":-1020,"y":120,"width":400,"height":225},
+		{"id":"48ecf8225aef121a","type":"file","file":"99. attachments/BLUE_PRINCE_sSOG4uBHsC.png","x":-580,"y":-140,"width":400,"height":225},
+		{"id":"bcf9e7e071790372","type":"file","file":"99. attachments/BLUE_PRINCE_enL84vrSZU.png","x":-580,"y":120,"width":400,"height":225},
+		{
+			"id":"db73354b423196ad",
+			"type":"text",
+			"text":"I checked the back areas of the closed aeras of Rotunda and found nothing.",
+			"styleAttributes":{},
+			"x":-740,
+			"y":420,
+			"width":260,
+			"height":100
 		}
 	],
 	"edges":[],

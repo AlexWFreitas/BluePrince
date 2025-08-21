@@ -33,7 +33,34 @@
 			"y":540,
 			"width":260,
 			"height":60
-		}
+		},
+		{
+			"id":"7abe62c3c5369d7d",
+			"type":"text",
+			"text":"This is actually useless and has the same power as turning the other valve that gives power to the room door / wall to open.",
+			"styleAttributes":{},
+			"x":-1365,
+			"y":660,
+			"width":330,
+			"height":140
+		},
+		{
+			"id":"27d8d32cef854d5b",
+			"type":"text",
+			"text":"# Random Images",
+			"styleAttributes":{},
+			"x":-720,
+			"y":360,
+			"width":360,
+			"height":80
+		},
+		{"id":"59dcbdf4eac8f277","type":"file","file":"99. attachments/BLUE_PRINCE_QqkJjPAgHS.png","x":-720,"y":520,"width":400,"height":225},
+		{"id":"685d2647d214f779","type":"file","file":"99. attachments/BLUE_PRINCE_kQUroa7xaP.png","x":-220,"y":345,"width":386,"height":400},
+		{"id":"75059ea26a021f98","type":"file","file":"99. attachments/BLUE_PRINCE_FPoFp6DLhG.png","x":200,"y":345,"width":318,"height":399},
+		{"id":"0eedf2c8380db1af","type":"file","file":"99. attachments/BLUE_PRINCE_3mKoU6HvK7.png","x":560,"y":345,"width":213,"height":399},
+		{"id":"f07a03363e3805f3","type":"file","file":"99. attachments/BLUE_PRINCE_iFYM5vkfnk.png","x":820,"y":345,"width":203,"height":400},
+		{"id":"3f2f2bffacfc23ed","type":"file","file":"99. attachments/BLUE_PRINCE_v1OpSU4E4Q.png","x":1080,"y":345,"width":383,"height":400},
+		{"id":"7a3cb014db556e39","type":"file","file":"99. attachments/BLUE_PRINCE_Johbojvq9a.mp4","x":1300,"y":1100,"width":400,"height":225}
 	],
 	"edges":[
 		{
@@ -43,6 +70,15 @@
 			"fromNode":"9f9cb4174d62063d",
 			"fromSide":"top",
 			"toNode":"a28b92bb77261ef5",
+			"toSide":"bottom"
+		},
+		{
+			"id":"2b85d1ac439058bc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7abe62c3c5369d7d",
+			"fromSide":"top",
+			"toNode":"9f9cb4174d62063d",
 			"toSide":"bottom"
 		}
 	],

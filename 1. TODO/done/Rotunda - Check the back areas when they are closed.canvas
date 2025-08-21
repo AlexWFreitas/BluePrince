@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"f9cdf71e4e62dec2",
+			"type":"text",
+			"text":"[[004 - Rotunda.canvas|004 - Rotunda]]",
+			"styleAttributes":{},
+			"x":-720,
+			"y":-240,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

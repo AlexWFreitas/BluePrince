@@ -1,3 +1,27 @@
+
+
+Day 59
+- Drafted a Pump Room and drained the pool again and filled the Fountain since I can reach the Abandoned Mine through Precipice.
+- I tried going into the Inner Sanctum, I was able to solve the sigil puzzles on Eraja and Nuance.
+	- I took notes and tried to organize the letters, but I wasn't able to solve the 8 months, 8 places puzzle.
+	- There is a very big lack of information and I feel that I am making a mistake.
+		- Interestingly there are some patterns that create a Infinite Symbol and one even creates Three Triangles.
+- Called a day inside the Bunk Room
+	- Will try to combo with the Tomb to see what happens
+
+Day 58
+- Drafted a Rotunda
+	- Tried checking what's behind the closed sides by drafting rooms that open on the backside of the rotunda.
+		- Did not find anything new.
+- Drafted a Boiler Room
+	- Attempted to send power to the unreachable powerlet and enter the area from outside to interact with it.
+		- It's only a way to open the door, so it's not useful.
+	- Meanwhile I found something interesting
+		- The moving plates that reveal one of the boiler room valves have different markings over a 4x4 grid.
+		- This could be a sequence that forms a phrase or something in a later puzzle.
+		- I took notes about it and created a task note to investigate this.
+- The run ended fast because of a lack of resources + weight room + too many hall rooms from the pool hall.
+
 Day 57
 - Drafted a Conservatory
 	- Increased rarity of all rooms that were "solved"

@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{
+			"id":"a1cf1e4174688ca5",
+			"type":"text",
+			"text":"Need to ruin the [[032 - Boiler Room.canvas|032 - Boiler Room]] setup and then enter the Boiler room from outside to an unreachable area to interact with the button.",
+			"styleAttributes":{},
+			"x":-540,
+			"y":80,
+			"width":460,
+			"height":120
+		},
+		{
+			"id":"531223ee59bbf2ca",
+			"type":"text",
+			"text":"\nThis only opens the door, it doesn't do anything else.",
+			"styleAttributes":{},
+			"x":-410,
+			"y":240,
+			"width":260,
+			"height":100
+		},
+		{"id":"3e2994e39c07fe8d","type":"file","file":"99. attachments/BLUE_PRINCE_sjF788ca6o.png","x":-510,"y":-200,"width":400,"height":225},
+		{"id":"b4b3810c8c52ef71","type":"file","file":"99. attachments/BLUE_PRINCE_EUB6zM5IqO.png","x":-1020,"y":-87,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

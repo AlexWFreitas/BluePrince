@@ -145,7 +145,7 @@
 		{
 			"id":"df2911c3f06e1ce2",
 			"type":"text",
-			"text":"# Erajan Sigil\n\nRainy\nRough Terrain\nSpiritual\nPurple",
+			"text":"# Erajan Sigil\n\n**Rainy**\nTrain\nPoetic\n**Purple**",
 			"styleAttributes":{},
 			"x":0,
 			"y":-1480,
@@ -165,7 +165,8 @@
 			"x":260,
 			"y":1280,
 			"width":400,
-			"height":200
+			"height":200,
+			"color":"4"
 		},
 		{"id":"cf3f8d664237d6be","type":"file","file":"99. attachments/BLUE_PRINCE_GFuGk6lDX6.png","x":700,"y":1520,"width":400,"height":354},
 		{"id":"6707eebd8d6f608d","type":"file","file":"99. attachments/BLUE_PRINCE_tv5xkqirTx.png","x":700,"y":1243,"width":400,"height":237},
@@ -179,7 +180,8 @@
 			"x":1260,
 			"y":1262,
 			"width":440,
-			"height":258
+			"height":258,
+			"color":"4"
 		},
 		{"id":"52b45fe630eed20e","type":"file","file":"99. attachments/BLUE_PRINCE_1lvSfF1fcN.png","x":1720,"y":1262,"width":311,"height":400},
 		{"id":"06b7eb4ec597dfd5","type":"file","file":"99. attachments/BLUE_PRINCE_k9Ev7KaAif.png","x":1260,"y":1560,"width":400,"height":225},
@@ -193,32 +195,71 @@
 			"width":576,
 			"height":347
 		},
-		{"id":"61680aeb6790280c","type":"file","file":"99. attachments/Obsidian_zGZ9Unjw3T.png","x":1201,"y":0,"width":347,"height":400},
+		{"id":"5ae18a24473892dd","type":"file","file":"99. attachments/BLUE_PRINCE_HHyaAHZmwA.png","x":3200,"y":713,"width":399,"height":316},
+		{
+			"id":"1672590f9a1b0a98",
+			"type":"text",
+			"text":"# Nuance Sigil\n\nMilitaristic\nWindy\nDirigibles\nGreen",
+			"styleAttributes":{},
+			"x":2840,
+			"y":713,
+			"width":320,
+			"height":300,
+			"color":"4"
+		},
+		{"id":"4acd91ba287d4dbe","type":"file","file":"99. attachments/Obsidian_czfBT62QbT.png","x":3200,"y":1060,"width":147,"height":140,"color":"4"},
+		{"id":"66a60f7182f4b19c","type":"file","file":"99. attachments/Obsidian_j07WXYR3c0.png","x":3380,"y":1060,"width":400,"height":140,"color":"4"},
+		{"id":"aa0dfc08220aa0ca","type":"file","file":"99. attachments/Obsidian_w0gBDodtBS.png","x":3640,"y":904,"width":400,"height":125},
 		{
 			"id":"a604ccb56c9a2252",
 			"type":"text",
 			"text":"# Orinda Aries\nMetropolitan\nTrains\nFoggy Weather\nBlack",
 			"styleAttributes":{},
-			"x":1180,
-			"y":-380,
+			"x":1268,
+			"y":-545,
 			"width":280,
-			"height":283
+			"height":283,
+			"color":"4"
 		},
-		{"id":"5ae18a24473892dd","type":"file","file":"99. attachments/BLUE_PRINCE_HHyaAHZmwA.png","x":3200,"y":713,"width":399,"height":316},
 		{
-			"id":"1672590f9a1b0a98",
+			"id":"c3abdaf7d41c2f65",
 			"type":"text",
-			"text":"# Nuance Sigil\n\n",
+			"text":"# Fenn Aries",
 			"styleAttributes":{},
-			"x":2840,
-			"y":713,
-			"width":320,
-			"height":300
+			"x":1693,
+			"y":-545,
+			"width":360,
+			"height":93,
+			"color":"4"
 		},
-		{"id":"4acd91ba287d4dbe","type":"file","file":"99. attachments/Obsidian_czfBT62QbT.png","x":3200,"y":1060,"width":147,"height":140},
-		{"id":"66a60f7182f4b19c","type":"file","file":"99. attachments/Obsidian_j07WXYR3c0.png","x":3380,"y":1060,"width":400,"height":140},
-		{"id":"aa0dfc08220aa0ca","type":"file","file":"99. attachments/Obsidian_w0gBDodtBS.png","x":3640,"y":904,"width":400,"height":125},
-		{"id":"1386b3df0b9b48b9","type":"file","file":"99. attachments/Obsidian_oH396U3X83.png","x":2760,"y":1060,"width":400,"height":78}
+		{"id":"61680aeb6790280c","type":"file","file":"99. attachments/Obsidian_zGZ9Unjw3T.png","x":1693,"y":-400,"width":347,"height":400,"color":"4"},
+		{
+			"id":"7abaff69193fdc17",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]]",
+			"styleAttributes":{},
+			"x":3280,
+			"y":600,
+			"width":260,
+			"height":60
+		},
+		{"id":"9428c9698b895ba0","type":"file","file":"99. attachments/BLUE_PRINCE_JIeqPelYj5.png","x":3640,"y":356,"width":868,"height":488},
+		{"id":"9d308730ba1c1eac","type":"file","file":"99. attachments/Obsidian_5HrvuseuFB.png","x":2262,"y":1260,"width":2024,"height":560},
+		{"id":"dff04188ff174ac2","type":"file","file":"99. attachments/mspaint_mLF9NhTjun.png","x":2313,"y":-580,"width":1227,"height":911},
+		{"id":"7283777090177e88","type":"file","file":"99. attachments/BLUE_PRINCE_DdGXt1D0TS.png","x":2400,"y":713,"width":400,"height":225},
+		{
+			"id":"30e390c817b900f6",
+			"type":"text",
+			"text":"[[Inner Sanctum - Nuance Sigil.canvas|Inner Sanctum - Nuance Sigil]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":600,
+			"width":260,
+			"height":60
+		},
+		{"id":"bbca8bec4f173db7","type":"file","file":"99. attachments/Obsidian_SHvbgeDbnq.png","x":1240,"y":-1906,"width":400,"height":390},
+		{"id":"05adffa878524b55","type":"file","file":"99. attachments/Obsidian_Q3sC0gJWVp.png","x":1680,"y":-1906,"width":400,"height":96},
+		{"id":"58a9999f9f619cda","type":"file","file":"99. attachments/BLUE_PRINCE_kn3REeVbhb.png","x":-120,"y":-1925,"width":680,"height":383}
 	],
 	"edges":[
 		{

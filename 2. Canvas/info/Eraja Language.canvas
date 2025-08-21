@@ -27,7 +27,19 @@
 			"y":240,
 			"width":380,
 			"height":225
-		}
+		},
+		{"id":"6f27aab9c4639138","type":"file","file":"99. attachments/BLUE_PRINCE_RC8dMAwUoJ.png","x":-1180,"y":-315,"width":399,"height":155},
+		{
+			"id":"941e0653f0510ccf",
+			"type":"text",
+			"text":"Lorja = Goodbye\nYenna, Hello Water\nGoodbye Yenna, Hello Water?\n\nThe eastern reign\n",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-140,
+			"width":320,
+			"height":160
+		},
+		{"id":"7b470af0176f1533","type":"file","file":"99. attachments/BLUE_PRINCE_EiZVJJfFhC.png","x":-1600,"y":-399,"width":400,"height":359}
 	],
 	"edges":[],
 	"metadata":{

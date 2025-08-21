@@ -1,17 +1,6 @@
 {
 	"nodes":[
 		{"id":"a3295c2f192614f7","type":"file","file":"99. attachments/BLUE_PRINCE_rZM4ePyOFr.png","x":140,"y":20,"width":400,"height":225},
-		{"id":"610b6fca70ecc945","type":"file","file":"99. attachments/BLUE_PRINCE_1gGn7wAZZ5.png","x":140,"y":-560,"width":400,"height":225},
-		{
-			"id":"22ac67e1f57bef8a",
-			"type":"text",
-			"text":"1. Orinda Aries / Black Bridge\n2. a\n3. a\n4. a\n5. a\n6. a\n7. a\n8. Fenn Aries\n\nVenn Shores comes before Corarica\nArch Aries comes after Mora Jai\nMaybe Nuance comes before Fenn Aries\n",
-			"styleAttributes":{},
-			"x":-880,
-			"y":-440,
-			"width":740,
-			"height":400
-		},
 		{"id":"050503dae5fbc11e","type":"file","file":"99. attachments/BLUE_PRINCE_d0tf4Jwg0q.png","x":-360,"y":20,"width":400,"height":225},
 		{"id":"cbc54547045268b4","type":"file","file":"99. attachments/BLUE_PRINCE_b517NIfLWM.png","x":40,"y":-285,"width":400,"height":225},
 		{
@@ -23,7 +12,31 @@
 			"y":-440,
 			"width":360,
 			"height":340
-		}
+		},
+		{"id":"d98e29a2200f5eb9","type":"file","file":"99. attachments/BLUE_PRINCE_3nkjqOuOdj 1.png","x":-820,"y":20,"width":400,"height":225},
+		{
+			"id":"a0d3a8b91caf67e9",
+			"type":"text",
+			"text":"Lorja = Goodbye\nYenna, Hello Water\nGoodbye Yenna, Hello Water?\n\nThe eastern reign\n",
+			"styleAttributes":{},
+			"x":-1220,
+			"y":455,
+			"width":320,
+			"height":160
+		},
+		{
+			"id":"22ac67e1f57bef8a",
+			"type":"text",
+			"text":"1. Orinda Aries / Black Bridge\n2. a\n3. a\n4. a\n5. a\n6. a\n7. a\n8. Fenn Aries\n\nVenn Shores comes before Corarica\nArch Aries comes after Mora Jai\nMaybe Nuance comes before Fenn Aries\nMora Jai comes after Eraja\n\nOrinda Aries is First\nEraja - > Mora Jai or Verra Shore\nSailing (Either Eraja or Mora Jai) -> Arch Aries\nVerra Shores -> Corarica\nFenn Aries is last\n\nIts possible that Nuance is after Corarica and Venn Shores\n\n\n",
+			"styleAttributes":{},
+			"x":-880,
+			"y":-595,
+			"width":740,
+			"height":535
+		},
+		{"id":"610b6fca70ecc945","type":"file","file":"99. attachments/BLUE_PRINCE_1gGn7wAZZ5.png","x":-1960,"y":0,"width":400,"height":225},
+		{"id":"06e89a06c416bd2d","type":"file","file":"99. attachments/BLUE_PRINCE_F79jjAlL9k 1.png","x":-1960,"y":280,"width":400,"height":225},
+		{"id":"07be2c68e2e40315","type":"file","file":"99. attachments/BLUE_PRINCE_RC8dMAwUoJ.png","x":-1959,"y":538,"width":399,"height":155}
 	],
 	"edges":[],
 	"metadata":{
