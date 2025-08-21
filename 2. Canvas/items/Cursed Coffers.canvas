@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"97ae0d62223716a3","type":"file","file":"99. attachments/BLUE_PRINCE_ZpErD2g14P.png","x":-660,"y":-340,"width":400,"height":225},
+		{
+			"id":"e4ed42763e638e28",
+			"type":"text",
+			"text":"[[Mount Holly Gift Shop.canvas|Mount Holly Gift Shop]]",
+			"styleAttributes":{},
+			"x":-590,
+			"y":-80,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6b72c68dc5da489f",
+			"type":"text",
+			"text":"[[Cursed Effigy.canvas|Cursed Effigy]]",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-80,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

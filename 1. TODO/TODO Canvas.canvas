@@ -1394,7 +1394,7 @@
 			"y":1560,
 			"width":260,
 			"height":60,
-			"color":"1"
+			"color":"4"
 		},
 		{
 			"id":"68881974075d2294",
@@ -1519,7 +1519,7 @@
 			"y":1360,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"94a6ea76bfbb2ebc",
@@ -1544,17 +1544,6 @@
 			"color":"3"
 		},
 		{
-			"id":"edddd3e0c911f6a6",
-			"type":"text",
-			"text":"[[Verify the Terrace room.canvas|Verify the Terrace room]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1520,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"385aa63bf6437aa8",
 			"type":"text",
 			"text":"[[Understand Cursed Coffers.canvas|Understand Cursed Coffers]]",
@@ -1563,18 +1552,7 @@
 			"y":1445,
 			"width":260,
 			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"0650efa24ea0d6c5",
-			"type":"text",
-			"text":"[[Revisit Geography Class - Erajan Words and Map Details.canvas|Revisit Geography Class - Erajan Words and Map Details]]",
-			"styleAttributes":{},
-			"x":220,
-			"y":320,
-			"width":260,
-			"height":110,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"41dba1e3c4f981cb",
@@ -1630,12 +1608,34 @@
 			"color":"3"
 		},
 		{
+			"id":"0650efa24ea0d6c5",
+			"type":"text",
+			"text":"[[Revisit Geography Class - Erajan Words and Map Details.canvas|Revisit Geography Class - Erajan Words and Map Details]]",
+			"styleAttributes":{},
+			"x":220,
+			"y":320,
+			"width":260,
+			"height":110,
+			"color":"3"
+		},
+		{
+			"id":"90d16f99f6233820",
+			"type":"text",
+			"text":"[[Eight Months Eight Places Puzzle.canvas|Eight Months Eight Places Puzzle]]",
+			"styleAttributes":{},
+			"x":500,
+			"y":480,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
 			"id":"3d2f0cba9da59776",
 			"type":"text",
 			"text":"Write about [[Bedrooms Rooms - Sleep Effects.canvas|Bedrooms Rooms - Sleep Effects]]",
 			"styleAttributes":{},
 			"x":220,
-			"y":460,
+			"y":450,
 			"width":260,
 			"height":60,
 			"color":"3"

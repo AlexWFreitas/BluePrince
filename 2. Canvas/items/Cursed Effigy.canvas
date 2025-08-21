@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"5dfc5f8a703e756e","type":"file","file":"99. attachments/BLUE_PRINCE_ZpErD2g14P.png","x":-1040,"y":-340,"width":400,"height":225},
+		{"id":"98f3b3242dc33ab3","type":"file","file":"99. attachments/BLUE_PRINCE_OFsKmPB63Q.png","x":-440,"y":-340,"width":400,"height":225},
+		{"id":"a6e34266740dfbe9","type":"file","file":"99. attachments/BLUE_PRINCE_TmLKgoMiLj.png","x":-440,"y":-40,"width":400,"height":225},
+		{
+			"id":"a52db4f38a73f9d4",
+			"type":"text",
+			"text":"[[Shrine.canvas|Shrine]]",
+			"styleAttributes":{},
+			"x":-370,
+			"y":-440,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"6f0cfc1aaf59300b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5dfc5f8a703e756e",
+			"fromSide":"right",
+			"toNode":"98f3b3242dc33ab3",
+			"toSide":"left",
+			"label":"Hammer"
+		},
+		{
+			"id":"8f23e47e76ab4530",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a6e34266740dfbe9",
+			"fromSide":"top",
+			"toNode":"98f3b3242dc33ab3",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

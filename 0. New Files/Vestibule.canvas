@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"fb940e206c4e0fcf","type":"file","file":"99. attachments/BLUE_PRINCE_JxsEYfDhZT.png","x":-600,"y":-300,"width":400,"height":225},
+		{"id":"a38b4d7a2e9770fe","type":"file","file":"99. attachments/BLUE_PRINCE_aKYnIME447.png","x":-600,"y":-40,"width":400,"height":225},
+		{"id":"14838c727e406d9c","type":"file","file":"99. attachments/BLUE_PRINCE_ehui185uI3.png","x":-140,"y":95,"width":400,"height":225},
+		{
+			"id":"78f67af093911d4d",
+			"type":"text",
+			"text":"I just want to say that a symbol similar to the one in Vestibule can be seen in Parlor and Boudoir.",
+			"styleAttributes":{},
+			"x":-600,
+			"y":220,
+			"width":400,
+			"height":140
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

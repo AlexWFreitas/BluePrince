@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"018a946f219d31a6",
+			"type":"text",
+			"text":"This room is useless and has nothing.\n\nI verified on Day 56.",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-260,
+			"width":320,
+			"height":140
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

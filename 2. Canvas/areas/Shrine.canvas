@@ -28,12 +28,62 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"03d1843251ccf6a6","type":"file","file":"99. attachments/BLUE_PRINCE_hzZRO0va7W.png","x":732,"y":-380,"width":297,"height":400}
+		{"id":"03d1843251ccf6a6","type":"file","file":"99. attachments/BLUE_PRINCE_hzZRO0va7W.png","x":732,"y":-380,"width":297,"height":400},
+		{"id":"42f220137b401b32","type":"file","file":"99. attachments/BLUE_PRINCE_OFsKmPB63Q.png","x":-1800,"y":-445,"width":400,"height":225},
+		{"id":"6f187003f926153d","type":"file","file":"99. attachments/BLUE_PRINCE_TmLKgoMiLj.png","x":-1800,"y":-145,"width":400,"height":225},
+		{"id":"9ce3eb25d99f8298","type":"file","file":"99. attachments/BLUE_PRINCE_NNazedWqKB.png","x":-2260,"y":-445,"width":400,"height":225},
+		{
+			"id":"18163489b0472e34",
+			"type":"text",
+			"text":"Stealing - [[Cursed.canvas|Cursed]]",
+			"styleAttributes":{},
+			"x":-2190,
+			"y":-575,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a0f0306106463bc0",
+			"type":"text",
+			"text":"[[Cursed Coffers.canvas|Cursed Coffers]]",
+			"styleAttributes":{},
+			"x":-1730,
+			"y":-575,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{"id":"ff37e012a5de6307","fromNode":"39cddd169e6a2c42","fromSide":"top","toNode":"3d6480a7ed905827","toSide":"bottom"},
 		{"id":"b0dd0148c4b6858c","fromNode":"6c5534df54a5c487","fromSide":"top","toNode":"e520b8674f7b2a45","toSide":"bottom"},
-		{"id":"293ad007ad044c2c","fromNode":"1f0fc48ecb61e4cb","fromSide":"top","toNode":"da12ad5c337d3083","toSide":"bottom"}
+		{"id":"293ad007ad044c2c","fromNode":"1f0fc48ecb61e4cb","fromSide":"top","toNode":"da12ad5c337d3083","toSide":"bottom"},
+		{
+			"id":"77d78692188277c7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"18163489b0472e34",
+			"fromSide":"bottom",
+			"toNode":"9ce3eb25d99f8298",
+			"toSide":"top"
+		},
+		{
+			"id":"c656028196220014",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a0f0306106463bc0",
+			"fromSide":"bottom",
+			"toNode":"42f220137b401b32",
+			"toSide":"top"
+		},
+		{
+			"id":"ace29238b45babce",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"42f220137b401b32",
+			"fromSide":"bottom",
+			"toNode":"6f187003f926153d",
+			"toSide":"top"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

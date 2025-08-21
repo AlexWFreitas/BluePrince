@@ -11,6 +11,17 @@
 			"y":-620,
 			"width":498,
 			"height":280
+		},
+		{"id":"26fb9c5778432fbf","type":"file","file":"99. attachments/BLUE_PRINCE_NLNYfj5bki.png","x":-680,"y":-620,"width":400,"height":225},
+		{
+			"id":"ce0a9b5ca7ec3b31",
+			"type":"text",
+			"text":"45x2 = 90\n90/9 = 10\n10-2 = 8",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-620,
+			"width":260,
+			"height":113
 		}
 	],
 	"edges":[],

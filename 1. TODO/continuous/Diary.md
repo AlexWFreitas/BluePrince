@@ -1,3 +1,39 @@
+Day 56
+- Not cursed anymore.
+- I wanted to test the bedrooms and draft new rooms.
+- I drafted Vestibule in the middle of the run, this room seems useless.
+- I need to draft Conservatory to remove a bunch of rooms that were common because I wanted to explore them and they are not useful anymore.
+	- Didn't draft it this run though.
+- I reached antechamber with quest bedroom and observatory this run, but this run was somewhat of a mess.
+- Called a day inside a Boudoir.
+
+Day 55
+- I am cursed
+- Drafted a Tomb and explored it a little, not much found.
+- Drafted a Guest Bedroom and then reached Antechamber for two allowance.
+- Drafted a Drafting Studio and there are no more rooms to add.
+- Drafted a Dovecote and discovered a mail letter in one of the holes.
+	- I think this is a progressive room that becomes filled the more you draft / day passes.
+- I called a day in the Guest Bedroom to check what happens.
+
+Day 54
+- Drafted a Shrine, with one day left in the blessing.
+	- Destroyed the Cursed Coffers and was cursed by the Cursed Effigy from the Black Bridge Curse book.
+		- This item changed my amount of steps to 13 or less and cursed me.
+	- Then I stole the gold from the Shrine and was cursed again.
+		- This one cursed me for two days.
+- Guess this run will end fast.
+- I will end the run in the Aquarium, as it is a Bedroom.
+
+Day 53
+- Drafted Hovel again
+	- Found a note about a theory about Room 46, sounded like crazytalk.
+- Drafted Dovecote for the first time, still not sure if I explored it correctly, because it has digging spots but I have no shovel.
+- Added the Vestibule Floorplan from the Drafting Studio.
+	- This should be all of them.
+- Drafted a Treasure Trove again and sadly it feels that it replicates the rules from the Reservoir Chests. I might have to organize my notes around that.
+- Called a day inside the Hovel, let's see what happens.
+
 Day 52
 - Drafted a Treasure Trove
 	- Seems there is a chest that has memo notes with tips that may or may not help every time you draft it.
@@ -7,7 +43,7 @@ Day 52
 - Based on the Planetarium, 90 Stars should be a sweet spot with 7 Constellations + Stars for Rerolls if needed.
 - Created another jack hammer and left it at the Coat Check instead of the Power Hammer.
 - Tested Power Hammer on the Red Door Area, before discarding it.
-- I want to enter Terrace one more time, because I only visited it once since I started this save, to check if there are possible secrets in there, like breakable walls.
+- I want to enter Terrace one more time, because I only visited it once since I started this save, to check if there are possible secrets in there.
 - I need to call a day inside the Hovel to see what happens, since it is a Bedroom.
 - Added a task to check the effects of all Bedrooms to my todo notes.
 

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"f571620e55619157","type":"file","file":"99. attachments/BLUE_PRINCE_X6Fvns5GQs.png","x":-660,"y":-300,"width":400,"height":225},
+		{"id":"84152e009dc248a8","type":"file","file":"99. attachments/BLUE_PRINCE_KYR3qf7vi0.png","x":-240,"y":-300,"width":400,"height":225},
+		{"id":"d3b827bba30d0215","type":"file","file":"99. attachments/BLUE_PRINCE_ALlTLQcBhL.png","x":-660,"y":-40,"width":400,"height":225},
+		{"id":"37f9c16f2f2c85f5","type":"file","file":"99. attachments/BLUE_PRINCE_ncIUOitxiq.png","x":-240,"y":-40,"width":400,"height":225},
+		{"id":"c1874a7f3cae5683","type":"file","file":"99. attachments/BLUE_PRINCE_NINJzPrV5s.png","x":-660,"y":220,"width":400,"height":225},
+		{
+			"id":"d9b8de02af436a22",
+			"type":"text",
+			"text":"This room seems to receive a letter every time you draft, it's possible many more of those mail slots can be filled.",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-520,
+			"width":660,
+			"height":80
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,5 +1,16 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"2a16e007d63463dc",
+			"type":"text",
+			"text":"[[Bedrooms Rooms - Sleep Effects.canvas|Bedrooms Rooms - Sleep Effects]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-400,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

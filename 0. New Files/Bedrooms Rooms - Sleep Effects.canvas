@@ -1,5 +1,26 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"33f1a37fad975433",
+			"type":"text",
+			"text":"[[The Ladyship Chamber.canvas|The Ladyship Chamber]] - Minus 10 steps on next day, +1 star.\n[[Bunk Room.canvas|Bunk Room]] - The next morning, there was a flower on the family grave of someone in the [[Tomb.canvas|Tomb]].\n[[Servant's Quarters.canvas|Servant's Quarters]] - Lost half steps on the next day, +1 dice.\n[[Master Bedroom.canvas|Master Bedroom]] - More steps on the next day.\n[[Hovel.canvas|Hovel]] - No effects.\n[[Guest Bedroom.canvas|Guest Bedroom]] - No effects\n[[Boudoir.canvas|Boudoir]] - ?\n[[Bedroom.canvas|Bedroom]] - ?\n[[Nursery.canvas|Nursery]] - ?\n[[044 - Aquarium.canvas|044 - Aquarium]] - No effects.\n[[Maid's Chamber.canvas|Maid's Chamber]] - ?\n[[Dormitory.canvas|Dormitory]] - ?\n\n",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-320,
+			"width":580,
+			"height":520
+		},
+		{
+			"id":"5882ecc7da82a60f",
+			"type":"text",
+			"text":"[[Lady Epsen Diary.canvas|Lady Epsen Diary]]",
+			"styleAttributes":{},
+			"x":20,
+			"y":-320,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

@@ -1,0 +1,50 @@
+{
+	"nodes":[
+		{"id":"093fa0a5ec3ae6ee","type":"file","file":"99. attachments/BLUE_PRINCE_TmLKgoMiLj 1.png","x":-600,"y":-240,"width":400,"height":225},
+		{"id":"8131e7f466940af3","type":"file","file":"99. attachments/BLUE_PRINCE_NNazedWqKB.png","x":-160,"y":-240,"width":400,"height":225},
+		{
+			"id":"2374ae42aa360550",
+			"type":"text",
+			"text":"Stealing from [[Shrine.canvas|Shrine]]",
+			"styleAttributes":{},
+			"x":-90,
+			"y":40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"bf81ca097825a6a3",
+			"type":"text",
+			"text":"Picking the [[Cursed Effigy.canvas|Cursed Effigy]]",
+			"styleAttributes":{},
+			"x":-530,
+			"y":40,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"f3afc9143edddeef",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2374ae42aa360550",
+			"fromSide":"top",
+			"toNode":"8131e7f466940af3",
+			"toSide":"bottom"
+		},
+		{
+			"id":"a244776ac76bead6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bf81ca097825a6a3",
+			"fromSide":"top",
+			"toNode":"093fa0a5ec3ae6ee",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
