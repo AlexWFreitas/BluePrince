@@ -1,3 +1,17 @@
+Day 57
+- Drafted a Conservatory
+	- Increased rarity of all rooms that were "solved"
+		- Casino, Drafting Studio, Rumpus Room, Library, Pump Room, Tunnel, Mechanarium had their rarities resetted (increased)
+		- Chapel had the rarity reset to common (Because money is not a problem anymore)
+		- Pool Hall unchanged
+		- Gymnasium to Standard (unchanged) I think
+		- Vestibule to Rare
+- I think I need to make the rooms that contains antechamber levers more common so I can reach the room 46 more easily.
+- I drafted Dovecote again and it had nothing new, I was able to dig the spots and find nothing though.
+- I think I found a possible progression step, the Boiler Room has one unreachable button that can't be powered up and reached without exiting the room, it's possible that I need to draft the Boiler Room, open the door that is in the unreachable area from outside or from inside and then set up the gas pipes so that the button is powered up.
+- I tried a random amount of things to get the missing vault key, like going to the locksmith, drafting attic, drafting trading post and replacing all items, no luck yet.
+- Called a day in the Nursery to continue collecting information about sleep bonuses.
+
 Day 56
 - Not cursed anymore.
 - I wanted to test the bedrooms and draft new rooms.

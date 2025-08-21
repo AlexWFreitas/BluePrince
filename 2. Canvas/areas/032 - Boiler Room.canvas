@@ -22,9 +22,30 @@
 			"y":540,
 			"width":260,
 			"height":60
+		},
+		{"id":"a28b92bb77261ef5","type":"file","file":"99. attachments/BLUE_PRINCE_sjF788ca6o.png","x":-1400,"y":280,"width":400,"height":225},
+		{
+			"id":"9f9cb4174d62063d",
+			"type":"text",
+			"text":"[[Boiler Room Strange Setup.canvas|Boiler Room Strange Setup]]",
+			"styleAttributes":{},
+			"x":-1330,
+			"y":540,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"4dab3cd5859a34a6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9f9cb4174d62063d",
+			"fromSide":"top",
+			"toNode":"a28b92bb77261ef5",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
