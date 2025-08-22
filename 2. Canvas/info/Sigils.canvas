@@ -145,12 +145,13 @@
 		{
 			"id":"df2911c3f06e1ce2",
 			"type":"text",
-			"text":"# Erajan Sigil\n\n**Rainy**\nTrain\nPoetic\n**Purple**",
+			"text":"# Erajan Sigil\n\n**Rainy**\n**Train**\n**Poetic**\n**Purple**",
 			"styleAttributes":{},
 			"x":0,
 			"y":-1480,
 			"width":680,
-			"height":300
+			"height":300,
+			"color":"4"
 		},
 		{"id":"360c7a5396ca3056","type":"file","file":"99. attachments/Obsidian_oSt43fI1sz.png","x":740,"y":-1480,"width":399,"height":209},
 		{"id":"73f421b54d3f5e2a","type":"file","file":"99. attachments/BLUE_PRINCE_dodoxVpnWm.png","x":1640,"y":-1447,"width":400,"height":352},

@@ -219,7 +219,87 @@
 		{"id":"2cd5de50ae5c6bca","type":"file","file":"99. attachments/BLUE_PRINCE_U1HpQ3iok2.png","x":-1815,"y":5245,"width":400,"height":195,"color":"4"},
 		{"id":"1448e7281800f1a2","type":"file","file":"99. attachments/BLUE_PRINCE_J2Eb6ilmIe.png","x":-1381,"y":5235,"width":281,"height":205,"color":"1"},
 		{"id":"44e625b43c7f198b","type":"file","file":"99. attachments/BLUE_PRINCE_LzzscPgCL7.png","x":-1060,"y":5269,"width":400,"height":171,"color":"4"},
-		{"id":"e8de83689f742f26","type":"file","file":"99. attachments/BLUE_PRINCE_PJN2iOtKo2.png","x":-600,"y":5269,"width":400,"height":296}
+		{"id":"e8de83689f742f26","type":"file","file":"99. attachments/BLUE_PRINCE_PJN2iOtKo2.png","x":-600,"y":5269,"width":400,"height":296},
+		{
+			"id":"2c1b6cd15787a8a9",
+			"type":"text",
+			"text":"Blue",
+			"styleAttributes":{},
+			"x":-6740,
+			"y":3560,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"463443fb59d4fa4d",
+			"type":"text",
+			"text":"Black",
+			"styleAttributes":{},
+			"x":-6740,
+			"y":3720,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a3d6dd920908792d",
+			"type":"text",
+			"text":"White",
+			"styleAttributes":{},
+			"x":-6740,
+			"y":3640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"04f031205ceede8e",
+			"type":"text",
+			"text":"T T T F F F",
+			"styleAttributes":{},
+			"x":-6460,
+			"y":3560,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e743622d3efc816c",
+			"type":"text",
+			"text":"T F F T T F",
+			"styleAttributes":{},
+			"x":-6460,
+			"y":3640,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3b95e30a45cd4150",
+			"type":"text",
+			"text":"F T F T F T",
+			"styleAttributes":{},
+			"x":-6460,
+			"y":3720,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c59c5e50215786d3",
+			"type":"text",
+			"text":"Possible?",
+			"styleAttributes":{},
+			"x":-6740,
+			"y":3800,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5f7e4663be132be0",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-6460,
+			"y":3800,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[],
 	"metadata":{

@@ -1,4 +1,38 @@
 
+Day 62
+- Drafted a Schoolhouse, got Magnifying Glass, drafted the whole 9 classrooms.
+	- Took notes of all the maps from the Geography Lesson, it seems there is potential for a certain order of realms.
+- I found a red memo on Treasure Trove saying a lie about the True Treasure not being in the Treasure Trove, I think the theory about the Treasure Map holds big potential.
+- I crafted a Metal Detector and stored it in the Coat Check, since that item is specialized to get keys and gold, maybe I can find the Vault Key more easily with it.
+- I used the Crown of Blueprints the entire run and removed more than 6 red rooms, I think this is not the way guys.
+	- The classroom traveling thing kinda hurts my gem control though, I will try again in another run.
+- For the next run, my objective is reaching Room 46 and trying theories with the Geography Map, I will try to get a Treasure Map for the Treasure Trove and 
+
+Day 61
+- Drafted a Conservatory and improved the chance of drafting a Showroom.
+- Visited the Bookshop and found nothing new to buy.
+- Drafted a Mail room and read all letters
+	- The letters were interesting, but there was no information that I didn't already know.
+	- There was one helpful hint about the passwords on the locks, but with the info I have it doesn't change much.
+	- There was also a hint about the last safe location, but I already suspected something like that.
+- **Got the Crown of Blueprints again, I will store it in the Coat Check for the next run.**
+	- The idea is to remove all red rooms from the draft pool, I think 8 is the sweet spot?
+- **Among the new ideas I have, I want to try using a Treasure Map and pointing to the Treasure Trove, it feels like there might be a reward in there.**
+- I used the Magnifying Glass on Drafting Strategy Vol 5 to get the fine print for the contest.
+- I still haven't had much luck with finding the Vault Key for the Vault Inner Sanctum Key.
+- I noticed that Room 46 has two broken clocks at 1:30 this is probably the password for the Safe on Room 46.
+- Ended the run at a Planetarium to reach 90 stars.
+
+Day 60
+- Tried running around with the Blueprint Crown to see if I can trigger something.
+	- Still not sure I tried all options, I feel that I need to do a run removing all red rooms at least 8 times.
+- Allowance was increased by 6 on this run due to Quest Bedroom and Laboratory
+- I want to try a few things
+	- Visting the Bookshop again to see if there is anything else.
+	- I want to do a run with the Blueprint Crown and remove all red rooms.
+- I tried things like setting the Secret Garden visible option to Moon or Orindia Core then trying to go to Room 46 and the Inner Sanctum - Orindia Sigil Room and also the Orindia "window" at the top of the Rotating Bridge through the Red Door Area.
+- Another thing I will try on this run is Calling a Day inside the Safehouse with the Blueprint Crown, Moon Pendant and other items from Showroom.
+- Lastly, it has been like 6-8 days without a major progress found, I can't seem to find the Vault Key for the seventh Inner Sanctum Key and I am missing something else, I think I will start opening the letters in the mail room until I find something that allows me to progress.
 
 Day 59
 - Drafted a Pump Room and drained the pool again and filled the Fountain since I can reach the Abandoned Mine through Precipice.

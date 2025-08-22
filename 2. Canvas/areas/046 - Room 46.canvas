@@ -24,6 +24,27 @@
 			"y":940,
 			"width":260,
 			"height":60
+		},
+		{"id":"17572dce9de3fe79","type":"file","file":"99. attachments/BLUE_PRINCE_cbt5QU0EJQ.png","x":-640,"y":660,"width":960,"height":540},
+		{
+			"id":"fccbe120f6806933",
+			"type":"text",
+			"text":"# Broken Clocks",
+			"styleAttributes":{},
+			"x":-350,
+			"y":1300,
+			"width":380,
+			"height":100
+		},
+		{
+			"id":"4f668b2e61f8de70",
+			"type":"text",
+			"text":"This is probably the password to the safe inside Room 46",
+			"styleAttributes":{},
+			"x":-290,
+			"y":1480,
+			"width":260,
+			"height":120
 		}
 	],
 	"edges":[
@@ -34,6 +55,24 @@
 			"fromNode":"adb1943e6cb11259",
 			"fromSide":"top",
 			"toNode":"41f1451095a2517b",
+			"toSide":"bottom"
+		},
+		{
+			"id":"2186220cdb7b5c82",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fccbe120f6806933",
+			"fromSide":"top",
+			"toNode":"17572dce9de3fe79",
+			"toSide":"bottom"
+		},
+		{
+			"id":"1f58868c9a96df71",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4f668b2e61f8de70",
+			"fromSide":"top",
+			"toNode":"fccbe120f6806933",
 			"toSide":"bottom"
 		}
 	],

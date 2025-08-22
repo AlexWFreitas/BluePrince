@@ -13,7 +13,98 @@
 			"width":580,
 			"height":340
 		},
-		{"id":"8cfec8578ff22aad","type":"file","file":"99. attachments/BLUE_PRINCE_EKS5Se1Xtf 1.jpg","x":-1280,"y":-485,"width":400,"height":225}
+		{"id":"8cfec8578ff22aad","type":"file","file":"99. attachments/BLUE_PRINCE_EKS5Se1Xtf 1.jpg","x":-1280,"y":-485,"width":400,"height":225},
+		{
+			"id":"88e5bc1ccb2d0427",
+			"type":"text",
+			"text":"[[Bedroom.canvas|Bedroom]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-865,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"516d40ef9c30d751",
+			"type":"text",
+			"text":"[[Boudoir.canvas|Boudoir]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-785,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0e7a824ead5a3d30",
+			"type":"text",
+			"text":"[[004 - Rotunda.canvas|004 - Rotunda]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-705,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"566e25cebefd96b4",
+			"type":"text",
+			"text":"[[Vestibule.canvas|Vestibule]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-625,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d4d8e9e25a96dff5",
+			"type":"text",
+			"text":"[[Treasure Trove.canvas|Treasure Trove]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-545,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"50373946c413be97",
+			"type":"text",
+			"text":"[[005 - Parlor.canvas|005 - Parlor]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-465,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0116375d70111084",
+			"type":"text",
+			"text":"[[Secret Passage.canvas|Secret Passage]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-385,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"27c27b9cd685e22b",
+			"type":"text",
+			"text":"[[Secret Garden.canvas|Secret Garden]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-305,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b29505e398e95a4b",
+			"type":"text",
+			"text":"# Special Treasure Maps",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-960,
+			"width":520,
+			"height":60
+		}
 	],
 	"edges":[],
 	"metadata":{

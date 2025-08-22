@@ -1,8 +1,5 @@
 {
 	"nodes":[
-		{"id":"a3295c2f192614f7","type":"file","file":"99. attachments/BLUE_PRINCE_rZM4ePyOFr.png","x":140,"y":20,"width":400,"height":225},
-		{"id":"050503dae5fbc11e","type":"file","file":"99. attachments/BLUE_PRINCE_d0tf4Jwg0q.png","x":-360,"y":20,"width":400,"height":225},
-		{"id":"cbc54547045268b4","type":"file","file":"99. attachments/BLUE_PRINCE_b517NIfLWM.png","x":40,"y":-285,"width":400,"height":225},
 		{
 			"id":"7ae4fe5b9b2d825c",
 			"type":"text",
@@ -12,17 +9,6 @@
 			"y":-440,
 			"width":360,
 			"height":340
-		},
-		{"id":"d98e29a2200f5eb9","type":"file","file":"99. attachments/BLUE_PRINCE_3nkjqOuOdj 1.png","x":-820,"y":20,"width":400,"height":225},
-		{
-			"id":"a0d3a8b91caf67e9",
-			"type":"text",
-			"text":"Lorja = Goodbye\nYenna, Hello Water\nGoodbye Yenna, Hello Water?\n\nThe eastern reign\n",
-			"styleAttributes":{},
-			"x":-1220,
-			"y":455,
-			"width":320,
-			"height":160
 		},
 		{
 			"id":"22ac67e1f57bef8a",
@@ -34,9 +20,36 @@
 			"width":740,
 			"height":535
 		},
-		{"id":"610b6fca70ecc945","type":"file","file":"99. attachments/BLUE_PRINCE_1gGn7wAZZ5.png","x":-1960,"y":0,"width":400,"height":225},
 		{"id":"06e89a06c416bd2d","type":"file","file":"99. attachments/BLUE_PRINCE_F79jjAlL9k 1.png","x":-1960,"y":280,"width":400,"height":225},
-		{"id":"07be2c68e2e40315","type":"file","file":"99. attachments/BLUE_PRINCE_RC8dMAwUoJ.png","x":-1959,"y":538,"width":399,"height":155}
+		{"id":"07be2c68e2e40315","type":"file","file":"99. attachments/BLUE_PRINCE_RC8dMAwUoJ.png","x":-1959,"y":538,"width":399,"height":155},
+		{"id":"610b6fca70ecc945","type":"file","file":"99. attachments/BLUE_PRINCE_1gGn7wAZZ5.png","x":-2440,"y":-212,"width":400,"height":225},
+		{"id":"e47f1f0f6876adeb","type":"file","file":"99. attachments/BLUE_PRINCE_StM0zTpEKt.png","x":-2440,"y":65,"width":400,"height":360},
+		{"id":"d8543a61d829847e","type":"file","file":"99. attachments/BLUE_PRINCE_2HXbuKyNlM.png","x":-2880,"y":-212,"width":390,"height":400},
+		{"id":"e59e06caff4b1d79","type":"file","file":"99. attachments/BLUE_PRINCE_bsBNETAEW3.png","x":-2885,"y":245,"width":400,"height":361},
+		{"id":"a3295c2f192614f7","type":"file","file":"99. attachments/BLUE_PRINCE_rZM4ePyOFr.png","x":-460,"y":581,"width":400,"height":225},
+		{"id":"546403c842268dd9","type":"file","file":"99. attachments/BLUE_PRINCE_1adTrhTCsH.png","x":-460,"y":880,"width":400,"height":351},
+		{"id":"e20f0c7a3f98ce1a","type":"file","file":"99. attachments/BLUE_PRINCE_u4MGr3Rwz5.png","x":0,"y":831,"width":385,"height":400},
+		{"id":"d98e29a2200f5eb9","type":"file","file":"99. attachments/BLUE_PRINCE_3nkjqOuOdj 1.png","x":-1500,"y":880,"width":400,"height":225},
+		{"id":"050503dae5fbc11e","type":"file","file":"99. attachments/BLUE_PRINCE_d0tf4Jwg0q.png","x":360,"y":40,"width":400,"height":225},
+		{"id":"76151bbec25056bc","type":"file","file":"99. attachments/BLUE_PRINCE_0espKr82dc.png","x":360,"y":300,"width":400,"height":350},
+		{"id":"c6740491d17281b8","type":"file","file":"99. attachments/BLUE_PRINCE_yNeHO1Efxr.png","x":780,"y":40,"width":400,"height":384},
+		{
+			"id":"a0d3a8b91caf67e9",
+			"type":"text",
+			"text":"Lorja = Goodbye\nYenna, Hello Water\nGoodbye Yenna, Hello Water?\n\nThe eastern reign\n",
+			"styleAttributes":{},
+			"x":-1959,
+			"y":65,
+			"width":320,
+			"height":160
+		},
+		{"id":"9de334f28c2ee28d","type":"file","file":"99. attachments/BLUE_PRINCE_VlW1AUXV7S.png","x":-1540,"y":105,"width":389,"height":400},
+		{"id":"affd73feaa2b14dd","type":"file","file":"99. attachments/BLUE_PRINCE_RxjFSOiOw0.png","x":-1120,"y":105,"width":356,"height":400},
+		{"id":"cbc54547045268b4","type":"file","file":"99. attachments/BLUE_PRINCE_b517NIfLWM.png","x":80,"y":-720,"width":400,"height":225},
+		{"id":"0967d4649cde1458","type":"file","file":"99. attachments/BLUE_PRINCE_SsiCoYbcuv.png","x":500,"y":-720,"width":400,"height":364},
+		{"id":"9b7dc206ed22817e","type":"file","file":"99. attachments/BLUE_PRINCE_s3ehX4XyM9.png","x":920,"y":-720,"width":376,"height":400},
+		{"id":"c9e0bf940cab4f13","type":"file","file":"99. attachments/BLUE_PRINCE_ZkpEHK9tSl.png","x":-1500,"y":1125,"width":400,"height":212},
+		{"id":"6d087305c93ef9fd","type":"file","file":"99. attachments/BLUE_PRINCE_gk4LuS0Lh9.png","x":-1080,"y":880,"width":400,"height":387}
 	],
 	"edges":[],
 	"metadata":{

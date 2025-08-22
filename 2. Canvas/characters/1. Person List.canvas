@@ -42,7 +42,8 @@
 			"y":-140,
 			"width":260,
 			"height":60
-		}
+		},
+		{"id":"5c4da99192761e70","type":"file","file":"99. attachments/BLUE_PRINCE_xuaTfNIgYL 1.png","x":-2404,"y":-584,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"59fde0bb79bee342","toFloating":false,"fromFloating":false,"fromNode":"b236690897e593a8","fromSide":"top","toNode":"9eb201508a8e4099","toSide":"bottom","label":"Niece"},

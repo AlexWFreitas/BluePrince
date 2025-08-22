@@ -19,7 +19,7 @@
 			"y":-300,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"4a0b0959c3f642f7",
@@ -129,7 +129,7 @@
 			"y":160,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"d623576c75ac414a",
@@ -140,7 +140,7 @@
 			"y":239,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"c7225486b678aa3c",
@@ -174,6 +174,27 @@
 			"width":260,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"6d60941dcb643067",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":560,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"3889c187a997104b",
+			"type":"text",
+			"text":"Geography maps are a must",
+			"styleAttributes":{},
+			"x":840,
+			"y":560,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -185,6 +206,15 @@
 			"fromNode":"d623576c75ac414a",
 			"fromSide":"right",
 			"toNode":"1a5b9e04408abac2",
+			"toSide":"left"
+		},
+		{
+			"id":"bc37610622ca46f1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6d60941dcb643067",
+			"fromSide":"right",
+			"toNode":"3889c187a997104b",
 			"toSide":"left"
 		}
 	],

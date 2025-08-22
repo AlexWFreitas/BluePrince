@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"2177dff4a428591a",
+			"type":"text",
+			"text":"No new books",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-420,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

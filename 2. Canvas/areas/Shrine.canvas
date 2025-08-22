@@ -3,7 +3,7 @@
 		{
 			"id":"853f64fc5b69e520",
 			"type":"text",
-			"text":"# Info\n\nAn outer room that allows you to donate gold to receive random shrine blessings for a few days.\n\nIt's possible that giving more gold or an exact amount of gold will trigger a certain specific blessing.\n\nMore gold = more duration on blessings.",
+			"text":"# Info\n\nAn outer room that allows you to donate gold to receive random shrine blessings for a few days.\n\nIt's possible that giving more gold or an exact amount of gold will trigger a certain specific blessing.\n\nMore gold = more duration on blessings.\nLimit of gold invested is 80.",
 			"styleAttributes":{},
 			"x":-500,
 			"y":-320,
