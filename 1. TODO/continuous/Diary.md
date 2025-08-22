@@ -1,4 +1,22 @@
 
+Day 63
+- Conservatory
+	- Drawing Room to Common
+	- Passageway to Unusual
+	- Quest Bedroom to Common
+- Used the Detector Shovel but only got keys, no vault keys...
+- No treasure maps on this run
+- I was able to reach Room 46 and test the Geography Maps, but the ordered number doesn't match with the map of countries in a circle...
+- Parlor is becoming a shitty room with multiple statements
+- Billiard Room started showing divide by 3 symbols.
+- Ended the run at the Planetarium for 2 stars
+- Got around 6 allowance this run.
+- I will probably start using The Axe to cut the costs for the following rooms:
+	- Trophy Room
+	- Attic
+	- Passageway
+- Actually I will wait until I have the 110 rooms list.
+
 Day 62
 - Drafted a Schoolhouse, got Magnifying Glass, drafted the whole 9 classrooms.
 	- Took notes of all the maps from the Geography Lesson, it seems there is potential for a certain order of realms.

@@ -1,16 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"7ae4fe5b9b2d825c",
-			"type":"text",
-			"text":"Predicted Order\n\n1. Orinda Aries\n2. Eraja\n3. Nuance\n4. Venn Shores\n5. Corarica\n6. Mora Jai\n7. Arch Aries\n8. Fenn Aries\n\n**This was incorrect**\n\nProbably Arch Aries came before Fenn Aries\nProbably Mora Jai came before Arch Aries\nProbably Nuance came after Eraja\nProbably Eraja came after Orindia Aries",
-			"styleAttributes":{},
-			"x":-1280,
-			"y":-440,
-			"width":360,
-			"height":340
-		},
-		{
 			"id":"22ac67e1f57bef8a",
 			"type":"text",
 			"text":"1. Orinda Aries / Black Bridge\n2. a\n3. a\n4. a\n5. a\n6. a\n7. a\n8. Fenn Aries\n\nVenn Shores comes before Corarica\nArch Aries comes after Mora Jai\nMaybe Nuance comes before Fenn Aries\nMora Jai comes after Eraja\n\nOrinda Aries is First\nEraja - > Mora Jai or Verra Shore\nSailing (Either Eraja or Mora Jai) -> Arch Aries\nVerra Shores -> Corarica\nFenn Aries is last\n\nIts possible that Nuance is after Corarica and Venn Shores\n\n\n",
@@ -49,7 +39,8 @@
 		{"id":"0967d4649cde1458","type":"file","file":"99. attachments/BLUE_PRINCE_SsiCoYbcuv.png","x":500,"y":-720,"width":400,"height":364},
 		{"id":"9b7dc206ed22817e","type":"file","file":"99. attachments/BLUE_PRINCE_s3ehX4XyM9.png","x":920,"y":-720,"width":376,"height":400},
 		{"id":"c9e0bf940cab4f13","type":"file","file":"99. attachments/BLUE_PRINCE_ZkpEHK9tSl.png","x":-1500,"y":1125,"width":400,"height":212},
-		{"id":"6d087305c93ef9fd","type":"file","file":"99. attachments/BLUE_PRINCE_gk4LuS0Lh9.png","x":-1080,"y":880,"width":400,"height":387}
+		{"id":"6d087305c93ef9fd","type":"file","file":"99. attachments/BLUE_PRINCE_gk4LuS0Lh9.png","x":-1080,"y":880,"width":400,"height":387},
+		{"id":"ebffd2080bbb6707","type":"file","file":"99. attachments/BLUE_PRINCE_iprryH7hiv.png","x":-3744,"y":-1620,"width":859,"height":900}
 	],
 	"edges":[],
 	"metadata":{

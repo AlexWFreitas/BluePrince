@@ -30,9 +30,30 @@
 			"y":-195,
 			"width":360,
 			"height":140
+		},
+		{"id":"a7c6abdb0d279051","type":"file","file":"99. attachments/BLUE_PRINCE_n93MDTDN0W.png","x":400,"y":-167,"width":400,"height":225},
+		{
+			"id":"3c74a3d405ef2955",
+			"type":"text",
+			"text":"Divide by 3",
+			"styleAttributes":{},
+			"x":470,
+			"y":100,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"0ae98efe3cad7edd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3c74a3d405ef2955",
+			"fromSide":"top",
+			"toNode":"a7c6abdb0d279051",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

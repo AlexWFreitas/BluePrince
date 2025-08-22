@@ -299,6 +299,16 @@
 			"y":3800,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"c079c67bb3b56166",
+			"type":"text",
+			"text":"S1 - T\nS2 - T\nS3 - T\nS4 - F\nS5 - F\nS6 - F",
+			"styleAttributes":{},
+			"x":-6620,
+			"y":3200,
+			"width":600,
+			"height":280
 		}
 	],
 	"edges":[],

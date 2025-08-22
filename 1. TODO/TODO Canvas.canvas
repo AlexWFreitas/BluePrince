@@ -887,17 +887,6 @@
 			"color":"3"
 		},
 		{
-			"id":"0650efa24ea0d6c5",
-			"type":"text",
-			"text":"[[Revisit Geography Class - Erajan Words and Map Details.canvas|Revisit Geography Class - Erajan Words and Map Details]]",
-			"styleAttributes":{},
-			"x":220,
-			"y":320,
-			"width":260,
-			"height":110,
-			"color":"4"
-		},
-		{
 			"id":"398f7cb3b4b8d055",
 			"type":"text",
 			"text":"[[Shelter Radiation Puzzle.canvas|Shelter Radiation Puzzle]]",
@@ -940,17 +929,6 @@
 			"width":260,
 			"height":60,
 			"color":"3"
-		},
-		{
-			"id":"327fe16adb3f7eb5",
-			"type":"text",
-			"text":"[[Magnifying Glass.canvas|Magnifying Glass]] Puzzles",
-			"styleAttributes":{},
-			"x":782,
-			"y":240,
-			"width":260,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"39408cf8af48f12c",
@@ -1649,7 +1627,7 @@
 			"y":1520,
 			"width":260,
 			"height":90,
-			"color":"3"
+			"color":"1"
 		},
 		{
 			"id":"182ee1c177b33953",
@@ -1674,23 +1652,12 @@
 			"color":"3"
 		},
 		{
-			"id":"68ecbe4a5ec84ef8",
-			"type":"text",
-			"text":"[[Use Blueprint Crown to remove all Red Rooms in a Run.canvas|Use Blueprint Crown to remove all Red Rooms in a Run]]",
-			"styleAttributes":{},
-			"x":220,
-			"y":450,
-			"width":260,
-			"height":110,
-			"color":"3"
-		},
-		{
 			"id":"740b1e74a26abcfe",
 			"type":"text",
 			"text":"[[Draft a Treasure Trove at the target of the Treasure Map.canvas|Draft a Treasure Trove at the target of the Treasure Map]]",
 			"styleAttributes":{},
-			"x":500,
-			"y":480,
+			"x":220,
+			"y":320,
 			"width":260,
 			"height":100,
 			"color":"3"

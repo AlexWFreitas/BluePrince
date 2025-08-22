@@ -18,7 +18,7 @@
 			"x":-1160,
 			"y":80,
 			"width":1000,
-			"height":640
+			"height":90
 		},
 		{"id":"82669bcf67fd3769","type":"file","file":"99. attachments/BLUE_PRINCE_8lMrGpKsWg.png","x":-2000,"y":-189,"width":400,"height":269},
 		{
@@ -53,7 +53,7 @@
 			"width":60,
 			"height":60
 		},
-		{"id":"22a82128349e4d84","type":"file","file":"99. attachments/BLUE_PRINCE_ceHNJzTRMt.png","x":-2130,"y":140,"width":400,"height":137},
+		{"id":"22a82128349e4d84","type":"file","file":"99. attachments/BLUE_PRINCE_ceHNJzTRMt.png","x":-2130,"y":140,"width":399,"height":137},
 		{
 			"id":"5f134c3b1913ec49",
 			"type":"text",
@@ -63,6 +63,27 @@
 			"y":140,
 			"width":60,
 			"height":60
+		},
+		{
+			"id":"d2d096530e590ace",
+			"type":"text",
+			"text":"# 96",
+			"styleAttributes":{},
+			"x":-1160,
+			"y":209,
+			"width":260,
+			"height":60
+		},
+		{"id":"51113486922ac7d6","type":"file","file":"99. attachments/BLUE_PRINCE_OIWuGQN3xE.png","x":-1160,"y":320,"width":996,"height":560},
+		{
+			"id":"b8407255a53d6c91",
+			"type":"text",
+			"text":"[[The Fixed Stars the Stargazer's Companion to Constellations.canvas|The Fixed Stars the Stargazer's Companion to Constellations]]",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-280,
+			"width":380,
+			"height":91
 		}
 	],
 	"edges":[],
