@@ -84,6 +84,17 @@
 			"y":-280,
 			"width":380,
 			"height":91
+		},
+		{"id":"dbcc1604bbaf9ab6","type":"file","file":"99. attachments/BLUE_PRINCE_MGVSk2x6YB.png","x":-1160,"y":1200,"width":996,"height":560},
+		{
+			"id":"d9bfa670134ea01b",
+			"type":"text",
+			"text":"# 99",
+			"styleAttributes":{},
+			"x":-1160,
+			"y":1080,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[],

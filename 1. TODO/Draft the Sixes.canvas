@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"4888c6e555e28b75",
+			"type":"text",
+			"text":"[[Rooms Found.canvas|Rooms Found]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e69efd2297dfb7dd",
+			"type":"text",
+			"text":"[[006 - Billiard Room.canvas|006 - Billiard Room]]\n[[016 - Locker Room.canvas|016 - Locker Room]]\n[[026 - Study.canvas|026 - Study]]\n[[036 - Laboratory.canvas|036 - Laboratory]]\n[[046 - Room 46.canvas|046 - Room 46]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-160,
+			"width":380,
+			"height":160
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

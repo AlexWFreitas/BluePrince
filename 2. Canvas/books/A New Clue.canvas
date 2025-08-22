@@ -23,7 +23,6 @@
 			"height":80
 		},
 		{"id":"1bef650d3cb08196","type":"file","file":"99. attachments/BLUE_PRINCE_CplpWeG1F6.png","x":600,"y":-420,"width":400,"height":225},
-		{"id":"7e892756ad4290d8","type":"file","file":"99. attachments/BLUE_PRINCE_ZxTob4qRpZ.png","x":1020,"y":-420,"width":400,"height":225},
 		{"id":"e958ea8fe9fad089","type":"file","file":"99. attachments/BLUE_PRINCE_QMdogIQHI8.png","x":600,"y":-135,"width":400,"height":225},
 		{"id":"acdad1ddc172fad4","type":"file","file":"99. attachments/BLUE_PRINCE_fCAGKfzF8a.mp4","x":1060,"y":-135,"width":400,"height":347},
 		{"id":"54a39c3c789a95d4","type":"file","file":"99. attachments/Obsidian_JqPg4mWFjx.png","x":600,"y":148,"width":400,"height":237},
@@ -71,7 +70,8 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"ef323e3df9a9414f","type":"file","file":"99. attachments/BLUE_PRINCE_X8c9ECnWhj.png","x":2000,"y":652,"width":1316,"height":928}
+		{"id":"ef323e3df9a9414f","type":"file","file":"99. attachments/BLUE_PRINCE_X8c9ECnWhj.png","x":2000,"y":652,"width":1316,"height":928},
+		{"id":"7e892756ad4290d8","type":"file","file":"99. attachments/BLUE_PRINCE_ZxTob4qRpZ.png","x":1060,"y":-420,"width":400,"height":225}
 	],
 	"edges":[
 		{

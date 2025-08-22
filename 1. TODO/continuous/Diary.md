@@ -1,4 +1,9 @@
 
+Day 64
+- Nothing new, just minor continuous progress on resources.
+- Tested a different setup on the Boiler room and going into the Safehouse and Red Room Area to see if something changed, no luck.
+- I will probably try to get a Dowsing Rod to see if I can get the Vault key by following the Dousing Rod.
+
 Day 63
 - Conservatory
 	- Drawing Room to Common
@@ -15,7 +20,7 @@ Day 63
 	- Trophy Room
 	- Attic
 	- Passageway
-- Actually I will wait until I have the 110 rooms list.
+	- Actually I will wait until I have the 110 rooms list.
 
 Day 62
 - Drafted a Schoolhouse, got Magnifying Glass, drafted the whole 9 classrooms.
