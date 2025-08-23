@@ -52,7 +52,17 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"219785f9c222a19d","type":"file","file":"99. attachments/BLUE_PRINCE_0XYzk5FrLl.png","x":-625,"y":600,"width":505,"height":637}
+		{"id":"219785f9c222a19d","type":"file","file":"99. attachments/BLUE_PRINCE_0XYzk5FrLl.png","x":-625,"y":600,"width":505,"height":637},
+		{
+			"id":"882483f9d5073d1b",
+			"type":"text",
+			"text":"# 80g always seems to gve this blessing?",
+			"styleAttributes":{},
+			"x":-602,
+			"y":1320,
+			"width":460,
+			"height":120
+		}
 	],
 	"edges":[
 		{"id":"ff37e012a5de6307","fromNode":"39cddd169e6a2c42","fromSide":"top","toNode":"3d6480a7ed905827","toSide":"bottom"},
@@ -84,6 +94,15 @@
 			"fromSide":"bottom",
 			"toNode":"6f187003f926153d",
 			"toSide":"top"
+		},
+		{
+			"id":"92826ba9e9fe10a2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"882483f9d5073d1b",
+			"fromSide":"top",
+			"toNode":"219785f9c222a19d",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{

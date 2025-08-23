@@ -3,12 +3,12 @@
 		{
 			"id":"ecd01be7c6cfb65c",
 			"type":"text",
-			"text":"# Finding Room 8 - Theory\n1. Get Room 8 Key from [[007 - Gallery.canvas|007 - Gallery]].\n2. Enter the Antechamber from the West or East\n3. Open the door from the Antechamber to the South with Key 8 item.\n\t1. It's possible that any room on Rank 8 work",
+			"text":"# Finding Room 8 - Theory\n1. Get Room 8 Key from [[007 - Gallery.canvas|007 - Gallery]].\n2. Open the a locked door on Rank 8 with the Room 8 key.",
 			"styleAttributes":{},
 			"x":-620,
 			"y":-320,
 			"width":720,
-			"height":180
+			"height":280
 		},
 		{"id":"8c13d511b51754c9","type":"file","file":"99. attachments/BLUE_PRINCE_hgOg7NyDDN.png","x":-620,"y":-740,"width":720,"height":405},
 		{"id":"e97b6b4af2d8e506","type":"file","file":"99. attachments/BLUE_PRINCE_tVWmT9caJW.png","x":120,"y":-740,"width":400,"height":225},
@@ -72,7 +72,7 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"3a53cbd75c60d357","type":"file","file":"99. attachments/BLUE_PRINCE_YATG6dxHBl.png","x":-1320,"y":-740,"width":662,"height":372},
+		{"id":"3a53cbd75c60d357","type":"file","file":"99. attachments/BLUE_PRINCE_YATG6dxHBl.png","x":-1320,"y":-740,"width":661,"height":372},
 		{
 			"id":"088f8f9a0e0b3901",
 			"type":"text",
@@ -104,7 +104,17 @@
 			"height":60
 		},
 		{"id":"5db8d589472078d3","type":"file","file":"99. attachments/BLUE_PRINCE_itKZIcg15n.png","x":-1320,"y":640,"width":782,"height":440},
-		{"id":"8316cf68739c7dda","type":"file","file":"99. attachments/BLUE_PRINCE_1CXmAGly8f.png","x":-520,"y":640,"width":400,"height":225}
+		{"id":"8316cf68739c7dda","type":"file","file":"99. attachments/BLUE_PRINCE_1CXmAGly8f.png","x":-520,"y":640,"width":400,"height":225},
+		{
+			"id":"cdc99a707976043b",
+			"type":"text",
+			"text":"# Room 8 always gives allowance tokens after the first time",
+			"styleAttributes":{},
+			"x":-1241,
+			"y":-320,
+			"width":601,
+			"height":120
+		}
 	],
 	"edges":[
 		{

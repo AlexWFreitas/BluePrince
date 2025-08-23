@@ -1,4 +1,18 @@
 
+Day 73
+- Bad run, low resources and shit.
+- Discovered that Room 8 always gives an allowance token on clear after the first.
+- I kinda saved this run, I was able to get 2 allowance tokens from Antechamber and Room 8.
+- I was also able to craft a Jack Hammer and store it on the Coat Check.
+- Also was able to Freeze some gold, might be able to get the Blue Tent on the Gift Shop.
+
+Day 72
+- Tried to do a Dead End Trophy Run, but I was only able to get 19 Dead-end Rooms
+	- I feel that I need the Draxus Constellation to increase the chance of drafting dead ends.
+- The run wasn't bad though, I was able to get +4g on allowance and order the Red Prince Book.
+- I noticed that there is a new item in the Gift Shop, I can buy a Blue Tent for 400g because I achieved 8 trophies on my last run.
+- Ordered the Red Prince book in the Library
+
 Day 71
 - Retrieved Key 8 from Coat Check
 - Opened the Door to Rank 8 from the Antechamber by going South and used the Key 8, it revealed a puzzle room, I feel that any room spot in Rank 8 works.
