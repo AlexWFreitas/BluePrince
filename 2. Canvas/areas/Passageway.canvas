@@ -1,5 +1,17 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"26d480205349be6c","type":"file","file":"99. attachments/Pasted image 20250822202637.png","x":-400,"y":-40,"width":400,"height":225},
+		{
+			"id":"2b077248dd6e8837",
+			"type":"text",
+			"text":"Normal Treasure",
+			"styleAttributes":{},
+			"x":-340,
+			"y":200,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

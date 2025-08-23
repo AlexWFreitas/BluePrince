@@ -1,5 +1,17 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"18774babe9289574","type":"file","file":"99. attachments/BLUE_PRINCE_ZgKguwg6Kd.png","x":-420,"y":-260,"width":400,"height":225},
+		{
+			"id":"8b6014983b67ff04",
+			"type":"text",
+			"text":"[[Trading Post.canvas|Trading Post]]",
+			"styleAttributes":{},
+			"x":-340,
+			"y":20,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

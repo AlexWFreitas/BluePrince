@@ -16,7 +16,28 @@
 		},
 		{"id":"a419f0f91ee3a8a4","type":"file","file":"99. attachments/ShareX_nIGe8gRj6U.png","x":-1480,"y":205,"width":400,"height":225},
 		{"id":"40f744cc702fbe5e","type":"file","file":"99. attachments/ShareX_FZn5R4KKjI.png","x":-1040,"y":205,"width":400,"height":225},
-		{"id":"2bac8e02c0f56514","type":"file","file":"99. attachments/BLUE_PRINCE_uF1fhZSs2W.mp4","x":-1040,"y":-160,"width":400,"height":225}
+		{"id":"2bac8e02c0f56514","type":"file","file":"99. attachments/BLUE_PRINCE_uF1fhZSs2W.mp4","x":-1040,"y":-160,"width":400,"height":225},
+		{"id":"d89de3630be9d100","type":"file","file":"99. attachments/BLUE_PRINCE_ZgKguwg6Kd 1.png","x":-1480,"y":500,"width":400,"height":225},
+		{
+			"id":"b5a91c5c6eb3ac99",
+			"type":"text",
+			"text":"[[Upgrade Disk.canvas|Upgrade Disk]]",
+			"styleAttributes":{},
+			"x":-1960,
+			"y":340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8aac6883d5dbe6cf",
+			"type":"text",
+			"text":"# Trade Items\n\nYou can get allowance from the Trading Post with items from [[Showroom.canvas|Showroom]].",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":500,
+			"width":520,
+			"height":160
+		}
 	],
 	"edges":[
 		{
@@ -27,6 +48,26 @@
 			"fromSide":"top",
 			"toNode":"44fc83ae8f952a4a",
 			"toSide":"bottom"
+		},
+		{
+			"id":"327761ea15c6f2b6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d89de3630be9d100",
+			"fromSide":"left",
+			"toNode":"a419f0f91ee3a8a4",
+			"toSide":"left",
+			"label":"Different Disks"
+		},
+		{
+			"id":"78651251bc7c7d52",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a419f0f91ee3a8a4",
+			"fromSide":"left",
+			"toNode":"d89de3630be9d100",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"a02c7b08b189f455","type":"file","file":"99. attachments/BLUE_PRINCE_3WphWFnbL7.png","x":-660,"y":-360,"width":365,"height":400},
+		{
+			"id":"2df56b9e43eca305",
+			"type":"text",
+			"text":"[[Safehouse Station.canvas|Safehouse Station]]",
+			"styleAttributes":{},
+			"x":-960,
+			"y":-60,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

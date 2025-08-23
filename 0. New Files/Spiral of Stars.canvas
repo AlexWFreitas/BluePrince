@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"ee5cd797661f9025","type":"file","file":"99. attachments/BLUE_PRINCE_OQgbhgiyiB.png","x":-680,"y":-460,"width":1001,"height":563},
+		{
+			"id":"ee60a85ae651dad2",
+			"type":"text",
+			"text":"This creates a message that has around 100 words?\n\n- Add a word to Spiral of Stars, then gain one...",
+			"styleAttributes":{},
+			"x":-680,
+			"y":140,
+			"width":660,
+			"height":200
+		},
+		{
+			"id":"65717f0d81bf9478",
+			"type":"text",
+			"text":"### Spiral of Stars is a Constellation that requires 100 stars to be seen",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-600,
+			"width":880,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

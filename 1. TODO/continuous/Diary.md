@@ -1,4 +1,50 @@
 
+Day 67
+- Conservatory
+	- Utility Closet to Common
+	- Tunnel to Rare
+	- Library to Standard
+- Increased Allowance by 7 with Shop Laboratory Experiment
+- Went to the Library and reread A New Clue book with the Magnifying Glass
+	- I noticed that there is some sorte of puzzle involving four books
+		- The Red Prince
+		- Fixed Stars
+		- Realm & Rune
+		- A New Clue
+	- It seems that I have to search for a word inside the book based on a number of pages and word count.
+	- I tried to think about it for a while, but did not have progress.
+- Used a Treasure Map on the Treasure Trove and found a normal chest, this is not the solution.
+- I went with the items I bought from the Showroom to the Trading Post in an attempt to get the Vault Key for the Inner Sanctum Key and I found an Upgrade Disk in exchange for the Master Key.
+- I crafted a Metal Detector from my items to reduce the number of items I have on my inventory.
+- I crafted a Dowsing Rod and stored it in the Coat Check, I will probably use this item on my next few runs to try to get a Vault Key.
+- Ended the run in a Planetarium.
+
+Day 66
+- Conservatory
+	- Casino to Unusual
+	- Maid's Chamber to Rare
+	- Archives to Rare
+- Ended day in Planetarium
+- Used Treasure Map on Passageway and found a normal treasure chest.
+- Stored Treasure Map in Coat Check
+- Ordered the A New Clue book from the Library to check with the Magnifying Glass.
+- The Observatory is writing a message in the Spiral of Stars constellation
+
+Day 65
+- Drafted a Conservatory
+	- There is a room named Closed Exhibit
+	- Changed Closed Exhibit to Common
+	- Planetarium to Unusual
+	- Wine Cellar to Rare
+- Reached 100 stars and then entered the Observatorium
+	- It showed a Spiral Star Sign that reveals a certain message, I think I need to visit this place frequently.
+- Got a Treasure Map and digged it on the Mechanarium
+	- Normal Treasure Box
+- Stored the Treasure Map on the Coat Check
+	- I will try to draft a Treasure Trove with a Treasure Map pointing to it and having a Shovel
+- 
+
+
 Day 64
 - Nothing new, just minor continuous progress on resources.
 - Tested a different setup on the Boiler room and going into the Safehouse and Red Room Area to see if something changed, no luck.

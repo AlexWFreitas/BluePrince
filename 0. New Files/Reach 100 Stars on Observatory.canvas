@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"a448e7d12a641e72","type":"file","file":"99. attachments/BLUE_PRINCE_Yq2IYJs1cY.png","x":-580,"y":-280,"width":400,"height":225},
+		{
+			"id":"6743832d3cc1e9fb",
+			"type":"text",
+			"text":"[[042 - Observatory.canvas|042 - Observatory]]",
+			"styleAttributes":{},
+			"x":-510,
+			"y":0,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"5d87ddbb0df845dc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6743832d3cc1e9fb",
+			"fromSide":"top",
+			"toNode":"a448e7d12a641e72",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -8,17 +8,30 @@
 			"x":-360,
 			"y":-240,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"34a779913e4cb775",
+			"type":"text",
+			"text":"This actually is a reference to [[The Fixed Stars the Stargazer's Companion to Constellations.canvas|The Fixed Stars the Stargazer's Companion to Constellations]] because it has the same letters.",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-380,
+			"width":460,
+			"height":100,
+			"color":"4"
 		},
 		{
 			"id":"e69efd2297dfb7dd",
 			"type":"text",
 			"text":"[[006 - Billiard Room.canvas|006 - Billiard Room]]\n[[016 - Locker Room.canvas|016 - Locker Room]]\n[[026 - Study.canvas|026 - Study]]\n[[036 - Laboratory.canvas|036 - Laboratory]]\n[[046 - Room 46.canvas|046 - Room 46]]",
 			"styleAttributes":{},
-			"x":-360,
-			"y":-160,
+			"x":-420,
+			"y":-140,
 			"width":380,
-			"height":160
+			"height":160,
+			"color":"1"
 		}
 	],
 	"edges":[],

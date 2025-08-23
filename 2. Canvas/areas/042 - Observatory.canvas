@@ -85,14 +85,57 @@
 			"width":380,
 			"height":91
 		},
-		{"id":"dbcc1604bbaf9ab6","type":"file","file":"99. attachments/BLUE_PRINCE_MGVSk2x6YB.png","x":-1160,"y":1200,"width":996,"height":560},
 		{
 			"id":"d9bfa670134ea01b",
 			"type":"text",
 			"text":"# 99",
 			"styleAttributes":{},
-			"x":-1160,
-			"y":1080,
+			"x":-1156,
+			"y":960,
+			"width":260,
+			"height":60
+		},
+		{"id":"dbcc1604bbaf9ab6","type":"file","file":"99. attachments/BLUE_PRINCE_MGVSk2x6YB.png","x":-1156,"y":1080,"width":996,"height":560},
+		{
+			"id":"aefb7c193fd0c718",
+			"type":"text",
+			"text":"# 102",
+			"styleAttributes":{},
+			"x":-1156,
+			"y":1680,
+			"width":260,
+			"height":60
+		},
+		{"id":"928939cc845cea75","type":"file","file":"99. attachments/BLUE_PRINCE_Yq2IYJs1cY 1.png","x":-1164,"y":1800,"width":1000,"height":563},
+		{
+			"id":"ab2549b2c422527c",
+			"type":"text",
+			"text":"# 104",
+			"styleAttributes":{},
+			"x":-100,
+			"y":1680,
+			"width":260,
+			"height":60
+		},
+		{"id":"15b741ae2a8ad38c","type":"file","file":"99. attachments/BLUE_PRINCE_XPTcxQchw0.png","x":-100,"y":1800,"width":1001,"height":563},
+		{"id":"763886fde07ca52f","type":"file","file":"99. attachments/BLUE_PRINCE_OQgbhgiyiB.png","x":960,"y":1800,"width":1001,"height":563},
+		{
+			"id":"7dc21fb66febd738",
+			"type":"text",
+			"text":"# 107",
+			"styleAttributes":{},
+			"x":960,
+			"y":1700,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c811a2c577d680b9",
+			"type":"text",
+			"text":"[[Spiral of Stars.canvas|Spiral of Stars]]",
+			"styleAttributes":{},
+			"x":460,
+			"y":1120,
 			"width":260,
 			"height":60
 		}

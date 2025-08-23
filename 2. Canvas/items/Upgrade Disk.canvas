@@ -35,7 +35,7 @@
 		{
 			"id":"e71bdb11756b1680",
 			"type":"text",
-			"text":"[[Trading Post.canvas|Trading Post]]",
+			"text":"[[Trading Post.canvas|Trading Post]] - Dynamite",
 			"styleAttributes":{},
 			"x":-740,
 			"y":-180,
@@ -94,6 +94,17 @@
 			"styleAttributes":{},
 			"x":-740,
 			"y":240,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"00776eb920ea8c68",
+			"type":"text",
+			"text":"[[Trading Post.canvas|Trading Post]] - Trade Expensive Item",
+			"styleAttributes":{},
+			"x":-740,
+			"y":400,
 			"width":260,
 			"height":60,
 			"color":"3"

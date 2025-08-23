@@ -41,6 +41,39 @@
 			"y":100,
 			"width":260,
 			"height":60
+		},
+		{"id":"a3315602ba1018d1","type":"file","file":"99. attachments/BLUE_PRINCE_RrjZaeDCJH.png","x":840,"y":-188,"width":400,"height":288},
+		{
+			"id":"190a3d777d6cbf0f",
+			"type":"text",
+			"text":"1 Line = Aproximate to int\n1.5 = 2;\n\n2 Lines = Aproximate to Tens\n\n3 Lines = Aproximate to ?",
+			"styleAttributes":{},
+			"x":910,
+			"y":160,
+			"width":260,
+			"height":210
+		},
+		{"id":"19905e33fc8b31fc","type":"file","file":"99. attachments/BLUE_PRINCE_zPIx8nL4az.png","x":1330,"y":-256,"width":400,"height":386},
+		{
+			"id":"61bbf25f15bbc876",
+			"type":"text",
+			"text":"10 * 10 = 100\n100-23 = 77 - approximate to 100 = 100\n100 / 5 = 20",
+			"styleAttributes":{},
+			"x":1330,
+			"y":160,
+			"width":260,
+			"height":180
+		},
+		{"id":"feee70e96b0ce025","type":"file","file":"99. attachments/BLUE_PRINCE_t4QPYcd9pe.png","x":1760,"y":-256,"width":686,"height":386},
+		{
+			"id":"963e0b4e29c283ed",
+			"type":"text",
+			"text":"10 * 16 = 160\n160 approximate to 100 = 200\n200/10 = 20",
+			"styleAttributes":{},
+			"x":1760,
+			"y":160,
+			"width":380,
+			"height":120
 		}
 	],
 	"edges":[
@@ -51,6 +84,15 @@
 			"fromNode":"3c74a3d405ef2955",
 			"fromSide":"top",
 			"toNode":"a7c6abdb0d279051",
+			"toSide":"bottom"
+		},
+		{
+			"id":"0e63bf13fd3b303a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"190a3d777d6cbf0f",
+			"fromSide":"top",
+			"toNode":"a3315602ba1018d1",
 			"toSide":"bottom"
 		}
 	],

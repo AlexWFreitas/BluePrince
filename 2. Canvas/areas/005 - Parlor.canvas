@@ -303,7 +303,7 @@
 		{
 			"id":"c079c67bb3b56166",
 			"type":"text",
-			"text":"S1 - T\nS2 - T\nS3 - T\n\n\n\n\nS4 - F\nS5 - F\nS6 - F",
+			"text":"S1 - \nS2 - \nBlue Box - Absolute Truth or Absolute Lie\n\nS3 - \nS4 - \nWhite Box - F\n\nS5 - \nS6 - \nBlack Box - Absolute Truth or Absolute Lie",
 			"styleAttributes":{},
 			"x":-6620,
 			"y":3200,

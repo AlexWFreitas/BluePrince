@@ -71,7 +71,88 @@
 			"height":60
 		},
 		{"id":"ef323e3df9a9414f","type":"file","file":"99. attachments/BLUE_PRINCE_X8c9ECnWhj.png","x":2000,"y":652,"width":1316,"height":928},
-		{"id":"7e892756ad4290d8","type":"file","file":"99. attachments/BLUE_PRINCE_ZxTob4qRpZ.png","x":1060,"y":-420,"width":400,"height":225}
+		{"id":"7e892756ad4290d8","type":"file","file":"99. attachments/BLUE_PRINCE_ZxTob4qRpZ.png","x":1060,"y":-420,"width":400,"height":225},
+		{"id":"75ccd3c70013ccd4","type":"file","file":"99. attachments/BLUE_PRINCE_DDbMcxt7Us.png","x":-680,"y":-620,"width":400,"height":225},
+		{"id":"95ebcbcd46547ed4","type":"file","file":"99. attachments/BLUE_PRINCE_zAbW0tlM5m.png","x":1480,"y":-195,"width":400,"height":253},
+		{"id":"3e3363a1e1cd845a","type":"file","file":"99. attachments/BLUE_PRINCE_AjyC6b9kiE.png","x":1480,"y":-480,"width":399,"height":241},
+		{"id":"5aaf99fcdfbcb511","type":"file","file":"99. attachments/BLUE_PRINCE_ng0NKNo5fm.png","x":1900,"y":-480,"width":400,"height":253},
+		{"id":"9225bc021f640bf7","type":"file","file":"99. attachments/BLUE_PRINCE_4DRnjB3DKs.png","x":1900,"y":-195,"width":400,"height":230},
+		{"id":"f85b780854ab2c65","type":"file","file":"99. attachments/BLUE_PRINCE_x7HNo3Hld2.png","x":2000,"y":75,"width":400,"height":275},
+		{"id":"7e870a6c444f45cd","type":"file","file":"99. attachments/BLUE_PRINCE_d3PKdtKS19.png","x":2320,"y":-239,"width":399,"height":270},
+		{"id":"8b7face9b9f57dd5","type":"file","file":"99. attachments/BLUE_PRINCE_D5wv19A4A2.png","x":2440,"y":86,"width":400,"height":253},
+		{"id":"47ce4568c4ff5119","type":"file","file":"99. attachments/BLUE_PRINCE_36hE7ZtuNE.png","x":2870,"y":86,"width":399,"height":190},
+		{"id":"1e1258b1a6822f6d","type":"file","file":"99. attachments/BLUE_PRINCE_a69A0AkCgt.png","x":3300,"y":86,"width":347,"height":399},
+		{
+			"id":"b4bd4e8be2ff6878",
+			"type":"text",
+			"text":"TENDER CIPHER = THE RED PRINCE\nUNCLE AWE = A NEW CLUE\nDRAFT THE SIXES = THE FIXED STARS\nLUNAR RENAMED = REALM AND RUNE\n\nASSUME THAT PAGE COUNT STARTS ON TITLE PAGES\n\nMAJOR KEY = MA JOR = Small Word?\n\nKEEP LEFT - Stay on the Left Page\n\nRED PAGE A WORD X = 4th Page - 1st Word = \nGREEN PAGE C WORD A = Page 6 -> 4th Word = \nVIOLET PAGE B WORD Y = Page 5 -> Word 2 = \nBLUE PAGE Z WORD X = Page 3 -> Word 1  = ",
+			"styleAttributes":{},
+			"x":2760,
+			"y":-384,
+			"width":620,
+			"height":404
+		},
+		{"id":"a2e950f207198e71","type":"file","file":"99. attachments/BLUE_PRINCE_NwGKLFRNB7.png","x":4280,"y":652,"width":400,"height":268},
+		{
+			"id":"453bbf23e0163747",
+			"type":"text",
+			"text":"No tome after tome that the Library loaned.\nAnd the books that he had that he already owned.\nWere searched from their **covers** all the **way through**\nIf he found a new clue, he would know what to do.",
+			"styleAttributes":{},
+			"x":3399,
+			"y":-384,
+			"width":496,
+			"height":141
+		},
+		{
+			"id":"7dd2ef752ae6c26f",
+			"type":"text",
+			"text":"# The Red Prince\n\nA Page - X Word\n\n\nCountless\n",
+			"styleAttributes":{},
+			"x":2409,
+			"y":-820,
+			"width":620,
+			"height":340
+		},
+		{
+			"id":"6bc247615803dc23",
+			"type":"text",
+			"text":"# Fixed Stars\n\nThird Page - First Word\n\nPreface The Florearis\nThis Rooms Green\nBook Are Rooms",
+			"styleAttributes":{},
+			"x":3060,
+			"y":-820,
+			"width":560,
+			"height":340
+		},
+		{
+			"id":"22ba5912bfee5073",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":3399,
+			"y":-200,
+			"width":496,
+			"height":220
+		},
+		{
+			"id":"d2d4484d4ab4d76f",
+			"type":"text",
+			"text":"A = 1\nB = 2\nC = 3\nX = 24\nY = 25\nZ = 26",
+			"styleAttributes":{},
+			"x":2320,
+			"y":-460,
+			"width":120,
+			"height":180
+		},
+		{
+			"id":"d6bae8738a5d397d",
+			"type":"text",
+			"text":"X = 1\nY = 2\nZ = 3\nA = 4\nB = 5\nC = 6",
+			"styleAttributes":{},
+			"x":2460,
+			"y":-460,
+			"width":120,
+			"height":180
+		}
 	],
 	"edges":[
 		{

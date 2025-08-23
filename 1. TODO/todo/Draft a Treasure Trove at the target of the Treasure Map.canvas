@@ -1,5 +1,17 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"923b0565195155ee","type":"file","file":"99. attachments/BLUE_PRINCE_NSNHMguHKx.png","x":-460,"y":-280,"width":400,"height":225},
+		{
+			"id":"18b02c466a1d9e4d",
+			"type":"text",
+			"text":"Normal Treasure!",
+			"styleAttributes":{},
+			"x":-390,
+			"y":-20,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

@@ -63,7 +63,8 @@
 			"x":-700,
 			"y":-545,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"1"
 		},
 		{
 			"id":"50373946c413be97",
@@ -104,6 +105,39 @@
 			"y":-960,
 			"width":520,
 			"height":60
+		},
+		{
+			"id":"441372afd8b1089a",
+			"type":"text",
+			"text":"[[Mechanarium.canvas|Mechanarium]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-220,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"421f2b7780b356e9",
+			"type":"text",
+			"text":"[[Passageway.canvas|Passageway]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-137,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"f9cda3588882b1e5",
+			"type":"text",
+			"text":"[[014 - Garage.canvas|014 - Garage]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-55,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[],

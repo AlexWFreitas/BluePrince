@@ -34,9 +34,30 @@
 		{"id":"27902a1d00ae1bec","type":"file","file":"99. attachments/BLUE_PRINCE_mWsqEZH2H5.png","x":-460,"y":-552,"width":400,"height":225},
 		{"id":"fd41d6938079dd03","type":"file","file":"99. attachments/BLUE_PRINCE_oLwVyk6UvJ.png","x":-940,"y":-120,"width":400,"height":225},
 		{"id":"3f349ce91fdcab80","type":"file","file":"99. attachments/BLUE_PRINCE_ZdEK5w1FnM.png","x":-940,"y":140,"width":400,"height":225},
-		{"id":"6c1f9aab26a9c10f","type":"file","file":"99. attachments/BLUE_PRINCE_YVgAqGjaZc.png","x":-1380,"y":-120,"width":400,"height":225}
+		{"id":"6c1f9aab26a9c10f","type":"file","file":"99. attachments/BLUE_PRINCE_YVgAqGjaZc.png","x":-1380,"y":-120,"width":400,"height":225},
+		{"id":"478ab45d285a5996","type":"file","file":"99. attachments/BLUE_PRINCE_uYYjaX55bp.png","x":-280,"y":105,"width":400,"height":225},
+		{
+			"id":"33d56bef0affe0d5",
+			"type":"text",
+			"text":"Normal Treasure",
+			"styleAttributes":{},
+			"x":-210,
+			"y":365,
+			"width":260,
+			"height":60
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"f34d3dce22242cc8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"33d56bef0affe0d5",
+			"fromSide":"top",
+			"toNode":"478ab45d285a5996",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
