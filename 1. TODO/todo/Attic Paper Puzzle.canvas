@@ -1,6 +1,37 @@
 {
-	"nodes":[],
-	"edges":[],
+	"nodes":[
+		{
+			"id":"4037a0c5f7686fbb",
+			"type":"text",
+			"text":"[[034 - Security.canvas|034 - Security]]",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"cc8873effb0baf06",
+			"type":"text",
+			"text":"The papers refers to the letter on the monitor based on the name of the room displayed on the monitor in the Security Room",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-300,
+			"width":380,
+			"height":120
+		}
+	],
+	"edges":[
+		{
+			"id":"2133b5ea275d5e39",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4037a0c5f7686fbb",
+			"fromSide":"top",
+			"toNode":"cc8873effb0baf06",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
