@@ -45,7 +45,25 @@
 			"y":1480,
 			"width":260,
 			"height":120
-		}
+		},
+		{"id":"43df86be6d3fdb66","type":"file","file":"99. attachments/BLUE_PRINCE_EaARpPbxIG.png","x":400,"y":660,"width":1399,"height":787},
+		{
+			"id":"9471ac77762d2a30",
+			"type":"text",
+			"text":"# Solution\n\n1. Orinda Aries\n2. Eraja\n3. Arch Aries\n4. Mora Jai\n5. Verra Shores\n6. Corarica\n7. Nuance\n8. Fenn Aries",
+			"styleAttributes":{},
+			"x":1844,
+			"y":660,
+			"width":680,
+			"height":562
+		},
+		{"id":"7b8df6c6af98c300","type":"file","file":"99. attachments/BLUE_PRINCE_PKxr4rNC4Q.png","x":400,"y":1500,"width":400,"height":225},
+		{"id":"5e3b7667c8902e06","type":"file","file":"99. attachments/BLUE_PRINCE_oxPjf90q7B.png","x":820,"y":1500,"width":400,"height":225},
+		{"id":"3856655b75174165","type":"file","file":"99. attachments/BLUE_PRINCE_YVP0iutKsl.png","x":1240,"y":1500,"width":400,"height":225},
+		{"id":"a0e1fde8197a00b9","type":"file","file":"99. attachments/BLUE_PRINCE_9XuPd6tohU.png","x":400,"y":1760,"width":400,"height":225},
+		{"id":"e6492510e4b9af72","type":"file","file":"99. attachments/BLUE_PRINCE_Hwbn7QgY8L.png","x":820,"y":1760,"width":400,"height":225},
+		{"id":"1bf84a704343f4e1","type":"file","file":"99. attachments/BLUE_PRINCE_nTi5MpJlPS.png","x":400,"y":2120,"width":400,"height":225},
+		{"id":"44c2e398f74dea41","type":"file","file":"99. attachments/BLUE_PRINCE_V9eiMNgjxp.png","x":820,"y":2120,"width":400,"height":225}
 	],
 	"edges":[
 		{

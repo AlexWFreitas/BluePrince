@@ -3,7 +3,7 @@
 		{
 			"id":"22ac67e1f57bef8a",
 			"type":"text",
-			"text":"1. Orinda Aries / Black Bridge\n2. a\n3. a\n4. a\n5. a\n6. a\n7. a\n8. Fenn Aries\n\nVenn Shores comes before Corarica\nArch Aries comes after Mora Jai\nMaybe Nuance comes before Fenn Aries\nMora Jai comes after Eraja\n\nOrinda Aries is First\nEraja - > Mora Jai or Verra Shore\nSailing (Either Eraja or Mora Jai) -> Arch Aries\nVerra Shores -> Corarica\nFenn Aries is last\n\nIts possible that Nuance is after Corarica and Venn Shores\n\n\n",
+			"text":"1. Orinda Aries / Black Bridge\n2. a\n3. a\n4. a\n5. a\n6. a\n7. a\n8. Fenn Aries\n\nOrinda Aries First\nEraja -> Mora Jai\nVerra Shores -> Corarica\nBooks are lost after Corarica\nBooks are still in Mora Jai\nEraja leaves to the sea\n\n\nVenn Shores comes before Corarica\nArch Aries comes after Mora Jai\nMaybe Nuance comes before Fenn Aries\nMora Jai comes after Eraja\n\nOrinda Aries is First\nEraja - > Mora Jai or Verra Shore\nSailing (Either Eraja or Mora Jai) -> Arch Aries\nVerra Shores -> Corarica\nFenn Aries is last\n\nIts possible that Nuance is after Corarica and Venn Shores\n\n\n",
 			"styleAttributes":{},
 			"x":-880,
 			"y":-595,
@@ -40,7 +40,20 @@
 		{"id":"9b7dc206ed22817e","type":"file","file":"99. attachments/BLUE_PRINCE_s3ehX4XyM9.png","x":920,"y":-720,"width":376,"height":400},
 		{"id":"c9e0bf940cab4f13","type":"file","file":"99. attachments/BLUE_PRINCE_ZkpEHK9tSl.png","x":-1500,"y":1125,"width":400,"height":212},
 		{"id":"6d087305c93ef9fd","type":"file","file":"99. attachments/BLUE_PRINCE_gk4LuS0Lh9.png","x":-1080,"y":880,"width":400,"height":387},
-		{"id":"ebffd2080bbb6707","type":"file","file":"99. attachments/BLUE_PRINCE_iprryH7hiv.png","x":-3744,"y":-1620,"width":859,"height":900}
+		{"id":"ebffd2080bbb6707","type":"file","file":"99. attachments/BLUE_PRINCE_iprryH7hiv.png","x":-3744,"y":-1620,"width":859,"height":900},
+		{"id":"7f996294ed916e78","type":"file","file":"99. attachments/BLUE_PRINCE_zf1wQyDwbg.png","x":-2197,"y":1222,"width":393,"height":400},
+		{"id":"1aefdb45e313fb97","type":"file","file":"99. attachments/BLUE_PRINCE_qHrR7NB6C0.png","x":-2940,"y":1222,"width":711,"height":400},
+		{"id":"95cc0b8982d8badb","type":"file","file":"99. attachments/BLUE_PRINCE_EaARpPbxIG.png","x":-2584,"y":-1282,"width":1399,"height":787},
+		{
+			"id":"95852166b927356f",
+			"type":"text",
+			"text":"# Solution\n\n1. Orinda Aries\n2. Eraja\n3. Arch Aries\n4. Mora Jai\n5. Verra Shores\n6. Corarica\n7. Nuance\n8. Fenn Aries",
+			"styleAttributes":{},
+			"x":-1140,
+			"y":-1282,
+			"width":680,
+			"height":562
+		}
 	],
 	"edges":[],
 	"metadata":{

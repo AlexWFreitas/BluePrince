@@ -1,6 +1,28 @@
 {
-	"nodes":[],
-	"edges":[],
+	"nodes":[
+		{"id":"6d1a5a5e2a694348","type":"file","file":"99. attachments/BLUE_PRINCE_gHL7z8JlDh.png","x":-480,"y":-220,"width":400,"height":225},
+		{
+			"id":"f7edc9ead6c71a36",
+			"type":"text",
+			"text":"[[007 - Gallery.canvas|007 - Gallery]]",
+			"styleAttributes":{},
+			"x":-410,
+			"y":60,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"74810df4aaaa4105",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f7edc9ead6c71a36",
+			"fromSide":"top",
+			"toNode":"6d1a5a5e2a694348",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

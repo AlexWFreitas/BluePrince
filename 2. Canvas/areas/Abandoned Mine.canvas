@@ -34,7 +34,18 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"6e2495ac92bc2dcc","type":"file","file":"99. attachments/BLUE_PRINCE_8bDtwEk4D5.png","x":380,"y":-447,"width":400,"height":225}
+		{"id":"5b980e468832c31c","type":"file","file":"99. attachments/BLUE_PRINCE_N4Bb71T58F.png","x":-120,"y":-180,"width":400,"height":291},
+		{
+			"id":"b07eac0f2f81115a",
+			"type":"text",
+			"text":"**The Eighth Angel Points to our Dreams**",
+			"styleAttributes":{},
+			"x":300,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{"id":"6e2495ac92bc2dcc","type":"file","file":"99. attachments/BLUE_PRINCE_8bDtwEk4D5.png","x":460,"y":-447,"width":400,"height":225}
 	],
 	"edges":[
 		{
@@ -53,6 +64,24 @@
 			"fromNode":"ca4a8f225f778ad8",
 			"fromSide":"bottom",
 			"toNode":"331a81d384a1bffa",
+			"toSide":"top"
+		},
+		{
+			"id":"d5432814a043e26f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6e2495ac92bc2dcc",
+			"fromSide":"bottom",
+			"toNode":"b07eac0f2f81115a",
+			"toSide":"right"
+		},
+		{
+			"id":"15c95f0cbd46755e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7da25950fe03f903",
+			"fromSide":"right",
+			"toNode":"b07eac0f2f81115a",
 			"toSide":"top"
 		}
 	],

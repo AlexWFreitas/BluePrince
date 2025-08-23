@@ -5,7 +5,7 @@
 		{
 			"id":"b191c442c5447b25",
 			"type":"text",
-			"text":"D\nG\nH\nL\nM\nN\nR\nT",
+			"text":"D\nG\nH\nL\nM\nN\n**R**\nT",
 			"styleAttributes":{},
 			"x":-1680,
 			"y":640,
@@ -15,7 +15,7 @@
 		{
 			"id":"8ad30baeb0de042c",
 			"type":"text",
-			"text":"A\nE\nI\nO\nU\nH\nR\n\tY",
+			"text":"**A**\n**E**\n**I**\n**O**\n**U**\nH\nR\n\tY",
 			"styleAttributes":{},
 			"x":-1580,
 			"y":640,
@@ -81,17 +81,6 @@
 			"y":640,
 			"width":80,
 			"height":240
-		},
-		{
-			"id":"b32945e96c77b3b9",
-			"type":"text",
-			"text":"DOMINATE\nDOMICILE\nDEFICITS\nDEMOTION\nDISUNION\nDURATION\nDUMPSTER\nDINOSAUR\nDISUNITY\nDIMINISH\nDEMOLISH\n\nGENOCIDE\n\n\n\nTHOUGHTS\nHUMANITY\nMORALITY\nDISTRESS\nNAMELESS\nTIMELESS\nHUMILITY\nGENERATE\nDESIGNER\nMINISTER\nDIAGNOSE\nRESPONSE\nDEFINITE\nHESITATE\nNOMINATE\nTEMPLATE\nDISTRACT\nDESOLATE\nDEMONICS\nDISASTER\nDIMINISH\nDIRECTOR\nDOMINION\nMEMORIES\nMIRACLES\nHOMELESS\nRESTRICT\nDISGRACE\n",
-			"styleAttributes":{},
-			"x":-1680,
-			"y":900,
-			"width":260,
-			"height":700,
-			"color":"3"
 		},
 		{"id":"da8b3c01d154865d","type":"file","file":"99. attachments/BLUE_PRINCE_40eLn9fpr3.png","x":-1400,"y":900,"width":400,"height":225},
 		{"id":"714bc3725c30f2e7","type":"file","file":"99. attachments/BLUE_PRINCE_dnYXbAhsaN.png","x":-380,"y":605,"width":400,"height":225},
@@ -313,7 +302,39 @@
 			"color":"4"
 		},
 		{"id":"bf6abce822844175","type":"file","file":"99. attachments/BLUE_PRINCE_S0CCK7c3in.png","x":2320,"y":1127,"width":400,"height":225},
-		{"id":"ba24c6aa5f75f512","type":"file","file":"99. attachments/Obsidian_RYZ0cEcRHF.png","x":1880,"y":1580,"width":399,"height":207}
+		{"id":"ba24c6aa5f75f512","type":"file","file":"99. attachments/Obsidian_RYZ0cEcRHF.png","x":1880,"y":1580,"width":399,"height":207},
+		{
+			"id":"1532ffd813e446ba",
+			"type":"text",
+			"text":"# Starts with R based on Room 46 Will",
+			"styleAttributes":{},
+			"x":-1400,
+			"y":1140,
+			"width":380,
+			"height":120
+		},
+		{
+			"id":"b32945e96c77b3b9",
+			"type":"text",
+			"text":"\nREFUGEES\nRESPONSE\nRESTLESS\nRHAPSODY\nDOMINATE\nDOMICILE\nDEFICITS\nDEMOTION\nDISUNION\nDURATION\nDUMPSTER\nDINOSAUR\nDISUNITY\nDIMINISH\nDEMOLISH\n\nGENOCIDE\n\n\n\nTHOUGHTS\nHUMANITY\nMORALITY\nDISTRESS\nNAMELESS\nTIMELESS\nHUMILITY\nGENERATE\nDESIGNER\nMINISTER\nDIAGNOSE\nRESPONSE\nDEFINITE\nHESITATE\nNOMINATE\nTEMPLATE\nDISTRACT\nDESOLATE\nDEMONICS\nDISASTER\nDIMINISH\nDIRECTOR\nDOMINION\nMEMORIES\nMIRACLES\nHOMELESS\nRESTRICT\nDISGRACE\n",
+			"styleAttributes":{},
+			"x":-1960,
+			"y":900,
+			"width":260,
+			"height":700,
+			"color":"3"
+		},
+		{
+			"id":"8d34a09ddacafc6c",
+			"type":"text",
+			"text":"**RUMINATE**\n",
+			"styleAttributes":{},
+			"x":-1680,
+			"y":900,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[],
 	"metadata":{

@@ -1,4 +1,23 @@
 
+Day 70
+- Drafted a Trading Post
+- Did a complete run collecting as many items as possible.
+- Entered the Trading Post and was able to trade one of the items for a Vault 370 Key
+- Obtained the Inner Sanctum Key from the Vault
+- Opened the Mora Jai Door in the Inner Sanctum
+- Solved the Mora Jai Sigil Sanctum with the Mora Jai Stamp
+	- Explored inside and solved the puzzlebox and collected the letter.
+- The letter from the Mora Jai Sanctum allowed me to figure the order on the 8 Months and 8 Places puzzle inside Room 46
+- This opened a safe / vault in Room 46 that allowed me to find a tip for solving Gallery
+	- It says that the word with 8 letters in the Gallery starts with R
+- Solved Gallery by using the word Ruminate, which is similar to the other three words in the Gallery
+	- Found the Key 8 to Room 8
+- Stored the key inside the Coat Check
+- Drafted a Library and ordered the New Clues book again
+	- Sastre gave me a mini spoiler that I should check the book with the Magnifying Glass
+		- I think there is some sort of text that changes when viewed with the Magnifying Glass or some sort of invisible text.
+- Ended the run on 0 steps at the Planetarium
+
 Day 69
 - Nothing important.
 

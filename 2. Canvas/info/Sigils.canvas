@@ -186,16 +186,6 @@
 		},
 		{"id":"52b45fe630eed20e","type":"file","file":"99. attachments/BLUE_PRINCE_1lvSfF1fcN.png","x":1720,"y":1262,"width":311,"height":400},
 		{"id":"06b7eb4ec597dfd5","type":"file","file":"99. attachments/BLUE_PRINCE_k9Ev7KaAif.png","x":1260,"y":1560,"width":400,"height":225},
-		{
-			"id":"22522e1d8a9699b2",
-			"type":"text",
-			"text":"# Verra Shores\nDesert?\nHeat\nTurtle\nPink or White",
-			"styleAttributes":{},
-			"x":1260,
-			"y":713,
-			"width":576,
-			"height":347
-		},
 		{"id":"5ae18a24473892dd","type":"file","file":"99. attachments/BLUE_PRINCE_HHyaAHZmwA.png","x":3200,"y":713,"width":399,"height":316},
 		{
 			"id":"1672590f9a1b0a98",
@@ -260,7 +250,31 @@
 		},
 		{"id":"bbca8bec4f173db7","type":"file","file":"99. attachments/Obsidian_SHvbgeDbnq.png","x":1240,"y":-1906,"width":400,"height":390},
 		{"id":"05adffa878524b55","type":"file","file":"99. attachments/Obsidian_Q3sC0gJWVp.png","x":1680,"y":-1906,"width":400,"height":96},
-		{"id":"58a9999f9f619cda","type":"file","file":"99. attachments/BLUE_PRINCE_kn3REeVbhb.png","x":-120,"y":-1925,"width":680,"height":383}
+		{"id":"58a9999f9f619cda","type":"file","file":"99. attachments/BLUE_PRINCE_kn3REeVbhb.png","x":-120,"y":-1925,"width":680,"height":383},
+		{"id":"637bc780fb153292","type":"file","file":"99. attachments/BLUE_PRINCE_muH026f83H.png","x":-1320,"y":505,"width":400,"height":364},
+		{
+			"id":"140cc80c0520102c",
+			"type":"text",
+			"text":"# Mora Jai\nNormal Weather\nMaritime\nAgricultural\nWhite Color",
+			"styleAttributes":{},
+			"x":-1320,
+			"y":896,
+			"width":580,
+			"height":347,
+			"color":"4"
+		},
+		{"id":"a37926f28fbff647","type":"file","file":"99. attachments/BLUE_PRINCE_p1FE2qxAQd.png","x":-900,"y":505,"width":647,"height":364},
+		{
+			"id":"22522e1d8a9699b2",
+			"type":"text",
+			"text":"# Verra Shores\nDesert?\nHeat\nTurtle\nPink or White",
+			"styleAttributes":{},
+			"x":-2000,
+			"y":-40,
+			"width":576,
+			"height":347
+		},
+		{"id":"d4ef64f383624d09","type":"file","file":"99. attachments/BLUE_PRINCE_EaCIX9B9YP.png","x":-2000,"y":-406,"width":400,"height":339}
 	],
 	"edges":[
 		{

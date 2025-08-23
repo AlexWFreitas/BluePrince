@@ -12,17 +12,6 @@
 			"color":"4"
 		},
 		{
-			"id":"105ef7e46fe5bec8",
-			"type":"text",
-			"text":"[[Inner Sanctum - Orinda Aries.canvas|Orinda Aries - Inner Sanctum Door]]",
-			"styleAttributes":{},
-			"x":-320,
-			"y":-40,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"783f189b9d47534b",
 			"type":"text",
 			"text":"[[Trading Post.canvas|Trading Post]]",
@@ -57,34 +46,12 @@
 		{"id":"de77b2972fa80df2","type":"file","file":"99. attachments/BLUE_PRINCE_OqnaohxBy2.png","x":-940,"y":-620,"width":400,"height":225},
 		{"id":"7028a855d67bcf0b","type":"file","file":"99. attachments/BLUE_PRINCE_KbYVcaBTZL.png","x":-160,"y":-360,"width":400,"height":225},
 		{
-			"id":"a8b9a41a8d2fd621",
+			"id":"105ef7e46fe5bec8",
 			"type":"text",
-			"text":"[[Fenn Aries - Inner Sanctum]]",
+			"text":"[[Inner Sanctum - Orinda Aries.canvas|Inner Sanctum - Orinda Aries]]",
 			"styleAttributes":{},
 			"x":-20,
 			"y":-40,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"2a9cf652afef73b1",
-			"type":"text",
-			"text":"[[Solarium.canvas|Solarium]]",
-			"styleAttributes":{},
-			"x":-920,
-			"y":80,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"b4cb2405243b667a",
-			"type":"text",
-			"text":"[[Tunnel.canvas|Tunnel]]",
-			"styleAttributes":{},
-			"x":-620,
-			"y":80,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -95,7 +62,40 @@
 			"text":"[[Tomb.canvas|Tomb]] - Burning Glass",
 			"styleAttributes":{},
 			"x":-320,
-			"y":80,
+			"y":40,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a8b9a41a8d2fd621",
+			"type":"text",
+			"text":"[[Inner Sanctum - Fenn Aries.canvas|Inner Sanctum - Fenn Aries]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":40,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2a9cf652afef73b1",
+			"type":"text",
+			"text":"[[Solarium.canvas|Solarium]]",
+			"styleAttributes":{},
+			"x":-920,
+			"y":40,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"b4cb2405243b667a",
+			"type":"text",
+			"text":"[[Tunnel.canvas|Tunnel]]",
+			"styleAttributes":{},
+			"x":-620,
+			"y":40,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -106,18 +106,7 @@
 			"text":"[[Inner Sanctum - Arch Aries.canvas|Inner Sanctum - Arch Aries]]",
 			"styleAttributes":{},
 			"x":-20,
-			"y":80,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"c5937fd275fbe5b1",
-			"type":"text",
-			"text":"[[Inner Sanctum - Corarica.canvas|Inner Sanctum - Corarica]]",
-			"styleAttributes":{},
-			"x":-20,
-			"y":180,
+			"y":120,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -128,7 +117,51 @@
 			"text":"[[Red Door Area.canvas|Red Door Room]]",
 			"styleAttributes":{},
 			"x":-920,
-			"y":180,
+			"y":120,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"c5937fd275fbe5b1",
+			"type":"text",
+			"text":"[[Inner Sanctum - Corarica.canvas|Inner Sanctum - Corarica]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":200,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ea0eeec17b2086bc",
+			"type":"text",
+			"text":"[[Inner Sanctum - Mora Jai.canvas|Inner Sanctum - Mora Jai]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":280,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"20ea6dceda9ab912",
+			"type":"text",
+			"text":"[[Inner Sanctum - Eraja Sigil.canvas|Inner Sanctum - Eraja Sigil]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":360,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"42359a0a75ddfcf9",
+			"type":"text",
+			"text":"[[Inner Sanctum - Orinda Aries.canvas|Inner Sanctum - Orinda Aries]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":440,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -142,42 +175,6 @@
 			"fromNode":"d204fbdd83cf9abf",
 			"fromSide":"bottom",
 			"toNode":"5d88573edd4ba08f",
-			"toSide":"top"
-		},
-		{
-			"id":"a953d94c7b6d0823",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"5d88573edd4ba08f",
-			"fromSide":"bottom",
-			"toNode":"9b625e7d0b40ba5e",
-			"toSide":"top"
-		},
-		{
-			"id":"c4721bcfb61199c2",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"5d88573edd4ba08f",
-			"fromSide":"bottom",
-			"toNode":"105ef7e46fe5bec8",
-			"toSide":"top"
-		},
-		{
-			"id":"8f271a71d15c6b57",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"5d88573edd4ba08f",
-			"fromSide":"bottom",
-			"toNode":"783f189b9d47534b",
-			"toSide":"top"
-		},
-		{
-			"id":"6e5b40ec93adb830",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"5d88573edd4ba08f",
-			"fromSide":"bottom",
-			"toNode":"a8b9a41a8d2fd621",
 			"toSide":"top"
 		}
 	],
