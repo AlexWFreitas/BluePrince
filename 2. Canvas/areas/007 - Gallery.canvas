@@ -65,7 +65,7 @@
 		{
 			"id":"9ce4d89326a768b9",
 			"type":"text",
-			"text":"C\nE\nD\nS\nT\nOL\nU\n",
+			"text":"C\nE\nD\nS\nT\nO\nL\nU\n",
 			"styleAttributes":{},
 			"x":-1080,
 			"y":640,
@@ -85,12 +85,12 @@
 		{
 			"id":"b32945e96c77b3b9",
 			"type":"text",
-			"text":"THOUGHTS\nHUMANITY\nMORALITY\nDISTRESS\nNAMELESS\nTIMELESS\nHUMILITY\n\n\nDESOLATE\nDEMONICS\nDISASTER\nDIMINISH\nDIRECTOR\nDOMINION\nMEMORIES\nMIRACLES",
+			"text":"DOMINATE\nDOMICILE\nDEFICITS\nDEMOTION\nDISUNION\nDURATION\nDUMPSTER\nDINOSAUR\nDISUNITY\nDIMINISH\nDEMOLISH\n\nGENOCIDE\n\n\n\nTHOUGHTS\nHUMANITY\nMORALITY\nDISTRESS\nNAMELESS\nTIMELESS\nHUMILITY\nGENERATE\nDESIGNER\nMINISTER\nDIAGNOSE\nRESPONSE\nDEFINITE\nHESITATE\nNOMINATE\nTEMPLATE\nDISTRACT\nDESOLATE\nDEMONICS\nDISASTER\nDIMINISH\nDIRECTOR\nDOMINION\nMEMORIES\nMIRACLES\nHOMELESS\nRESTRICT\nDISGRACE\n",
 			"styleAttributes":{},
 			"x":-1680,
 			"y":900,
 			"width":260,
-			"height":500,
+			"height":700,
 			"color":"3"
 		},
 		{"id":"da8b3c01d154865d","type":"file","file":"99. attachments/BLUE_PRINCE_40eLn9fpr3.png","x":-1400,"y":900,"width":400,"height":225},
@@ -313,7 +313,7 @@
 			"color":"4"
 		},
 		{"id":"bf6abce822844175","type":"file","file":"99. attachments/BLUE_PRINCE_S0CCK7c3in.png","x":2320,"y":1127,"width":400,"height":225},
-		{"id":"ba24c6aa5f75f512","type":"file","file":"99. attachments/Obsidian_RYZ0cEcRHF.png","x":1880,"y":1580,"width":400,"height":207}
+		{"id":"ba24c6aa5f75f512","type":"file","file":"99. attachments/Obsidian_RYZ0cEcRHF.png","x":1880,"y":1580,"width":399,"height":207}
 	],
 	"edges":[],
 	"metadata":{

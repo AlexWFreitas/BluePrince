@@ -44,7 +44,9 @@
 			"height":60
 		},
 		{"id":"4865fa348928f0a4","type":"file","file":"99. attachments/BLUE_PRINCE_4Zy03V9XWF.png","x":260,"y":1880,"width":400,"height":225},
-		{"id":"06b95df78f82278a","type":"file","file":"99. attachments/BLUE_PRINCE_0BWF1OnCDA.png","x":260,"y":2160,"width":400,"height":225}
+		{"id":"06b95df78f82278a","type":"file","file":"99. attachments/BLUE_PRINCE_0BWF1OnCDA.png","x":260,"y":2160,"width":400,"height":225},
+		{"id":"d7f0ee4e9e3e2ae6","type":"file","file":"99. attachments/BLUE_PRINCE_y4oaOjoOZv.png","x":-180,"y":2440,"width":400,"height":225},
+		{"id":"c23cac6f7604486e","type":"file","file":"99. attachments/BLUE_PRINCE_MApnLksbDO.png","x":-180,"y":2700,"width":400,"height":225}
 	],
 	"edges":[
 		{

@@ -10,6 +10,16 @@
 			"y":-380,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"46ee1a3487bf1f06",
+			"type":"text",
+			"text":"It's possible that Kirk Darren is [[Hartley Ruota.canvas|Hartley Ruota]] based on the fact that there is a memo note on his room in a weird place.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-40,
+			"width":400,
+			"height":140
 		}
 	],
 	"edges":[],

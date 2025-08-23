@@ -1,4 +1,19 @@
 
+Day 69
+- Nothing important.
+
+Day 68
+- I read the Trophy about Room 8 in Rank 8 and I thought that maybe I needed to draft a room on Rank 8 by coming from Antichamber to discover something new.
+	- I tried and it didn't work, I think I am missing something, maybe I need to draft a room from Rank 8 coming from Antechamber instead of being from the Antechamber?
+	- I really thought I was into something because the note says that to go up I must go down, if I think as going down as going south instead of going to the basement, then it would make it a hidden clue inside the obvious clue.
+- Used the Dowsing Rod, it wasn't very useful.
+- I noticed that the year has changed sometime ago after checking the Security Room recorded videos.
+- I drafted the Mail Room for the first time after upgrading it to the version that gives a huge box after three days.
+	- I am interested in seeing the contents after three days.
+- Ended run in Planetarium as always.
+- The Spiral Star started giving me keys every run.
+- I tried some more words at the Gallery, still no luck.
+
 Day 67
 - Conservatory
 	- Utility Closet to Common
@@ -42,8 +57,6 @@ Day 65
 	- Normal Treasure Box
 - Stored the Treasure Map on the Coat Check
 	- I will try to draft a Treasure Trove with a Treasure Map pointing to it and having a Shovel
-- 
-
 
 Day 64
 - Nothing new, just minor continuous progress on resources.

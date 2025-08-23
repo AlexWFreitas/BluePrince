@@ -16,11 +16,31 @@
 			"y":-1420,
 			"width":620,
 			"height":560
+		},
+		{"id":"8857a94cb5cdb898","type":"file","file":"99. attachments/BLUE_PRINCE_2KRxJG9QMX.png","x":-820,"y":-1740,"width":996,"height":560},
+		{
+			"id":"e6c4f09024d7bf38",
+			"type":"text",
+			"text":"Maybe I need to go down from the Antichamber to unlock something.",
+			"styleAttributes":{},
+			"x":-482,
+			"y":-1080,
+			"width":320,
+			"height":80
 		}
 	],
 	"edges":[
-		{"id":"54e7e06ea2240bdd","fromNode":"311035d20229ccdb","fromSide":"bottom","toNode":"05410fbc38fd74b5","toSide":"top"},
-		{"id":"9b4e9f3bf6e73eab","fromNode":"f6e597cfc8af4ed9","fromSide":"right","toNode":"05410fbc38fd74b5","toSide":"right"}
+		{"id":"54e7e06ea2240bdd","toFloating":false,"fromNode":"311035d20229ccdb","fromSide":"bottom","toNode":"05410fbc38fd74b5","toSide":"top"},
+		{"id":"9b4e9f3bf6e73eab","fromNode":"f6e597cfc8af4ed9","fromSide":"right","toNode":"05410fbc38fd74b5","toSide":"right"},
+		{
+			"id":"6783a90d4cc9243c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e6c4f09024d7bf38",
+			"fromSide":"top",
+			"toNode":"8857a94cb5cdb898",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
