@@ -152,6 +152,26 @@
 			"y":-460,
 			"width":120,
 			"height":180
+		},
+		{
+			"id":"b38e1ab41da3f1f1",
+			"type":"text",
+			"text":"# Solution\n1. New Clue book says that four books are relevant\n\t1. The Red Prince\n\t2. A New Clue\n\t3. The Fixed Stars\n\t4. Realm & Rune\n2. The book also says that we should look from the cover all the way through.\n3. Page count starts from the Title Page (unsure if before or after)\n4. If you use the Magnifying Glass on the words of the book, there are small numbers in it",
+			"styleAttributes":{},
+			"x":1970,
+			"y":-1660,
+			"width":749,
+			"height":300
+		},
+		{
+			"id":"0823e18217bb395c",
+			"type":"text",
+			"text":"# A New Clue\n\nOn Page 5:\n\n1 - All\n2 - Checked\n3 - Corner\n4 - Case\n5 - Rooms\n6 - Had\n7 - A\n8 - Low\n9 - Case\n10 - Clue\n11 - Found\n12 - In\n13 - The\n14 - Rooms\n",
+			"styleAttributes":{},
+			"x":2760,
+			"y":-1660,
+			"width":1000,
+			"height":600
 		}
 	],
 	"edges":[

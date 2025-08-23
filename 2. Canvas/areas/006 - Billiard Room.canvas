@@ -74,7 +74,18 @@
 			"y":160,
 			"width":380,
 			"height":120
-		}
+		},
+		{
+			"id":"a3daf5994e660cf0",
+			"type":"text",
+			"text":"The puzzle on Number 40 is really hard",
+			"styleAttributes":{},
+			"x":-60,
+			"y":100,
+			"width":260,
+			"height":60
+		},
+		{"id":"b58b11aeb9effa01","type":"file","file":"99. attachments/BLUE_PRINCE_Qs90kZFsij.png","x":-130,"y":220,"width":400,"height":225}
 	],
 	"edges":[
 		{
@@ -94,6 +105,15 @@
 			"fromSide":"top",
 			"toNode":"a3315602ba1018d1",
 			"toSide":"bottom"
+		},
+		{
+			"id":"a0593054b8345e8b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a3daf5994e660cf0",
+			"fromSide":"bottom",
+			"toNode":"b58b11aeb9effa01",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

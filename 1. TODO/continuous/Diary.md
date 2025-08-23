@@ -1,4 +1,17 @@
 
+Day 71
+- Retrieved Key 8 from Coat Check
+- Opened the Door to Rank 8 from the Antechamber by going South and used the Key 8, it revealed a puzzle room, I feel that any room spot in Rank 8 works.
+- Drafted a Library and used Magnifying Glass on the book A New Clue
+	- This book has hidden numbers above some words on a certain page, it seems that the numbered words may contain a hidden message.
+	- From what I have seen it seems that the four books listed in the book are the only places that have these numbered words.
+		- The Fixed Stars book on the Observatory doesn't have the numbered words as an example.
+	- I will probably need to draft the Library frequently to order the books.
+- I want to try using other types of keys in the Treasure Trove
+	- Because of that I stored a new Key 8 into the Coat Check
+
+![[BLUE_PRINCE_DbrPdPBsct.png]]
+
 Day 70
 - Drafted a Trading Post
 - Did a complete run collecting as many items as possible.

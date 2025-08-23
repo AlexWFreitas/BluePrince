@@ -18,6 +18,26 @@
 			"y":-860,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"0da16fe3819d899f",
+			"type":"text",
+			"text":"# Hidden Words\n1. New Clue book says that four books are relevant\n\t1. The Red Prince\n\t2. A New Clue\n\t3. The Fixed Stars\n\t4. Realm & Rune\n2. The book also says that we should look from the cover all the way through.\n3. Page count starts from the Title Page (unsure if before or after)\n4. If you use the Magnifying Glass on the words of the book, there are small numbers in it",
+			"styleAttributes":{},
+			"x":-1940,
+			"y":-1010,
+			"width":749,
+			"height":300
+		},
+		{
+			"id":"2cf0b71766465829",
+			"type":"text",
+			"text":"# Fixed Stars\n\nThird Page - First Word\n\nPreface The Florearis\nThis Rooms Green\nBook Are Rooms",
+			"styleAttributes":{},
+			"x":-1160,
+			"y":-1010,
+			"width":560,
+			"height":340
 		}
 	],
 	"edges":[],

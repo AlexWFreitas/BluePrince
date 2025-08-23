@@ -1,0 +1,187 @@
+{
+	"nodes":[
+		{
+			"id":"ecd01be7c6cfb65c",
+			"type":"text",
+			"text":"# Finding Room 8 - Theory\n1. Get Room 8 Key from [[007 - Gallery.canvas|007 - Gallery]].\n2. Enter the Antechamber from the West or East\n3. Open the door from the Antechamber to the South with Key 8 item.\n\t1. It's possible that any room on Rank 8 work",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-320,
+			"width":720,
+			"height":180
+		},
+		{"id":"8c13d511b51754c9","type":"file","file":"99. attachments/BLUE_PRINCE_hgOg7NyDDN.png","x":-620,"y":-740,"width":720,"height":405},
+		{"id":"e97b6b4af2d8e506","type":"file","file":"99. attachments/BLUE_PRINCE_tVWmT9caJW.png","x":120,"y":-740,"width":400,"height":225},
+		{"id":"23ce1b6f26521f18","type":"file","file":"99. attachments/BLUE_PRINCE_DtugDefpKo.png","x":120,"y":-480,"width":400,"height":225},
+		{"id":"00dd9e491f56cb43","type":"file","file":"99. attachments/BLUE_PRINCE_O2lbuRSVWB.png","x":120,"y":-230,"width":400,"height":225},
+		{"id":"a239c4c954c8bd9a","type":"file","file":"99. attachments/BLUE_PRINCE_H8doaUgmea.png","x":-980,"y":60,"width":304,"height":400},
+		{"id":"4e80a3b88d8e7172","type":"file","file":"99. attachments/BLUE_PRINCE_wQX2rcxgVJ.png","x":-640,"y":60,"width":308,"height":400},
+		{"id":"911778bb9f176e4c","type":"file","file":"99. attachments/BLUE_PRINCE_bAUuwbPkSw.png","x":-300,"y":60,"width":306,"height":400},
+		{"id":"7b346c95975e31f7","type":"file","file":"99. attachments/BLUE_PRINCE_80WBjG4KHf.png","x":43,"y":60,"width":277,"height":400},
+		{"id":"3accb285e95186f8","type":"file","file":"99. attachments/BLUE_PRINCE_HGiTl4QGub.png","x":354,"y":60,"width":331,"height":400},
+		{"id":"9866070079544e06","type":"file","file":"99. attachments/BLUE_PRINCE_2XsAtQQvqI.png","x":720,"y":60,"width":384,"height":400},
+		{"id":"a46e87f2daa18c32","type":"file","file":"99. attachments/BLUE_PRINCE_PF9Tk2nqsE.png","x":1140,"y":60,"width":284,"height":400},
+		{
+			"id":"04ff2563d0ca7739",
+			"type":"text",
+			"text":"**Gluttony**",
+			"styleAttributes":{},
+			"x":-616,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7b6a65e0b186d966",
+			"type":"text",
+			"text":"**Envy**",
+			"styleAttributes":{},
+			"x":-958,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9fdc6133f5fd77e6",
+			"type":"text",
+			"text":"**Lust**",
+			"styleAttributes":{},
+			"x":-277,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{"id":"177c1f22a0eff240","type":"file","file":"99. attachments/BLUE_PRINCE_BBOlaGu0IK.png","x":-1320,"y":60,"width":284,"height":400},
+		{
+			"id":"54dcf8bbc44c6420",
+			"type":"text",
+			"text":"**Hubris**",
+			"styleAttributes":{},
+			"x":-1308,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ad6fa32a44550519",
+			"type":"text",
+			"text":"**Wrath**",
+			"styleAttributes":{},
+			"x":390,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{"id":"3a53cbd75c60d357","type":"file","file":"99. attachments/BLUE_PRINCE_YATG6dxHBl.png","x":-1320,"y":-740,"width":662,"height":372},
+		{
+			"id":"088f8f9a0e0b3901",
+			"type":"text",
+			"text":"**Mundanity**",
+			"styleAttributes":{},
+			"x":52,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"12138962e5ea4ed2",
+			"type":"text",
+			"text":"**Avarice**",
+			"styleAttributes":{},
+			"x":782,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"09de6ee834b6ca57",
+			"type":"text",
+			"text":"**Sloth**",
+			"styleAttributes":{},
+			"x":1152,
+			"y":520,
+			"width":260,
+			"height":60
+		},
+		{"id":"5db8d589472078d3","type":"file","file":"99. attachments/BLUE_PRINCE_itKZIcg15n.png","x":-1320,"y":640,"width":782,"height":440},
+		{"id":"8316cf68739c7dda","type":"file","file":"99. attachments/BLUE_PRINCE_1CXmAGly8f.png","x":-520,"y":640,"width":400,"height":225}
+	],
+	"edges":[
+		{
+			"id":"61e977b681ce9e1b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"04ff2563d0ca7739",
+			"fromSide":"top",
+			"toNode":"4e80a3b88d8e7172",
+			"toSide":"bottom"
+		},
+		{
+			"id":"ff5480245f302b21",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7b6a65e0b186d966",
+			"fromSide":"top",
+			"toNode":"a239c4c954c8bd9a",
+			"toSide":"bottom"
+		},
+		{
+			"id":"0c90eaea50de7b27",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"09de6ee834b6ca57",
+			"fromSide":"top",
+			"toNode":"a46e87f2daa18c32",
+			"toSide":"bottom"
+		},
+		{
+			"id":"9cf3772e8f96029c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"54dcf8bbc44c6420",
+			"fromSide":"top",
+			"toNode":"177c1f22a0eff240",
+			"toSide":"bottom"
+		},
+		{
+			"id":"c0b6a9b409f04413",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad6fa32a44550519",
+			"fromSide":"top",
+			"toNode":"3accb285e95186f8",
+			"toSide":"bottom"
+		},
+		{
+			"id":"3ab8eba200501415",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"088f8f9a0e0b3901",
+			"fromSide":"top",
+			"toNode":"7b346c95975e31f7",
+			"toSide":"bottom"
+		},
+		{
+			"id":"a099920180a5ed01",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"12138962e5ea4ed2",
+			"fromSide":"top",
+			"toNode":"9866070079544e06",
+			"toSide":"bottom"
+		},
+		{
+			"id":"03089da34130464c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9fdc6133f5fd77e6",
+			"fromSide":"top",
+			"toNode":"911778bb9f176e4c",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

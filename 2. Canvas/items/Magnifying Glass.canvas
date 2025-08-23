@@ -195,6 +195,16 @@
 			"y":560,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"d816a86ae5ed756b",
+			"type":"text",
+			"text":"# [[Hidden Words - Magnifying Glass.canvas|Hidden Words - Magnifying Glass]]",
+			"styleAttributes":{},
+			"x":-220,
+			"y":160,
+			"width":400,
+			"height":109
 		}
 	],
 	"edges":[

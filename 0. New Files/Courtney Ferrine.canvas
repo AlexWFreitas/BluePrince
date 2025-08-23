@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{
+			"id":"23a9d1a3a1dd2aa9",
+			"type":"text",
+			"text":"[[Red Letters.canvas|Red Letters]]",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-100,
+			"width":260,
+			"height":60
+		},
+		{"id":"ddadfa88c424d316","type":"file","file":"99. attachments/BLUE_PRINCE_sUmlE58mjG.jpg","x":-860,"y":20,"width":400,"height":225},
+		{"id":"d2ac3c542ffb3715","type":"file","file":"99. attachments/BLUE_PRINCE_YRYFdMSvRz.jpg","x":-440,"y":20,"width":400,"height":225},
+		{"id":"5374c4a23222ae97","type":"file","file":"99. attachments/BLUE_PRINCE_QFEBTrXvQU.jpg","x":-860,"y":280,"width":400,"height":225},
+		{"id":"a102a0e6a7879842","type":"file","file":"99. attachments/BLUE_PRINCE_OQ4XkLuyk8.jpg","x":-440,"y":280,"width":400,"height":225},
+		{"id":"015ba71c4f6a3703","type":"file","file":"99. attachments/BLUE_PRINCE_aRKyhlebjN 1.png","x":0,"y":20,"width":399,"height":171}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

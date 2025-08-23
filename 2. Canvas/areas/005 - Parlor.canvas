@@ -303,12 +303,12 @@
 		{
 			"id":"c079c67bb3b56166",
 			"type":"text",
-			"text":"S1 - \nS2 - \nBlue Box - Absolute Truth or Absolute Lie\n\nS3 - \nS4 - \nWhite Box - F\n\nS5 - \nS6 - \nBlack Box - Absolute Truth or Absolute Lie",
+			"text":"S1 - F\nS2 - F\nBlue Box -\n\nS3 - T\nS4 - T\nWhite Box - TT OR FF\n\nS5 - F\nS6 - T\nBlack Box - ",
 			"styleAttributes":{},
-			"x":-6620,
-			"y":3200,
+			"x":-6680,
+			"y":2960,
 			"width":600,
-			"height":280
+			"height":360
 		}
 	],
 	"edges":[],
