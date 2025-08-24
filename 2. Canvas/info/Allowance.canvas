@@ -3,12 +3,12 @@
 		{
 			"id":"fc3dec21670c0fff",
 			"type":"text",
-			"text":"# Info\n\nThis is a permanent resource that gives you gold at the start of every run as an allowance.\n\nThis can be increased through multiple ways, such as:\n- Puzzle Rewards\n- Trunks\n- Laboratory Experiments\n- [[Guest Bedroom.canvas|Guest Bedroom]] upgrade - Quest Bedroom",
+			"text":"# Info\n\nThis is a permanent resource that gives you gold at the start of every run as an allowance.\n\nThis can be increased through multiple ways, such as:\n- Mora Jai Puzzlebox Rewards (Once per puzzlebox)\n- Puzzle rewards (Once)\n- A speciifc trunk in the Reservoir (Once)\n- Laboratory Experiments\n- [[Guest Bedroom.canvas|Guest Bedroom]] upgrade - Quest Bedroom and Antechamber (Repeatable)\n- Room 8 reward (Repeatable)\n- Trading Showroom Items in the Trading Post (Repeatable)\n- Digging with the Jack Hammer (Repeatable)\n- Cloister Upgrade related to Yellow Rooms",
 			"styleAttributes":{},
 			"x":-580,
 			"y":-300,
 			"width":660,
-			"height":360
+			"height":480
 		}
 	],
 	"edges":[],

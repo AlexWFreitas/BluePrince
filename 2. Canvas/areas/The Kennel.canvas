@@ -7,13 +7,14 @@
 		{
 			"id":"46bd87d7fc2b5198",
 			"type":"text",
-			"text":"[[Precipice Castle Puzzle.canvas|Precipice Castle Puzzle]]",
+			"text":"[[Precipice Castle Chess Puzzle.canvas|Precipice Castle Puzzle]]",
 			"styleAttributes":{},
 			"x":-220,
 			"y":323,
 			"width":260,
 			"height":60
-		}
+		},
+		{"id":"d4ec9211bff90600","type":"file","file":"99. attachments/BLUE_PRINCE_owhyCDEi2t.png","x":-260,"y":-20,"width":400,"height":225}
 	],
 	"edges":[
 		{

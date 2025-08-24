@@ -1,6 +1,47 @@
 Plan
 - Do a run without picking any items
 
+
+Day 80
+- Hidden Memos
+	- Mail Room - Only 6 of the 8 red letters were for Herbert
+	- Office - The King can Castle by swapping with another piece (Chess reference)
+	- Conferece Room - Kirk Darren created the memos and used them as the primary security system of the Estate
+	- Pump Room - Lore about the water that flows in the Estate
+- Read A New Clue and was able to solve most of it I think, I think there are two separate puzzles
+	- First Puzzle (Unsolved)
+		- Every page image has a sign in it, together they form a phrase saying that I should start in Route 8, stay left until Tanner Fork, then go Right and then reach Dead End, and I should record each stop
+		- This creates a sequence of numbers that I am not sure if they are translated into words or if there is something else
+	- Second Puzzle (Solved)
+		- The numbered words create a phrase saying that the all the checked corner case rooms had a low case clue in them.
+		- This refers to the checked corner cases room shown in the book
+		- This means that there are low case clues in the notes inside the Patio, Nook, Pauntry and Office.
+		- Together they form a phrase saying that there is something "**Buried besides west bridge**"
+- After digging the spot mentioned I found the third microchip and was able to open the room inside Black Bridge Grotto
+- This lead to a place outside called Orindia Ruins, this place contains a Orindia symbol and the Throne Room black floorplan.
+- The room will be added starting next day, because of this ominous text, I feel that maybe the Estate will be vandalized by someone or something starting from the day I get the Throne room
+	- This might be me being crazy though, but the memory from Alzara video came to me, about something being stolen and things like that.
+- Because of the message found in the Office, I will try to place a King Room on the west or right wing with a Rook Room besides him at the first row to see if I can solve the puzzle on the Precipice related to Castling.
+- Paying 79g to the Shrine gave me Blessing of the Berry Picker again...
+	- I will keep lowering to discover at which point can I get one blessing that I want.
+
+
+Day 79
+- I drafted an Armory and bought The Axe
+	- I axe the Attic.
+	- I plan to axe the Trophy Room too.
+- Ordered the New Clue book in the Library
+- Received The Sweeptakes Trophy in the Mail Room
+- Found three hidden memo notes in the Aquarium, Pool, Kennel
+- It seems there is a room where you can draft every room in the house.
+	- That room might be The Pool.
+- In the Aquarium it seems that there a note saying that the Tank contains a Red Herring, this could be a fish or maybe the marks in the rooms are a red herring made to mislead you into thinking there is something there.
+
+Day 78
+- Got Dead End and Four Room constellations at 132 Stars.
+- I was able to draft 22 Dead-end rooms and will probably get the trophy.
+- Ended the room in the Planetarium.
+
 Day 77
 - I entered the Library and read Realm & Rune with the Magnifying Glass and did not find anything similar to what I found in A New Clue, this means that I am missing something on my solution for the New Clue puzzle
 - I drafted a Bookshop to check if there are new books and there are not.

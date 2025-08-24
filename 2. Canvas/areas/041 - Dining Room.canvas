@@ -3,13 +3,14 @@
 		{
 			"id":"d54538960da17f6d",
 			"type":"text",
-			"text":"# Room Info\n\nAllows you to eat high tier food for free if you reach 8th Rank on the current run.\n\nThere is an optional permanent upgrade that will allow you to receive extra steps based on the food after 5th rank.\n\nThe current run dinner is described on the [[Kitchen.canvas|Kitchen]]",
+			"text":"# Room Info\n\nAllows you to eat high tier food for free if you reach 8th Rank on the current run.\n\nThere is an optional permanent upgrade that will allow you to receive extra steps based on the food after reaching 5th rank.\n\nThe current run dinner is described on the [[Kitchen.canvas|Kitchen]]",
 			"styleAttributes":{},
 			"x":-460,
 			"y":-340,
 			"width":420,
 			"height":314
-		}
+		},
+		{"id":"2dc00541407f2ab9","type":"file","file":"99. attachments/BLUE_PRINCE_yAF00J29GJ.png","x":-450,"y":20,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

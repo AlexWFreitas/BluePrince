@@ -30,9 +30,30 @@
 			"y":460,
 			"width":260,
 			"height":60
+		},
+		{"id":"8b81e052a2f2738d","type":"file","file":"99. attachments/BLUE_PRINCE_0LVyZsM68b.png","x":800,"y":175,"width":400,"height":225},
+		{
+			"id":"d1bee076239eddc0",
+			"type":"text",
+			"text":"The [[Aquarium Puzzle.canvas|Aquarium Puzzle]] might be a Red Herring, as in a useless clue, made to mislead you.",
+			"styleAttributes":{},
+			"x":870,
+			"y":480,
+			"width":260,
+			"height":140
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"2892d4dc76c06786",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d1bee076239eddc0",
+			"fromSide":"top",
+			"toNode":"8b81e052a2f2738d",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

@@ -34,9 +34,30 @@
 			"y":-340,
 			"width":540,
 			"height":320
+		},
+		{
+			"id":"7a7fde292ed7e747",
+			"type":"text",
+			"text":"# Hidden Memo",
+			"styleAttributes":{},
+			"x":-1250,
+			"y":-67,
+			"width":260,
+			"height":100
+		},
+		{"id":"d29f014aa7808362","type":"file","file":"99. attachments/BLUE_PRINCE_6bVLZixjiH.png","x":-1320,"y":135,"width":400,"height":225}
+	],
+	"edges":[
+		{
+			"id":"a92cbef0f21d25ee",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7a7fde292ed7e747",
+			"fromSide":"bottom",
+			"toNode":"d29f014aa7808362",
+			"toSide":"top"
 		}
 	],
-	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

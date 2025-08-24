@@ -69,6 +69,17 @@
 			"y":1185,
 			"width":260,
 			"height":60
+		},
+		{"id":"1174899da42a6e1c","type":"file","file":"99. attachments/BLUE_PRINCE_SwXQbdksuu.mp4","x":3040,"y":818,"width":1604,"height":902},
+		{
+			"id":"e0c372c9b52b063e",
+			"type":"text",
+			"text":"# Chip Locations\n1. Already inserted at the start of every run\n2. Inside vase in Entrance Hall (Use Hammer)\n3. Buried near the Wooden Bridge that leads to the Outer Room",
+			"styleAttributes":{},
+			"x":3040,
+			"y":540,
+			"width":640,
+			"height":177
 		}
 	],
 	"edges":[],

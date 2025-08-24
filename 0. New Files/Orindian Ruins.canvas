@@ -1,0 +1,54 @@
+{
+	"nodes":[
+		{
+			"id":"3e78aba555ef05ce",
+			"type":"text",
+			"text":"# Access through",
+			"styleAttributes":{},
+			"x":-760,
+			"y":-420,
+			"width":380,
+			"height":60
+		},
+		{
+			"id":"5e5af7c570578893",
+			"type":"text",
+			"text":"[[Blackbridge Grotto.canvas|Blackbridge Grotto]]",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d118d71ce056ecda",
+			"type":"text",
+			"text":"[[Blackbridge Grotto Microchip Puzzle.canvas|Blackbridge Grotto Puzzle]]",
+			"styleAttributes":{},
+			"x":-760,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{"id":"ba590169c69dfc8e","type":"file","file":"99. attachments/BLUE_PRINCE_vLLJEFhc0h.png","x":-760,"y":-220,"width":711,"height":400},
+		{"id":"23eaffb498e3a600","type":"file","file":"99. attachments/BLUE_PRINCE_idsb5VKQdx.png","x":-20,"y":-220,"width":711,"height":400},
+		{"id":"7bd48d5562e08f61","type":"file","file":"99. attachments/BLUE_PRINCE_wD4MbBhIG2.png","x":-760,"y":220,"width":711,"height":400},
+		{"id":"f0238dda566431a8","type":"file","file":"99. attachments/BLUE_PRINCE_Rq3n4M342k.png","x":-20,"y":220,"width":711,"height":400},
+		{"id":"e2485969ef530891","type":"file","file":"99. attachments/BLUE_PRINCE_joCBCXmlav.png","x":-760,"y":700,"width":711,"height":400}
+	],
+	"edges":[
+		{
+			"id":"c38ef656ba2e29ab",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e2485969ef530891",
+			"fromSide":"top",
+			"toNode":"7bd48d5562e08f61",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

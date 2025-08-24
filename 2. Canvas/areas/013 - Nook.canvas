@@ -13,9 +13,29 @@
 		{"id":"0d513c97ef44eb11","type":"file","file":"99. attachments/Pasted image 20250716203316.png","x":-140,"y":85,"width":400,"height":225},
 		{"id":"15010b658ab08482","type":"file","file":"99. attachments/Pasted image 20250716203338.png","x":-555,"y":360,"width":390,"height":400},
 		{"id":"ab3578d9cab721cd","type":"file","file":"99. attachments/Pasted image 20250716203328.png","x":-140,"y":360,"width":347,"height":400},
-		{"id":"0e1e745d03f5ddff","type":"file","file":"99. attachments/BLUE_PRINCE_vYUB9p0LQW.png","x":-560,"y":0,"width":400,"height":310}
+		{"id":"0e1e745d03f5ddff","type":"file","file":"99. attachments/BLUE_PRINCE_vYUB9p0LQW.png","x":-560,"y":0,"width":400,"height":310},
+		{
+			"id":"69c997b9a04e6f39",
+			"type":"text",
+			"text":"Sinclair has many --re Secrets that he will take to his grave",
+			"styleAttributes":{},
+			"x":-490,
+			"y":820,
+			"width":260,
+			"height":100
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"a2cfac809dcc3c21",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"69c997b9a04e6f39",
+			"fromSide":"top",
+			"toNode":"15010b658ab08482",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

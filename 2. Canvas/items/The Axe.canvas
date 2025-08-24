@@ -1,43 +1,123 @@
 {
 	"nodes":[
 		{
-			"id":"c6ca27013754d61b",
-			"type":"text",
-			"text":"Supposedly this item can only be bought / used a limited amount of times.",
-			"styleAttributes":{},
-			"x":-680,
-			"y":-260,
-			"width":380,
-			"height":80
-		},
-		{"id":"99c9f89b6e027ef5","type":"file","file":"99. attachments/BLUE_PRINCE_Oi7Izty4CX.png","x":-680,"y":-140,"width":400,"height":225},
-		{
 			"id":"6c42e26a682bf66c",
 			"type":"text",
 			"text":"[[The Armory.canvas|The Armory]]",
 			"styleAttributes":{},
 			"x":-680,
-			"y":-340,
+			"y":-380,
 			"width":260,
 			"height":60
 		},
 		{
+			"id":"c6ca27013754d61b",
+			"type":"text",
+			"text":"Supposedly this item can only be bought / used a limited amount of times.\n\nCan only be used **3 times.**",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-300,
+			"width":380,
+			"height":140
+		},
+		{"id":"99c9f89b6e027ef5","type":"file","file":"99. attachments/BLUE_PRINCE_Oi7Izty4CX.png","x":-680,"y":-112,"width":400,"height":225},
+		{"id":"239b70e9b14eb8bc","type":"file","file":"99. attachments/BLUE_PRINCE_UbrjadBkKf.png","x":260,"y":-247,"width":399,"height":201},
+		{"id":"509e06bbbb980277","type":"file","file":"99. attachments/BLUE_PRINCE_E0vGA75tXo.png","x":700,"y":10,"width":400,"height":210},
+		{"id":"0bf247c2f0381dbb","type":"file","file":"99. attachments/BLUE_PRINCE_RDOQBi6JwT.png","x":1121,"y":5,"width":400,"height":220},
+		{
+			"id":"ab5fd17563728418",
+			"type":"text",
+			"text":"I consider this a bad option.\n\nClassroom eventually is useless, but if you have a disposable save, this makes getting to Classroom 9 a breeze.",
+			"styleAttributes":{},
+			"x":1191,
+			"y":289,
+			"width":260,
+			"height":211
+		},
+		{
+			"id":"10956e15f121da73",
+			"type":"text",
+			"text":"If you use Chamber of Mirrors, you are able to get 2+ Passageway, this makes it stronger than Cloister and Rotunda in terms of gem economy and draft potential, because you will have multiple 4 way rooms that cost 0 gems.",
+			"styleAttributes":{},
+			"x":770,
+			"y":289,
+			"width":260,
+			"height":271
+		},
+		{"id":"d40261bffae21b57","type":"file","file":"99. attachments/Pasted image 20250824085011.png","x":-180,"y":10,"width":400,"height":192},
+		{"id":"f66315d72460e16a","type":"file","file":"99. attachments/BLUE_PRINCE_e0drhutjwL.png","x":266,"y":10,"width":387,"height":210},
+		{
 			"id":"787f760c6da69266",
 			"type":"text",
-			"text":"# Room Candidates",
+			"text":"# Room Candidates\nFirst row are biggest impact, second row is good alternative options for one of the uses.",
 			"styleAttributes":{},
 			"x":-180,
-			"y":-360,
+			"y":-460,
 			"width":460,
-			"height":80
+			"height":140
 		},
-		{"id":"867a3a77dec74202","type":"file","file":"99. attachments/BLUE_PRINCE_Pi8ZrKYdIL.png","x":-180,"y":-247,"width":400,"height":207},
-		{"id":"f66315d72460e16a","type":"file","file":"99. attachments/BLUE_PRINCE_e0drhutjwL.png","x":-180,"y":240,"width":400,"height":217},
-		{"id":"239b70e9b14eb8bc","type":"file","file":"99. attachments/BLUE_PRINCE_UbrjadBkKf.png","x":-180,"y":0,"width":399,"height":201},
-		{"id":"509e06bbbb980277","type":"file","file":"99. attachments/BLUE_PRINCE_E0vGA75tXo.png","x":240,"y":247,"width":400,"height":210},
-		{"id":"3488f1469976e330","type":"file","file":"99. attachments/BLUE_PRINCE_iPzxHy4lCn.png","x":240,"y":0,"width":399,"height":204}
+		{"id":"867a3a77dec74202","type":"file","file":"99. attachments/BLUE_PRINCE_Pi8ZrKYdIL.png","x":-180,"y":-253,"width":400,"height":207},
+		{
+			"id":"81ff95caa236eb3e",
+			"type":"text",
+			"text":"Cloister is a good option if you have no Spare Terrace or Red Cloister (Red rooms have no Gem Cost)\n\nIf you have no Spare Terrace and the room is green, then this is superior to Rotunda, because of the dig spots and green synergy, plus upgrades.\n\nBeware of upgrades that change color, since they won't be affected by Spare [[Terrace.canvas|Terrace]].",
+			"styleAttributes":{},
+			"x":-150,
+			"y":289,
+			"width":340,
+			"height":311
+		},
+		{
+			"id":"bda9c344609e9558",
+			"type":"text",
+			"text":"If you have Spare Terrace and a Green Cloister and do not want to duplicate Passageways, this is a solid option.",
+			"styleAttributes":{},
+			"x":330,
+			"y":300,
+			"width":260,
+			"height":160
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"ebe0c528f394f436",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"509e06bbbb980277",
+			"fromSide":"bottom",
+			"toNode":"10956e15f121da73",
+			"toSide":"top"
+		},
+		{
+			"id":"4dc9a892a3f7414f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"0bf247c2f0381dbb",
+			"fromSide":"bottom",
+			"toNode":"ab5fd17563728418",
+			"toSide":"top"
+		},
+		{
+			"id":"b9710e047c6d7318",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d40261bffae21b57",
+			"fromSide":"bottom",
+			"toNode":"81ff95caa236eb3e",
+			"toSide":"top"
+		},
+		{
+			"id":"483fbbe5ebc1f7ca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f66315d72460e16a",
+			"fromSide":"bottom",
+			"toNode":"bda9c344609e9558",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

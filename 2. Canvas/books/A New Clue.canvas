@@ -83,57 +83,6 @@
 		{"id":"47ce4568c4ff5119","type":"file","file":"99. attachments/BLUE_PRINCE_36hE7ZtuNE.png","x":2870,"y":86,"width":399,"height":190},
 		{"id":"1e1258b1a6822f6d","type":"file","file":"99. attachments/BLUE_PRINCE_a69A0AkCgt.png","x":3300,"y":86,"width":347,"height":399},
 		{
-			"id":"b4bd4e8be2ff6878",
-			"type":"text",
-			"text":"TENDER CIPHER = THE RED PRINCE\nUNCLE AWE = A NEW CLUE\nDRAFT THE SIXES = THE FIXED STARS\nLUNAR RENAMED = REALM AND RUNE\n\nASSUME THAT PAGE COUNT STARTS ON TITLE PAGES\n\nMAJOR KEY = MA JOR = Small Word?\n\nKEEP LEFT - Stay on the Left Page\n\nRED PAGE A WORD X = 4th Page - 1st Word = \nGREEN PAGE C WORD A = Page 6 -> 4th Word = \nVIOLET PAGE B WORD Y = Page 5 -> Word 2 = \nBLUE PAGE Z WORD X = Page 3 -> Word 1  = ",
-			"styleAttributes":{},
-			"x":2760,
-			"y":-384,
-			"width":620,
-			"height":404
-		},
-		{"id":"a2e950f207198e71","type":"file","file":"99. attachments/BLUE_PRINCE_NwGKLFRNB7.png","x":4280,"y":652,"width":400,"height":268},
-		{
-			"id":"453bbf23e0163747",
-			"type":"text",
-			"text":"No tome after tome that the Library loaned.\nAnd the books that he had that he already owned.\nWere searched from their **covers** all the **way through**\nIf he found a new clue, he would know what to do.",
-			"styleAttributes":{},
-			"x":3399,
-			"y":-384,
-			"width":496,
-			"height":141
-		},
-		{
-			"id":"7dd2ef752ae6c26f",
-			"type":"text",
-			"text":"# The Red Prince\n\nA Page - X Word\n\n\nCountless\n",
-			"styleAttributes":{},
-			"x":2409,
-			"y":-820,
-			"width":620,
-			"height":340
-		},
-		{
-			"id":"6bc247615803dc23",
-			"type":"text",
-			"text":"# Fixed Stars\n\nThird Page - First Word\n\nPreface The Florearis\nThis Rooms Green\nBook Are Rooms",
-			"styleAttributes":{},
-			"x":3060,
-			"y":-820,
-			"width":560,
-			"height":340
-		},
-		{
-			"id":"22ba5912bfee5073",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":3399,
-			"y":-200,
-			"width":496,
-			"height":220
-		},
-		{
 			"id":"d2d4484d4ab4d76f",
 			"type":"text",
 			"text":"A = 1\nB = 2\nC = 3\nX = 24\nY = 25\nZ = 26",
@@ -141,7 +90,8 @@
 			"x":2320,
 			"y":-460,
 			"width":120,
-			"height":180
+			"height":180,
+			"color":"1"
 		},
 		{
 			"id":"d6bae8738a5d397d",
@@ -151,39 +101,157 @@
 			"x":2460,
 			"y":-460,
 			"width":120,
-			"height":180
+			"height":180,
+			"color":"1"
 		},
 		{
 			"id":"b38e1ab41da3f1f1",
 			"type":"text",
-			"text":"# Solution\n1. New Clue book says that four books are relevant\n\t1. The Red Prince\n\t2. A New Clue\n\t3. The Fixed Stars\n\t4. Realm & Rune\n2. The book also says that we should look from the cover all the way through.\n3. Page count starts from the Title Page (unsure if before or after)\n4. If you use the Magnifying Glass on the words of the book, there are small numbers in it",
+			"text":"# Theories\n1. New Clue book says that four books are relevant\n\t1. The Red Prince\n\t2. A New Clue\n\t3. The Fixed Stars\n\t4. Realm & Rune\n2. The book also says that we should look from the cover all the way through.\n3. Page count starts from the Title Page (unsure if before or after)\n4. If you use the Magnifying Glass on the words of the book, there are small numbers in it",
 			"styleAttributes":{},
 			"x":1970,
 			"y":-1660,
 			"width":749,
-			"height":300
+			"height":300,
+			"color":"3"
+		},
+		{"id":"c8c8b83b6f515984","type":"file","file":"99. attachments/BLUE_PRINCE_8orIns2Kga.png","x":-1840,"y":-400,"width":400,"height":225},
+		{"id":"8b6addff69ac1007","type":"file","file":"99. attachments/BLUE_PRINCE_hzSZTtdu6z.png","x":1160,"y":-1440,"width":782,"height":440},
+		{
+			"id":"04280b3d6b34b456",
+			"type":"text",
+			"text":"# Metro Stops\n1. 8 - Royal Station\n2. 7 - Angel Tower\n3. 3 - Aries Crossing\n4. 10 - Tanner Fork\n5. 1 - Oris Train Hall\n6. 13- Dead End",
+			"styleAttributes":{},
+			"x":1400,
+			"y":-980,
+			"width":542,
+			"height":260,
+			"color":"3"
 		},
 		{
 			"id":"0823e18217bb395c",
 			"type":"text",
-			"text":"# A New Clue\n\nOn Page 5:\n\n1 - All\n2 - Checked\n3 - Corner\n4 - Case\n5 - Rooms\n6 - Had\n7 - A\n8 - Low\n9 - Case\n10 - Clue\n11 - Found\n12 - In\n13 - The\n14 - Rooms\n\n\n\nRED PAGE A WORD X = 4th Page - 1st Word = All the?\nGREEN PAGE C WORD A = Page 6 -> 4th Word = \nVIOLET PAGE B WORD Y = Page 5 -> Word 2 = \nBLUE PAGE Z WORD X = Page 3 -> Word 1  = ",
+			"text":"# A New Clue - Low Case Clues\n\nOn Page 5:\n\n1 - All\n2 - Checked\n3 - Corner\n4 - Case\n5 - Rooms\n6 - Had\n7 - A\n8 - Low\n9 - Case\n10 - Clue\n11 - Found\n12 - In\n13 - The\n14 - Rooms\n\n**Patio** - **buried**\n**Nook** - **beside**\n**Office** - **west**\n**Pantry** - **bridgette**\n",
 			"styleAttributes":{},
-			"x":2760,
-			"y":-1660,
-			"width":1000,
-			"height":600
+			"x":2740,
+			"y":-1580,
+			"width":500,
+			"height":820,
+			"color":"4"
 		},
-		{"id":"c8c8b83b6f515984","type":"file","file":"99. attachments/BLUE_PRINCE_8orIns2Kga.png","x":-1840,"y":-400,"width":400,"height":225},
+		{"id":"54d010aa961e1812","type":"file","file":"99. attachments/BLUE_PRINCE_Gh6ka0vqOE.png","x":3320,"y":-1330,"width":400,"height":281},
 		{
-			"id":"a8b9b3ef526f9134",
+			"id":"5a570a23c87d4043",
 			"type":"text",
-			"text":"From what I am seeing it seems there are no numbers hidden inside the other three books besides A New Clue.",
+			"text":"# The Suspect Is Minor\nThere is a video with a Metro route that ends at the Dead End.",
+			"styleAttributes":{},
+			"x":1400,
+			"y":-685,
+			"width":542,
+			"height":125,
+			"color":"3"
+		},
+		{"id":"d1b77b53253a76cd","type":"file","file":"99. attachments/BLUE_PRINCE_JXuhH4xihX.png","x":3320,"y":-1622,"width":400,"height":225},
+		{
+			"id":"4ebb56c6d0d61c97",
+			"type":"text",
+			"text":"\n\nRED -  PAGE A WORD X = Clue Low\nGREEN - PAGE C WORD A = The Clue\nVIOLET - PAGE B WORD Y = All A\nBLUE - PAGE Z WORD X = Corner Low",
+			"styleAttributes":{},
+			"x":2400,
+			"y":-720,
+			"width":500,
+			"height":140,
+			"color":"3"
+		},
+		{
+			"id":"6bd9a56e731c4dd5",
+			"type":"text",
+			"text":"# Signs in the Book\n\nRoute 8\nDepart \nKeep Left\nTo Tanner Fork\nTurn Right\nDead End\nRecord\nEach\nStop\nOn The Way\n",
 			"styleAttributes":{},
 			"x":1970,
-			"y":-1340,
+			"y":-1330,
 			"width":749,
-			"height":100
-		}
+			"height":360,
+			"color":"3"
+		},
+		{
+			"id":"48c03c126dc882c1",
+			"type":"text",
+			"text":"# Stops to Words\n1. 8 - Royal Station - Low - X\n2. 7 - Angel Tower - A - Y\n3. 3 - Aries Crossing -  Corner - Z\n4. 10 - Tanner Fork - Clue - A\n5. 1 - Oris Train Hall - All - B\n6. 13 - Dead End - The - C",
+			"styleAttributes":{},
+			"x":1970,
+			"y":-925,
+			"width":410,
+			"height":330,
+			"color":"3"
+		},
+		{
+			"id":"adff21c4eb1a45d2",
+			"type":"text",
+			"text":"# Pantry",
+			"styleAttributes":{},
+			"x":5115,
+			"y":-1540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"539c485f4384f3f2",
+			"type":"text",
+			"text":"# Office",
+			"styleAttributes":{},
+			"x":4673,
+			"y":-1520,
+			"width":260,
+			"height":60
+		},
+		{"id":"bd7c8d73232a416f","type":"file","file":"99. attachments/BLUE_PRINCE_EExg2y9kl4.png","x":5137,"y":-1420,"width":217,"height":400},
+		{"id":"1c418ef6344257cf","type":"file","file":"99. attachments/BLUE_PRINCE_hVMochIDPG.png","x":4673,"y":-1420,"width":400,"height":367},
+		{
+			"id":"b18f45da681d6d72",
+			"type":"text",
+			"text":"# Patio",
+			"styleAttributes":{},
+			"x":3784,
+			"y":-1520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ecde8a48f6a37366",
+			"type":"text",
+			"text":"# Nook",
+			"styleAttributes":{},
+			"x":4233,
+			"y":-1520,
+			"width":260,
+			"height":60
+		},
+		{"id":"cdfc7fd2f66e8ef6","type":"file","file":"99. attachments/BLUE_PRINCE_2JocOkUq0w.jpg","x":3784,"y":-1420,"width":400,"height":225},
+		{"id":"b32ea2816f528e30","type":"file","file":"99. attachments/BLUE_PRINCE_pdqezf3fGL.png","x":4233,"y":-1420,"width":400,"height":312},
+		{
+			"id":"453bbf23e0163747",
+			"type":"text",
+			"text":"No tome after tome that the Library loaned.\nAnd the books that he had that he already owned.\nWere searched from their **covers** all the **way through**\nIf he found a new clue, he would know what to do.",
+			"styleAttributes":{},
+			"x":2930,
+			"y":-721,
+			"width":496,
+			"height":141,
+			"color":"4"
+		},
+		{
+			"id":"b4bd4e8be2ff6878",
+			"type":"text",
+			"text":"TENDER CIPHER = THE RED PRINCE\nUNCLE AWE = A NEW CLUE\nDRAFT THE SIXES = THE FIXED STARS\nLUNAR RENAMED = REALM AND RUNE\n\nASSUME THAT PAGE COUNT STARTS ON TITLE PAGES\n\nMAJOR KEY = MA JOR = Small Word?",
+			"styleAttributes":{},
+			"x":2620,
+			"y":-560,
+			"width":620,
+			"height":224,
+			"color":"4"
+		},
+		{"id":"a2e950f207198e71","type":"file","file":"99. attachments/BLUE_PRINCE_NwGKLFRNB7.png","x":2869,"y":312,"width":400,"height":268}
 	],
 	"edges":[
 		{
@@ -203,6 +271,51 @@
 			"fromSide":"top",
 			"toNode":"33463b751f180cfd",
 			"toSide":"bottom"
+		},
+		{
+			"id":"951c9955f373628c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0823e18217bb395c",
+			"fromSide":"right",
+			"toNode":"54d010aa961e1812",
+			"toSide":"left"
+		},
+		{
+			"id":"38f47fa84dd24906",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b18f45da681d6d72",
+			"fromSide":"bottom",
+			"toNode":"cdfc7fd2f66e8ef6",
+			"toSide":"top"
+		},
+		{
+			"id":"91e4ff8b8f8c525c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ecde8a48f6a37366",
+			"fromSide":"bottom",
+			"toNode":"b32ea2816f528e30",
+			"toSide":"top"
+		},
+		{
+			"id":"8997775b9b8e7760",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"539c485f4384f3f2",
+			"fromSide":"bottom",
+			"toNode":"1c418ef6344257cf",
+			"toSide":"top"
+		},
+		{
+			"id":"78d1df47f90d947b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"adff21c4eb1a45d2",
+			"fromSide":"bottom",
+			"toNode":"bd7c8d73232a416f",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

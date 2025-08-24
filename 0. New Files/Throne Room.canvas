@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"e1ad6455e1eaab95","type":"file","file":"99. attachments/BLUE_PRINCE_wD4MbBhIG2 1.png","x":-640,"y":-380,"width":400,"height":225},
+		{
+			"id":"8317059a85972804",
+			"type":"text",
+			"text":"# Obtain through [[Orindian Ruins.canvas|Orindian Ruins]]",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-540,
+			"width":400,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
