@@ -166,14 +166,24 @@
 		{
 			"id":"0823e18217bb395c",
 			"type":"text",
-			"text":"# A New Clue\n\nOn Page 5:\n\n1 - All\n2 - Checked\n3 - Corner\n4 - Case\n5 - Rooms\n6 - Had\n7 - A\n8 - Low\n9 - Case\n10 - Clue\n11 - Found\n12 - In\n13 - The\n14 - Rooms\n",
+			"text":"# A New Clue\n\nOn Page 5:\n\n1 - All\n2 - Checked\n3 - Corner\n4 - Case\n5 - Rooms\n6 - Had\n7 - A\n8 - Low\n9 - Case\n10 - Clue\n11 - Found\n12 - In\n13 - The\n14 - Rooms\n\n\n\nRED PAGE A WORD X = 4th Page - 1st Word = All the?\nGREEN PAGE C WORD A = Page 6 -> 4th Word = \nVIOLET PAGE B WORD Y = Page 5 -> Word 2 = \nBLUE PAGE Z WORD X = Page 3 -> Word 1  = ",
 			"styleAttributes":{},
 			"x":2760,
 			"y":-1660,
 			"width":1000,
 			"height":600
 		},
-		{"id":"c8c8b83b6f515984","type":"file","file":"99. attachments/BLUE_PRINCE_8orIns2Kga.png","x":-1840,"y":-400,"width":400,"height":225}
+		{"id":"c8c8b83b6f515984","type":"file","file":"99. attachments/BLUE_PRINCE_8orIns2Kga.png","x":-1840,"y":-400,"width":400,"height":225},
+		{
+			"id":"a8b9b3ef526f9134",
+			"type":"text",
+			"text":"From what I am seeing it seems there are no numbers hidden inside the other three books besides A New Clue.",
+			"styleAttributes":{},
+			"x":1970,
+			"y":-1340,
+			"width":749,
+			"height":100
+		}
 	],
 	"edges":[
 		{

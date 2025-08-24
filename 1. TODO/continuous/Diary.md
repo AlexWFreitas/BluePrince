@@ -1,6 +1,18 @@
+Plan
+- Do a run without picking any items
+
+Day 77
+- I entered the Library and read Realm & Rune with the Magnifying Glass and did not find anything similar to what I found in A New Clue, this means that I am missing something on my solution for the New Clue puzzle
+- I drafted a Bookshop to check if there are new books and there are not.
+- I drafted Eel Aquarium to Power the closet rooms and then an Archive and did not find anything new.
+- I drafted a Drafting Studio and there are no new rooms to add.
+- I crafted a Power Hammer, a Jack Hammer and a Burning Glass and tried to interact with the areas inside the Safehouse and the Black Mirror
+	- No interactions possible.
+- I tried to check the Pool and the Observatory to check if there are Hidden Blue Memos but I did not find anything, I must be missing something
+
 Day 76
 - 4 Allowance but no Quest Bedroom, sad.
-- Ordered Realm and Rune from Library.
+- Ordered the book "Realm & Rune" from Library.
 
 Day 75
 - Bad run, keycard game over.
