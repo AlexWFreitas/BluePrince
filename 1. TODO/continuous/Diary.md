@@ -1,3 +1,14 @@
+Day 76
+- 4 Allowance but no Quest Bedroom, sad.
+- Ordered Realm and Rune from Library.
+
+Day 75
+- Bad run, keycard game over.
+- I read Fixed Stars from Library and found no hidden words or info.
+
+Day 74
+- Good run, but bad steps management
+- Jack Hammer is an insanely good item for runs.
 
 Day 73
 - Bad run, low resources and shit.
