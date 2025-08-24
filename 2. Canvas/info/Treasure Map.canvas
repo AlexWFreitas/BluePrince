@@ -138,6 +138,17 @@
 			"width":260,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"5345bcf78be30a99",
+			"type":"text",
+			"text":"[[Showroom.canvas|Showroom]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":40,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[],

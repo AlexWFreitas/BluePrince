@@ -172,7 +172,19 @@
 		{"id":"04000a9b901dbdaa","type":"file","file":"99. attachments/BLUE_PRINCE_OIcfGqxfbp.png","x":1220,"y":-408,"width":400,"height":368},
 		{"id":"e8aceffd095448b2","type":"file","file":"99. attachments/BLUE_PRINCE_3iWdqkA86D.png","x":453,"y":-440,"width":307,"height":400},
 		{"id":"fbafd77d896dfd95","type":"file","file":"99. attachments/BLUE_PRINCE_V3UMmNJpjc.png","x":1220,"y":-10,"width":400,"height":367},
-		{"id":"4b0233da27390f66","type":"file","file":"99. attachments/BLUE_PRINCE_1Iwp84CJtn.png","x":1660,"y":-814,"width":400,"height":368}
+		{"id":"4b0233da27390f66","type":"file","file":"99. attachments/BLUE_PRINCE_1Iwp84CJtn.png","x":1660,"y":-814,"width":400,"height":368},
+		{"id":"8e75be41cf69de28","type":"file","file":"99. attachments/BLUE_PRINCE_ruGgREpFgF 1.png","x":780,"y":-1,"width":400,"height":362},
+		{
+			"id":"321d117a3226cbb5",
+			"type":"text",
+			"text":"[[Inner Sanctum - Verra Shores.canvas|Inner Sanctum - Verra Shores]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":520,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{

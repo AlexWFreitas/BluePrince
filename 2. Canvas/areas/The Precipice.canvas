@@ -18,12 +18,12 @@
 		{
 			"id":"c7df8a298dc6119c",
 			"type":"text",
-			"text":"# Room Info\n\nArea unlocked by doing the [[Blue Fire Puzzle.canvas|Blue Fire Puzzle]].",
+			"text":"# Room Info\n\nArea unlocked by doing the [[Blue Fire Puzzle.canvas|Blue Fire Puzzle]].\n\nIf you think there is a reward by going to the level where the elevator isn't in, there is none, so don't bother trying.",
 			"styleAttributes":{},
 			"x":-2420,
 			"y":-727,
 			"width":948,
-			"height":145
+			"height":187
 		},
 		{"id":"b30bcaae4c3595c3","type":"file","file":"99. attachments/BLUE_PRINCE_jMYaGVCGk7.png","x":-3440,"y":-120,"width":400,"height":225},
 		{"id":"f071723b6fe7db2c","type":"file","file":"99. attachments/BLUE_PRINCE_ADi0cEDyc8.png","x":-3000,"y":-120,"width":400,"height":225},
@@ -109,7 +109,30 @@
 			"height":60
 		},
 		{"id":"ae5a975c800bb88d","type":"file","file":"99. attachments/BLUE_PRINCE_FmcWw7Cj9K.png","x":-1872,"y":-2080,"width":400,"height":225},
-		{"id":"74038f534fa8b4f7","type":"file","file":"99. attachments/BLUE_PRINCE_3GG6JuZgK5.png","x":-1872,"y":-1805,"width":400,"height":225}
+		{"id":"74038f534fa8b4f7","type":"file","file":"99. attachments/BLUE_PRINCE_3GG6JuZgK5.png","x":-1872,"y":-1805,"width":400,"height":225},
+		{
+			"id":"cb9af10458edfa20",
+			"type":"text",
+			"text":"[[Check the Precipice Elevator in underground by going through the Tomb shortcut instead of taking the Elevator.canvas|Check the Precipice Elevator in underground by going through the Tomb shortcut instead of taking the Elevator]]",
+			"styleAttributes":{},
+			"x":-2420,
+			"y":-505,
+			"width":260,
+			"height":165
+		},
+		{"id":"136b57834d6e9968","type":"file","file":"99. attachments/BLUE_PRINCE_DW0LDjXisM.png","x":-2120,"y":-505,"width":400,"height":225},
+		{"id":"cb8a4895812bdadc","type":"file","file":"99. attachments/BLUE_PRINCE_uRLfu8uasn.png","x":-1700,"y":-505,"width":400,"height":225},
+		{
+			"id":"a9bae6fb4f1c9b16",
+			"type":"text",
+			"text":"Nothing happens, no rewards.",
+			"styleAttributes":{},
+			"x":-1840,
+			"y":-205,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{"id":"b02d955c37416a88","toFloating":false,"fromNode":"cffe72601ee624bb","fromSide":"top","toNode":"da307cbe0342a809","toSide":"bottom"},
@@ -138,6 +161,24 @@
 			"fromNode":"42920da7e9002e4a",
 			"fromSide":"top",
 			"toNode":"31e0afeeff38e959",
+			"toSide":"bottom"
+		},
+		{
+			"id":"00fdc5c935b1813f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a9bae6fb4f1c9b16",
+			"fromSide":"top",
+			"toNode":"136b57834d6e9968",
+			"toSide":"bottom"
+		},
+		{
+			"id":"6638bac5939ca40f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a9bae6fb4f1c9b16",
+			"fromSide":"top",
+			"toNode":"cb8a4895812bdadc",
 			"toSide":"bottom"
 		}
 	],

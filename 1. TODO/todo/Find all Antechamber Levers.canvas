@@ -78,14 +78,25 @@
 			"color":"4"
 		},
 		{
+			"id":"86fac7e092e5b74d",
+			"type":"text",
+			"text":"[[Throne Room.canvas|Throne Room]] - North Lever",
+			"styleAttributes":{},
+			"x":-360,
+			"y":10,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"9ddeb42d20509bfa",
 			"type":"text",
-			"text":"# Info\n\nAmong the rooms we know that might have levers we have:\n- [[Greenhouse.canvas|Greenhouse]] (South Door)\n- [[Inner Sanctum.canvas|Inner Sanctum]] (North Door - Leads to [[046 - Room 46.canvas|046 - Room 46]])\n- [[Secret Garden.canvas|Secret Garden]] (East and West Doors)\n- [[Weight Room.canvas|Weight Room]] - You can break the wall on the Weight Room to reveal the Antechamber South Lever.\n- [[Great Hall.canvas|Great Hall]] - Sometimes a lever spawns on this room, maybe sometimes it will need a [[Power Hammer.canvas|Power Hammer]] (Unconfirmed need) - East Lever",
+			"text":"# Info\n\nAmong the rooms we know that might have levers we have:\n\n- [[Greenhouse.canvas|Greenhouse]] (South Door) - Needs Broken Lever\n- [[Inner Sanctum.canvas|Inner Sanctum]] (North Door - Leads to [[046 - Room 46.canvas|046 - Room 46]])\n- [[Secret Garden.canvas|Secret Garden]] (East and West Doors) - Needs Secret Garden Key\n- [[Weight Room.canvas|Weight Room]] - (South Door) - You can break the wall on the Weight Room to reveal the Antechamber South Lever.\n- [[Great Hall.canvas|Great Hall]] - (East Door) - In one of the 6 Doors on the sides.\n- [[Throne Room.canvas|Throne Room]] - (North Door - Leads to [[046 - Room 46.canvas|046 - Room 46]])",
 			"styleAttributes":{},
 			"x":-680,
-			"y":-520,
-			"width":500,
-			"height":440
+			"y":-420,
+			"width":660,
+			"height":340
 		}
 	],
 	"edges":[],

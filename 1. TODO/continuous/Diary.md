@@ -1,6 +1,36 @@
 Plan
 - Do a run without picking any items
 
+Day 84
+- Hidden Memos
+	- Laboratory 
+		- "SYNKA INC. FOUNDED IN 1933.
+		- HAS TWO FACILITIES - SYNKA LABS IN REDDINGTON 
+		- AND SYNKA COURT, A 16-STORY FACILITY LOCATED IN DOWNTOWN ORIS. 
+		- FEATURING 8 FLOORS ABOVE GROUND, AND 8 HAS  FLOORS BELOW GROUND."
+	- Sauna - "Saunas are commonly used in Corarica"
+		- This implies that the weather is cold.
+	- Walk-in Closet
+		- Clara Epsen has died in June 11th 1983.
+	- Gallery - "The titles are synonyms"
+		- Already solved, so okay I guess...
+---LineSplit---
+- Tested the Tomb / Precipice theory and it didn't give any reward or clues.
+- Stored a Key 8 in Coat Check on this run, because I need to check the content of the Room 8 Memo.
+- Conservatory showed me the Lost and Found room, but I have no clue on how to get it.
+- I drafted a Solarium to get Rare rooms more easily.
+- I drafted the Throne Room in the middle of the House
+	- This room has two benefits:
+		- It has Three Exits
+		- It allows you to open Room 46 through it.
+			- I am not sure if the Room 46 opened through this room is the same as Room 46 through Inner Sanctum.
+	- Also I got the last Inner Sanctum Key
+	- I should check the Throne Room with the Crown of Blueprints to see what happens.
+- I went to the Inner Sanctum and solved the last Sigil, which was the Verra Shores Sigil
+- I got all the 8 months, 8 places letters.
+- I also got the Trophy for solving all Sigils
+- **To go further, I think I need to collect all the hidden memos with tips and start thinking about what else can be done.**
+
 Day 83
 - Hidden Memos
 	- Parlor - "The gems are in the white box", answer to the puzzle of the day
@@ -16,11 +46,11 @@ Day 83
 		- On the geography map, it shows something similar to a Waxing Crescent Moon phase.
 	- Observatory - "The largest planet in the night sky is named after the Paragon of Ash"
 		- This seems to be related to a planet named Veia, there is an angel named Veia in the Chapel and she has a tool related to cleaning.
-- No luck today drafting the Throne Room, I will try to draft the Solarium so I can get rare rooms more easily and then try to draft the Throne Room, meanwhile I am trying to get as many memo room as possible.
+- No luck today drafting the Throne Room, I will try to draft the Solarium so I can get rare rooms more easily and then try to draft the Throne Room, meanwhile I am trying to get as many hidden memos from rank 8 blue rooms as possible.
 - I feel that I won't be able to get the memo room from The Foundation in this save, because it is not in the 8th rank.
 - I got a Key 8 on this run, but my security settings didn't allow me to get a locked door at Rank 8.
 - I want to check what happens when you go from the Tomb into the Precipice without using the Elevator to go down, if the Elevator is already there, or if there is something in the place of the Elevator.
-- 
+	- Checked on Day 84 run and it resulted in nothing, the elevator isn't there, on both sides if you set it up, but there is no hidden clue or reward.
 
 
 Day 82

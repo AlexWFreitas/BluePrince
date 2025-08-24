@@ -10,12 +10,12 @@
 		{
 			"id":"62c69b0277232f67",
 			"type":"text",
-			"text":"# Room Info\n\nThis room is always fixed on the grid.\n\nThis room is surrounded by locked doors that need to be opened through levers that are on certain rooms.\n- [[Secret Garden.canvas|Secret Garden]] - West and East Doors\n- [[Greenhouse.canvas|Greenhouse]] - South Door\n- [[Great Hall.canvas|Great Hall]] - ???\n- [[Basement.canvas|Basement]] - Through Inner Sanctum opens the Door to Room 46\n- [[Weight Room.canvas|Weight Room]] - ???\n\nOpened doors reset at the end of the run.\n\nThis room also connects to the [[046 - Room 46.canvas|Room 46]], you need to reach the [[Inner Sanctum.canvas|Inner Sanctum]] to be able to open it.\n\nIf you reach this room, you can get a Basement Key item that will stay with you for the run, this can be used to open some special doors available in the house.",
+			"text":"# Room Info\n\nThis room is always fixed on the grid.\n\nThis room is surrounded by locked doors that need to be opened through levers that are on certain rooms.\n- [[Secret Garden.canvas|Secret Garden]] - West and East Doors\n- [[Greenhouse.canvas|Greenhouse]] - South Door\n- [[Great Hall.canvas|Great Hall]] - East Door\n- [[Basement.canvas|Basement]] - Through Inner Sanctum opens the Door to Room 46\n- [[Throne Room.canvas|Throne Room]] - Opens the Door to Room 46\n- [[Weight Room.canvas|Weight Room]] - South Door\n- [[Mechanarium.canvas|Mechanarium]] - West Door\n\nOpened doors reset at the end of the run.\n\nThis room also connects to the [[046 - Room 46.canvas|Room 46]], you need to reach the [[Inner Sanctum.canvas|Inner Sanctum]] to be able to open it.\n\nIf you reach this room, you can get a Basement Key item that will stay with you for the run, this can be used to open some special doors available in the house.",
 			"styleAttributes":{},
 			"x":-1840,
 			"y":-1420,
 			"width":620,
-			"height":560
+			"height":640
 		},
 		{"id":"8857a94cb5cdb898","type":"file","file":"99. attachments/BLUE_PRINCE_2KRxJG9QMX.png","x":-820,"y":-1740,"width":996,"height":560},
 		{
@@ -27,6 +27,104 @@
 			"y":-1080,
 			"width":320,
 			"height":80
+		},
+		{
+			"id":"d0b9f75ce86d5bfb",
+			"type":"text",
+			"text":"[[Find all Antechamber Levers.canvas|Find all Antechamber Levers]]",
+			"styleAttributes":{},
+			"x":-2120,
+			"y":-1170,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"45647ddbeb43151f",
+			"type":"text",
+			"text":"[[Secret Garden.canvas|Secret Garden]] - West Lever",
+			"styleAttributes":{},
+			"x":-2500,
+			"y":-780,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"75de6646df46713b",
+			"type":"text",
+			"text":"[[Mechanarium.canvas|Mechanarium]] - West Lever",
+			"styleAttributes":{},
+			"x":-2500,
+			"y":-860,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ca042c967e0d73b3",
+			"type":"text",
+			"text":"[[Greenhouse.canvas|Greenhouse]] - South Lever",
+			"styleAttributes":{},
+			"x":-2500,
+			"y":-960,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e9c287e632bcaecf",
+			"type":"text",
+			"text":"[[Weight Room.canvas|Weight Room]] - South Lever",
+			"styleAttributes":{},
+			"x":-2500,
+			"y":-1040,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"c8eac57d4fe2b5f7",
+			"type":"text",
+			"text":"[[Throne Room.canvas|Throne Room]] - North Lever",
+			"styleAttributes":{},
+			"x":-2200,
+			"y":-1040,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ced9765683642b8e",
+			"type":"text",
+			"text":"[[Inner Sanctum.canvas|Inner Sanctum]] - North Lever",
+			"styleAttributes":{},
+			"x":-2200,
+			"y":-960,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2e66d1aa1b393ccc",
+			"type":"text",
+			"text":"[[Great Hall.canvas|Great Hall]] - East Lever",
+			"styleAttributes":{},
+			"x":-2200,
+			"y":-860,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"9f1e26750a251607",
+			"type":"text",
+			"text":"[[Secret Garden.canvas|Secret Garden]] - East Lever",
+			"styleAttributes":{},
+			"x":-2200,
+			"y":-780,
+			"width":280,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[

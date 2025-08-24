@@ -12,7 +12,23 @@
 			"height":120
 		},
 		{"id":"ab3572836a397c4f","type":"file","file":"99. attachments/BLUE_PRINCE_Fe9sOir54s.png","x":-640,"y":-120,"width":400,"height":225},
-		{"id":"cccebff078f75a2a","type":"file","file":"99. attachments/BLUE_PRINCE_hLLWzIUrz0.png","x":-220,"y":-540,"width":727,"height":385}
+		{"id":"cccebff078f75a2a","type":"file","file":"99. attachments/BLUE_PRINCE_hLLWzIUrz0.png","x":-220,"y":-540,"width":727,"height":385},
+		{"id":"229fef9182b8b605","type":"file","file":"99. attachments/BLUE_PRINCE_OaykoOuwlP.png","x":-220,"y":-120,"width":400,"height":225},
+		{"id":"374bd412d19e7456","type":"file","file":"99. attachments/BLUE_PRINCE_EhwLk0SRjU.png","x":200,"y":-120,"width":400,"height":225},
+		{"id":"90a79f8c6297bdca","type":"file","file":"99. attachments/BLUE_PRINCE_lu93fsN1MB.png","x":-640,"y":140,"width":400,"height":225},
+		{"id":"84f05757649fea07","type":"file","file":"99. attachments/BLUE_PRINCE_7jUYCAyWtJ.png","x":-220,"y":140,"width":400,"height":225},
+		{"id":"02ec2a7ca3ea33a0","type":"file","file":"99. attachments/BLUE_PRINCE_oth5l6ksq2.png","x":200,"y":140,"width":400,"height":225},
+		{"id":"9bb833b5637f2241","type":"file","file":"99. attachments/BLUE_PRINCE_fvLgb3oDyE.png","x":-640,"y":400,"width":400,"height":225},
+		{
+			"id":"8e27b1e4e1c8638b",
+			"type":"text",
+			"text":"# Contains the second Antechamber lever for Room 46",
+			"styleAttributes":{},
+			"x":520,
+			"y":-540,
+			"width":380,
+			"height":240
+		}
 	],
 	"edges":[],
 	"metadata":{

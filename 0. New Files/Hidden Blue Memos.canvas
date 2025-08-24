@@ -229,10 +229,9 @@
 			"x":2810,
 			"y":-1600,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"4"
 		},
-		{"id":"cb54097f4fcef8bf","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2740,"y":-1492,"width":400,"height":225},
-		{"id":"0c8bb19419a9d71a","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":4240,"y":-1492,"width":400,"height":225},
 		{
 			"id":"379d2f7269629e0f",
 			"type":"text",
@@ -241,7 +240,8 @@
 			"x":4310,
 			"y":-1600,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"4"
 		},
 		{
 			"id":"6377a611ba60745c",
@@ -466,7 +466,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"4a37119775b2fdf8","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2250,"y":-223,"width":400,"height":225},
 		{
 			"id":"29038f9ec9500d3d",
 			"type":"text",
@@ -475,9 +474,9 @@
 			"x":2320,
 			"y":-331,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"4"
 		},
-		{"id":"0e224995ef248a19","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2740,"y":-223,"width":400,"height":225},
 		{
 			"id":"9956bc1323a231b7",
 			"type":"text",
@@ -486,7 +485,8 @@
 			"x":2810,
 			"y":-331,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"4"
 		},
 		{"id":"6ab38179db90f551","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":3220,"y":-220,"width":400,"height":225},
 		{
@@ -697,7 +697,11 @@
 			"color":"4"
 		},
 		{"id":"bf8247e95038c95b","type":"file","file":"99. attachments/BLUE_PRINCE_4cWbPmzZM2.png","x":340,"y":340,"width":400,"height":225},
-		{"id":"37fd433465067e0f","type":"file","file":"99. attachments/BLUE_PRINCE_ok3xjRiKys.png","x":1780,"y":-1492,"width":400,"height":225}
+		{"id":"37fd433465067e0f","type":"file","file":"99. attachments/BLUE_PRINCE_ok3xjRiKys.png","x":1780,"y":-1492,"width":400,"height":225},
+		{"id":"981e410bef300fce","type":"file","file":"99. attachments/BLUE_PRINCE_3UtqTRZmjd.png","x":4240,"y":-1492,"width":400,"height":225},
+		{"id":"7d273e286e4b1f2f","type":"file","file":"99. attachments/BLUE_PRINCE_fc6cdfuTJw.png","x":2250,"y":-220,"width":400,"height":225},
+		{"id":"9f9543e338035f91","type":"file","file":"99. attachments/BLUE_PRINCE_rRw4td11aU.png","x":2740,"y":-220,"width":400,"height":225},
+		{"id":"0da5c41fb62c42a5","type":"file","file":"99. attachments/BLUE_PRINCE_41khAKVa5K.png","x":2740,"y":-1492,"width":400,"height":225}
 	],
 	"edges":[
 		{
@@ -864,15 +868,6 @@
 			"toSide":"top"
 		},
 		{
-			"id":"720fd2f2edcd1b20",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"505a51af2689e698",
-			"fromSide":"bottom",
-			"toNode":"cb54097f4fcef8bf",
-			"toSide":"top"
-		},
-		{
 			"id":"8d3f4d0ee6b22eb7",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -888,15 +883,6 @@
 			"fromNode":"d347f26e314807bd",
 			"fromSide":"bottom",
 			"toNode":"e952f5b792986f92",
-			"toSide":"top"
-		},
-		{
-			"id":"de4e5b419ff5f123",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"379d2f7269629e0f",
-			"fromSide":"bottom",
-			"toNode":"0c8bb19419a9d71a",
 			"toSide":"top"
 		},
 		{
@@ -1014,24 +1000,6 @@
 			"fromNode":"b72d53bc1fe1a110",
 			"fromSide":"bottom",
 			"toNode":"15f6fc6c1f8675ea",
-			"toSide":"top"
-		},
-		{
-			"id":"96b39b6de3dea9a0",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"29038f9ec9500d3d",
-			"fromSide":"bottom",
-			"toNode":"4a37119775b2fdf8",
-			"toSide":"top"
-		},
-		{
-			"id":"1da82fb29cb199a7",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"9956bc1323a231b7",
-			"fromSide":"bottom",
-			"toNode":"0e224995ef248a19",
 			"toSide":"top"
 		},
 		{
@@ -1239,6 +1207,42 @@
 			"fromNode":"291a8c47d99753e0",
 			"fromSide":"bottom",
 			"toNode":"37fd433465067e0f",
+			"toSide":"top"
+		},
+		{
+			"id":"b07dd3562d9b9c76",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"379d2f7269629e0f",
+			"fromSide":"bottom",
+			"toNode":"981e410bef300fce",
+			"toSide":"top"
+		},
+		{
+			"id":"5535f7df06a30486",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"29038f9ec9500d3d",
+			"fromSide":"bottom",
+			"toNode":"7d273e286e4b1f2f",
+			"toSide":"top"
+		},
+		{
+			"id":"190f05910012becd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9956bc1323a231b7",
+			"fromSide":"bottom",
+			"toNode":"9f9543e338035f91",
+			"toSide":"top"
+		},
+		{
+			"id":"4f7f36637096c901",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"505a51af2689e698",
+			"fromSide":"bottom",
+			"toNode":"0da5c41fb62c42a5",
 			"toSide":"top"
 		}
 	],

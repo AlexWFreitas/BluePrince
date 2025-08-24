@@ -267,14 +267,17 @@
 		{
 			"id":"22522e1d8a9699b2",
 			"type":"text",
-			"text":"# Verra Shores\nDesert?\nHeat\nTurtle\nPink or White",
+			"text":"# Verra Shores\nHeaty Weather\nSpiritual Civilization\nTurtle Travel\nPink",
 			"styleAttributes":{},
 			"x":-2000,
 			"y":-40,
 			"width":576,
-			"height":347
+			"height":200,
+			"color":"4"
 		},
-		{"id":"d4ef64f383624d09","type":"file","file":"99. attachments/BLUE_PRINCE_EaCIX9B9YP.png","x":-2000,"y":-406,"width":400,"height":339}
+		{"id":"d4ef64f383624d09","type":"file","file":"99. attachments/BLUE_PRINCE_EaCIX9B9YP.png","x":-2000,"y":-406,"width":400,"height":339},
+		{"id":"f0a3fd4ec89531ef","type":"file","file":"99. attachments/BLUE_PRINCE_vml98hYpqs.png","x":-1580,"y":-406,"width":603,"height":339},
+		{"id":"a2b161eff4dbb62f","type":"file","file":"99. attachments/BLUE_PRINCE_ZX976REDjx.png","x":-600,"y":-435,"width":400,"height":225}
 	],
 	"edges":[
 		{
