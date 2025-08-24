@@ -12,6 +12,7 @@ Day 80
 	- First Puzzle (Unsolved)
 		- Every page image has a sign in it, together they form a phrase saying that I should start in Route 8, stay left until Tanner Fork, then go Right and then reach Dead End, and I should record each stop
 		- This creates a sequence of numbers that I am not sure if they are translated into words or if there is something else
+			- There is some thing on the book related to letters XYZABC, it says that Dead End is C though, so maybe each number is converted to a word and they represent XYZABC and are used with the book colors with pages and words.
 	- Second Puzzle (Solved)
 		- The numbered words create a phrase saying that the all the checked corner case rooms had a low case clue in them.
 		- This refers to the checked corner cases room shown in the book
