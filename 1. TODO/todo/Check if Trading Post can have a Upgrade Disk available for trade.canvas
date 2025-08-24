@@ -10,7 +10,19 @@
 			"y":20,
 			"width":260,
 			"height":60
-		}
+		},
+		{
+			"id":"009ea579dede3cfd",
+			"type":"text",
+			"text":"Yes there is.",
+			"styleAttributes":{},
+			"x":-340,
+			"y":100,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"ad22c53a40576633","type":"file","file":"99. attachments/BLUE_PRINCE_ZgKguwg6Kd 1.png","x":-40,"y":18,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

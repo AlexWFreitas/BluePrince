@@ -1,28 +1,19 @@
 {
 	"nodes":[
 		{"id":"d4013be5bc3594dc","type":"file","file":"99. attachments/BLUE_PRINCE_mb92Ccddpa 1.png","x":-480,"y":-280,"width":400,"height":225},
+		{"id":"c49e19295818eccb","type":"file","file":"99. attachments/BLUE_PRINCE_zEiEKAYFrU.png","x":-40,"y":-280,"width":400,"height":225}
+	],
+	"edges":[
 		{
-			"id":"42b00ec625f246d7",
-			"type":"text",
-			"text":"[[Farro.canvas|Farro]] - Kirk Darren might be Farro? (0% confidence)",
+			"id":"8e845723bdc32937",
 			"styleAttributes":{},
-			"x":-480,
-			"y":-380,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"46ee1a3487bf1f06",
-			"type":"text",
-			"text":"It's possible that Kirk Darren is [[Hartley Ruota.canvas|Hartley Ruota]] based on the fact that there is a memo note on his room in a weird place.",
-			"styleAttributes":{},
-			"x":-480,
-			"y":-40,
-			"width":400,
-			"height":140
+			"toFloating":false,
+			"fromNode":"c49e19295818eccb",
+			"fromSide":"left",
+			"toNode":"d4013be5bc3594dc",
+			"toSide":"right"
 		}
 	],
-	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

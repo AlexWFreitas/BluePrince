@@ -1,6 +1,18 @@
 Plan
 - Do a run without picking any items
 
+Day 81
+- Hidden Memos
+	- Rumpus Room - Alzara is based on an Erajan soothsayer that was banned from the Aries Court after a prophecy did not come to pass
+	- Storeroom - There are six permanent additions in the house.
+	- Trophy Room - Eight gems were removed from the Ruby Crown of Aries
+	- Drawing Room - Months are slightly longer than days
+	- Locker Room - Kirk Darren is not a Pseudonym
+- I drafted a King then a Rook in the First Row so that the King is in the corner and then solved the chess board puzzle by placing all pieces
+	- This didn't solve the Castle puzzle, so maybe I need to do something else or maybe it's a puzzle related to words.
+- I was able to draw a Throne Room but did not have the gems.
+	- I wasn't able to draft a Throne Room, I will try on the next run.
+- I increased the rarity of the Library room because I will probably not be using it that much from now on.
 
 Day 80
 - Hidden Memos

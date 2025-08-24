@@ -75,7 +75,18 @@
 			"height":120,
 			"color":"1"
 		},
-		{"id":"e3b8bdaf2d59b2b8","type":"file","file":"99. attachments/BLUE_PRINCE_0LVyZsM68b.png","x":-220,"y":88,"width":400,"height":225}
+		{"id":"e3b8bdaf2d59b2b8","type":"file","file":"99. attachments/BLUE_PRINCE_0LVyZsM68b.png","x":-220,"y":88,"width":400,"height":225},
+		{
+			"id":"03f5832c641313b3",
+			"type":"text",
+			"text":"This puzzle is probably a Red Herring",
+			"styleAttributes":{},
+			"x":-150,
+			"y":360,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{
@@ -103,6 +114,15 @@
 			"fromNode":"2d5685ecb04ea407",
 			"fromSide":"top",
 			"toNode":"c2fc5c874dc709f5",
+			"toSide":"bottom"
+		},
+		{
+			"id":"b8c2a3ec91cee924",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"03f5832c641313b3",
+			"fromSide":"top",
+			"toNode":"e3b8bdaf2d59b2b8",
 			"toSide":"bottom"
 		}
 	],
