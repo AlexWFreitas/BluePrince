@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"1080209b237aedae",
+			"type":"text",
+			"text":"I have the feeling that there might be something hidden there, because the Elevator might still be up.",
+			"styleAttributes":{},
+			"x":-420,
+			"y":-240,
+			"width":280,
+			"height":140
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

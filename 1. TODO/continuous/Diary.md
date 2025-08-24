@@ -1,6 +1,40 @@
 Plan
 - Do a run without picking any items
 
+Day 83
+- Hidden Memos
+	- Parlor - "The gems are in the white box", answer to the puzzle of the day
+	- Classroom - This gives a memo with information about colors and the realms
+		- Green is Nuance
+		- Pink is Verra
+		- Orange is Corarica
+	- Nook - "The rook can perform a special move with another piece"
+		- This seems related to the Chess Castling Puzzle
+		- The only place where I can see a Rook and a King is in the Precipice Chess Puzzle room while playing the puzzle or after solving the puzzle with the giant pieces that give powers.
+	- Clock Tower  - "Inneclipses only appear in the north sky"
+		- Inneclipse seems to be related to a phase of the moon or the occurrence of an eclipse
+		- On the geography map, it shows something similar to a Waxing Crescent Moon phase.
+	- Observatory - "The largest planet in the night sky is named after the Paragon of Ash"
+		- This seems to be related to a planet named Veia, there is an angel named Veia in the Chapel and she has a tool related to cleaning.
+- No luck today drafting the Throne Room, I will try to draft the Solarium so I can get rare rooms more easily and then try to draft the Throne Room, meanwhile I am trying to get as many memo room as possible.
+- I feel that I won't be able to get the memo room from The Foundation in this save, because it is not in the 8th rank.
+- I got a Key 8 on this run, but my security settings didn't allow me to get a locked door at Rank 8.
+- I want to check what happens when you go from the Tomb into the Precipice without using the Elevator to go down, if the Elevator is already there, or if there is something in the place of the Elevator.
+- 
+
+
+Day 82
+- Hidden Memos
+	- Pantry - "There is one missing letter"
+	- Security - "Surveillance recordings can only be viewed from the Security Terminal"
+	- Boiler Room - "The high pressure condenser box is connected to two remote power boxes"
+	- Library - "If you have a hallpass, you are more likely to draw a Bookshop when drafting from a Library"
+	- Garage - "The car plate is an acronym" - SWNSNG is something else.
+- I feel that the Throne room can only be drafted when going south and on the West Wing, but I am not really sure.
+	- The place I drawed the room for the first time was at the West Wing at the second rank I think.
+	- I wasn't able to draw it this run
+- This run was kinda thrown because I am focusing on memos and rerolling for the Throne Room so I can progress in the game.
+
 Day 81
 - Hidden Memos
 	- Rumpus Room - Alzara is based on an Erajan soothsayer that was banned from the Aries Court after a prophecy did not come to pass

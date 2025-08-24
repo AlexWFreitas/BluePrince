@@ -143,7 +143,18 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"4df9bf1f144546e2","type":"file","file":"99. attachments/BLUE_PRINCE_d3XZoDyJZN.png","x":-1720,"y":3000,"width":460,"height":259}
+		{"id":"4df9bf1f144546e2","type":"file","file":"99. attachments/BLUE_PRINCE_d3XZoDyJZN.png","x":-1720,"y":3000,"width":460,"height":259},
+		{"id":"de03f6067c01f325","type":"file","file":"99. attachments/BLUE_PRINCE_W95fRYPd5T.png","x":0,"y":428,"width":400,"height":225},
+		{
+			"id":"d8a28906d02aeb23",
+			"type":"text",
+			"text":"# Hidden Memo",
+			"styleAttributes":{},
+			"x":0,
+			"y":333,
+			"width":360,
+			"height":60
+		}
 	],
 	"edges":[
 		{"id":"40ae6f701351537c","fromNode":"53bd4ef87b9eb026","fromSide":"top","toNode":"9cb268989cca7d5c","toSide":"bottom"},

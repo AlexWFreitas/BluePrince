@@ -11,7 +11,9 @@
 			"y":-920,
 			"width":800,
 			"height":300
-		}
+		},
+		{"id":"3ec8e91f21c2bdf4","type":"file","file":"99. attachments/BLUE_PRINCE_NqLxKL2bNq.png","x":-1260,"y":-560,"width":400,"height":225},
+		{"id":"30419d5d6f70d849","type":"file","file":"99. attachments/BLUE_PRINCE_gLXeamvWqX.png","x":-1260,"y":-845,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

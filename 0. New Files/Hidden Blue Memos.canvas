@@ -11,18 +11,6 @@
 			"height":80
 		},
 		{"id":"3ce613e83e174896","type":"file","file":"99. attachments/BLUE_PRINCE_9qgORP6TAY.png","x":-1800,"y":-719,"width":853,"height":480},
-		{"id":"5b167222376f0a19","type":"file","file":"99. attachments/BLUE_PRINCE_K9ILv0CGYY.png","x":3750,"y":-1122,"width":400,"height":225},
-		{
-			"id":"793bf29eff2a4273",
-			"type":"text",
-			"text":"[[019 - Trophy Room.canvas|019 - Trophy Room]]",
-			"styleAttributes":{},
-			"x":3820,
-			"y":-1230,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
 		{"id":"0227150da91933ca","type":"file","file":"99. attachments/BLUE_PRINCE_gBEOjZ81bm.png","x":3750,"y":-681,"width":400,"height":225},
 		{
 			"id":"1448bc6ddd941d74",
@@ -60,18 +48,6 @@
 		},
 		{"id":"9cf51217a52b1ed4","type":"file","file":"99. attachments/BLUE_PRINCE_rxadhob4oE.png","x":1780,"y":-681,"width":400,"height":225},
 		{
-			"id":"69d6e900cddd51b2",
-			"type":"text",
-			"text":"[[016 - Locker Room.canvas|016 - Locker Room]]",
-			"styleAttributes":{},
-			"x":2350,
-			"y":-1230,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{"id":"a07cd81d85538998","type":"file","file":"99. attachments/BLUE_PRINCE_zEiEKAYFrU.png","x":2280,"y":-1122,"width":400,"height":225},
-		{
 			"id":"f90fd83dcc6ebc6e",
 			"type":"text",
 			"text":"[[024 - Office.canvas|024 - Office]]",
@@ -107,18 +83,6 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"79ed46c7e7d3abb0","type":"file","file":"99. attachments/BLUE_PRINCE_lbDytDgsrV.png","x":800,"y":-111,"width":400,"height":225},
-		{
-			"id":"699f41037332ac43",
-			"type":"text",
-			"text":"[[033 - Pump Room.canvas|033 - Pump Room]]",
-			"styleAttributes":{},
-			"x":870,
-			"y":-220,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
 		{"id":"3b4dee4b2a52eeb4","type":"file","file":"99. attachments/BLUE_PRINCE_yAF00J29GJ 1.png","x":-200,"y":340,"width":400,"height":225},
 		{
 			"id":"7ae8bbca23b2bd22",
@@ -131,18 +95,6 @@
 			"height":60,
 			"color":"4"
 		},
-		{
-			"id":"da4b23afa4470b6b",
-			"type":"text",
-			"text":"[[The Kennel.canvas|The Kennel]]",
-			"styleAttributes":{},
-			"x":-130,
-			"y":678,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{"id":"30f5e28714f7524e","type":"file","file":"99. attachments/BLUE_PRINCE_owhyCDEi2t 1.png","x":-200,"y":787,"width":400,"height":225},
 		{"id":"257bc57d70af3df2","type":"file","file":"99. attachments/BLUE_PRINCE_54qZ5ecHKp.png","x":800,"y":340,"width":400,"height":225},
 		{
 			"id":"84d101c18f5f1f3a",
@@ -167,7 +119,585 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"9b2def56affe33d6","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2150,"y":340,"width":400,"height":225}
+		{"id":"ce9ba2226e54987a","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":-160,"y":-1492,"width":400,"height":225},
+		{
+			"id":"3a74ad5b95da1981",
+			"type":"text",
+			"text":"[[001 - The Foundation.canvas|001 - The Foundation]]",
+			"styleAttributes":{},
+			"x":-90,
+			"y":-1600,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"9dcdfb89659757a5",
+			"type":"text",
+			"text":"[[002 - Entrance Hall.canvas|002 - Entrance Hall]]",
+			"styleAttributes":{},
+			"x":410,
+			"y":-1600,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"4bcd01de14f1b9bc","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":340,"y":-1492,"width":400,"height":225},
+		{"id":"4d8e1e3a65d76b97","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":840,"y":-1492,"width":400,"height":225},
+		{
+			"id":"04d65a43d475569e",
+			"type":"text",
+			"text":"[[003 - Spare Room.canvas|003 - Spare Room]]",
+			"styleAttributes":{},
+			"x":910,
+			"y":-1600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7b342fad3f8e524c",
+			"type":"text",
+			"text":"[[004 - Rotunda.canvas|004 - Rotunda]]",
+			"styleAttributes":{},
+			"x":1350,
+			"y":-1600,
+			"width":260,
+			"height":60
+		},
+		{"id":"bea7ae1f68dbcd86","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":1280,"y":-1492,"width":400,"height":225},
+		{
+			"id":"291a8c47d99753e0",
+			"type":"text",
+			"text":"[[005 - Parlor.canvas|005 - Parlor]]",
+			"styleAttributes":{},
+			"x":1850,
+			"y":-1600,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"680de2d115a237f3","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2250,"y":-1492,"width":400,"height":225},
+		{
+			"id":"d13d3129ab152a9f",
+			"type":"text",
+			"text":"[[006 - Billiard Room.canvas|006 - Billiard Room]]",
+			"styleAttributes":{},
+			"x":2320,
+			"y":-1600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"69d6e900cddd51b2",
+			"type":"text",
+			"text":"[[016 - Locker Room.canvas|016 - Locker Room]]",
+			"styleAttributes":{},
+			"x":2320,
+			"y":-1200,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"a07cd81d85538998","type":"file","file":"99. attachments/BLUE_PRINCE_zEiEKAYFrU.png","x":2250,"y":-1092,"width":400,"height":225},
+		{
+			"id":"d347f26e314807bd",
+			"type":"text",
+			"text":"[[009 - Closet.canvas|009 - Closet]]",
+			"styleAttributes":{},
+			"x":3820,
+			"y":-1600,
+			"width":260,
+			"height":60
+		},
+		{"id":"e952f5b792986f92","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":3750,"y":-1492,"width":400,"height":225},
+		{
+			"id":"aed43f56c8bd1872",
+			"type":"text",
+			"text":"[[008 - Room 8.canvas|008 - Room 8]]",
+			"styleAttributes":{},
+			"x":3290,
+			"y":-1600,
+			"width":260,
+			"height":60
+		},
+		{"id":"3e69dcd30520c8fc","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":3220,"y":-1492,"width":400,"height":225},
+		{
+			"id":"505a51af2689e698",
+			"type":"text",
+			"text":"[[007 - Gallery.canvas|007 - Gallery]]",
+			"styleAttributes":{},
+			"x":2810,
+			"y":-1600,
+			"width":260,
+			"height":60
+		},
+		{"id":"cb54097f4fcef8bf","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2740,"y":-1492,"width":400,"height":225},
+		{"id":"0c8bb19419a9d71a","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":4240,"y":-1492,"width":400,"height":225},
+		{
+			"id":"379d2f7269629e0f",
+			"type":"text",
+			"text":"[[010 - Walk-in Closet.canvas|010 - Walk-in Closet]]",
+			"styleAttributes":{},
+			"x":4310,
+			"y":-1600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6377a611ba60745c",
+			"type":"text",
+			"text":"[[011 - Attic.canvas|011 - Attic]]",
+			"styleAttributes":{},
+			"x":-90,
+			"y":-1201,
+			"width":260,
+			"height":60
+		},
+		{"id":"3e81497dda50c010","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":-160,"y":-1093,"width":400,"height":225},
+		{
+			"id":"93d73f518ced9402",
+			"type":"text",
+			"text":"[[013 - Nook.canvas|013 - Nook]]",
+			"styleAttributes":{},
+			"x":910,
+			"y":-1201,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"2a7c216f357516a5","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":1780,"y":-1092,"width":400,"height":225},
+		{
+			"id":"9a0d4b30da7f585a",
+			"type":"text",
+			"text":"[[015 - Music Room.canvas|015 - Music Room]]",
+			"styleAttributes":{},
+			"x":1850,
+			"y":-1201,
+			"width":260,
+			"height":60
+		},
+		{"id":"4a96ba3efd4d4a32","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2740,"y":-1092,"width":400,"height":225},
+		{
+			"id":"a8e541e95390f2d7",
+			"type":"text",
+			"text":"[[017 - Den.canvas|017 - Den]]",
+			"styleAttributes":{},
+			"x":2810,
+			"y":-1201,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d32e9344d0a732bf",
+			"type":"text",
+			"text":"[[018 - Wine Cellar.canvas|018 - Wine Cellar]]",
+			"styleAttributes":{},
+			"x":3290,
+			"y":-1201,
+			"width":260,
+			"height":60
+		},
+		{"id":"89aa7239b6ca4117","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":3220,"y":-1092,"width":400,"height":225},
+		{"id":"5b167222376f0a19","type":"file","file":"99. attachments/BLUE_PRINCE_K9ILv0CGYY.png","x":3750,"y":-1093,"width":400,"height":225},
+		{
+			"id":"793bf29eff2a4273",
+			"type":"text",
+			"text":"[[019 - Trophy Room.canvas|019 - Trophy Room]]",
+			"styleAttributes":{},
+			"x":3820,
+			"y":-1201,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4f0403ebaba046f9",
+			"type":"text",
+			"text":"[[020 - Ballroom.canvas|020 - Ballroom]]",
+			"styleAttributes":{},
+			"x":4310,
+			"y":-1201,
+			"width":260,
+			"height":60
+		},
+		{"id":"f3c8da46508dfe71","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":4240,"y":-1092,"width":400,"height":225},
+		{
+			"id":"b330d8ee1d6734fa",
+			"type":"text",
+			"text":"[[021 - Pantry.canvas|021 - Pantry]]",
+			"styleAttributes":{},
+			"x":-90,
+			"y":-790,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"baa817fd037e4310","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":840,"y":-682,"width":400,"height":225},
+		{
+			"id":"4b526be47ed3ef3a",
+			"type":"text",
+			"text":"[[023 - Vault.canvas|023 - Vault]]",
+			"styleAttributes":{},
+			"x":910,
+			"y":-791,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"56c373c93a0ad8d6",
+			"type":"text",
+			"text":"[[026 - Study.canvas|026 - Study]]",
+			"styleAttributes":{},
+			"x":2320,
+			"y":-791,
+			"width":260,
+			"height":60
+		},
+		{"id":"c453471225aa9437","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2250,"y":-681,"width":400,"height":225},
+		{
+			"id":"6d8903219aed171f",
+			"type":"text",
+			"text":"[[027 - Library.canvas|027 - Library]]",
+			"styleAttributes":{},
+			"x":2820,
+			"y":-789,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"e5467d5cd459d833","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":3220,"y":-681,"width":400,"height":225},
+		{
+			"id":"685c88a7374f92ce",
+			"type":"text",
+			"text":"[[028 - Chamber of Mirrors.canvas|028 - Chamber of Mirrors]]",
+			"styleAttributes":{},
+			"x":3290,
+			"y":-789,
+			"width":260,
+			"height":60
+		},
+		{"id":"19a860f4018015fc","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":4240,"y":-683,"width":400,"height":225},
+		{
+			"id":"4a0a901f7193b2e0",
+			"type":"text",
+			"text":"[[030 - Drafting Studio.canvas|030 - Drafting Studio]]",
+			"styleAttributes":{},
+			"x":4310,
+			"y":-791,
+			"width":260,
+			"height":60
+		},
+		{"id":"6d8758eaa96dab02","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":4240,"y":-220,"width":400,"height":225},
+		{
+			"id":"b3625e6a040b7443",
+			"type":"text",
+			"text":"[[040 - Freezer.canvas|040 - Freezer]]",
+			"styleAttributes":{},
+			"x":4310,
+			"y":-328,
+			"width":260,
+			"height":60
+		},
+		{"id":"484e35d45c87b755","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":1750,"y":339,"width":400,"height":225},
+		{
+			"id":"5b257e314d364a79",
+			"type":"text",
+			"text":"[[045 - Antechamber.canvas|045 - Antechamber]]",
+			"styleAttributes":{},
+			"x":1820,
+			"y":231,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"8ca8e2df07086ab0","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":-160,"y":-223,"width":400,"height":225},
+		{
+			"id":"450a27395c54a2a1",
+			"type":"text",
+			"text":"[[031 - Utility Closet.canvas|031 - Utility Closet]]",
+			"styleAttributes":{},
+			"x":-90,
+			"y":-331,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"22710efcbe5a87c9",
+			"type":"text",
+			"text":"[[032 - Boiler Room.canvas|032 - Boiler Room]]",
+			"styleAttributes":{},
+			"x":410,
+			"y":-331,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"79ed46c7e7d3abb0","type":"file","file":"99. attachments/BLUE_PRINCE_lbDytDgsrV.png","x":840,"y":-222,"width":400,"height":225},
+		{
+			"id":"699f41037332ac43",
+			"type":"text",
+			"text":"[[033 - Pump Room.canvas|033 - Pump Room]]",
+			"styleAttributes":{},
+			"x":910,
+			"y":-331,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a8c6b4b64e8f3d35",
+			"type":"text",
+			"text":"[[034 - Security.canvas|034 - Security]]",
+			"styleAttributes":{},
+			"x":1350,
+			"y":-331,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"15f6fc6c1f8675ea","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":1780,"y":-223,"width":400,"height":225},
+		{
+			"id":"b72d53bc1fe1a110",
+			"type":"text",
+			"text":"[[035 - Workshop.canvas|035 - Workshop]]",
+			"styleAttributes":{},
+			"x":1850,
+			"y":-331,
+			"width":260,
+			"height":60
+		},
+		{"id":"4a37119775b2fdf8","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2250,"y":-223,"width":400,"height":225},
+		{
+			"id":"29038f9ec9500d3d",
+			"type":"text",
+			"text":"[[036 - Laboratory.canvas|036 - Laboratory]]",
+			"styleAttributes":{},
+			"x":2320,
+			"y":-331,
+			"width":260,
+			"height":60
+		},
+		{"id":"0e224995ef248a19","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2740,"y":-223,"width":400,"height":225},
+		{
+			"id":"9956bc1323a231b7",
+			"type":"text",
+			"text":"[[037 - Sauna.canvas|037 - Sauna]]",
+			"styleAttributes":{},
+			"x":2810,
+			"y":-331,
+			"width":260,
+			"height":60
+		},
+		{"id":"6ab38179db90f551","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":3220,"y":-220,"width":400,"height":225},
+		{
+			"id":"7756dfdc8a1e2e6c",
+			"type":"text",
+			"text":"[[038 - Coat Check.canvas|038 - Coat Check]]",
+			"styleAttributes":{},
+			"x":3290,
+			"y":-328,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1e6efb5e8e265cc2",
+			"type":"text",
+			"text":"[[042 - Observatory.canvas|042 - Observatory]]",
+			"styleAttributes":{},
+			"x":410,
+			"y":232,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"a39ce9d4064b5b3e","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2250,"y":340,"width":400,"height":225},
+		{
+			"id":"bf29d4474b1d7920",
+			"type":"text",
+			"text":"[[046 - Room 46.canvas|046 - Room 46]]",
+			"styleAttributes":{},
+			"x":2320,
+			"y":232,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"30f5e28714f7524e","type":"file","file":"99. attachments/BLUE_PRINCE_owhyCDEi2t 1.png","x":340,"y":822,"width":400,"height":225},
+		{
+			"id":"da4b23afa4470b6b",
+			"type":"text",
+			"text":"[[The Kennel.canvas|The Kennel]]",
+			"styleAttributes":{},
+			"x":410,
+			"y":713,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"3095a10bc4928a3b","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":-200,"y":822,"width":400,"height":225},
+		{
+			"id":"eacb71033d6686bc",
+			"type":"text",
+			"text":"[[Dovecote.canvas|Dovecote]]",
+			"styleAttributes":{},
+			"x":-130,
+			"y":714,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"67198e95f33c0f99",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]] 1",
+			"styleAttributes":{},
+			"x":-130,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"1a8328552661d5d9","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":340,"y":1268,"width":400,"height":225},
+		{
+			"id":"2d0ba8bcd7811c11",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]] 2",
+			"styleAttributes":{},
+			"x":410,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{"id":"633ad4100fd02ca0","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":800,"y":1268,"width":400,"height":225},
+		{
+			"id":"be4a08ccf58d753e",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]] 3",
+			"styleAttributes":{},
+			"x":870,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{"id":"576da0de93a72f17","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":1280,"y":1268,"width":400,"height":225},
+		{
+			"id":"d0d26d8ec292f955",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]] 4",
+			"styleAttributes":{},
+			"x":1350,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{"id":"9fe9d99dd38db0a1","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":1750,"y":1268,"width":400,"height":225},
+		{
+			"id":"79234b5f6830a7af",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]] 5",
+			"styleAttributes":{},
+			"x":1820,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{"id":"4df9ad5e9c97e0ec","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2250,"y":1268,"width":400,"height":225},
+		{
+			"id":"fbcd5e3c218ea895",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]] 6",
+			"styleAttributes":{},
+			"x":2320,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{"id":"fc75392cc4733a5f","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":2740,"y":1268,"width":400,"height":225},
+		{
+			"id":"4c267c2d6e8f5cc8",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]] 7",
+			"styleAttributes":{},
+			"x":2810,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f2e23c5dbd118cc9",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]] 8",
+			"styleAttributes":{},
+			"x":3290,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{"id":"b2d2d46ae7995d66","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":3220,"y":1268,"width":400,"height":225},
+		{"id":"845ab2255a61ff9b","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":3750,"y":1268,"width":400,"height":225},
+		{
+			"id":"3b34a03b00cade18",
+			"type":"text",
+			"text":"[[Classroom.canvas|Classroom]] 9",
+			"styleAttributes":{},
+			"x":3820,
+			"y":1160,
+			"width":260,
+			"height":60
+		},
+		{"id":"220945eba29dbf3b","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":-200,"y":1748,"width":400,"height":225},
+		{
+			"id":"e810ad7d60a8330f",
+			"type":"text",
+			"text":"[[Planetarium.canvas|Planetarium]]",
+			"styleAttributes":{},
+			"x":-130,
+			"y":1640,
+			"width":260,
+			"height":60
+		},
+		{"id":"fb252c49084fc085","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":270,"y":1749,"width":400,"height":225},
+		{
+			"id":"6b7583497611884d",
+			"type":"text",
+			"text":"[[Mechanarium.canvas|Mechanarium]]",
+			"styleAttributes":{},
+			"x":340,
+			"y":1641,
+			"width":260,
+			"height":60
+		},
+		{"id":"2723c7d94a1cedf9","type":"file","file":"99. attachments/BLUE_PRINCE_W95fRYPd5T 1.png","x":1280,"y":-222,"width":400,"height":225},
+		{"id":"b7f7dbbbd6097040","type":"file","file":"99. attachments/BLUE_PRINCE_2fUBXFBwpN.png","x":-160,"y":-682,"width":400,"height":225},
+		{"id":"30d4f709b60b45ea","type":"file","file":"99. attachments/BLUE_PRINCE_SDBDTy4nZ0.png","x":340,"y":-222,"width":400,"height":225},
+		{"id":"d9b9dabed68bab36","type":"file","file":"99. attachments/BLUE_PRINCE_ehQvkTbkY1.png","x":2750,"y":-681,"width":400,"height":225},
+		{"id":"8d1d4c39112ecfad","type":"file","file":"99. attachments/BLUE_PRINCE_NqLxKL2bNq.png","x":1280,"y":-1092,"width":400,"height":225},
+		{
+			"id":"3f37a0b0dca153e2",
+			"type":"text",
+			"text":"[[014 - Garage.canvas|014 - Garage]]",
+			"styleAttributes":{},
+			"x":1350,
+			"y":-1200,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"59d9afaf533301cd","type":"file","file":"99. attachments/BLUE_PRINCE_gcvWACOqH3.png","x":-200,"y":1280,"width":400,"height":225},
+		{"id":"359042ef5952d057","type":"file","file":"99. attachments/BLUE_PRINCE_mu9dqpIbzE.png","x":840,"y":-1092,"width":400,"height":225},
+		{"id":"e8234771dd572501","type":"file","file":"99. attachments/BLUE_PRINCE_RGiC44Cvsa.png","x":820,"y":822,"width":400,"height":225},
+		{
+			"id":"70ed6e83d975574d",
+			"type":"text",
+			"text":"[[Clock Tower.canvas|Clock Tower]]",
+			"styleAttributes":{},
+			"x":890,
+			"y":713,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"bf8247e95038c95b","type":"file","file":"99. attachments/BLUE_PRINCE_4cWbPmzZM2.png","x":340,"y":340,"width":400,"height":225},
+		{"id":"37fd433465067e0f","type":"file","file":"99. attachments/BLUE_PRINCE_ok3xjRiKys.png","x":1780,"y":-1492,"width":400,"height":225}
 	],
 	"edges":[
 		{
@@ -286,6 +816,429 @@
 			"fromNode":"69d6e900cddd51b2",
 			"fromSide":"bottom",
 			"toNode":"a07cd81d85538998",
+			"toSide":"top"
+		},
+		{
+			"id":"9654e9da584fa216",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3a74ad5b95da1981",
+			"fromSide":"bottom",
+			"toNode":"ce9ba2226e54987a",
+			"toSide":"top"
+		},
+		{
+			"id":"3fdf828b5d248b63",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9dcdfb89659757a5",
+			"fromSide":"bottom",
+			"toNode":"4bcd01de14f1b9bc",
+			"toSide":"top"
+		},
+		{
+			"id":"2784ed7cbd98cecb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"04d65a43d475569e",
+			"fromSide":"bottom",
+			"toNode":"4d8e1e3a65d76b97",
+			"toSide":"top"
+		},
+		{
+			"id":"d6b67b7648d2b5f3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7b342fad3f8e524c",
+			"fromSide":"bottom",
+			"toNode":"bea7ae1f68dbcd86",
+			"toSide":"top"
+		},
+		{
+			"id":"2220c5b21e49a5a7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d13d3129ab152a9f",
+			"fromSide":"bottom",
+			"toNode":"680de2d115a237f3",
+			"toSide":"top"
+		},
+		{
+			"id":"720fd2f2edcd1b20",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"505a51af2689e698",
+			"fromSide":"bottom",
+			"toNode":"cb54097f4fcef8bf",
+			"toSide":"top"
+		},
+		{
+			"id":"8d3f4d0ee6b22eb7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"aed43f56c8bd1872",
+			"fromSide":"bottom",
+			"toNode":"3e69dcd30520c8fc",
+			"toSide":"top"
+		},
+		{
+			"id":"baa323c71a8a72ae",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d347f26e314807bd",
+			"fromSide":"bottom",
+			"toNode":"e952f5b792986f92",
+			"toSide":"top"
+		},
+		{
+			"id":"de4e5b419ff5f123",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"379d2f7269629e0f",
+			"fromSide":"bottom",
+			"toNode":"0c8bb19419a9d71a",
+			"toSide":"top"
+		},
+		{
+			"id":"b272fd0841e38c3d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6377a611ba60745c",
+			"fromSide":"bottom",
+			"toNode":"3e81497dda50c010",
+			"toSide":"top"
+		},
+		{
+			"id":"b8d4c6188c74fab0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9a0d4b30da7f585a",
+			"fromSide":"bottom",
+			"toNode":"2a7c216f357516a5",
+			"toSide":"top"
+		},
+		{
+			"id":"ba51f1958a393c6d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a8e541e95390f2d7",
+			"fromSide":"bottom",
+			"toNode":"4a96ba3efd4d4a32",
+			"toSide":"top"
+		},
+		{
+			"id":"ce3ae1903bec4ee0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d32e9344d0a732bf",
+			"fromSide":"bottom",
+			"toNode":"89aa7239b6ca4117",
+			"toSide":"top"
+		},
+		{
+			"id":"f78e6344534832a0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4f0403ebaba046f9",
+			"fromSide":"bottom",
+			"toNode":"f3c8da46508dfe71",
+			"toSide":"top"
+		},
+		{
+			"id":"03cad76cc820089f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4b526be47ed3ef3a",
+			"fromSide":"bottom",
+			"toNode":"baa817fd037e4310",
+			"toSide":"top"
+		},
+		{
+			"id":"66524831b0ef9ced",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"56c373c93a0ad8d6",
+			"fromSide":"bottom",
+			"toNode":"c453471225aa9437",
+			"toSide":"top"
+		},
+		{
+			"id":"923320cd3dc1c842",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"685c88a7374f92ce",
+			"fromSide":"bottom",
+			"toNode":"e5467d5cd459d833",
+			"toSide":"top"
+		},
+		{
+			"id":"2830986f8b5e7a77",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4a0a901f7193b2e0",
+			"fromSide":"bottom",
+			"toNode":"19a860f4018015fc",
+			"toSide":"top"
+		},
+		{
+			"id":"50f90418d719c67d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b3625e6a040b7443",
+			"fromSide":"bottom",
+			"toNode":"6d8758eaa96dab02",
+			"toSide":"top"
+		},
+		{
+			"id":"44790781f9ab53db",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5b257e314d364a79",
+			"fromSide":"bottom",
+			"toNode":"484e35d45c87b755",
+			"toSide":"top"
+		},
+		{
+			"id":"aeb41cdd5d42d5a5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"450a27395c54a2a1",
+			"fromSide":"bottom",
+			"toNode":"8ca8e2df07086ab0",
+			"toSide":"top"
+		},
+		{
+			"id":"33efd78a07a7c6cf",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b72d53bc1fe1a110",
+			"fromSide":"bottom",
+			"toNode":"15f6fc6c1f8675ea",
+			"toSide":"top"
+		},
+		{
+			"id":"96b39b6de3dea9a0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"29038f9ec9500d3d",
+			"fromSide":"bottom",
+			"toNode":"4a37119775b2fdf8",
+			"toSide":"top"
+		},
+		{
+			"id":"1da82fb29cb199a7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9956bc1323a231b7",
+			"fromSide":"bottom",
+			"toNode":"0e224995ef248a19",
+			"toSide":"top"
+		},
+		{
+			"id":"207971f9abdd49df",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7756dfdc8a1e2e6c",
+			"fromSide":"bottom",
+			"toNode":"6ab38179db90f551",
+			"toSide":"top"
+		},
+		{
+			"id":"030342820d3a00f2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bf29d4474b1d7920",
+			"fromSide":"bottom",
+			"toNode":"a39ce9d4064b5b3e",
+			"toSide":"top"
+		},
+		{
+			"id":"ace41c7436c28928",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"eacb71033d6686bc",
+			"fromSide":"bottom",
+			"toNode":"3095a10bc4928a3b",
+			"toSide":"top"
+		},
+		{
+			"id":"8fed8905053d911a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2d0ba8bcd7811c11",
+			"fromSide":"bottom",
+			"toNode":"1a8328552661d5d9",
+			"toSide":"top"
+		},
+		{
+			"id":"cf2aa4c6548c3134",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"be4a08ccf58d753e",
+			"fromSide":"bottom",
+			"toNode":"633ad4100fd02ca0",
+			"toSide":"top"
+		},
+		{
+			"id":"39652b8b8d6275dd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d0d26d8ec292f955",
+			"fromSide":"bottom",
+			"toNode":"576da0de93a72f17",
+			"toSide":"top"
+		},
+		{
+			"id":"df8f1a5cf84e6aea",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"79234b5f6830a7af",
+			"fromSide":"bottom",
+			"toNode":"9fe9d99dd38db0a1",
+			"toSide":"top"
+		},
+		{
+			"id":"bbe9361f964e5901",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fbcd5e3c218ea895",
+			"fromSide":"bottom",
+			"toNode":"4df9ad5e9c97e0ec",
+			"toSide":"top"
+		},
+		{
+			"id":"37786be41ddd716a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4c267c2d6e8f5cc8",
+			"fromSide":"bottom",
+			"toNode":"fc75392cc4733a5f",
+			"toSide":"top"
+		},
+		{
+			"id":"da44b177cf2fd49e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f2e23c5dbd118cc9",
+			"fromSide":"bottom",
+			"toNode":"b2d2d46ae7995d66",
+			"toSide":"top"
+		},
+		{
+			"id":"e77467dbf22f4c7c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3b34a03b00cade18",
+			"fromSide":"bottom",
+			"toNode":"845ab2255a61ff9b",
+			"toSide":"top"
+		},
+		{
+			"id":"0d5d01af56572203",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e810ad7d60a8330f",
+			"fromSide":"bottom",
+			"toNode":"220945eba29dbf3b",
+			"toSide":"top"
+		},
+		{
+			"id":"5858239c53191784",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6b7583497611884d",
+			"fromSide":"bottom",
+			"toNode":"fb252c49084fc085",
+			"toSide":"top"
+		},
+		{
+			"id":"3f440486a925a422",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a8c6b4b64e8f3d35",
+			"fromSide":"bottom",
+			"toNode":"2723c7d94a1cedf9",
+			"toSide":"top"
+		},
+		{
+			"id":"3398d9f35149738b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b330d8ee1d6734fa",
+			"fromSide":"bottom",
+			"toNode":"b7f7dbbbd6097040",
+			"toSide":"top"
+		},
+		{
+			"id":"ead9fd7140b68123",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"22710efcbe5a87c9",
+			"fromSide":"bottom",
+			"toNode":"30d4f709b60b45ea",
+			"toSide":"top"
+		},
+		{
+			"id":"3ac8177505204c9b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6d8903219aed171f",
+			"fromSide":"bottom",
+			"toNode":"d9b9dabed68bab36",
+			"toSide":"top"
+		},
+		{
+			"id":"1069ad6db653331c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3f37a0b0dca153e2",
+			"fromSide":"bottom",
+			"toNode":"8d1d4c39112ecfad",
+			"toSide":"top"
+		},
+		{
+			"id":"19445c79b9fbb720",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"67198e95f33c0f99",
+			"fromSide":"bottom",
+			"toNode":"59d9afaf533301cd",
+			"toSide":"top"
+		},
+		{
+			"id":"e7db9738d1e65eb2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"93d73f518ced9402",
+			"fromSide":"bottom",
+			"toNode":"359042ef5952d057",
+			"toSide":"top"
+		},
+		{
+			"id":"64fbff10633d8dba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"70ed6e83d975574d",
+			"fromSide":"bottom",
+			"toNode":"e8234771dd572501",
+			"toSide":"top"
+		},
+		{
+			"id":"5006cb970cdee87e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1e6efb5e8e265cc2",
+			"fromSide":"bottom",
+			"toNode":"bf8247e95038c95b",
+			"toSide":"top"
+		},
+		{
+			"id":"5c6f9db13fb4bca9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"291a8c47d99753e0",
+			"fromSide":"bottom",
+			"toNode":"37fd433465067e0f",
 			"toSide":"top"
 		}
 	],

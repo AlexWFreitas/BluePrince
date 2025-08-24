@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"0fe29110e57c4983","type":"file","file":"99. attachments/BLUE_PRINCE_RJCO0ASMqt.png","x":-660,"y":-420,"width":400,"height":225},
+		{"id":"c00a7600cc58f761","type":"file","file":"99. attachments/BLUE_PRINCE_6fLfP1mce0.png","x":-586,"y":-140,"width":253,"height":400},
+		{
+			"id":"23576f1c9127438d",
+			"type":"text",
+			"text":"Veia - 4 - Paragon of Ash",
+			"styleAttributes":{},
+			"x":-590,
+			"y":320,
+			"width":260,
+			"height":60
+		},
+		{"id":"982adda4839736e3","type":"file","file":"99. attachments/BLUE_PRINCE_BhOV8AUn4E.png","x":-280,"y":-140,"width":400,"height":390},
+		{"id":"9ea288111d9eb53c","type":"file","file":"99. attachments/BLUE_PRINCE_4cWbPmzZM2.png","x":-1020,"y":-140,"width":400,"height":225}
+	],
+	"edges":[
+		{
+			"id":"110dc5e7bc80beb7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c00a7600cc58f761",
+			"fromSide":"top",
+			"toNode":"0fe29110e57c4983",
+			"toSide":"bottom"
+		},
+		{
+			"id":"349f5c5b9ecbdefc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"23576f1c9127438d",
+			"fromSide":"top",
+			"toNode":"c00a7600cc58f761",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

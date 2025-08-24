@@ -100,26 +100,6 @@
 			"height":60
 		},
 		{
-			"id":"c93872785e0ebda0",
-			"type":"text",
-			"text":"[[Draft an Observatory whenever possible for the permanent bonuses.canvas|Draft an Observatory whenever possible for the permanent bonuses]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":450,
-			"width":640,
-			"height":60
-		},
-		{
-			"id":"855343f1307f6643",
-			"type":"text",
-			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":350,
-			"width":620,
-			"height":80
-		},
-		{
 			"id":"b7e4595012c7b579",
 			"type":"text",
 			"text":"[[Prioritize permanent bonuses during normal runs.canvas|Prioritize permanent bonuses during normal runs]]",
@@ -1716,6 +1696,48 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"c93872785e0ebda0",
+			"type":"text",
+			"text":"[[Draft an Observatory whenever possible for the permanent bonuses.canvas|Draft an Observatory whenever possible for the permanent bonuses]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":450,
+			"width":640,
+			"height":60
+		},
+		{
+			"id":"855343f1307f6643",
+			"type":"text",
+			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":350,
+			"width":620,
+			"height":80
+		},
+		{
+			"id":"883871c911de58fb",
+			"type":"text",
+			"text":"[[SWNSNG Acronym.canvas|SWNSNG Acronym]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1450,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"6e328dabb0be074b",
+			"type":"text",
+			"text":"[[Check the Precipice Elevator in underground by going through the Tomb shortcut instead of taking the Elevator.canvas|Check the Precipice Elevator in underground by going through the Tomb shortcut instead of taking the Elevator]]",
+			"styleAttributes":{},
+			"x":1600,
+			"y":1325,
+			"width":260,
+			"height":155,
+			"color":"3"
 		}
 	],
 	"edges":[]

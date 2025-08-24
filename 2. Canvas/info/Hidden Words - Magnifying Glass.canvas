@@ -23,12 +23,12 @@
 		{
 			"id":"1df9d272c39c24a1",
 			"type":"text",
-			"text":"- **Green - Done**\n- Purple - Done (Unsure)\n- **Yellow - Todo**\n- **Orange - Blocked**\n- **Red - Nothing**",
+			"text":"Color meanings:\n- **Green - Done**\n- Purple - Done (Unsure)\n- **Yellow - Todo**\n- **Orange - Blocked**\n- **Red - Nothing**",
 			"styleAttributes":{},
 			"x":-1100,
 			"y":-720,
 			"width":260,
-			"height":160
+			"height":220
 		},
 		{
 			"id":"d8d0dcb92edc8668",
@@ -72,7 +72,7 @@
 			"y":-60,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"1"
 		},
 		{
 			"id":"525b10acc8703419",
@@ -94,7 +94,7 @@
 			"y":120,
 			"width":260,
 			"height":100,
-			"color":"3"
+			"color":"1"
 		},
 		{
 			"id":"5ec342aca8260f8c",
@@ -105,7 +105,7 @@
 			"y":240,
 			"width":260,
 			"height":70,
-			"color":"3"
+			"color":"1"
 		},
 		{
 			"id":"7bcde2122b0b7b7c",
