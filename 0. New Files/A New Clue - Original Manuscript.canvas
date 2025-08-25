@@ -112,7 +112,18 @@
 		{"id":"59a25b8a1954e969","type":"file","file":"99. attachments/BLUE_PRINCE_cVu6AgflGq.png","x":624,"y":-200,"width":336,"height":400},
 		{"id":"80bcbaf0ad2505a5","type":"file","file":"99. attachments/BLUE_PRINCE_KtqH29HB7k.png","x":704,"y":-980,"width":400,"height":360},
 		{"id":"db9e30db2315f74c","type":"file","file":"99. attachments/BLUE_PRINCE_uEZcP25ibb.png","x":704,"y":308,"width":400,"height":372},
-		{"id":"bf2f55100b1ef845","type":"file","file":"99. attachments/BLUE_PRINCE_g3hMPp7g6Q.png","x":1040,"y":-183,"width":400,"height":383}
+		{"id":"bf2f55100b1ef845","type":"file","file":"99. attachments/BLUE_PRINCE_g3hMPp7g6Q.png","x":1040,"y":-183,"width":400,"height":383},
+		{"id":"4a6a9b08a2df7e72","type":"file","file":"99. attachments/Obsidian_vAAS2noX8z.png","x":1760,"y":7643,"width":380,"height":400},
+		{
+			"id":"5af9f219e2aaa7a0",
+			"type":"text",
+			"text":"This is a reference to Bo Lee, his age is minor and his name is small",
+			"styleAttributes":{},
+			"x":1800,
+			"y":8177,
+			"width":300,
+			"height":92
+		}
 	],
 	"edges":[
 		{
@@ -128,6 +139,7 @@
 			"id":"755229fe5ba8b504",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"9d802d25e5d75f1b",
 			"fromSide":"right",
 			"toNode":"bf751126d7128a8e",
@@ -141,6 +153,24 @@
 			"fromSide":"top",
 			"toNode":"a7dd09234d8234d5",
 			"toSide":"bottom"
+		},
+		{
+			"id":"2b7aa7ae0f7c3ed9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5af9f219e2aaa7a0",
+			"fromSide":"top",
+			"toNode":"4a6a9b08a2df7e72",
+			"toSide":"bottom"
+		},
+		{
+			"id":"5425bd614b64f250",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bedfc38874d8e482",
+			"fromSide":"bottom",
+			"toNode":"5af9f219e2aaa7a0",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

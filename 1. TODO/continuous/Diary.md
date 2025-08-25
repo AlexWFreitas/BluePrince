@@ -1,4 +1,23 @@
 
+Day 88
+- Hidden Memos
+	- Music Room - "There is a major key hanging on a wall in the Safehouse"
+		- Probably the Inner Sanctum Key
+	- Attic - "S.H.S. was born three years after H.S.S."
+		- Simon Sinclair and Herbert Sinclair
+		- My name is Simon Epsen Jones or Simon Sinclair Jones?
+	- Dovecote - "Three members of the Sinclair family have attended schools overseas"
+		- One of them is probably Herbert Sinclair, because the Bunk Room notes say that he was away studying.
+			- Thinking about that, where the fuck is Simon?
+- I was not able to draft a King Room on this run for the Chess Puzzle, because of that I can't test the King Rook castling
+- There are like three rooms left that I can get memos from, one of them is really hard, but Solarium should help.
+- I tried to do something on the Foyer room but I don't have enough information on the peoples names in there.
+	- Maybe the only useful thing in there is learning Isaac Gates appearance for the Office Safe.
+- Ended the run in the Planetarium
+	- The Spiral of Stars is progressing nicely
+	- I wonder if I am reaching the limit of star count, because I have the constellations with 100 and 50 stars, what happens when I reach 200?
+- I had almost all keys possible and was going to use the Locksmith to buy another special key, but I wasn't able to draft the room and get the Basement Key to test it.
+
 Day 87
 - Hidden Memos
 	- Den - "The sin associated with this room is often associated with one's use of time"

@@ -8,7 +8,17 @@
 			"x":-480,
 			"y":-260,
 			"width":380,
-			"height":120
+			"height":80
+		},
+		{
+			"id":"32c99c358a309312",
+			"type":"text",
+			"text":"# Special Key List\nIgnoring [[Inner Sanctum Key.canvas|Inner Sanctum Key]] on purpose.\n- Basement Key\n- Car Keys\n- Secret Garden Key\n- Key 8\n- Prism Key\n- Silver Key\n- Master Key",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-140,
+			"width":600,
+			"height":320
 		}
 	],
 	"edges":[],
