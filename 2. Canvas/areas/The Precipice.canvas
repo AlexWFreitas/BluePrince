@@ -77,16 +77,6 @@
 		{"id":"11d6efce47af7e66","type":"file","file":"99. attachments/BLUE_PRINCE_yL6ej4h0nS.png","x":-1350,"y":-1520,"width":400,"height":225},
 		{"id":"e530c37f409197a3","type":"file","file":"99. attachments/BLUE_PRINCE_s8WCczCdZC.png","x":-1350,"y":-1805,"width":400,"height":225},
 		{
-			"id":"cf313683859d8d44",
-			"type":"text",
-			"text":"After solving the puzzle, you can obtain a permanent power among these pieces. Apparently you can change the chosen piece by doing something (probably doing the puzzle again.)",
-			"styleAttributes":{},
-			"x":-1090,
-			"y":-1200,
-			"width":460,
-			"height":160
-		},
-		{
 			"id":"42920da7e9002e4a",
 			"type":"text",
 			"text":"[[Abandoned Mine Torch Room Puzzle.canvas|Abandoned Mine Torch Room Puzzle]]",
@@ -132,6 +122,17 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{"id":"c77ba8c30eb11c1b","type":"file","file":"99. attachments/BLUE_PRINCE_KPLCiFeg8d.png","x":-1350,"y":-1252,"width":400,"height":225},
+		{
+			"id":"cf313683859d8d44",
+			"type":"text",
+			"text":"After solving the puzzle, you can obtain a permanent power among these pieces. \nApparently you can remove or change the power by doing the puzzle again in another day.",
+			"styleAttributes":{},
+			"x":-910,
+			"y":-1219,
+			"width":460,
+			"height":160
 		}
 	],
 	"edges":[

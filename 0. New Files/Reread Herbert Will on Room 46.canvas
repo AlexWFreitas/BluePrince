@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"2cbbcfd1cd315876",
+			"type":"text",
+			"text":"I feel that there was a tip about Cuckoos and the Tomb that I didn't notice at first, if I keep reading it, I can probably see more clues.",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-360,
+			"width":380,
+			"height":140
+		},
+		{
+			"id":"95c59eec70360aff",
+			"type":"text",
+			"text":"[[046 - Room 46.canvas|046 - Room 46]]",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-180,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

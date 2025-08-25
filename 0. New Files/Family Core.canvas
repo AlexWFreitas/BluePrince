@@ -1,6 +1,16 @@
 {
 	"nodes":[
-		{"id":"ebb5ec2acb7bcbc9","type":"file","file":"99. attachments/BLUE_PRINCE_cjaEJ1fkuJ.png","x":-540,"y":-260,"width":740,"height":416}
+		{"id":"ebb5ec2acb7bcbc9","type":"file","file":"99. attachments/BLUE_PRINCE_cjaEJ1fkuJ.png","x":-540,"y":-260,"width":740,"height":416},
+		{
+			"id":"2b9934846003faf6",
+			"type":"text",
+			"text":"[[Wine Cellar Number Puzzle.canvas|Wine Cellar Number Puzzle]]",
+			"styleAttributes":{},
+			"x":-500,
+			"y":220,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[],
 	"metadata":{

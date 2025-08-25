@@ -1,4 +1,17 @@
 
+Day 87
+- Hidden Memos
+	- Den - "The sin associated with this room is often associated with one's use of time"
+	- Coat Check - " Coat check is drawn slightly more often the day after checking a new item"
+	- Pool Hall - This did not work because my room is orange
+	- Workshop - "Certain rooms, like Mechanical Rooms are more likely to contain security doors"
+	- Wine Cellar - "The numerals below the coat of arms are four numbers, not one"
+		- I think this is related to rooms with statues of persons in the family tree or coat of arms.
+			- Rooms like Foyer and Room 46
+- Chess Castle Puzzle
+	- I solved the Chess Puzzle again and chose King power at the Chess Board
+	- I am going to try changing into Rook to see if this solves the Castle puzzle.
+
 Day 86
 - Drafted a Tomb
 - Tried the order of angels listed in Herbert Sinclair's Will
@@ -38,6 +51,7 @@ Day 86
 - I may have reached the last memo inside the Treasure Trove
 	- Still no solution
 	- The memo that said it was the last message could be a lie though.
+		- Tested on Day 87 and it was a lie.
 
 
 Day 85

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"270243563dc0a90f",
+			"type":"text",
+			"text":"This is an attempt to get an special key that only appears after you have all special keys.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-260,
+			"width":380,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

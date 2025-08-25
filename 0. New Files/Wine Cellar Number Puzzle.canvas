@@ -1,0 +1,88 @@
+{
+	"nodes":[
+		{
+			"id":"47f26cb0399bb75a",
+			"type":"text",
+			"text":"[[018 - Wine Cellar.canvas|018 - Wine Cellar]]",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-520,
+			"width":260,
+			"height":60
+		},
+		{"id":"a47bd8bd746989d4","type":"file","file":"99. attachments/BLUE_PRINCE_GQo9A3Gr4e.jpg","x":-1360,"y":-400,"width":400,"height":225},
+		{"id":"8da34684669a5f6e","type":"text","text":"MCCXII - 1213","x":-1285,"y":-120,"width":250,"height":60},
+		{"id":"954864e448f800e6","type":"file","file":"99. attachments/BLUE_PRINCE_n0UyVg8JAO.png","x":-940,"y":-400,"width":400,"height":225},
+		{
+			"id":"c46eb14315c95aad",
+			"type":"text",
+			"text":"1000\n200\n10\n3\n\n1\n2\n1\n3?",
+			"styleAttributes":{},
+			"x":-925,
+			"y":-120,
+			"width":370,
+			"height":260
+		},
+		{
+			"id":"4ebf86c24298b7c2",
+			"type":"text",
+			"text":"This might be related to [[046 - Room 46.canvas|046 - Room 46]]",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-400,
+			"width":380,
+			"height":60
+		},
+		{
+			"id":"d6d124989ce331f5",
+			"type":"text",
+			"text":"I might need to touch the statues in a certain order",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4237ef21a3598161",
+			"type":"text",
+			"text":"[[Foyer.canvas|Foyer]]",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-120,
+			"width":260,
+			"height":60
+		},
+		{"id":"fba06fff81b0abba","type":"file","file":"99. attachments/BLUE_PRINCE_XnuhzAaJO8.png","x":-460,"y":10,"width":676,"height":380},
+		{"id":"a91d5f3fe195ac19","type":"file","file":"99. attachments/BLUE_PRINCE_AGHW1xVFOP.png","x":260,"y":10,"width":676,"height":380},
+		{"id":"3a3856b0aa1dafad","type":"file","file":"99. attachments/BLUE_PRINCE_tjl1F7n2vM.png","x":960,"y":10,"width":680,"height":383},
+		{"id":"c321766bfa4f6e3f","type":"file","file":"99. attachments/BLUE_PRINCE_2vviOwzqCD.png","x":-460,"y":450,"width":676,"height":380},
+		{"id":"5351e5134ede1b50","type":"file","file":"99. attachments/BLUE_PRINCE_sYwzpF9U6n.png","x":960,"y":450,"width":680,"height":383},
+		{"id":"c77e9726908c8ff5","type":"file","file":"99. attachments/BLUE_PRINCE_69kbyVyeUD.png","x":260,"y":450,"width":676,"height":380}
+	],
+	"edges":[
+		{"id":"1024c50cb7752442","toFloating":false,"fromNode":"8da34684669a5f6e","fromSide":"top","toNode":"a47bd8bd746989d4","toSide":"bottom"},
+		{
+			"id":"0c3ea4f22bdd3f40",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"954864e448f800e6",
+			"fromSide":"bottom",
+			"toNode":"c46eb14315c95aad",
+			"toSide":"top"
+		},
+		{
+			"id":"d5addc205ae80c27",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4ebf86c24298b7c2",
+			"fromSide":"bottom",
+			"toNode":"d6d124989ce331f5",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

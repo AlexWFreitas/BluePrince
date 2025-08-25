@@ -1,10 +1,30 @@
 {
 	"nodes":[
 		{"id":"1e7d81e0ff420324","type":"file","file":"99. attachments/BLUE_PRINCE_GQo9A3Gr4e.jpg","x":-600,"y":-360,"width":400,"height":225},
-		{"id":"c77422592ea21cc2","type":"text","text":"MCCXII - 1213","x":-525,"y":-80,"width":250,"height":60}
+		{"id":"c77422592ea21cc2","type":"text","text":"MCCXII - 1213","x":-525,"y":-80,"width":250,"height":60},
+		{"id":"0714bb494cdf50ce","type":"file","file":"99. attachments/BLUE_PRINCE_n0UyVg8JAO.png","x":-180,"y":-360,"width":400,"height":225},
+		{
+			"id":"cf4afbe6b95de02a",
+			"type":"text",
+			"text":"1000\n200\n10\n3\n\n1\n2\n1\n3?",
+			"styleAttributes":{},
+			"x":-165,
+			"y":-80,
+			"width":370,
+			"height":260
+		}
 	],
 	"edges":[
-		{"id":"acb6dcb38ce231c8","toFloating":false,"fromNode":"c77422592ea21cc2","fromSide":"top","toNode":"1e7d81e0ff420324","toSide":"bottom"}
+		{"id":"acb6dcb38ce231c8","toFloating":false,"fromNode":"c77422592ea21cc2","fromSide":"top","toNode":"1e7d81e0ff420324","toSide":"bottom"},
+		{
+			"id":"eec096bb717e671b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0714bb494cdf50ce",
+			"fromSide":"bottom",
+			"toNode":"cf4afbe6b95de02a",
+			"toSide":"top"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
