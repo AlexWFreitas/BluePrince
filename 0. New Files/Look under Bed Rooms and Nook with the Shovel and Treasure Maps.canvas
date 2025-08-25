@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"c1bf1d0f3b530e81","type":"file","file":"99. attachments/BLUE_PRINCE_4c2zCpqGK8.png","x":-1440,"y":-400,"width":1401,"height":788},
+		{"id":"67ea98bc0afeb6ff","type":"file","file":"99. attachments/BLUE_PRINCE_PyoCIGrkic.png","x":0,"y":-400,"width":1400,"height":788},
+		{"id":"114ebf5227f961c3","type":"file","file":"99. attachments/BLUE_PRINCE_P8roicN2KA.png","x":1440,"y":-398,"width":1040,"height":585},
+		{"id":"dfe5a1e65431e764","type":"file","file":"99. attachments/BLUE_PRINCE_EN0x1rlrdG.png","x":1440,"y":240,"width":1040,"height":585},
+		{
+			"id":"1e0412c81fd21084",
+			"type":"text",
+			"text":"Treasure Map led me to this.",
+			"styleAttributes":{},
+			"x":1851,
+			"y":920,
+			"width":218,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"9246e6bd13f9becb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1e0412c81fd21084",
+			"fromSide":"top",
+			"toNode":"dfe5a1e65431e764",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"0474f04f70f1473b","type":"file","file":"99. attachments/BLUE_PRINCE_cVu6AgflGq.png","x":-408,"y":-200,"width":336,"height":400},
+		{"id":"17050f38e7dd4ebd","type":"file","file":"99. attachments/BLUE_PRINCE_g3hMPp7g6Q.png","x":8,"y":-183,"width":400,"height":383},
+		{
+			"id":"e142273bdfcf692a",
+			"type":"text",
+			"text":"It's possible that the Safehouse train will only appear if you do not run",
+			"styleAttributes":{},
+			"x":-160,
+			"y":320,
+			"width":260,
+			"height":120
+		}
+	],
+	"edges":[
+		{
+			"id":"8bf3fb2c640355da",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e142273bdfcf692a",
+			"fromSide":"top",
+			"toNode":"17050f38e7dd4ebd",
+			"toSide":"bottom"
+		},
+		{
+			"id":"ee47d400befd6ccb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e142273bdfcf692a",
+			"fromSide":"top",
+			"toNode":"0474f04f70f1473b",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

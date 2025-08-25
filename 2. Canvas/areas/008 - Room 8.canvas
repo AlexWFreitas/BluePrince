@@ -114,6 +114,17 @@
 			"y":-320,
 			"width":601,
 			"height":120
+		},
+		{"id":"19b87ea95af15ba6","type":"file","file":"99. attachments/BLUE_PRINCE_zi3r9H2dGv 1.png","x":1412,"y":968,"width":400,"height":225},
+		{
+			"id":"b0b1e52b96b5fa0e",
+			"type":"text",
+			"text":"Wrath - Hidden Memo",
+			"styleAttributes":{},
+			"x":1482,
+			"y":1240,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -187,6 +198,15 @@
 			"fromNode":"9fdc6133f5fd77e6",
 			"fromSide":"top",
 			"toNode":"911778bb9f176e4c",
+			"toSide":"bottom"
+		},
+		{
+			"id":"378b449cea650d0d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b0b1e52b96b5fa0e",
+			"fromSide":"top",
+			"toNode":"19b87ea95af15ba6",
 			"toSide":"bottom"
 		}
 	],

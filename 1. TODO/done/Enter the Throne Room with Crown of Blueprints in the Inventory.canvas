@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"2465b15a84cee428",
+			"type":"text",
+			"text":"Nothing happened.",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-200,
+			"width":260,
+			"height":60,
+			"color":"1"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

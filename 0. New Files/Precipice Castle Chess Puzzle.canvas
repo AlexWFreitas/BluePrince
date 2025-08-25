@@ -38,7 +38,42 @@
 		},
 		{"id":"475b5a57e98fbf35","type":"file","file":"99. attachments/BLUE_PRINCE_BMn38vaxKi.png","x":-1120,"y":740,"width":400,"height":225},
 		{"id":"9dfb022e2bb606a1","type":"file","file":"99. attachments/BLUE_PRINCE_6bVLZixjiH.png","x":-340,"y":740,"width":400,"height":225},
-		{"id":"126bafc96046a861","type":"file","file":"99. attachments/BLUE_PRINCE_mu9dqpIbzE 2.png","x":-340,"y":1040,"width":400,"height":225}
+		{"id":"126bafc96046a861","type":"file","file":"99. attachments/BLUE_PRINCE_mu9dqpIbzE 2.png","x":-340,"y":1040,"width":400,"height":225},
+		{"id":"771a690b50c5e3dc","type":"file","file":"99. attachments/BLUE_PRINCE_gicYjAPhi5.png","x":-340,"y":1340,"width":400,"height":225},
+		{
+			"id":"de40e725a6f4b538",
+			"type":"text",
+			"text":"[[A New Clue - Original Manuscript.canvas|A New Clue - Original Manuscript]]",
+			"styleAttributes":{},
+			"x":-270,
+			"y":1620,
+			"width":260,
+			"height":60
+		},
+		{"id":"456d76ac87a30789","type":"file","file":"99. attachments/Obsidian_tzPeb7Yfkx.png","x":-1140,"y":1333,"width":765,"height":240},
+		{
+			"id":"5c59630147815b59",
+			"type":"text",
+			"text":"Check if getting the King power and then \"swapping\" to the Rook Piece will do something",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":980,
+			"width":400,
+			"height":100
+		},
+		{"id":"fe2908aba781a893","type":"file","file":"99. attachments/Obsidian_hry6Rxiyb2.png","x":-300,"y":1740,"width":400,"height":331},
+		{"id":"bd4d1845673b8ec6","type":"file","file":"99. attachments/BLUE_PRINCE_rJvttcmYlX.png","x":-757,"y":1628,"width":398,"height":224},
+		{"id":"98f7ee8764d32522","type":"file","file":"99. attachments/BLUE_PRINCE_txMUjaee45.png","x":-1202,"y":1628,"width":398,"height":224},
+		{
+			"id":"9ee0609637071438",
+			"type":"text",
+			"text":"The pieces changed again, from King to Rook and from Rook to King",
+			"styleAttributes":{},
+			"x":-920,
+			"y":1940,
+			"width":280,
+			"height":100
+		}
 	],
 	"edges":[
 		{
@@ -66,6 +101,60 @@
 			"fromNode":"126bafc96046a861",
 			"fromSide":"top",
 			"toNode":"9dfb022e2bb606a1",
+			"toSide":"bottom"
+		},
+		{
+			"id":"5a251de48e0e2ffc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"de40e725a6f4b538",
+			"fromSide":"top",
+			"toNode":"771a690b50c5e3dc",
+			"toSide":"bottom"
+		},
+		{
+			"id":"f6ad3524eb7f103d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"456d76ac87a30789",
+			"fromSide":"top",
+			"toNode":"475b5a57e98fbf35",
+			"toSide":"right"
+		},
+		{
+			"id":"b3d7307ff295847e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"126bafc96046a861",
+			"fromSide":"left",
+			"toNode":"475b5a57e98fbf35",
+			"toSide":"right"
+		},
+		{
+			"id":"cb4eb3d127e3b5fa",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9dfb022e2bb606a1",
+			"fromSide":"left",
+			"toNode":"475b5a57e98fbf35",
+			"toSide":"right"
+		},
+		{
+			"id":"6bb74496b950f2b7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9ee0609637071438",
+			"fromSide":"top",
+			"toNode":"98f7ee8764d32522",
+			"toSide":"bottom"
+		},
+		{
+			"id":"f4f2954e28256238",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9ee0609637071438",
+			"fromSide":"top",
+			"toNode":"bd4d1845673b8ec6",
 			"toSide":"bottom"
 		}
 	],

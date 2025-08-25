@@ -1,15 +1,5 @@
 {
 	"nodes":[
-		{
-			"id":"2368c6ad1124145e",
-			"type":"text",
-			"text":"Empty room that allows you to rotate it to reach all four sides to unlock two sides at the same time.",
-			"styleAttributes":{},
-			"x":-480,
-			"y":-340,
-			"width":260,
-			"height":140
-		},
 		{"id":"21f0b8d7030599b0","type":"file","file":"99. attachments/BLUE_PRINCE_iGJ2U8ites.png","x":-1020,"y":-140,"width":400,"height":225},
 		{"id":"2f502af4e67616d2","type":"file","file":"99. attachments/BLUE_PRINCE_IZVHNS1dew.png","x":-1020,"y":120,"width":400,"height":225},
 		{"id":"48ecf8225aef121a","type":"file","file":"99. attachments/BLUE_PRINCE_sSOG4uBHsC.png","x":-580,"y":-140,"width":400,"height":225},
@@ -23,7 +13,28 @@
 			"y":420,
 			"width":260,
 			"height":100
-		}
+		},
+		{
+			"id":"2368c6ad1124145e",
+			"type":"text",
+			"text":"Empty room that allows you to rotate it to reach all four sides to unlock two sides at the same time.\n\nThis room also allows you to rotate the rooms you draft.",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-460,
+			"width":260,
+			"height":200
+		},
+		{
+			"id":"486269d0b8856f00",
+			"type":"text",
+			"text":"Methods\n- Blessing of Dancer\n- Drafting Compass\n- Dovecoat\n- Rotunda",
+			"styleAttributes":{},
+			"x":-180,
+			"y":-460,
+			"width":260,
+			"height":185
+		},
+		{"id":"124236ee3c2645b3","type":"file","file":"99. attachments/BLUE_PRINCE_Mnbi9lUZN7 1.png","x":100,"y":-480,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

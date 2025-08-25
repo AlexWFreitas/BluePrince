@@ -1,5 +1,58 @@
-Plan
-- Do a run without picking any items
+
+Day 86
+- Drafted a Tomb
+- Tried the order of angels listed in Herbert Sinclair's Will
+	- This opened a room behind Draxus , the room has glass window art of Draxus with the infinite symbol / eight.
+	- This secret area has the original manuscripts for The Red Prince and A New Clue
+- After comparing both books in A New Clue I found clues pointing that I should use the Chessroom Puzzle to change into King or Rook and then change again into Rook or King to perform the Castling.
+	- There are clues in the Hidden Memos of Office and Nook
+	- There are clues in the A New Clue Manuscript saying specifically to swap King and Rook and the pages do that transition over the book pages.
+- I found clues for 2-4 other puzzles that might or might not be interesting to pursue.
+	- There is something related to R.T.A. Terminal usage that uses something called A.Key or A---- Key
+		- I feel that this is related to Minor Key and Major Key
+			- Major being erajan for small name.
+		- I was thinking about the places that start with A in the Metro Map
+	- There is another clue talking about looking under beds and nooks
+		- I found an item under the Bedroom room with a Treasure Map, it's possible that these other locations also have something
+		- But it's also possible that the nook reference is about the low case clues from the tips in the Nook, Patio, Office and Pantry.
+	- There is some sort of clue in the Secret Passage
+		- It seems related to some sort of grid
+		- It's possible that the Secret Passage mention is not about the room, but the text in the book.
+- There is something about not running in The Pool and in the A New Clue book, so maybe if I do a run without running I might be able to use the Safehouse Station?
+	- The book mentions the med. gait, which means not running
+	- The Pool run has a sign saying that running is now allowed
+- Hidden Memos
+	- Vault - "The Family Core is unlocked only by the sum of its digits"
+		- I have no fucking idea what this is about.
+	- Freezer - You can melt frozen items in the Freezer with items that direct heat
+		- Such as Torch and Burning Glass
+	- Rotunda - There are four methods of Rotating Rooms
+		- Dovecoat - Room that allows you to rotate rooms when it appears in a draft
+		- Rotunda - Allows you to rotate drafted rooms
+		- Blessing of Dancer - Blessing from Shrine
+		- Drafting Compass - Showroom Item
+	- Utility Closet - The V.A.C. power control scheme is inspired by the Mora Jai Puzzlebox
+	- Drafting Studio - There are 110 different rooms in total.
+		- As of this point, I have 108 rooms unlocked
+		- I am missing Closed Exhibit and Lost and Found rooms.
+- I may have reached the last memo inside the Treasure Trove
+	- Still no solution
+	- The memo that said it was the last message could be a lie though.
+
+
+Day 85
+- Entered the Throne with the Crown of Blueprints, nothing happened
+	- I will try to Call a Day inside the room
+- Hidden Memos
+	- Study - "The chess board in this room contains a portmanteau"
+		- Reference to d8 -> December 8th
+	- Room 8 - "The Elephant belongs in this bin"
+		- I think it shows a random tip for the current puzzle.
+	- Ballroom - "The majority of gems in this house are artifically produced"
+	- Planetarium - "The Ink Well is not the largest constellation"
+		- Yeah, there is one with 100 stars and maybe even more.
+- The Observatory bonus is really hurting when getting it above Rank 6
+	- I wonder if this will become less painful over time
 
 Day 84
 - Hidden Memos

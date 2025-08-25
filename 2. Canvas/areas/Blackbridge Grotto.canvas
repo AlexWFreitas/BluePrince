@@ -80,7 +80,56 @@
 			"y":540,
 			"width":640,
 			"height":177
-		}
+		},
+		{
+			"id":"ff3460d6340c04ff",
+			"type":"text",
+			"text":"**Known Logins**\n- Randolph Moore - MoorR - Admin\n- Thompson Kimberly - ThomK - Admin\n- Anne Babbage - BabbA - Normal User\n- Hartley Ruota - RuotH - Disabled \n- Denny Revane - RevaD - Disabled",
+			"styleAttributes":{},
+			"x":-708,
+			"y":2381,
+			"width":560,
+			"height":240
+		},
+		{
+			"id":"b8f9676a659b48ca",
+			"type":"text",
+			"text":"**Hidden Logins**\n- Jean Ribbon - RibbJ - Admin\n- Paul Withe / Phillip White - WithP - Admin\n- Bo Lee - LeeB - Fake Admin to trick Bon Margle",
+			"styleAttributes":{},
+			"x":-708,
+			"y":2641,
+			"width":560,
+			"height":160
+		},
+		{
+			"id":"779d6bdbdb6c7f1d",
+			"type":"text",
+			"text":"**Attempted Logins**\n- Kirk Darren - DarrK - Fail\n- Jean Ribbon - RibbJ? - Found in Fake Passport\n- Paul / Phillip With??? - WithP - Found in the Terminal Admin Logs after using RibbJ.\n\t- This is actually Phillip White, one of the publishers associated with Marion Marigold\n- Bon Margle - Fail\n- Black bridge Book \n\t- Geoffrey Heartslasher \n\t- Jesper\n\t- Miller\n\t- Ravia\n\t- Fodric Lee\n- Try **Caleb Manning**, since he is also associated with Marion Marigold.\n- SwansongHSS?\n- HSS?\n- HerbertSSinclair?\n- A New Clue Books\n\t- Bo Lee",
+			"styleAttributes":{},
+			"x":-128,
+			"y":2381,
+			"width":480,
+			"height":680
+		},
+		{"id":"a4b0b587c78efcc1","type":"file","file":"99. attachments/BLUE_PRINCE_Q5DEkHKNI5.png","x":392,"y":2527,"width":400,"height":229},
+		{"id":"e6fb69f7ec673772","type":"file","file":"99. attachments/Obsidian_JqPg4mWFjx.png","x":-1140,"y":2564,"width":400,"height":237},
+		{
+			"id":"103e9ed83e28dda4",
+			"type":"text",
+			"text":"# Fake Logs - Bo Lee",
+			"styleAttributes":{},
+			"x":-1140,
+			"y":2840,
+			"width":488,
+			"height":80
+		},
+		{"id":"81d17508d09a6576","type":"file","file":"99. attachments/BLUE_PRINCE_KIuITZ1a86.png","x":-1572,"y":2960,"width":676,"height":380},
+		{"id":"4c7d871043a839da","type":"file","file":"99. attachments/BLUE_PRINCE_mobb7a3ftL.png","x":-880,"y":2960,"width":676,"height":380},
+		{"id":"821cd92873ebeb6e","type":"file","file":"99. attachments/BLUE_PRINCE_LCAcFc8U0d.png","x":-1572,"y":3380,"width":676,"height":380},
+		{"id":"fd039e80102ebc82","type":"file","file":"99. attachments/BLUE_PRINCE_gyfFDX8kL3.png","x":-880,"y":3380,"width":676,"height":380},
+		{"id":"37ecd0a658846321","type":"file","file":"99. attachments/BLUE_PRINCE_OG0ejPDKnA.png","x":-1572,"y":3800,"width":676,"height":380},
+		{"id":"1681f8bbc02a6bd8","type":"file","file":"99. attachments/BLUE_PRINCE_iwLoPsLMtF.png","x":-880,"y":3800,"width":676,"height":380},
+		{"id":"25f21a78d82d53ca","type":"file","file":"99. attachments/BLUE_PRINCE_soq2LeIhPE.png","x":-1572,"y":4200,"width":676,"height":380}
 	],
 	"edges":[],
 	"metadata":{

@@ -39,7 +39,8 @@
 			"y":900,
 			"width":460,
 			"height":220
-		}
+		},
+		{"id":"c6dce45ce82b82f9","type":"file","file":"99. attachments/BLUE_PRINCE_A9tR2DkRI3.png","x":-240,"y":895,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"576afdd5bd0955a6","toFloating":false,"fromNode":"6a122080191a8e26","fromSide":"top","toNode":"203bd273f864efbd","toSide":"bottom"}

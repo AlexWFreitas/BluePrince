@@ -1,0 +1,191 @@
+{
+	"nodes":[
+		{"id":"c4d3491f44eee0bb","type":"file","file":"99. attachments/BLUE_PRINCE_YVP0iutKsl.png","x":-680,"y":-340,"width":1102,"height":620},
+		{
+			"id":"a34d5e1fe744d57b",
+			"type":"text",
+			"text":"1. Orinda\n2. Lydia\n3. Rynna\n4. Joya\n5. Dauja\n6. Veia\n7. Mila\n8. Draxus",
+			"styleAttributes":{},
+			"x":-680,
+			"y":320,
+			"width":260,
+			"height":253
+		},
+		{
+			"id":"b4c69ba30f6236df",
+			"type":"text",
+			"text":"[[Chapel.canvas|Chapel]]",
+			"styleAttributes":{},
+			"x":-389,
+			"y":320,
+			"width":260,
+			"height":60
+		},
+		{"id":"85575a6cefb466bc","type":"text","text":"Rynna - 1","x":-329,"y":845,"width":250,"height":60},
+		{"id":"c6394ec3dd52be0e","type":"file","file":"99. attachments/Pasted image 20250716212028.png","x":-404,"y":573,"width":400,"height":225},
+		{"id":"1e265ad9936f5aaa","type":"file","file":"99. attachments/BLUE_PRINCE_95FIRT63Ou.png","x":36,"y":573,"width":400,"height":225},
+		{"id":"01761bcebfd52abe","type":"text","text":"Mila - 5","x":111,"y":845,"width":250,"height":60},
+		{"id":"23c5316c42de9285","type":"file","file":"99. attachments/Pasted image 20250716212049.png","x":-204,"y":945,"width":400,"height":225},
+		{"id":"9902ab153ae8f66e","type":"text","text":"Orinda - 7","x":-129,"y":1225,"width":250,"height":60},
+		{"id":"17c19ef23d75f89b","type":"file","file":"99. attachments/BLUE_PRINCE_ugVtFBBsTQ.png","x":-404,"y":1405,"width":400,"height":225},
+		{"id":"70e9b15be02fb6fc","type":"file","file":"99. attachments/BLUE_PRINCE_8dMKYw2hjF.png","x":-329,"y":1725,"width":257,"height":400},
+		{
+			"id":"c080f9dfb5fd75a3",
+			"type":"text",
+			"text":"Dauja - 3",
+			"styleAttributes":{},
+			"x":-324,
+			"y":2165,
+			"width":260,
+			"height":60
+		},
+		{"id":"df0f441b7c7f9d9e","type":"file","file":"99. attachments/BLUE_PRINCE_yy5C5j49I7.png","x":156,"y":1725,"width":218,"height":400},
+		{
+			"id":"d0a2debb12169b0a",
+			"type":"text",
+			"text":"Lydia - 6",
+			"styleAttributes":{},
+			"x":135,
+			"y":2165,
+			"width":260,
+			"height":60
+		},
+		{"id":"b1163d2ec162656f","type":"file","file":"99. attachments/BLUE_PRINCE_74UjOypE6d.png","x":96,"y":1405,"width":400,"height":225},
+		{"id":"a9cf6cc4df26e871","type":"file","file":"99. attachments/BLUE_PRINCE_RJCO0ASMqt.png","x":-884,"y":1545,"width":400,"height":225},
+		{"id":"49875b44fd035e8a","type":"file","file":"99. attachments/BLUE_PRINCE_6fLfP1mce0.png","x":-810,"y":1825,"width":253,"height":400},
+		{
+			"id":"c4dd5562911e0120",
+			"type":"text",
+			"text":"Veia - 4",
+			"styleAttributes":{},
+			"x":-814,
+			"y":2285,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c299ba28689d40b7",
+			"type":"text",
+			"text":"Darxus - 8?",
+			"styleAttributes":{},
+			"x":716,
+			"y":1995,
+			"width":260,
+			"height":60
+		},
+		{"id":"a26402be13260d48","type":"file","file":"99. attachments/BLUE_PRINCE_QdsOarIPbn.png","x":650,"y":1465,"width":392,"height":400},
+		{
+			"id":"78faed5f7cc5a6d9",
+			"type":"text",
+			"text":"# Eight Ajeran Angels",
+			"styleAttributes":{},
+			"x":-94,
+			"y":320,
+			"width":340,
+			"height":141
+		},
+		{"id":"17be6454b42c43a6","type":"file","file":"99. attachments/BLUE_PRINCE_npM5Vn7Jn5.png","x":-804,"y":865,"width":400,"height":225},
+		{
+			"id":"5ede242d56753468",
+			"type":"text",
+			"text":"Joya - 2",
+			"styleAttributes":{},
+			"x":-734,
+			"y":1170,
+			"width":260,
+			"height":60
+		},
+		{"id":"562bdde0b7290419","type":"file","file":"99. attachments/BLUE_PRINCE_gU2LZfmgVQ.png","x":-1740,"y":-240,"width":996,"height":560},
+		{
+			"id":"a9db8aa4b73c7cb1",
+			"type":"text",
+			"text":"[[Tomb.canvas|Tomb]]",
+			"styleAttributes":{},
+			"x":-389,
+			"y":401,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{"id":"0251af194d1e9841","toFloating":false,"fromNode":"85575a6cefb466bc","fromSide":"top","toNode":"c6394ec3dd52be0e","toSide":"bottom"},
+		{"id":"c2a2e7fa5a7f4ab9","fromNode":"01761bcebfd52abe","fromSide":"top","toNode":"1e265ad9936f5aaa","toSide":"bottom"},
+		{"id":"1c839017cb087545","fromNode":"9902ab153ae8f66e","fromSide":"top","toNode":"23c5316c42de9285","toSide":"bottom"},
+		{
+			"id":"fb7173750efb8ea1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"70e9b15be02fb6fc",
+			"fromSide":"top",
+			"toNode":"17c19ef23d75f89b",
+			"toSide":"bottom"
+		},
+		{
+			"id":"41713990c0d6d21c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c080f9dfb5fd75a3",
+			"fromSide":"top",
+			"toNode":"70e9b15be02fb6fc",
+			"toSide":"bottom"
+		},
+		{
+			"id":"7042329d3f1ca272",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"df0f441b7c7f9d9e",
+			"fromSide":"top",
+			"toNode":"b1163d2ec162656f",
+			"toSide":"bottom"
+		},
+		{
+			"id":"85177176ea0c6817",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d0a2debb12169b0a",
+			"fromSide":"top",
+			"toNode":"df0f441b7c7f9d9e",
+			"toSide":"bottom"
+		},
+		{
+			"id":"6dd39c067e7c4ba3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"49875b44fd035e8a",
+			"fromSide":"top",
+			"toNode":"a9cf6cc4df26e871",
+			"toSide":"bottom"
+		},
+		{
+			"id":"8fa769d4d3a1d24f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c4dd5562911e0120",
+			"fromSide":"top",
+			"toNode":"49875b44fd035e8a",
+			"toSide":"bottom"
+		},
+		{
+			"id":"8b7626890cf046dc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c299ba28689d40b7",
+			"fromSide":"top",
+			"toNode":"a26402be13260d48",
+			"toSide":"bottom"
+		},
+		{
+			"id":"0a51c2ea1d7c2588",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5ede242d56753468",
+			"fromSide":"top",
+			"toNode":"17be6454b42c43a6",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

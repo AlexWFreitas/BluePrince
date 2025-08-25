@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4f5be092f4e58f42","type":"file","file":"99. attachments/BLUE_PRINCE_jMYaGVCGk7.png","x":-420,"y":-112,"width":400,"height":225},
+		{"id":"218f9b939d8d40db","type":"file","file":"99. attachments/BLUE_PRINCE_ADi0cEDyc8.png","x":20,"y":-112,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

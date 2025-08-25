@@ -7,10 +7,21 @@
 			"text":"[[Safehouse Station.canvas|Safehouse Station]]",
 			"styleAttributes":{},
 			"x":-960,
-			"y":-60,
+			"y":-360,
 			"width":260,
 			"height":60
-		}
+		},
+		{
+			"id":"3ec3f2bd537548c7",
+			"type":"text",
+			"text":"I think this may be related to the [[Throne Room.canvas|Throne Room]], because the Closed Exhibit is reserved for the upper tier of elite patronage.\n\nI wonder if I need the [[Crown of the Blueprints.canvas|Crown of the Blueprints]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":60,
+			"width":400,
+			"height":200
+		},
+		{"id":"5f9070b8b7a73064","type":"file","file":"99. attachments/BLUE_PRINCE_gMCN1khqFT.png","x":-1100,"y":40,"width":400,"height":212}
 	],
 	"edges":[],
 	"metadata":{

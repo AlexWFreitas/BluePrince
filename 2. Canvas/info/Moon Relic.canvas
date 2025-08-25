@@ -54,6 +54,17 @@
 			"width":400,
 			"height":140,
 			"color":"1"
+		},
+		{"id":"d2f4f02dfdbe9df0","type":"file","file":"99. attachments/BLUE_PRINCE_RGiC44Cvsa.png","x":-320,"y":240,"width":400,"height":225},
+		{
+			"id":"cb0ea10b28c2289d",
+			"type":"text",
+			"text":"Probably I need to point northwards?",
+			"styleAttributes":{},
+			"x":-250,
+			"y":500,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -92,6 +103,15 @@
 			"fromSide":"bottom",
 			"toNode":"2e27c804c0136b38",
 			"toSide":"top"
+		},
+		{
+			"id":"a55273b6d61bc62e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cb0ea10b28c2289d",
+			"fromSide":"top",
+			"toNode":"d2f4f02dfdbe9df0",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{

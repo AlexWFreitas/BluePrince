@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"abf29e9b99d9bdf5","type":"file","file":"99. attachments/BLUE_PRINCE_B46g0WOvnj.png","x":-200,"y":-182,"width":400,"height":365},
+		{"id":"4b216e34051a8d02","type":"file","file":"99. attachments/Obsidian_NadjwMBF7d.png","x":-640,"y":-142,"width":400,"height":325},
+		{
+			"id":"0ad59538505192bd",
+			"type":"text",
+			"text":"This reminds me of the Remote Terminal Activation",
+			"styleAttributes":{},
+			"x":-330,
+			"y":320,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"f5083f5f48ae2460",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0ad59538505192bd",
+			"fromSide":"top",
+			"toNode":"4b216e34051a8d02",
+			"toSide":"bottom"
+		},
+		{
+			"id":"eec35fb1518752f8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0ad59538505192bd",
+			"fromSide":"top",
+			"toNode":"abf29e9b99d9bdf5",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
