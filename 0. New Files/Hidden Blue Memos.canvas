@@ -635,7 +635,6 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"fb252c49084fc085","type":"file","file":"99. attachments/BLUE_PRINCE_YVPwa628ym.png","x":270,"y":1749,"width":400,"height":225},
 		{
 			"id":"6b7583497611884d",
 			"type":"text",
@@ -644,7 +643,8 @@
 			"x":340,
 			"y":1641,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"4"
 		},
 		{"id":"2723c7d94a1cedf9","type":"file","file":"99. attachments/BLUE_PRINCE_W95fRYPd5T 1.png","x":1280,"y":-222,"width":400,"height":225},
 		{"id":"b7f7dbbbd6097040","type":"file","file":"99. attachments/BLUE_PRINCE_2fUBXFBwpN.png","x":-160,"y":-682,"width":400,"height":225},
@@ -731,7 +731,8 @@
 		{"id":"888b8836df3e9ca7","type":"file","file":"99. attachments/BLUE_PRINCE_Up9rkABRpW.png","x":-160,"y":-1092,"width":400,"height":225},
 		{"id":"25f9729b4b8a093d","type":"file","file":"99. attachments/BLUE_PRINCE_Sd7ZnWzwxc.png","x":1780,"y":-1092,"width":400,"height":225},
 		{"id":"dd4a204afd8863d9","type":"file","file":"99. attachments/BLUE_PRINCE_yptBw7FUBX.png","x":3220,"y":-681,"width":400,"height":225},
-		{"id":"0a1818206e704e31","type":"file","file":"99. attachments/BLUE_PRINCE_PijCfBCpKk.png","x":3750,"y":-1492,"width":400,"height":225}
+		{"id":"0a1818206e704e31","type":"file","file":"99. attachments/BLUE_PRINCE_PijCfBCpKk.png","x":3750,"y":-1492,"width":400,"height":225},
+		{"id":"b9206087dfb635f2","type":"file","file":"99. attachments/BLUE_PRINCE_IJSNdY91SB.png","x":270,"y":1749,"width":400,"height":225}
 	],
 	"edges":[
 		{
@@ -976,15 +977,6 @@
 			"fromNode":"3b34a03b00cade18",
 			"fromSide":"bottom",
 			"toNode":"845ab2255a61ff9b",
-			"toSide":"top"
-		},
-		{
-			"id":"5858239c53191784",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"6b7583497611884d",
-			"fromSide":"bottom",
-			"toNode":"fb252c49084fc085",
 			"toSide":"top"
 		},
 		{
@@ -1273,6 +1265,15 @@
 			"fromNode":"d347f26e314807bd",
 			"fromSide":"bottom",
 			"toNode":"0a1818206e704e31",
+			"toSide":"top"
+		},
+		{
+			"id":"5340e96de9046416",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6b7583497611884d",
+			"fromSide":"bottom",
+			"toNode":"b9206087dfb635f2",
 			"toSide":"top"
 		}
 	],

@@ -1,0 +1,53 @@
+{
+	"nodes":[
+		{
+			"id":"3e2d523c9314a20e",
+			"type":"text",
+			"text":"# Area Info\n\nThis area is unlocked by doing the Castling Chess Puzzle in The Precipice.\n\nTo do it, you should draw rooms with all chess pieces.\nThen you need to place them on board to solve the puzzle.\nYou are allowed to pick a piece to give you a permanent power until you solve the puzzle again.\nPick Rook / King and then solve it again picking King / Rook, changing from the previous piece.\n\nThis is the almost the same as castling in chess since you are swaping both pieces of positions.\n\n[[Precipice Castle Chess Puzzle.canvas|Precipice Castle Chess Puzzle]]",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-200,
+			"width":620,
+			"height":420
+		},
+		{"id":"7b199f68802bcd74","type":"file","file":"99. attachments/BLUE_PRINCE_yhUlycjfws 1.png","x":40,"y":-200,"width":747,"height":420},
+		{"id":"7edf18225655b571","type":"file","file":"99. attachments/BLUE_PRINCE_yTXy696BcX.png","x":40,"y":280,"width":747,"height":420},
+		{"id":"d4f31f76b4932736","type":"file","file":"99. attachments/BLUE_PRINCE_QAjWtdrRNY.png","x":840,"y":280,"width":747,"height":420},
+		{"id":"bca87d8bdeafc90e","type":"file","file":"99. attachments/BLUE_PRINCE_sezp04Vy7m.png","x":40,"y":760,"width":747,"height":420},
+		{"id":"e4477e3fad41cd8c","type":"file","file":"99. attachments/BLUE_PRINCE_nyK4Cq0Nzf.png","x":840,"y":760,"width":747,"height":420},
+		{"id":"37ec6c98d1c86932","type":"file","file":"99. attachments/BLUE_PRINCE_SMRRsPvEBu.png","x":40,"y":1240,"width":747,"height":420},
+		{"id":"9dff3722b57233be","type":"file","file":"99. attachments/BLUE_PRINCE_AiEfHf641o.png","x":840,"y":1240,"width":747,"height":420},
+		{"id":"2cfab490ec00f372","type":"file","file":"99. attachments/BLUE_PRINCE_5SYQRKlgvZ.png","x":40,"y":1720,"width":747,"height":420},
+		{"id":"7e501bf7960b9a78","type":"file","file":"99. attachments/BLUE_PRINCE_DDejv7OqzZ.png","x":840,"y":1720,"width":747,"height":420},
+		{"id":"98c76967211c4a3e","type":"file","file":"99. attachments/BLUE_PRINCE_JCqsJnuPpU.png","x":40,"y":2200,"width":747,"height":420},
+		{"id":"c7fc7196d64b46a2","type":"file","file":"99. attachments/BLUE_PRINCE_S5siWF1xkG.png","x":840,"y":2200,"width":747,"height":420},
+		{"id":"aedc0464c901b6d3","type":"file","file":"99. attachments/BLUE_PRINCE_HRKz3Dg0BN.png","x":40,"y":2680,"width":747,"height":420},
+		{"id":"505191516b96c491","type":"file","file":"99. attachments/BLUE_PRINCE_9zKrb5c3nV.png","x":840,"y":2680,"width":747,"height":420},
+		{
+			"id":"d674df2c9c1b6ed7",
+			"type":"text",
+			"text":"# Theories\n\n- The Black Key is lying with the last King of Eight\n\t- The Black Key is lying in the tomb of the King of Orindia?\n- In Aries Court where the King now lays\n\t- The place I am is the Orinda Aries Court?\n- A patient figure a reckoning great\n\t- Maybe the art representing the old man waiting?\n\t- Or maybe I need to be patient\n- On the sacred hour that timeworn phrase\n\t- I should come at 1:30\n- A sullen cross as five stars align\n\t- The day needs to be have a Southern Cross Constellation\n- Will a youth approach with empty arms\n\t- I should have no items in my inventory?\n- Without gifts nor gold nor mannered charms\n\t- I should have no gold, maybe gems?\n- And in sky above a brilliant Sign\n\t- I should come during the night?\n\nMaybe with this Black Key I can interact with the Black Mirror?",
+			"styleAttributes":{},
+			"x":1640,
+			"y":1230,
+			"width":1140,
+			"height":650
+		},
+		{
+			"id":"6aaced66682b633c",
+			"type":"text",
+			"text":"# Test Power Hammer on this Room",
+			"styleAttributes":{},
+			"x":1640,
+			"y":920,
+			"width":800,
+			"height":80,
+			"color":"3"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

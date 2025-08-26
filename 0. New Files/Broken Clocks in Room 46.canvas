@@ -1,5 +1,17 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"7f9667113da320f4",
+			"type":"text",
+			"text":"There are two broken clocks in [[046 - Room 46.canvas|046 - Room 46]], these clocks are pointing to 01:30.\n\nWaiting until 01:30 does nothing.\n\nMaybe I need to wait until 03:00 because there are two clocks?",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-100,
+			"width":480,
+			"height":200
+		},
+		{"id":"ba7e1bc9dd4efdec","type":"file","file":"99. attachments/BLUE_PRINCE_oxPjf90q7B.png","x":-40,"y":-100,"width":1180,"height":664}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

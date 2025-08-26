@@ -1,16 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"270243563dc0a90f",
-			"type":"text",
-			"text":"This is an attempt to get an special key that only appears after you have all special keys.",
-			"styleAttributes":{},
-			"x":-480,
-			"y":-260,
-			"width":380,
-			"height":80
-		},
-		{
 			"id":"32c99c358a309312",
 			"type":"text",
 			"text":"# Special Key List\nIgnoring [[Inner Sanctum Key.canvas|Inner Sanctum Key]] on purpose.\n- Basement Key\n- Car Keys\n- Secret Garden Key\n- Key 8\n- Prism Key\n- Silver Key\n- Master Key",
@@ -19,9 +9,40 @@
 			"y":-140,
 			"width":600,
 			"height":320
+		},
+		{
+			"id":"252ee3349ff81e0a",
+			"type":"text",
+			"text":"I had all keys except Key 8 and the Locksmith gave me a second Silver Key, that replaced my Silver Key I think.",
+			"styleAttributes":{},
+			"x":-450,
+			"y":240,
+			"width":260,
+			"height":160,
+			"color":"1"
+		},
+		{
+			"id":"270243563dc0a90f",
+			"type":"text",
+			"text":"This is an attempt to get an special key that only appears after you have all special keys.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-260,
+			"width":380,
+			"height":80
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"7a70af932dd26aa7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"32c99c358a309312",
+			"fromSide":"bottom",
+			"toNode":"252ee3349ff81e0a",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

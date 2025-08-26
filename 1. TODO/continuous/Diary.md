@@ -1,4 +1,24 @@
 
+Day 91
+- Hidden Memo
+	- Mechanarium - "On the coat of arms, the first numeral is a number and the following numbers have two numerals each"
+		- This means that the number is likely 1000, 200, 11, 2.
+- I was able to test the Locksmith theory by having all keys except Key 8 and buying the Special Key from the Locksmith, he gave me another Silver Key and I am not sure if it replaced the one I already had because the user interface kinda bugged.
+- I will probably do the next runs focusing on getting Moon Pendant, Keycard or Master Key, Emerald Bracelet on the Coat Check, Trading Post and ending with a Freezer so I can have enough gems at the start of a run.
+	- This will be done to get the Classroom Memos.
+- I am still not sure how to get the sixth permanent addition.
+	- I should try to focus on this a little more.
+- Also not sure how I should use the Wine Cellar number.
+	- I need to understand what this is about too.
+	- I understand how to obtain the correct number sequence, but I don't know what to do with it.
+- I feel that Room 46 might have something that happens at 03:00 because of the double cuckoo pointing at 1:30
+	- I should probably check this soon, because the last Red Letter is probably here.
+- I was able to do the Chess Puzzle again and by picking Rook while having the King power I was able to unlock a passage to a place called Unknown
+	- This place has some sort of grave with the Orinda Aries Symbol
+	- It also has multiple Mora Jai puzzleboxes that when solved give you eight messages that probably tell you how to solve this puzzle.
+	- I have some theories based on the notes about the time of the day, the hour of the day, the state of the sky, the constellation of the day and the amount of items, gold, keys, gems and dices that you are carrying being important for this puzzle.
+	- I guess this is related to the Black Mirror on the Red Door Area.
+
 Day 90
 - Shrine with 78g gave me a Monk Blessing
 - Drafted a Solarium to get rarer rooms more easily
