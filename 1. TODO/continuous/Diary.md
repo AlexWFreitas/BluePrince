@@ -1,4 +1,23 @@
 
+Day 90
+- Shrine with 78g gave me a Monk Blessing
+- Drafted a Solarium to get rarer rooms more easily
+- Was able to draft Chamber of Mirrors and Closet on Rank 8
+- Hidden Memos
+	- Chamber of Mirrors - "If an item would be spread to chamber of mirrors, four of those items would be spread instead"
+		- This means that Conference Room is "antisynergistic" with Chamber of Mirrors
+	- Closet - "The closet was one of the original 46 rooms of Mount Holly"
+- I used the Conservatory to reset Mechanarium from Rare to Unusual because I want to get the memo in it.
+- I was going to try using Key 8 inside the Pool room in another rank, but I wasn't able to.
+- I am going to stay at the Orindian Ruins until it becomes night to see if there is something different in the sky.
+	- Nothing happened
+
+Day 89
+- Tried walking to the Safehouse and the Black mirror, nothing changed
+- Drafted a Schoolhouse
+- Early drafts were horrible, the run died in 7 runs.
+- I could draft a Freezer Room though.
+
 Day 88
 - Hidden Memos
 	- Music Room - "There is a major key hanging on a wall in the Safehouse"
