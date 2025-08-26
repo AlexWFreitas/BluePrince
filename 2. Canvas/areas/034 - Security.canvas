@@ -158,7 +158,7 @@
 	],
 	"edges":[
 		{"id":"40ae6f701351537c","fromNode":"53bd4ef87b9eb026","fromSide":"top","toNode":"9cb268989cca7d5c","toSide":"bottom"},
-		{"id":"823ad6485eff16fe","fromNode":"3656e34299ca8a80","fromSide":"top","toNode":"817f0a973a55061f","toSide":"bottom"},
+		{"id":"823ad6485eff16fe","toFloating":false,"fromNode":"3656e34299ca8a80","fromSide":"top","toNode":"817f0a973a55061f","toSide":"bottom"},
 		{
 			"id":"c7b4de23fb0d3731",
 			"styleAttributes":{},

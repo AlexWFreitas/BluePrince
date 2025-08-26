@@ -19,7 +19,7 @@
 		{"id":"40ba2f2ef969eaa5","type":"file","file":"99. attachments/BLUE_PRINCE_4JGoeDzK8R.png","x":-1980,"y":803,"width":400,"height":191}
 	],
 	"edges":[
-		{"id":"cc07de0efcd13e43","fromNode":"94f8aeae036aebdb","fromSide":"bottom","toNode":"c51cff9bfc1cc0d9","toSide":"top"}
+		{"id":"cc07de0efcd13e43","toFloating":false,"fromNode":"94f8aeae036aebdb","fromSide":"bottom","toNode":"c51cff9bfc1cc0d9","toSide":"top"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

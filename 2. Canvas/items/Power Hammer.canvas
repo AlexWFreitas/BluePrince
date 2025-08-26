@@ -129,6 +129,17 @@
 			"width":260,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"305576efed58bd01",
+			"type":"text",
+			"text":"[[Unknown.canvas|Unknown]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":420,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[

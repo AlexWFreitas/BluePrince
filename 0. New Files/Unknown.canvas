@@ -24,26 +24,38 @@
 		{"id":"aedc0464c901b6d3","type":"file","file":"99. attachments/BLUE_PRINCE_HRKz3Dg0BN.png","x":40,"y":2680,"width":747,"height":420},
 		{"id":"505191516b96c491","type":"file","file":"99. attachments/BLUE_PRINCE_9zKrb5c3nV.png","x":840,"y":2680,"width":747,"height":420},
 		{
-			"id":"d674df2c9c1b6ed7",
-			"type":"text",
-			"text":"# Theories\n\n- The Black Key is lying with the last King of Eight\n\t- The Black Key is lying in the tomb of the King of Orindia?\n- In Aries Court where the King now lays\n\t- The place I am is the Orinda Aries Court?\n- A patient figure a reckoning great\n\t- Maybe the art representing the old man waiting?\n\t- Or maybe I need to be patient\n- On the sacred hour that timeworn phrase\n\t- I should come at 1:30\n- A sullen cross as five stars align\n\t- The day needs to be have a Southern Cross Constellation\n- Will a youth approach with empty arms\n\t- I should have no items in my inventory?\n- Without gifts nor gold nor mannered charms\n\t- I should have no gold, maybe gems?\n- And in sky above a brilliant Sign\n\t- I should come during the night?\n\nMaybe with this Black Key I can interact with the Black Mirror?",
-			"styleAttributes":{},
-			"x":1640,
-			"y":1230,
-			"width":1140,
-			"height":650
-		},
-		{
 			"id":"6aaced66682b633c",
 			"type":"text",
-			"text":"# Test Power Hammer on this Room",
+			"text":"# Test Power Hammer on this area",
 			"styleAttributes":{},
 			"x":1640,
 			"y":920,
 			"width":800,
 			"height":80,
 			"color":"3"
-		}
+		},
+		{
+			"id":"d674df2c9c1b6ed7",
+			"type":"text",
+			"text":"# Theories\n\n- The Black Key is lying with the last King of Eight\n\t- The Black Key is lying in the tomb of the King of Orinda?\n- In Aries Court where the King now lays\n\t- The place I am is the Orinda Aries Court?\n- A patient figure a reckoning great\n\t- Maybe the art representing the old man waiting?\n\t- Or maybe I need to be patient as the old man waiting by the chair\n\t- Maybe related to the many photos with people sitting on chairs\n- On the sacred hour that timeworn phrase\n\t- I should come at 1:30\n\t- What phrase?\n\t\t- Ovinn Nevarei?\n\t\t\t- Not really\n- A sullen cross as five stars align\n\t- The day needs to be have a Southern Cross Constellation\n\t\t- Unsure if I need to activate the constellation in the Observatory or just have the Stars that would have the constellations in the sky\n- Will a youth approach with empty arms\n\t- I should have no items in my inventory?\n- Without gifts nor gold nor mannered charms\n\t- I should have no gold, maybe gems, dies and keys?\n- And in sky above a brilliant sign\n\t- ~~I should come during the night?~~\n\t- It works if you do this on the day\n\nMaybe with this Black Key I can interact with the Black Mirror?\n\nI wonder if there are more conditions.\n- ~~Maybe changing the Secret Garden Relic to the Orindia Symbol (South)~~\n- ~~Maybe changing the Secret Garden Relic to the Moon Symbol (North)~~\n- ~~Maybe I shouldn't wait in the Court, but somewhere instead with the symbol?~~\n\nThe conditions listed are correct.\n",
+			"styleAttributes":{},
+			"x":1740,
+			"y":1220,
+			"width":660,
+			"height":1070
+		},
+		{"id":"9112e5008c131750","type":"file","file":"99. attachments/BLUE_PRINCE_ByNrdkg3MV.png","x":1640,"y":2360,"width":1140,"height":641},
+		{
+			"id":"bb07f2af92f7dfc2",
+			"type":"text",
+			"text":"[[Safehouse Station.canvas|Safehouse Station]]",
+			"styleAttributes":{},
+			"x":1640,
+			"y":3040,
+			"width":260,
+			"height":60
+		},
+		{"id":"afcdbc44da202f68","type":"file","file":"99. attachments/BLUE_PRINCE_kuQuDEsIcP.png","x":1640,"y":3140,"width":1740,"height":979}
 	],
 	"edges":[],
 	"metadata":{

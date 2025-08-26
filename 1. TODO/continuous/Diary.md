@@ -1,4 +1,30 @@
 
+Day 96
+- Drafted an Observatory and only activated the Southern Cross
+- Went to the Unknown area and waited until 1:30 at day, following the conditions of having a Southern Cross constellation active, being there at 1:30pm without gold, items, gems and keys.
+	- Something happened and triggered the appearance of a giant clock with North, West, South, East markings on some numbers.
+	- I also saw that there is a grid that looks very similar to the one in "A New Clue" related to the Secret Passage
+	- I tried using the times found in the Red Letters, Safehouse Museum Map and I didn't get much progress.
+- I think I will have to explore the mansion again while taking a look at numbers that could fit in times, such as dates and times.
+- I think I need to explore the Secret Passage and take notes about the names of the books inside it, it might be helpful.
+
+Day 95
+- Drafted an Observatory and only activated the Southern Cross
+- Went to the Unknown to wait until night starts.
+	- Night at 1:30 nothing happened
+	- I will try during the day on Day 96
+
+Day 94
+- Destroyed the run to reduce the amount of stars to 154 so I can get the Southern Cross at the Observatory
+
+Day 93
+- I feel I can do most of the conditions for the Unknown room puzzle with the amount of stars I have.
+- I need to call a day early because I have items in my inventory though.
+- Wasted the day because I think I need to use the Observatory and I ended up without resources trying to draft it.
+
+Day 92
+- I think I was trying to get the Schoolhouse to do the memo notes drawing, but I gave up because I didn't draw it.
+
 Day 91
 - Hidden Memo
 	- Mechanarium - "On the coat of arms, the first numeral is a number and the following numbers have two numerals each"
