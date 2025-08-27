@@ -554,7 +554,8 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"a7f42de4cad8d483","type":"file","file":"99. attachments/BLUE_PRINCE_IbOo9EjvIh.png","x":4800,"y":20176,"width":400,"height":225}
+		{"id":"a7f42de4cad8d483","type":"file","file":"99. attachments/BLUE_PRINCE_IbOo9EjvIh.png","x":4800,"y":20176,"width":400,"height":225},
+		{"id":"f1936d9a1d3302d4","type":"file","file":"99. attachments/BLUE_PRINCE_YlPJzimSSl.png","x":4800,"y":20440,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"02e07874a98f1406","toFloating":false,"fromNode":"23dd88fdfede1afd","fromSide":"top","toNode":"e2a14c88aee7f736","toSide":"bottom"},

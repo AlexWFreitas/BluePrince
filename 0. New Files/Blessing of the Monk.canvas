@@ -1,0 +1,50 @@
+{
+	"nodes":[
+		{"id":"9dc13cd1e5ab1a5b","type":"file","file":"99. attachments/BLUE_PRINCE_CRyD1rtjjK.png","x":-600,"y":-120,"width":400,"height":387},
+		{
+			"id":"1bdfe13679fe3ddb",
+			"type":"text",
+			"text":"[[Shrine.canvas|Shrine]]",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-220,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0ade7f96d70baf0e",
+			"type":"text",
+			"text":"You can get this blessing by paying 78g to have this blessing for 7 days in the [[Shrine.canvas|Shrine]]",
+			"styleAttributes":{},
+			"x":-600,
+			"y":280,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"bd313088ea9d7208",
+			"type":"text",
+			"text":"# Special Interactions",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-220,
+			"width":760,
+			"height":80
+		},
+		{
+			"id":"98cb3c83ca0e6550",
+			"type":"text",
+			"text":"# Call it a Day in the Room 46 with Monk Blessing",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-120,
+			"width":580,
+			"height":400
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

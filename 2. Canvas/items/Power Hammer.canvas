@@ -22,16 +22,6 @@
 		},
 		{"id":"38eca2e44ad5f63e","type":"file","file":"99. attachments/BLUE_PRINCE_4udn34WZrN.png","x":-520,"y":20,"width":400,"height":225},
 		{
-			"id":"fbff0330352dff5a",
-			"type":"text",
-			"text":"The power hamer can be used to break walls on",
-			"styleAttributes":{},
-			"x":-100,
-			"y":-130,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"d06c92dd70a022bb",
 			"type":"text",
 			"text":"[[Sealed Entrance.canvas|Sealed Entrance]]",
@@ -95,7 +85,7 @@
 			"y":185,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"1"
 		},
 		{
 			"id":"e79e27805034e4ad",
@@ -139,7 +129,27 @@
 			"y":420,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"1"
+		},
+		{
+			"id":"20ac957e87865f60",
+			"type":"text",
+			"text":"[[Throne Room.canvas|Throne Room]]",
+			"styleAttributes":{},
+			"x":300,
+			"y":500,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fbff0330352dff5a",
+			"type":"text",
+			"text":"The power hamer can be used to break walls on",
+			"styleAttributes":{},
+			"x":300,
+			"y":-420,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -151,25 +161,6 @@
 			"fromSide":"bottom",
 			"toNode":"38eca2e44ad5f63e",
 			"toSide":"top"
-		},
-		{
-			"id":"2b473eff73be0e00",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"fbff0330352dff5a",
-			"fromSide":"right",
-			"toNode":"1ce0d2b2f9189364",
-			"toSide":"left"
-		},
-		{
-			"id":"559b8fb9e4fcb2a2",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"fbff0330352dff5a",
-			"fromSide":"right",
-			"toNode":"d06c92dd70a022bb",
-			"toSide":"left"
 		}
 	],
 	"metadata":{

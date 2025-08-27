@@ -44,7 +44,7 @@
 			"width":260,
 			"height":271
 		},
-		{"id":"d40261bffae21b57","type":"file","file":"99. attachments/Pasted image 20250824085011.png","x":-180,"y":10,"width":400,"height":192},
+		{"id":"d40261bffae21b57","type":"file","file":"99. attachments/Pasted image 20250824085011.png","x":-180,"y":10,"width":399,"height":192},
 		{"id":"f66315d72460e16a","type":"file","file":"99. attachments/BLUE_PRINCE_e0drhutjwL.png","x":266,"y":10,"width":387,"height":210},
 		{
 			"id":"787f760c6da69266",
@@ -76,6 +76,17 @@
 			"y":300,
 			"width":260,
 			"height":160
+		},
+		{"id":"bee3518566c7bc35","type":"file","file":"99. attachments/BLUE_PRINCE_3x43xcZcHy.png","x":1560,"y":5,"width":400,"height":206},
+		{
+			"id":"41e539acf419bdc9",
+			"type":"text",
+			"text":"This room only makes sense if there are more secrets than having 2 exits and one antechamber lever.\n\nSince having this for free makes drafting  and exploration more easily, I think this is the correct third choice on the first playthrough.\n\nI feel that Rotunda for rotating rooms and 4 exits or Cloister if you don't have an alternative way to reduce gem cost or Passageways with duplicates are stronger alternatives, but only if you already explored the entire game.",
+			"styleAttributes":{},
+			"x":1575,
+			"y":289,
+			"width":370,
+			"height":411
 		}
 	],
 	"edges":[
@@ -115,6 +126,15 @@
 			"fromNode":"f66315d72460e16a",
 			"fromSide":"bottom",
 			"toNode":"bda9c344609e9558",
+			"toSide":"top"
+		},
+		{
+			"id":"245ff09b192ca53c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bee3518566c7bc35",
+			"fromSide":"bottom",
+			"toNode":"41e539acf419bdc9",
 			"toSide":"top"
 		}
 	],

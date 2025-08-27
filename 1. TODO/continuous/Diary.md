@@ -1,4 +1,16 @@
 
+Day 99
+- Final Exams results are in, my score in Erajan improved but still not perfect and all other subjects were 100%.
+- Drafted a Shrine and got a Monk Blessing for 7 days with 78g
+- The Spiral of Stars message has been completed and now it reduces two stars every time I activate it, but the effect is very strong at Rank 3-6.
+	- I should avoid drafting it unless it's necessary, so I can increase my star count for when I need it.
+- I used my third Axe on this run.
+	- Rooms affected:
+		- Attic -  Strongest 3 gem room in the game
+		- Trophy Room - Biggest gain and also a very useful early boost
+		- Throne Room - This room seems to be important to finishing 100% the game, I have drafted it a few times but did not figure out the secrets in it, so having less problems when trying to drafting it to explore should help me.
+- I plan to end my run in Room 46 to check what happens when this room is transferred to the Outer Room.
+
 Day 98
 - I should test October 5th on the Clock puzzle, since it was the day that the King Desileets III died, based on the History of Orindia book
 	- Tested 10/05, 10/06, 06/10, 05/10 on the Clock Puzzle at Unknown and it did not work.
@@ -13,6 +25,7 @@ Day 98
 - Did a Classroom Final Exam again, fixed some of the answers, but Erajan might still be wrong.
 - Found a memo on Treasure Trove saying that there is a secret in The Den, it's probably a lie.
 	- I tested waiting in the Den until 1:30 and nothing happened.
+	- If the previous memo was true, then there is actually something in The Den
 - Tried waiting in Room 46 until 3:00 and nothing happened too.
 - My stars count got reduced to 146 because I was redrafting for the last Classroom for the last Memo note.
 - I got the names of the books in the Secret Passage
