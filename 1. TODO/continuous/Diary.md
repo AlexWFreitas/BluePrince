@@ -1,4 +1,28 @@
 
+Day 100
+- Discovered that the Spiral of Stars message is still continuing, so I will keep activating it in the Observatory, despite losing one star per day.
+- I tried using Power Hammer and Burning Glass in the Throne Room and got nothing
+- I drafted Room 46 at the Outer Room, the room is slightly different in that it has no Blue Crown and also has the Certified Deed Copy at the Desk instead.
+	- You can open map safe to show Herbert's will, which is exactly the same as the one in Room 46.
+- I entered Room 46 from the Antechamber and the room is identical, nothing is different.
+- I entered the Secret Passage from the exit without picking a book, surprisingly, there was a hidden clue there, there are a few letters disposed in a grid that could fit a 6x3 grid.
+	- This is probably related to the puzzle in Unknown.
+- Because of those letters I remembered that I found similar letters in the Locker Room, so I started gathering those clues together.
+- I need to visit the Tomb again to check the book and take a proper screenshot of that grid.
+- I think I found almost 80% of the letters
+	- The areas I found clues in are:
+		- Locker Room
+		- Blackbridge Grotto
+		- Secret Passage
+		- A New Clue - Original Manuscript
+		- The Precipice after Breaking a Wall in the Chess Board Area
+		- Kennel	
+	- There should be one more place, but I don't know where...
+- I ended the run in the Antechamber to trigger Monk Blessing on another room to check what happens.
+- 
+
+
+
 Day 99
 - Final Exams results are in, my score in Erajan improved but still not perfect and all other subjects were 100%.
 - Drafted a Shrine and got a Monk Blessing for 7 days with 78g

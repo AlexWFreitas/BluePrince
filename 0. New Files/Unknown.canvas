@@ -82,7 +82,24 @@
 		{"id":"b730ca20872bdbbe","type":"file","file":"99. attachments/BLUE_PRINCE_HuyDIS7oFS 1.png","x":2840,"y":2360,"width":1140,"height":641},
 		{"id":"4bb620ac139eb76f","type":"file","file":"99. attachments/BLUE_PRINCE_4uUTJSIWZf.png","x":-1980,"y":3920,"width":2500,"height":1406},
 		{"id":"172bcd6fb953012f","type":"file","file":"99. attachments/BLUE_PRINCE_zZmfcSHUCM.png","x":540,"y":3920,"width":1060,"height":596},
-		{"id":"d7a9c70579851c43","type":"file","file":"99. attachments/BLUE_PRINCE_h06Wr2iNjO.png","x":540,"y":4572,"width":3020,"height":1699}
+		{"id":"d7a9c70579851c43","type":"file","file":"99. attachments/BLUE_PRINCE_h06Wr2iNjO.png","x":540,"y":4572,"width":3020,"height":1699},
+		{"id":"2f957f4aa1cfdbac","type":"file","file":"99. attachments/BLUE_PRINCE_jMYaGVCGk7.png","x":-6680,"y":2997,"width":1760,"height":990},
+		{"id":"81c120a6099b8d77","type":"file","file":"99. attachments/BLUE_PRINCE_LZbf5otcz9.png","x":-8480,"y":2997,"width":1720,"height":968},
+		{"id":"b8368478263c1e4f","type":"file","file":"99. attachments/BLUE_PRINCE_ADi0cEDyc8.png","x":-10320,"y":4049,"width":2240,"height":1260},
+		{"id":"23c36010c48c5c4c","type":"file","file":"99. attachments/BLUE_PRINCE_kGivOCxD1C 1.png","x":-6280,"y":4049,"width":3480,"height":1958},
+		{
+			"id":"8b6c133fedcee2ad",
+			"type":"text",
+			"text":"# Clock Puzzle Theories\nBased on these clues I gathered, it seems that instead this puzzle is related to the CASTLE WORD PUZZLE, if we interpret each square as a letter, then it should be something like:\n```\nCI_\nA_D\nSIX\nTOR\nLOR\nE_T\n```\n\n\nI am not sure if C__ should be CAT because vertically it fits as well, the could be the one after the cat or the last letter of the puzzle.",
+			"styleAttributes":{},
+			"x":-8000,
+			"y":4049,
+			"width":560,
+			"height":731
+		},
+		{"id":"161042d7a4e05915","type":"file","file":"99. attachments/Obsidian_c2SAFPyldY.png","x":-7360,"y":4049,"width":400,"height":349},
+		{"id":"9c5dc130274cf265","type":"file","file":"99. attachments/BLUE_PRINCE_EN0x1rlrdG.png","x":-7400,"y":4454,"width":960,"height":540},
+		{"id":"a30c0d540b0381f3","type":"file","file":"99. attachments/BLUE_PRINCE_l1aYQ27ycs.png","x":-8000,"y":4840,"width":395,"height":400}
 	],
 	"edges":[],
 	"metadata":{

@@ -139,7 +139,8 @@
 			"x":300,
 			"y":500,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"1"
 		},
 		{
 			"id":"fbff0330352dff5a",

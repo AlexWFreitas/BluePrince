@@ -3,7 +3,7 @@
 		{
 			"id":"ba893271e7608576",
 			"type":"text",
-			"text":"[[The Grounds.canvas|The Grounds]]",
+			"text":"[[The Grounds.canvas|The Grounds]] - Dark Tunnel outside",
 			"styleAttributes":{},
 			"x":340,
 			"y":-480,
@@ -118,7 +118,7 @@
 			"y":80,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"1"
 		}
 	],
 	"edges":[],

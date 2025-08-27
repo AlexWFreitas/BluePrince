@@ -34,12 +34,12 @@
 		{
 			"id":"98cb3c83ca0e6550",
 			"type":"text",
-			"text":"# Call it a Day in the Room 46 with Monk Blessing",
+			"text":"# Call it a Day in the Room 46 with the Monk Blessing\n\nThe room is slightly different.\n- The copy of the deed is placed on the desk instead of the safe.\n- The Crown of the Blueprints is not on the desk.\n- Windows are blocked.\n- Everything else feels the same.\n\n[[Call it a Day in the Room 46 with Monk Blessing.canvas|Call it a Day in the Room 46 with Monk Blessing]]",
 			"styleAttributes":{},
 			"x":-140,
 			"y":-120,
 			"width":580,
-			"height":400
+			"height":360
 		}
 	],
 	"edges":[],
