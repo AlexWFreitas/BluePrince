@@ -1,28 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"83d740eefecbdd2f",
-			"type":"text",
-			"text":"[[Trading Post.canvas|Trading Post]]",
-			"styleAttributes":{},
-			"x":340,
-			"y":-320,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"916f5495276a7ff9",
-			"type":"text",
-			"text":"[[Chapel.canvas|Chapel]]",
-			"styleAttributes":{},
-			"x":340,
-			"y":-400,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"ba893271e7608576",
 			"type":"text",
 			"text":"[[The Grounds.canvas|The Grounds]]",
@@ -88,12 +66,34 @@
 			"color":"4"
 		},
 		{
+			"id":"916f5495276a7ff9",
+			"type":"text",
+			"text":"[[Chapel.canvas|Chapel]]",
+			"styleAttributes":{},
+			"x":340,
+			"y":-400,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"83d740eefecbdd2f",
+			"type":"text",
+			"text":"[[Trading Post.canvas|Trading Post]]",
+			"styleAttributes":{},
+			"x":340,
+			"y":-320,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"af3657c1037b07f7",
 			"type":"text",
 			"text":"[[Tomb.canvas|Tomb]] - Lady Epsen Tomb\n",
 			"styleAttributes":{},
 			"x":340,
-			"y":-85,
+			"y":-80,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -108,6 +108,17 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"56b91c082cbf7b32",
+			"type":"text",
+			"text":"[[Throne Room.canvas|Throne Room]]",
+			"styleAttributes":{},
+			"x":340,
+			"y":80,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[],

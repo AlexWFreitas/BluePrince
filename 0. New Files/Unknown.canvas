@@ -23,27 +23,6 @@
 		{"id":"c7fc7196d64b46a2","type":"file","file":"99. attachments/BLUE_PRINCE_S5siWF1xkG.png","x":840,"y":2200,"width":747,"height":420},
 		{"id":"aedc0464c901b6d3","type":"file","file":"99. attachments/BLUE_PRINCE_HRKz3Dg0BN.png","x":40,"y":2680,"width":747,"height":420},
 		{"id":"505191516b96c491","type":"file","file":"99. attachments/BLUE_PRINCE_9zKrb5c3nV.png","x":840,"y":2680,"width":747,"height":420},
-		{
-			"id":"6aaced66682b633c",
-			"type":"text",
-			"text":"# Test Power Hammer on this area",
-			"styleAttributes":{},
-			"x":1640,
-			"y":920,
-			"width":800,
-			"height":80,
-			"color":"3"
-		},
-		{
-			"id":"d674df2c9c1b6ed7",
-			"type":"text",
-			"text":"# Theories\n\n- The Black Key is lying with the last King of Eight\n\t- The Black Key is lying in the tomb of the King of Orinda?\n- In Aries Court where the King now lays\n\t- The place I am is the Orinda Aries Court?\n- A patient figure a reckoning great\n\t- Maybe the art representing the old man waiting?\n\t- Or maybe I need to be patient as the old man waiting by the chair\n\t- Maybe related to the many photos with people sitting on chairs\n- On the sacred hour that timeworn phrase\n\t- I should come at 1:30\n\t- What phrase?\n\t\t- Ovinn Nevarei?\n\t\t\t- Not really\n- A sullen cross as five stars align\n\t- The day needs to be have a Southern Cross Constellation\n\t\t- Unsure if I need to activate the constellation in the Observatory or just have the Stars that would have the constellations in the sky\n- Will a youth approach with empty arms\n\t- I should have no items in my inventory?\n- Without gifts nor gold nor mannered charms\n\t- I should have no gold, maybe gems, dies and keys?\n- And in sky above a brilliant sign\n\t- ~~I should come during the night?~~\n\t- It works if you do this on the day\n\nMaybe with this Black Key I can interact with the Black Mirror?\n\nI wonder if there are more conditions.\n- ~~Maybe changing the Secret Garden Relic to the Orindia Symbol (South)~~\n- ~~Maybe changing the Secret Garden Relic to the Moon Symbol (North)~~\n- ~~Maybe I shouldn't wait in the Court, but somewhere instead with the symbol?~~\n\nThe conditions listed are correct.\n",
-			"styleAttributes":{},
-			"x":1740,
-			"y":1220,
-			"width":660,
-			"height":1070
-		},
 		{"id":"9112e5008c131750","type":"file","file":"99. attachments/BLUE_PRINCE_ByNrdkg3MV.png","x":1640,"y":2360,"width":1140,"height":641},
 		{
 			"id":"bb07f2af92f7dfc2",
@@ -55,7 +34,55 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"afcdbc44da202f68","type":"file","file":"99. attachments/BLUE_PRINCE_kuQuDEsIcP.png","x":1640,"y":3140,"width":1740,"height":979}
+		{"id":"afcdbc44da202f68","type":"file","file":"99. attachments/BLUE_PRINCE_kuQuDEsIcP.png","x":1640,"y":3140,"width":1740,"height":979},
+		{
+			"id":"6aaced66682b633c",
+			"type":"text",
+			"text":"# Power Hammer doesn't unlock anything on this area\n- Tested, found nothing.",
+			"styleAttributes":{},
+			"x":1640,
+			"y":850,
+			"width":800,
+			"height":170,
+			"color":"1"
+		},
+		{
+			"id":"2df863507c275d76",
+			"type":"text",
+			"text":"# After unlocking the Clock Puzzle, you don't need to unlock it again on the next days",
+			"styleAttributes":{},
+			"x":1640,
+			"y":1060,
+			"width":800,
+			"height":120,
+			"color":"4"
+		},
+		{
+			"id":"d674df2c9c1b6ed7",
+			"type":"text",
+			"text":"# Theories\n\n- The Black Key is lying with the last King of Eight\n\t- The Black Key is lying in the tomb of the King of Orinda?\n- In Aries Court where the King now lays\n\t- The place I am is the Orinda Aries Court?\n- A patient figure a reckoning great\n\t- Maybe the art representing the old man waiting?\n\t- Or maybe I need to be patient as the old man waiting by the chair\n\t- Maybe related to the many photos with people sitting on chairs\n- On the sacred hour that timeworn phrase\n\t- I should come at 1:30\n\t- What phrase?\n\t\t- Ovinn Nevarei?\n\t\t\t- Not really\n- A sullen cross as five stars align\n\t- The day needs to be have a Southern Cross Constellation\n\t\t- Unsure if I need to activate the constellation in the Observatory or just have the Stars that would have the constellations in the sky\n- Will a youth approach with empty arms\n\t- I should have no items in my inventory?\n- Without gifts nor gold nor mannered charms\n\t- I should have no gold, maybe gems, dies and keys?\n- And in sky above a brilliant sign\n\t- ~~I should come during the night?~~\n\t- It works if you do this on the day\n\nMaybe with this Black Key I can interact with the Black Mirror?\n\nI wonder if there are more conditions.\n- ~~Maybe changing the Secret Garden Relic to the Orindia Symbol (South)~~\n- ~~Maybe changing the Secret Garden Relic to the Moon Symbol (North)~~\n- ~~Maybe I shouldn't wait in the Court, but somewhere instead with the symbol?~~\n\nThe conditions listed are correct.\n",
+			"styleAttributes":{},
+			"x":1740,
+			"y":1200,
+			"width":660,
+			"height":1070,
+			"color":"4"
+		},
+		{"id":"f84140bc6de96967","type":"file","file":"99. attachments/BLUE_PRINCE_nynCbTGPe5.png","x":340,"y":3180,"width":1200,"height":675},
+		{
+			"id":"94ceacbcee9419ba",
+			"type":"text",
+			"text":"# Clock Puzzle Theories\n- The Museum Map timestamps\n\t- Did not work\n- The dates on seven of the Red Letters do not work\n\t- Did not work\n- Test 10/05, 10/06 based on the History of Orindia book telling about the day that the King Desilets III died\n\t- 10/05 and 10/06 did not work\n\t- 11/05 and 11/06 also did not work (Herbert death)\n- Maybe because there are six rows with 3 squares, it means that the solution is 6 numbers made of 3 numerals.\n\t- This means the number goes from 01:00 to 09:59\n- There is a chance that\n\t- Number three is 5--\n\t- Number four is -0-\n\t- Number five is -0-\n\t- Number six is  --7\n",
+			"styleAttributes":{},
+			"x":-260,
+			"y":3180,
+			"width":560,
+			"height":675
+		},
+		{"id":"b730ca20872bdbbe","type":"file","file":"99. attachments/BLUE_PRINCE_HuyDIS7oFS 1.png","x":2840,"y":2360,"width":1140,"height":641},
+		{"id":"4bb620ac139eb76f","type":"file","file":"99. attachments/BLUE_PRINCE_4uUTJSIWZf.png","x":-1980,"y":3920,"width":2500,"height":1406},
+		{"id":"172bcd6fb953012f","type":"file","file":"99. attachments/BLUE_PRINCE_zZmfcSHUCM.png","x":540,"y":3920,"width":1060,"height":596},
+		{"id":"d7a9c70579851c43","type":"file","file":"99. attachments/BLUE_PRINCE_h06Wr2iNjO.png","x":540,"y":4572,"width":3020,"height":1699}
 	],
 	"edges":[],
 	"metadata":{

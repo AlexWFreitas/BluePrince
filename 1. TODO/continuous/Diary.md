@@ -1,4 +1,44 @@
 
+Day 98
+- I should test October 5th on the Clock puzzle, since it was the day that the King Desileets III died, based on the History of Orindia book
+	- Tested 10/05, 10/06, 06/10, 05/10 on the Clock Puzzle at Unknown and it did not work.
+- Figured that the numbers inside the New Clue Book might be a representation of a combination of 3 numerals on each of the grid rows.
+	- So we have one numeral for four rows based on the book.
+	- This also means that the number I am looking for goes from 01:00 to 09:59 because there are only columns for three numerals.
+- Hidden Memos
+	- Classroom 7 - "The three advanced modern mathematics operations are squaring, inversion and rounding."
+	- Classroom 8 - "Erajan Language - Lune is Water, Essa is Love, Joro is Father"
+	- Classroom 9 - "The answer of the last question is 46"
+		- 8 Squared then Inverted
+- Did a Classroom Final Exam again, fixed some of the answers, but Erajan might still be wrong.
+- Found a memo on Treasure Trove saying that there is a secret in The Den, it's probably a lie.
+	- I tested waiting in the Den until 1:30 and nothing happened.
+- Tried waiting in Room 46 until 3:00 and nothing happened too.
+- My stars count got reduced to 146 because I was redrafting for the last Classroom for the last Memo note.
+- I got the names of the books in the Secret Passage
+	- They don't seem useful, but at least I took notes.
+- I need to visit the Tomb with a Magnifying Glass to take a screenshot of the numbers on the grid thing.
+- I slept in the Maid's Chamber to see what happens
+- I need to try to enter the Secret Passage from it's back side after drafting the room and without picking a book to see if there is something there.
+- I want to try breaking the house by using the Monk Blessing and calling it a day in Entrance Hall, Antechamber, Room 46 and The Foundation.
+
+
+Day 97
+- Drafted a Schoolhouse after getting some gems and a Study Room
+- Hidden Memos
+	- Classroom 2 - "The figure of eight, in its symbolic guise as infinity, has long served as a vessel of both death and the unfathomable."
+	- Classroom 3 - "Someting about architectural drafting being created in Corarica University in the 15th realm era"
+	- Classroom 4 - "There were three explorer groups that went to the South Key, only one group returned, amont the cartographers that returned, they only conducted a survey on the coastline but did not land on the South Key"
+		- South Key is some sort of mixture of South Pole and Bermuda Triangle
+		- They gave the death symbol to it on the map, so they consider it a place of death or something?
+	- Classroom 5 - "The illustrations of Red Prince and Swim Bird were made by Marion Marigold"
+	- Classroom 6 - "The third king of Orindia was the last in the line of Oris"
+		- Because King Desileet IV was killed, overthrown in the revolt.
+		- So it means King Desilets III was the last one.
+- Drafted a Freezer having a good amount of gems and will use it to get Classsroom 7, 8, 9 on the next run.
+- I checked the Unknown area with the Power Hammer and there is no breakable wall there.
+- Also the revealed clock from the conditional puzzle is unlocked permanently after you first unlock it, so there is no need to set up using those conditions again.
+
 Day 96
 - Drafted an Observatory and only activated the Southern Cross
 - Went to the Unknown area and waited until 1:30 at day, following the conditions of having a Southern Cross constellation active, being there at 1:30pm without gold, items, gems and keys.

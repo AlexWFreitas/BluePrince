@@ -512,18 +512,18 @@
 		{
 			"id":"ea850ec7870c918e",
 			"type":"text",
-			"text":"Eraja Nai - Eraja Night\n\n**Elcountvo - Me Count Away**\n\nLeavelu - Leave you not\n\nLe - I am not\n",
+			"text":"Eraja Nai - Eraja Night\n\nElcountvo - Me Count Away (Old Answer)\n\nLeavelu - Leave you not\n\n**Le - I am not**\n",
 			"styleAttributes":{},
 			"x":4040,
 			"y":19780,
 			"width":300,
-			"height":200
+			"height":220
 		},
 		{"id":"3de269d335974ade","type":"file","file":"99. attachments/Obsidian_uVeQAnmM0a.png","x":3640,"y":20000,"width":305,"height":400},
 		{
 			"id":"e518cfa1189ebc54",
 			"type":"text",
-			"text":"Inn Ett Iss - North East South\n\nEtt Trei - East Tree\n\n**Ajinn Ett Ovtrei Issja Treivo -** \n**First North East Toward Tree, South Last Away From Tree**\n\nMainn Ettam Matrei Ettiss Maorr - \nSmall North, Long East, Small Tree, South East, Small West",
+			"text":"Inn Ett Iss - North East South\n\n**Ett Trei - East Tree**\n\nAjinn Ett Ovtrei Issja Treivo - \nFirst North East Toward Tree, South Last Away From Tree (Old Answer - Incorrect probably)\n\nMainn Ettam Matrei Ettiss Maorr - \nSmall North, Long East, Small Tree, South East, Small West",
 			"styleAttributes":{},
 			"x":3980,
 			"y":20040,
@@ -536,14 +536,25 @@
 		{
 			"id":"5ece9f616a9954a7",
 			"type":"text",
-			"text":"**A - Probably Square Root?**\nor\nD - 46?\n\nThe others results in 60 and 100, I think.",
+			"text":"**D - 46**",
 			"styleAttributes":{},
 			"x":4020,
 			"y":20560,
 			"width":260,
 			"height":180
 		},
-		{"id":"500e6acab4d76a72","type":"file","file":"99. attachments/BLUE_PRINCE_IbOo9EjvIh.png","x":740,"y":12993,"width":400,"height":225}
+		{"id":"500e6acab4d76a72","type":"file","file":"99. attachments/BLUE_PRINCE_IbOo9EjvIh.png","x":740,"y":12993,"width":400,"height":225},
+		{
+			"id":"cb93434ce0e6a811",
+			"type":"text",
+			"text":"After fixing the answers the first time",
+			"styleAttributes":{},
+			"x":5260,
+			"y":20258,
+			"width":260,
+			"height":60
+		},
+		{"id":"a7f42de4cad8d483","type":"file","file":"99. attachments/BLUE_PRINCE_IbOo9EjvIh.png","x":4800,"y":20176,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"02e07874a98f1406","toFloating":false,"fromNode":"23dd88fdfede1afd","fromSide":"top","toNode":"e2a14c88aee7f736","toSide":"bottom"},
@@ -611,6 +622,15 @@
 			"fromSide":"top",
 			"toNode":"85c5846e16ae2b08",
 			"toSide":"bottom"
+		},
+		{
+			"id":"94678722814a9dfc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a7f42de4cad8d483",
+			"fromSide":"right",
+			"toNode":"cb93434ce0e6a811",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

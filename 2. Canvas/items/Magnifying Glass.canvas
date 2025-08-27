@@ -205,6 +205,17 @@
 			"y":160,
 			"width":400,
 			"height":109
+		},
+		{
+			"id":"748eefe6903f7b18",
+			"type":"text",
+			"text":"[[Maid's Chamber.canvas|Maid's Chamber]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":640,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[
