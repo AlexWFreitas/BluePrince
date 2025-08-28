@@ -149,6 +149,37 @@
 			"width":260,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"ea7f794dd224be11",
+			"type":"text",
+			"text":"[[Courtyard.canvas|Courtyard]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":123,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"271a8467ff55da74",
+			"type":"text",
+			"text":"[[Closed Exhibit.canvas|Closed Exhibit]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":205,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0164b70f93cba079",
+			"type":"text",
+			"text":"[[Throne Room.canvas|Throne Room]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":280,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[],

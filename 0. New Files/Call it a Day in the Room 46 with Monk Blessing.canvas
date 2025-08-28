@@ -21,7 +21,18 @@
 			"height":60
 		},
 		{"id":"6935d7fa384afd2f","type":"file","file":"99. attachments/BLUE_PRINCE_PdwRCrhIXl.png","x":-580,"y":20,"width":640,"height":360},
-		{"id":"070598271a8b01aa","type":"file","file":"99. attachments/BLUE_PRINCE_YUc9spMNUE.png","x":80,"y":20,"width":640,"height":360}
+		{"id":"070598271a8b01aa","type":"file","file":"99. attachments/BLUE_PRINCE_YUc9spMNUE.png","x":80,"y":20,"width":640,"height":360},
+		{
+			"id":"397dcbcd794fd5bd",
+			"type":"text",
+			"text":"[[046 - Room 46.canvas|046 - Room 46]]",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-300,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[],
 	"metadata":{

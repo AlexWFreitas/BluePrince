@@ -2,16 +2,6 @@
 	"nodes":[
 		{"id":"a02c7b08b189f455","type":"file","file":"99. attachments/BLUE_PRINCE_3WphWFnbL7.png","x":-660,"y":-360,"width":365,"height":400},
 		{
-			"id":"2df56b9e43eca305",
-			"type":"text",
-			"text":"[[Safehouse Station.canvas|Safehouse Station]]",
-			"styleAttributes":{},
-			"x":-960,
-			"y":-360,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"3ec3f2bd537548c7",
 			"type":"text",
 			"text":"I think this may be related to the [[Throne Room.canvas|Throne Room]], because the Closed Exhibit is reserved for the upper tier of elite patronage.\n\nI wonder if I need the [[Crown of the Blueprints.canvas|Crown of the Blueprints]]",
@@ -21,9 +11,77 @@
 			"width":400,
 			"height":200
 		},
-		{"id":"5f9070b8b7a73064","type":"file","file":"99. attachments/BLUE_PRINCE_gMCN1khqFT.png","x":-1100,"y":40,"width":400,"height":212}
+		{"id":"5f9070b8b7a73064","type":"file","file":"99. attachments/BLUE_PRINCE_gMCN1khqFT.png","x":-1100,"y":40,"width":400,"height":212},
+		{"id":"9f8d23c2a012c12e","type":"file","file":"99. attachments/BLUE_PRINCE_tD55rbCU7Z.png","x":-1100,"y":-360,"width":400,"height":360},
+		{
+			"id":"2df56b9e43eca305",
+			"type":"text",
+			"text":"[[Safehouse Station.canvas|Safehouse Station]]",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-480,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b87017d955889130",
+			"type":"text",
+			"text":"It's on the [[Red Letters.canvas|Red Letters]] #2",
+			"styleAttributes":{},
+			"x":-1030,
+			"y":-480,
+			"width":260,
+			"height":60
+		},
+		{"id":"1134dfa4cb77d47b","type":"file","file":"99. attachments/BLUE_PRINCE_Gbfm9GEioI.png","x":-260,"y":-360,"width":539,"height":283},
+		{"id":"40b55c303f6536c7","type":"file","file":"99. attachments/BLUE_PRINCE_ypHa1TkoHB.png","x":-240,"y":-52,"width":1240,"height":698},
+		{"id":"1d4b0b68111724e7","type":"file","file":"99. attachments/BLUE_PRINCE_qCXHh0rewq.png","x":-677,"y":303,"width":400,"height":225},
+		{"id":"783e23a981571b28","type":"file","file":"99. attachments/BLUE_PRINCE_pCaYXmOu2H.png","x":-677,"y":560,"width":400,"height":225},
+		{"id":"100676816d5a92f4","type":"file","file":"99. attachments/BLUE_PRINCE_EVfY6vTbu3.png","x":-677,"y":820,"width":400,"height":225},
+		{"id":"a531a234e8f08d19","type":"file","file":"99. attachments/BLUE_PRINCE_b0I6zWgFIP.png","x":-240,"y":708,"width":1230,"height":692},
+		{
+			"id":"6210ab6f89e4ac2b",
+			"type":"text",
+			"text":"# Coming from the Crown Direction connecting with another room",
+			"styleAttributes":{},
+			"x":-160,
+			"y":1420,
+			"width":1060,
+			"height":120
+		},
+		{"id":"5b02a0dd062cac41","type":"file","file":"99. attachments/BLUE_PRINCE_UdONyUAJq5.png","x":-240,"y":1580,"width":1240,"height":698},
+		{
+			"id":"964bba1362fec4b5",
+			"type":"text",
+			"text":"# [[Paper Crown.canvas|Paper Crown]]",
+			"styleAttributes":{},
+			"x":1160,
+			"y":993,
+			"width":260,
+			"height":123
+		},
+		{"id":"a47076673e725a4e","type":"file","file":"99. attachments/BLUE_PRINCE_z8PcKxtrBd.png","x":1080,"y":472,"width":840,"height":473}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"f4df2adee585aaf8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b87017d955889130",
+			"fromSide":"bottom",
+			"toNode":"9f8d23c2a012c12e",
+			"toSide":"top"
+		},
+		{
+			"id":"77a54865b0ea8156",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a531a234e8f08d19",
+			"fromSide":"right",
+			"toNode":"964bba1362fec4b5",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

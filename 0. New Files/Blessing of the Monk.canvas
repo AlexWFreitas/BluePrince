@@ -40,6 +40,36 @@
 			"y":-120,
 			"width":580,
 			"height":360
+		},
+		{
+			"id":"6cd1bd8ec3e47c89",
+			"type":"text",
+			"text":"# [[Call it a Day in the Antechamber with Monk Blessing.canvas|Call it a Day in the Antechamber with Monk Blessing]]\n\n[[045 - Antechamber.canvas|045 - Antechamber]]",
+			"styleAttributes":{},
+			"x":460,
+			"y":-120,
+			"width":600,
+			"height":360
+		},
+		{
+			"id":"bed3cd796ba582f3",
+			"type":"text",
+			"text":"# [[001 - The Foundation.canvas|001 - The Foundation]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":260,
+			"width":580,
+			"height":80
+		},
+		{
+			"id":"c941ef8639770251",
+			"type":"text",
+			"text":"# [[002 - Entrance Hall.canvas|002 - Entrance Hall]]",
+			"styleAttributes":{},
+			"x":460,
+			"y":260,
+			"width":600,
+			"height":80
 		}
 	],
 	"edges":[],

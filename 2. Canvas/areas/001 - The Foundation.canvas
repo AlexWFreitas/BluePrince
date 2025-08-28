@@ -12,7 +12,21 @@
 		{"id":"cc7e5acc53070704","type":"file","file":"99. attachments/BLUE_PRINCE_6Yn4LJTIiW.png","x":-640,"y":1180,"width":400,"height":225},
 		{"id":"98d6d6bfa423b5db","type":"text","text":"Links to [[Basement]]","x":-565,"y":1460,"width":250,"height":60},
 		{"id":"173b43829a6883b4","type":"text","text":"Needs Keycard when coming from Basement","x":-160,"y":723,"width":250,"height":60},
-		{"id":"a602f96658882c8e","type":"file","file":"99. attachments/BLUE_PRINCE_QrRpul7iGq.png","x":-200,"y":840,"width":400,"height":225}
+		{"id":"a602f96658882c8e","type":"file","file":"99. attachments/BLUE_PRINCE_QrRpul7iGq.png","x":-200,"y":840,"width":400,"height":225},
+		{
+			"id":"e372b1c056751a1c",
+			"type":"text",
+			"text":"# Monk Blessing - Outer Room\n\n- Seems normal, but I can't access the elevator\n- On the next day, The Foundation in the mansion disappears and appears in the Outer Room.\n- This causes a problem because you can't draft Outer Rooms anymore.\n- At the start of the Third Day with the Foundation in the Outer Room, there is a new item ([[Repellent]]) in the Entrance Hall with a Letter from Anne Babbage.\n",
+			"styleAttributes":{},
+			"x":780,
+			"y":340,
+			"width":700,
+			"height":300
+		},
+		{"id":"2eedb1b3f29acb91","type":"file","file":"99. attachments/BLUE_PRINCE_ge8LSUjTLj.png","x":780,"y":680,"width":1140,"height":641},
+		{"id":"f0c2b7e84d1cecf3","type":"file","file":"99. attachments/BLUE_PRINCE_CxGcDwDAMy.png","x":1960,"y":680,"width":1140,"height":641},
+		{"id":"ec71110fed477b31","type":"file","file":"99. attachments/BLUE_PRINCE_tTIn7OS3L8.png","x":780,"y":1380,"width":1140,"height":641},
+		{"id":"364b941bb6dc680e","type":"file","file":"99. attachments/BLUE_PRINCE_rSHaSMTQhR.png","x":1960,"y":1380,"width":1140,"height":641}
 	],
 	"edges":[
 		{"id":"2ace1631ef6614eb","fromNode":"922b60cecc5096ce","fromSide":"bottom","toNode":"3e28902b042f2ced","toSide":"top"},

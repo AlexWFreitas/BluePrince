@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"3cb479dc592ed9d2","type":"file","file":"99. attachments/BLUE_PRINCE_z8PcKxtrBd.png","x":-640,"y":-360,"width":840,"height":473},
+		{
+			"id":"cb6d36ec65e1a6ab",
+			"type":"text",
+			"text":"[[Closed Exhibit.canvas|Closed Exhibit]]",
+			"styleAttributes":{},
+			"x":-640,
+			"y":140,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

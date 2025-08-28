@@ -1,5 +1,17 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"cedbcb6ea93a4f11",
+			"type":"text",
+			"text":"[[045 - Antechamber.canvas|045 - Antechamber]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-220,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

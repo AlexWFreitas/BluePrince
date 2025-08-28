@@ -1,4 +1,75 @@
 
+Day 106
+- The repellent at the Entrance Hall doesn't spawn anymore one day after The Foundation is removed.
+- I drafted Secret Garden in the Outer Room and the room is identical.
+- Then I killed this run, because I don't know what else to do and I don't have the Monk Blessing to continue testing.
+	- I used Freezer, Planetarium, Treasure Trove and Observatory before killing the run.
+
+Day 105
+- The repellents are still being spawned in the table of the Entrance Hall
+- The Foundation is gone from the Outer Room spot, I supposed it won't spawn for a week.
+	- When it spawns, I will be able to place it in Rank 8.
+- I drafted the Entrance Hall in the Outer Room, the room has two vases.
+	- I broke the two vases with a Mace and I found one allowance token.
+- I tried to use the Repellent in both Entrance Halls and it did not allow me.
+- I ended the run at the Secret Garden to check the Secret Garden Outer Room version.
+
+
+Day 104
+- When I started the day, the Entrance Hall had a letter from Anne Babbage saying that I did something strange and that if I regretted it, I could use the Repellent item she left in the table to remove a room from the drafting pool for a week after the next day.
+- I used the Repellent on The Foundation room in the Outer Room, this should remove the Foundation temporarily from the drafting pool and also at the same time remove it from the Outer Room.
+- I got the Paper Crown from the Closed Exhibit room by drafting a 4 rooms square connecting the back panel to one of the side entrances and then getting the Crown before the alarm system restarts
+- I tried bringing the Paper Crown and the Blueprint Crown to the Throne Room and nothing happened so this is not the solution.
+- I ended the day in the Entrance Hall to activate the Blessing of the Monk one more time to try placing an Entrance Hall in the Outer Room.
+
+Day 103
+- The Foundation has replaced my Outer Room and I can't draft rooms in there.
+	- I can't draft Shrines or Trading Posts, rip...
+- The run overall was really bad and I had low resources.
+
+Day 102
+- I was able to discover a hidden pannel on the backside of the Closed Exhibit room
+	- It seems that I need to draft a rotation where I can access the panel and reach the room in less than 8 seconds because of the Alarm Reset timer
+- I want to test the Monk Blessing in the following rooms:
+	- Garage
+	- Secret Garden
+	- The Foundation, but underground
+		- Can't because it's called Basement and is not considered a room
+	- Her Ladyship's Chamber
+	- Master Bedroom
+	- Room 8
+	- Gallery
+	- Secret Passage
+	- Greenhouse
+	- Bookshop
+	- Throne Room
+	- Closed Exhibit
+	- Tunnel
+
+Day 101
+- Drafted Antechamber in the Outer Room because of Blessing of the Monk
+- The Antechamber is different, the memo in there says that I am close yet so far.
+	- You can get an additional Quest Bedroom reward here.
+- I was going through the Study Room and I opened the Red Letter, I was going through the pages and I accidently got to a page with a Secret Blueprint for the Closed Exhibit room
+	- It seems that this page had always been available to me, but I didn't see it before
+- I drafted the Closed Exhibit room, it has a letter from Farro saying about the timing to do the museum robbery.
+	- I feel that I can reach the crown in the Closed Exhibit through the wall behind the Exhibit, maybe I can draft it so that the area behind it is reachable through another room and then use something like a Secret Passage or a Power Hammer.
+- I opened Room 46 through the Antechamber Lever and on the Outer Room version of the Antechamber there was a different Shrine area that contained a memo talking about four objects
+	- A Scepter
+		- I don't know where to find this.
+	- A Crown
+		- Maybe Crown of Blueprints or the Crown inside the Closed Exhibit
+	- A Throne
+		- Maybe Throne Room
+	- A Stone
+		- The stone seems to be related to the Cursed Effigy?
+			- I wonder if I have to do a run with the Cursed Effigy and reach the Throne room or Room 46...
+	- This feels like an interesting puzzle, maybe I already have the Crown from Room 46 or maybe not.
+- I want to try digging a Treasure Map inside the Closed Exhibit and Throne Room.
+- I also want to try doing the Monk Blessing effect in the Throne Room and Closed Exhibit.
+- I ended the run in The Foundation with the Blessing of the Monk active to test another room.
+
+
 Day 100
 - Discovered that the Spiral of Stars message is still continuing, so I will keep activating it in the Observatory, despite losing one star per day.
 - I tried using Power Hammer and Burning Glass in the Throne Room and got nothing
@@ -19,8 +90,6 @@ Day 100
 		- Kennel	
 	- There should be one more place, but I don't know where...
 - I ended the run in the Antechamber to trigger Monk Blessing on another room to check what happens.
-- 
-
 
 
 Day 99
@@ -54,8 +123,9 @@ Day 98
 - My stars count got reduced to 146 because I was redrafting for the last Classroom for the last Memo note.
 - I got the names of the books in the Secret Passage
 	- They don't seem useful, but at least I took notes.
-- I need to visit the Tomb with a Magnifying Glass to take a screenshot of the numbers on the grid thing.
+- I need to visit the Tomb with a Magnifying Glass to take a screenshot of the numbers on the grid thing related to the Secret Passage Clue.
 - I slept in the Maid's Chamber to see what happens
+	- I forgot to check if something changed
 - I need to try to enter the Secret Passage from it's back side after drafting the room and without picking a book to see if there is something there.
 - I want to try breaking the house by using the Monk Blessing and calling it a day in Entrance Hall, Antechamber, Room 46 and The Foundation.
 

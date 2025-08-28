@@ -125,7 +125,21 @@
 			"width":280,
 			"height":60,
 			"color":"4"
-		}
+		},
+		{
+			"id":"1b811413672dd97f",
+			"type":"text",
+			"text":"# Antechamber - Blessing of the Monk",
+			"styleAttributes":{},
+			"x":-1980,
+			"y":-2520,
+			"width":820,
+			"height":80
+		},
+		{"id":"63261e52378c1131","type":"file","file":"99. attachments/BLUE_PRINCE_HCNxBJD2bg 1.png","x":-1980,"y":-2400,"width":700,"height":394},
+		{"id":"571cdc7a193388ed","type":"file","file":"99. attachments/BLUE_PRINCE_Vr4LjWXAyZ.png","x":-1260,"y":-2400,"width":700,"height":394},
+		{"id":"bdf4f285118c30fc","type":"file","file":"99. attachments/BLUE_PRINCE_vegnW5rFKH.png","x":-3420,"y":-2520,"width":1360,"height":765},
+		{"id":"026ac855c491d52f","type":"file","file":"99. attachments/BLUE_PRINCE_pp3x23wwtL.png","x":-3420,"y":-3360,"width":1360,"height":765}
 	],
 	"edges":[
 		{"id":"54e7e06ea2240bdd","toFloating":false,"fromNode":"311035d20229ccdb","fromSide":"bottom","toNode":"05410fbc38fd74b5","toSide":"top"},
@@ -138,6 +152,15 @@
 			"fromSide":"top",
 			"toNode":"8857a94cb5cdb898",
 			"toSide":"bottom"
+		},
+		{
+			"id":"a7cd3a0509dc8151",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1b811413672dd97f",
+			"fromSide":"top",
+			"toNode":"bdf4f285118c30fc",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

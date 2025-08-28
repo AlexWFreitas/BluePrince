@@ -23,26 +23,6 @@
 			"width":380,
 			"height":60
 		},
-		{
-			"id":"d6d124989ce331f5",
-			"type":"text",
-			"text":"I might need to touch the statues in a certain order",
-			"styleAttributes":{},
-			"x":-440,
-			"y":-260,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"4237ef21a3598161",
-			"type":"text",
-			"text":"[[Foyer.canvas|Foyer]]",
-			"styleAttributes":{},
-			"x":-440,
-			"y":-120,
-			"width":260,
-			"height":60
-		},
 		{"id":"fba06fff81b0abba","type":"file","file":"99. attachments/BLUE_PRINCE_XnuhzAaJO8.png","x":-460,"y":10,"width":676,"height":380},
 		{"id":"a91d5f3fe195ac19","type":"file","file":"99. attachments/BLUE_PRINCE_AGHW1xVFOP.png","x":260,"y":10,"width":676,"height":380},
 		{"id":"3a3856b0aa1dafad","type":"file","file":"99. attachments/BLUE_PRINCE_tjl1F7n2vM.png","x":960,"y":10,"width":680,"height":383},
@@ -60,6 +40,37 @@
 			"width":370,
 			"height":130,
 			"color":"3"
+		},
+		{
+			"id":"eeb68d4301c35f93",
+			"type":"text",
+			"text":"Maybe 😒\n\nM = 1000 = 8\nC = 0100 = 4\nCX = 0110 = 6\nIII = 0111 = 5?",
+			"styleAttributes":{},
+			"x":-925,
+			"y":60,
+			"width":260,
+			"height":180
+		},
+		{
+			"id":"d6d124989ce331f5",
+			"type":"text",
+			"text":"I might need to touch the statues in a certain order",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4237ef21a3598161",
+			"type":"text",
+			"text":"[[Foyer.canvas|Foyer]] - Low probability",
+			"styleAttributes":{},
+			"x":86,
+			"y":-115,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[

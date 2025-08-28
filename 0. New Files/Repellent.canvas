@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"088fe3d24bb7bdda","type":"file","file":"99. attachments/BLUE_PRINCE_2TCVHnrX4J.png","x":-680,"y":-320,"width":740,"height":416},
+		{
+			"id":"0c176e88ce2d90ff",
+			"type":"text",
+			"text":"[[001 - The Foundation.canvas|001 - The Foundation]] - Bring the Foundation to the Outer Room with the [[Blessing of the Monk.canvas|Blessing of the Monk]]",
+			"styleAttributes":{},
+			"x":-680,
+			"y":160,
+			"width":740,
+			"height":80
+		},
+		{"id":"9abad51a9d54e80b","type":"file","file":"99. attachments/BLUE_PRINCE_m5KgMlpdML.png","x":80,"y":-320,"width":740,"height":416}
+	],
+	"edges":[
+		{
+			"id":"93f34940ced8d26f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0c176e88ce2d90ff",
+			"fromSide":"top",
+			"toNode":"088fe3d24bb7bdda",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
