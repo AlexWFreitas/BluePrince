@@ -8,9 +8,29 @@
 		{"id":"8d3b97e18e94566f","type":"file","file":"99. attachments/BLUE_PRINCE_nbzIMwlQGx.png","x":140,"y":-40,"width":400,"height":225},
 		{"id":"6a04acadf8a3660a","type":"file","file":"99. attachments/BLUE_PRINCE_awFok180ci.png","x":-700,"y":220,"width":400,"height":225},
 		{"id":"add23685cf8ee14c","type":"file","file":"99. attachments/BLUE_PRINCE_Y8V2WjlrUd.png","x":-280,"y":220,"width":400,"height":225},
-		{"id":"8baec7254784272c","type":"file","file":"99. attachments/BLUE_PRINCE_U24x0bI4kC.png","x":140,"y":220,"width":400,"height":225}
+		{"id":"8baec7254784272c","type":"file","file":"99. attachments/BLUE_PRINCE_U24x0bI4kC.png","x":140,"y":220,"width":400,"height":225},
+		{
+			"id":"5eb319c9b3ccf8ec",
+			"type":"text",
+			"text":"### Draft Antechamber in Outer Room with [[Blessing of the Monk.canvas|Blessing of the Monk]]",
+			"styleAttributes":{},
+			"x":600,
+			"y":263,
+			"width":340,
+			"height":140
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"1d5986c3ed595ecb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5eb319c9b3ccf8ec",
+			"fromSide":"left",
+			"toNode":"8baec7254784272c",
+			"toSide":"right"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

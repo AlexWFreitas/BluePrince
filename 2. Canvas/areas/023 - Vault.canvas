@@ -72,9 +72,29 @@
 		{"id":"6eeab84f7a7f36b6","type":"file","file":"99. attachments/BLUE_PRINCE_bnZHPnHpEc.png","x":3400,"y":80,"width":400,"height":225},
 		{"id":"b7855934720c9613","type":"file","file":"99. attachments/BLUE_PRINCE_CmT8LbC4NC.png","x":3840,"y":80,"width":400,"height":225},
 		{"id":"81d5d4a524f23f03","type":"file","file":"99. attachments/BLUE_PRINCE_oRUTregfQx.png","x":3400,"y":340,"width":400,"height":225},
-		{"id":"4eeaa676e147b911","type":"file","file":"99. attachments/BLUE_PRINCE_cjaEJ1fkuJ.png","x":-1080,"y":438,"width":400,"height":225}
+		{"id":"4eeaa676e147b911","type":"file","file":"99. attachments/BLUE_PRINCE_cjaEJ1fkuJ.png","x":-1080,"y":438,"width":400,"height":225},
+		{
+			"id":"1aa46e810fafba99",
+			"type":"text",
+			"text":"# Important Characters at the Top Right - [[Unknown.canvas|Unknown]]",
+			"styleAttributes":{},
+			"x":1140,
+			"y":500,
+			"width":540,
+			"height":120
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"64a3b54b197cfb1e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1aa46e810fafba99",
+			"fromSide":"left",
+			"toNode":"fe54933dd28f12b4",
+			"toSide":"right"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

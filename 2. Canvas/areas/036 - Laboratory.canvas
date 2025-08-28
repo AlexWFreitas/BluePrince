@@ -3,7 +3,6 @@
 		{"id":"5aefecad1f86d94d","type":"file","file":"99. attachments/BLUE_PRINCE_fGdui35FUM.jpg","x":-600,"y":-380,"width":400,"height":225},
 		{"id":"1886b645653ee708","type":"file","file":"99. attachments/BLUE_PRINCE_5ZZ9ecbpJd.jpg","x":-160,"y":-380,"width":400,"height":225},
 		{"id":"e025033b3d8cc5bc","type":"file","file":"99. attachments/BLUE_PRINCE_P6qc8ebmdm.jpg","x":-600,"y":-120,"width":400,"height":225},
-		{"id":"3627629789c2f9f5","type":"file","file":"99. attachments/BLUE_PRINCE_tPGiRty51G.jpg","x":-160,"y":-120,"width":400,"height":225},
 		{"id":"a27bad9dbe66feb3","type":"file","file":"99. attachments/BLUE_PRINCE_TJyfDsm9oW.jpg","x":-600,"y":140,"width":400,"height":225},
 		{"id":"1b171f5d6372d0f0","type":"file","file":"99. attachments/BLUE_PRINCE_xvHialYmxo.jpg","x":280,"y":-120,"width":400,"height":225},
 		{"id":"1e86b3d4685839cd","type":"file","file":"99. attachments/BLUE_PRINCE_fulwQ6rVKq.jpg","x":280,"y":-400,"width":400,"height":225},
@@ -19,7 +18,39 @@
 		{"id":"6f5bcfc3492b4eac","type":"file","file":"99. attachments/BLUE_PRINCE_RNznlpa0f7.png","x":1040,"y":-267,"width":400,"height":225},
 		{"id":"b332efcb8bd57857","type":"file","file":"99. attachments/BLUE_PRINCE_vIR5IvBN0X.png","x":1480,"y":-267,"width":400,"height":310},
 		{"id":"e7fff16ea8a561e9","type":"file","file":"99. attachments/BLUE_PRINCE_oM60A3XnON 1.png","x":1040,"y":105,"width":400,"height":225},
-		{"id":"787f34531626c45d","type":"file","file":"99. attachments/BLUE_PRINCE_PgkFoOoaVG.png","x":1480,"y":105,"width":400,"height":225}
+		{"id":"787f34531626c45d","type":"file","file":"99. attachments/BLUE_PRINCE_PgkFoOoaVG.png","x":1480,"y":105,"width":400,"height":225},
+		{"id":"3627629789c2f9f5","type":"file","file":"99. attachments/BLUE_PRINCE_tPGiRty51G.jpg","x":-1020,"y":-380,"width":400,"height":225},
+		{"id":"c144e1632c4ce831","type":"file","file":"99. attachments/BLUE_PRINCE_266R64IB3Q.png","x":-1020,"y":-540,"width":400,"height":142},
+		{"id":"b31dd13d0a0cd087","type":"file","file":"99. attachments/BLUE_PRINCE_9yJ34byP6H.png","x":1560,"y":1060,"width":840,"height":473},
+		{"id":"e00e653308ecd58c","type":"file","file":"99. attachments/BLUE_PRINCE_cRZFNbhG54.png","x":1560,"y":1560,"width":840,"height":473},
+		{"id":"53c9c7019cf0abbf","type":"file","file":"99. attachments/BLUE_PRINCE_jmHW8k6qz3.png","x":1560,"y":2060,"width":840,"height":473},
+		{"id":"e11b5b741ae2d00a","type":"file","file":"99. attachments/BLUE_PRINCE_pNNQem4b3D.png","x":1560,"y":2560,"width":840,"height":473},
+		{"id":"6d8fb97bdaecdecd","type":"file","file":"99. attachments/BLUE_PRINCE_N4Ayrttu5l.png","x":2640,"y":2820,"width":960,"height":540},
+		{"id":"3a4b084e0e549a17","type":"file","file":"99. attachments/BLUE_PRINCE_zz2GzZZrXb.png","x":2640,"y":3400,"width":960,"height":540},
+		{"id":"e1f80854ceec9e9d","type":"file","file":"99. attachments/BLUE_PRINCE_AqJwN6nyge.png","x":3680,"y":2980,"width":678,"height":121},
+		{
+			"id":"306db386389ae80b",
+			"type":"text",
+			"text":"# SOFTLOCK DANGEROUS ??",
+			"styleAttributes":{},
+			"x":3830,
+			"y":3180,
+			"width":380,
+			"height":120
+		},
+		{"id":"3e0eee9e89c8f130","type":"file","file":"99. attachments/BLUE_PRINCE_55bhFthZZg.png","x":2640,"y":1060,"width":960,"height":540},
+		{"id":"172921396db2e784","type":"file","file":"99. attachments/BLUE_PRINCE_2ZM8KcrQ6Y.png","x":2640,"y":1657,"width":960,"height":540},
+		{"id":"ae8e3c522272b83b","type":"file","file":"99. attachments/BLUE_PRINCE_Kcq9hTsa7c.png","x":2640,"y":2240,"width":960,"height":540},
+		{
+			"id":"02e8a3ca871bc4b4",
+			"type":"text",
+			"text":"# After Satellite Dish\n- The [[Satellite Dish.canvas|Satellite Dish]] allows you to download extra experiment results and triggers to use in your Laboratory Experiments\n- You can also make your own custom pack of experiments based on what you need, by selecting from the list of available triggers and results.",
+			"styleAttributes":{},
+			"x":1560,
+			"y":780,
+			"width":600,
+			"height":220
+		}
 	],
 	"edges":[
 		{"id":"b6e7b767e1fcea9e","toFloating":false,"fromNode":"423ba27724c44130","fromSide":"top","toNode":"a27bad9dbe66feb3","toSide":"bottom"},
@@ -27,7 +58,16 @@
 		{"id":"995f738f78d8addf","fromNode":"423ba27724c44130","fromSide":"bottom","toNode":"8e5bb54871a02ef1","toSide":"top"},
 		{"id":"21b4e56422ef7e99","fromNode":"cd3dd40c0de7fc41","fromSide":"bottom","toNode":"52cf17b9136da8ef","toSide":"top"},
 		{"id":"56535bc4c402088b","fromNode":"8e5bb54871a02ef1","fromSide":"bottom","toNode":"652dd4043f2bb5be","toSide":"top"},
-		{"id":"53f9fbe6d1ea50bc","fromNode":"cd3dd40c0de7fc41","fromSide":"right","toNode":"8e5bb54871a02ef1","toSide":"left"}
+		{"id":"53f9fbe6d1ea50bc","fromNode":"cd3dd40c0de7fc41","fromSide":"right","toNode":"8e5bb54871a02ef1","toSide":"left"},
+		{
+			"id":"942cea3d78aa219f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"306db386389ae80b",
+			"fromSide":"top",
+			"toNode":"e1f80854ceec9e9d",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

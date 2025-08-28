@@ -1,0 +1,80 @@
+{
+	"nodes":[
+		{
+			"id":"417d6bda58d8d136",
+			"type":"text",
+			"text":"# A New Clue - Low Case Clues\n\nOn Page 5:\n\n1 - All\n2 - Checked\n3 - Corner\n4 - Case\n5 - Rooms\n6 - Had\n7 - A\n8 - Low\n9 - Case\n10 - Clue\n11 - Found\n12 - In\n13 - The\n14 - Rooms\n\n**Patio** - **buried**\n**Nook** - **beside**\n**Office** - **west**\n**Pantry** - **bridgette**\n",
+			"styleAttributes":{},
+			"x":-930,
+			"y":-516,
+			"width":500,
+			"height":655,
+			"color":"4"
+		},
+		{"id":"57cf843a270c01e1","type":"file","file":"99. attachments/BLUE_PRINCE_D5wv19A4A2.png","x":-440,"y":264,"width":400,"height":253},
+		{"id":"036f12ea56047d7d","type":"file","file":"99. attachments/BLUE_PRINCE_36hE7ZtuNE.png","x":-10,"y":264,"width":399,"height":190},
+		{
+			"id":"40b98d1cda435604",
+			"type":"text",
+			"text":"# Stops\n1. 8 - Royal Station\n2. 7 - Angel Tower\n3. 3 - Aries Crossing\n4. 10 - Tanner Fork\n5. 1 - Oris Train Hall\n6. 13 - Dead End",
+			"styleAttributes":{},
+			"x":-396,
+			"y":-188,
+			"width":356,
+			"height":252,
+			"color":"4"
+		},
+		{
+			"id":"b3200ffa7ccd339c",
+			"type":"text",
+			"text":"TENDER CIPHER = THE RED PRINCE\nUNCLE AWE = A NEW CLUE\nDRAFT THE SIXES = THE FIXED STARS\nLUNAR RENAMED = REALM AND RUNE\n\nASSUME THAT PAGE COUNT STARTS ON TITLE PAGES",
+			"styleAttributes":{},
+			"x":150,
+			"y":-500,
+			"width":620,
+			"height":184,
+			"color":"4"
+		},
+		{
+			"id":"a40bbadc9e74bb5f",
+			"type":"text",
+			"text":"# Book Search\nThe Red Prince - Page 10, Word 8\nRealm and Rune - Page 3, Word 10\nA New Clue - Page 1, Word 7\nThe Fixed Stars - Page 3, Word 8",
+			"styleAttributes":{},
+			"x":-10,
+			"y":-188,
+			"width":460,
+			"height":212,
+			"color":"4"
+		},
+		{
+			"id":"90a43cc0f40ce9e9",
+			"type":"text",
+			"text":"# Book Phrase\nThe Red Prince (First Manuscript) - Changing\nRealm and Rune - of\nA New Clue - sundial\nThe Fixed Stars - base\n\nThe Red Prince - Turn\nRealm and Rune - of\nA New Clue - sundial\nThe Fixed Stars - base",
+			"styleAttributes":{},
+			"x":470,
+			"y":-188,
+			"width":460,
+			"height":320,
+			"color":"4"
+		},
+		{"id":"c5f651d941292a05","type":"file","file":"99. attachments/BLUE_PRINCE_f9oZuVllkF.png","x":-930,"y":-1160,"width":970,"height":546},
+		{"id":"aef3c91a7a1a9375","type":"file","file":"99. attachments/BLUE_PRINCE_qcaNUbJvLC.png","x":70,"y":-1160,"width":970,"height":546},
+		{
+			"id":"93126e07882ff2a1",
+			"type":"text",
+			"text":"[[Apple Orchard.canvas|Apple Orchard]]",
+			"styleAttributes":{},
+			"x":-930,
+			"y":-1320,
+			"width":170,
+			"height":60
+		},
+		{"id":"23c78cdf2033968c","type":"file","file":"99. attachments/BLUE_PRINCE_s7h01ctwtB.png","x":1060,"y":-1160,"width":560,"height":315},
+		{"id":"4ad4fa4de081e533","type":"file","file":"99. attachments/BLUE_PRINCE_rIhzopsyN3.png","x":1060,"y":-815,"width":1120,"height":630}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

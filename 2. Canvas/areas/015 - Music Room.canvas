@@ -10,7 +10,18 @@
 		{"id":"3371d2ff7e14d21b","type":"file","file":"99. attachments/BLUE_PRINCE_PWpfSS1sAP.png","x":-200,"y":140,"width":400,"height":225},
 		{"id":"b9515559ee88ab3e","type":"file","file":"99. attachments/BLUE_PRINCE_kMqdx65Cdq.png","x":-620,"y":140,"width":400,"height":225},
 		{"id":"7e571e8c6550c567","type":"file","file":"99. attachments/BLUE_PRINCE_B13XBtRvKy.png","x":-200,"y":-400,"width":400,"height":225},
-		{"id":"09e48bed560fbabf","type":"file","file":"99. attachments/BLUE_PRINCE_m6AhUZH5ge.png","x":-620,"y":-140,"width":400,"height":225}
+		{"id":"09e48bed560fbabf","type":"file","file":"99. attachments/BLUE_PRINCE_m6AhUZH5ge.png","x":-620,"y":-140,"width":400,"height":225},
+		{"id":"8dc6878e1723efb0","type":"file","file":"99. attachments/BLUE_PRINCE_UpdkPJcXxc.png","x":-1480,"y":-940,"width":720,"height":405},
+		{
+			"id":"2b8f092bbb0f3154",
+			"type":"text",
+			"text":"# Weird Chair Pattern",
+			"styleAttributes":{},
+			"x":-1340,
+			"y":-500,
+			"width":460,
+			"height":84
+		}
 	],
 	"edges":[],
 	"metadata":{

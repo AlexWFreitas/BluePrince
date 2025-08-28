@@ -27,13 +27,13 @@
 		{
 			"id":"a29d1792f48f3959",
 			"type":"text",
-			"text":"Is Secret Passage the room or the secret text?\n\nAlso is that a reference to the Chess Board Puzzle?\n\nOr maybe this is nothing and it was cluttering.",
+			"text":"Secret Passage refers to a clue behind the book stand in the [[Secret Passage.canvas|Secret Passage]]",
 			"styleAttributes":{},
 			"x":40,
 			"y":1220,
 			"width":380,
 			"height":240,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"532f85446b97320a",
@@ -112,7 +112,7 @@
 		{"id":"59a25b8a1954e969","type":"file","file":"99. attachments/BLUE_PRINCE_cVu6AgflGq.png","x":624,"y":-200,"width":336,"height":400},
 		{"id":"80bcbaf0ad2505a5","type":"file","file":"99. attachments/BLUE_PRINCE_KtqH29HB7k.png","x":704,"y":-980,"width":400,"height":360},
 		{"id":"db9e30db2315f74c","type":"file","file":"99. attachments/BLUE_PRINCE_uEZcP25ibb.png","x":704,"y":308,"width":400,"height":372},
-		{"id":"bf2f55100b1ef845","type":"file","file":"99. attachments/BLUE_PRINCE_g3hMPp7g6Q.png","x":1040,"y":-183,"width":400,"height":383},
+		{"id":"bf2f55100b1ef845","type":"file","file":"99. attachments/BLUE_PRINCE_g3hMPp7g6Q.png","x":1040,"y":-183,"width":400,"height":383,"color":"4"},
 		{"id":"4a6a9b08a2df7e72","type":"file","file":"99. attachments/Obsidian_vAAS2noX8z.png","x":1760,"y":7643,"width":380,"height":400},
 		{
 			"id":"5af9f219e2aaa7a0",
@@ -123,6 +123,62 @@
 			"y":8177,
 			"width":300,
 			"height":92
+		},
+		{
+			"id":"28d5c2a5d8e52a50",
+			"type":"text",
+			"text":"[[025 - Drawing Room.canvas|025 - Drawing Room]]",
+			"styleAttributes":{},
+			"x":1480,
+			"y":-183,
+			"width":260,
+			"height":60
+		},
+		{"id":"9e9d579e1f978a82","type":"file","file":"99. attachments/BLUE_PRINCE_D5wv19A4A2.png","x":530,"y":1220,"width":400,"height":253},
+		{"id":"19e8ee743eaeabd9","type":"file","file":"99. attachments/BLUE_PRINCE_36hE7ZtuNE.png","x":960,"y":1220,"width":399,"height":190},
+		{
+			"id":"1e547028345cec0d",
+			"type":"text",
+			"text":"# Stops\n1. 8 - Royal Station\n2. 7 - Angel Tower\n3. 3 - Aries Crossing\n4. 10 - Tanner Fork\n5. 1 - Oris Train Hall\n6. 13 - Dead End",
+			"styleAttributes":{},
+			"x":574,
+			"y":768,
+			"width":356,
+			"height":252,
+			"color":"4"
+		},
+		{
+			"id":"cd560699b9610faf",
+			"type":"text",
+			"text":"TENDER CIPHER = THE RED PRINCE\nUNCLE AWE = A NEW CLUE\nDRAFT THE SIXES = THE FIXED STARS\nLUNAR RENAMED = REALM AND RUNE\n\nASSUME THAT PAGE COUNT STARTS ON TITLE PAGES",
+			"styleAttributes":{},
+			"x":1120,
+			"y":456,
+			"width":620,
+			"height":184,
+			"color":"4"
+		},
+		{
+			"id":"2955b850d55b4ebd",
+			"type":"text",
+			"text":"# Book Search\nThe Red Prince - Page 10, Word 8\nRealm and Rune - Page 3, Word 10\nA New Clue - Page 1, Word 7\nThe Fixed Stars - Page 3, Word 8",
+			"styleAttributes":{},
+			"x":960,
+			"y":768,
+			"width":460,
+			"height":212,
+			"color":"4"
+		},
+		{
+			"id":"91663cbf20758498",
+			"type":"text",
+			"text":"# Book Phrase\nThe Red Prince (First Manuscript) - Changing\nRealm and Rune - of\nA New Clue - sundial\nThe Fixed Stars - base\n\nThe Red Prince - Turn\nRealm and Rune - of\nA New Clue - sundial\nThe Fixed Stars - base",
+			"styleAttributes":{},
+			"x":1440,
+			"y":768,
+			"width":460,
+			"height":320,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -171,6 +227,15 @@
 			"fromSide":"bottom",
 			"toNode":"5af9f219e2aaa7a0",
 			"toSide":"left"
+		},
+		{
+			"id":"12044b5ef1d30a87",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bf2f55100b1ef845",
+			"fromSide":"right",
+			"toNode":"28d5c2a5d8e52a50",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{

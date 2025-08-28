@@ -80,7 +80,6 @@
 		{"id":"f85b780854ab2c65","type":"file","file":"99. attachments/BLUE_PRINCE_x7HNo3Hld2.png","x":2000,"y":75,"width":400,"height":275},
 		{"id":"7e870a6c444f45cd","type":"file","file":"99. attachments/BLUE_PRINCE_d3PKdtKS19.png","x":2320,"y":-239,"width":399,"height":270},
 		{"id":"8b7face9b9f57dd5","type":"file","file":"99. attachments/BLUE_PRINCE_D5wv19A4A2.png","x":2440,"y":86,"width":400,"height":253},
-		{"id":"47ce4568c4ff5119","type":"file","file":"99. attachments/BLUE_PRINCE_36hE7ZtuNE.png","x":2870,"y":86,"width":399,"height":190},
 		{"id":"1e1258b1a6822f6d","type":"file","file":"99. attachments/BLUE_PRINCE_a69A0AkCgt.png","x":3300,"y":86,"width":347,"height":399},
 		{
 			"id":"d2d4484d4ab4d76f",
@@ -107,13 +106,13 @@
 		{
 			"id":"b38e1ab41da3f1f1",
 			"type":"text",
-			"text":"# Theories\n1. New Clue book says that four books are relevant\n\t1. The Red Prince\n\t2. A New Clue\n\t3. The Fixed Stars\n\t4. Realm & Rune\n2. The book also says that we should look from the cover all the way through.\n3. Page count starts from the Title Page (unsure if before or after)\n4. If you use the Magnifying Glass on the words of the book, there are small numbers in it",
+			"text":"# Theories\n1. New Clue book says that four books are relevant\n\t1. The Red Prince\n\t2. A New Clue\n\t3. The Fixed Stars\n\t4. Realm & Rune\n2. The book also says that we should look from the cover all the way through.\n3. Page count starts from the Title Page (unsure if before or after)\n4. If you use the Magnifying Glass on the words of the book, there are small numbers in it\n5. The page X and word Y is referring to numbers based on the signs in the book that tell you to record each stop number.",
 			"styleAttributes":{},
 			"x":1970,
-			"y":-1660,
+			"y":-1720,
 			"width":749,
-			"height":300,
-			"color":"3"
+			"height":360,
+			"color":"4"
 		},
 		{"id":"c8c8b83b6f515984","type":"file","file":"99. attachments/BLUE_PRINCE_8orIns2Kga.png","x":-1840,"y":-400,"width":400,"height":225},
 		{"id":"8b6addff69ac1007","type":"file","file":"99. attachments/BLUE_PRINCE_hzSZTtdu6z.png","x":1160,"y":-1440,"width":782,"height":440},
@@ -126,43 +125,21 @@
 			"y":-980,
 			"width":542,
 			"height":260,
-			"color":"3"
-		},
-		{
-			"id":"0823e18217bb395c",
-			"type":"text",
-			"text":"# A New Clue - Low Case Clues\n\nOn Page 5:\n\n1 - All\n2 - Checked\n3 - Corner\n4 - Case\n5 - Rooms\n6 - Had\n7 - A\n8 - Low\n9 - Case\n10 - Clue\n11 - Found\n12 - In\n13 - The\n14 - Rooms\n\n**Patio** - **buried**\n**Nook** - **beside**\n**Office** - **west**\n**Pantry** - **bridgette**\n",
-			"styleAttributes":{},
-			"x":2740,
-			"y":-1580,
-			"width":500,
-			"height":820,
 			"color":"4"
 		},
 		{"id":"54d010aa961e1812","type":"file","file":"99. attachments/BLUE_PRINCE_Gh6ka0vqOE.png","x":3320,"y":-1330,"width":400,"height":281},
 		{
 			"id":"5a570a23c87d4043",
 			"type":"text",
-			"text":"# The Suspect Is Minor\nThere is a video with a Metro route that ends at the Dead End.",
+			"text":"# The Suspect Is Minor\nThis is related to the fact that one of the suspect names that is minor by age is important for a certain clue.",
 			"styleAttributes":{},
 			"x":1400,
 			"y":-685,
 			"width":542,
 			"height":125,
-			"color":"3"
+			"color":"4"
 		},
 		{"id":"d1b77b53253a76cd","type":"file","file":"99. attachments/BLUE_PRINCE_JXuhH4xihX.png","x":3320,"y":-1622,"width":400,"height":225},
-		{
-			"id":"4ebb56c6d0d61c97",
-			"type":"text",
-			"text":"\n\nRED -  PAGE A WORD X = Clue Low\nGREEN - PAGE C WORD A = The Clue\nVIOLET - PAGE B WORD Y = All A\nBLUE - PAGE Z WORD X = Corner Low",
-			"styleAttributes":{},
-			"x":2400,
-			"y":-720,
-			"width":500,
-			"height":140,
-			"color":"3"
-		},
 		{
 			"id":"6bd9a56e731c4dd5",
 			"type":"text",
@@ -172,18 +149,18 @@
 			"y":-1330,
 			"width":749,
 			"height":360,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"48c03c126dc882c1",
 			"type":"text",
-			"text":"# Stops to Words\n1. 8 - Royal Station - Low - X\n2. 7 - Angel Tower - A - Y\n3. 3 - Aries Crossing -  Corner - Z\n4. 10 - Tanner Fork - Clue - A\n5. 1 - Oris Train Hall - All - B\n6. 13 - Dead End - The - C",
+			"text":"# Stops\n1. 8 - Royal Station \n2. 7 - Angel Tower \n3. 3 - Aries Crossing \n4. 10 - Tanner Fork \n5. 1 - Oris Train Hall \n6. 13 - Dead End ",
 			"styleAttributes":{},
 			"x":1970,
 			"y":-925,
 			"width":410,
 			"height":330,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"adff21c4eb1a45d2",
@@ -240,18 +217,83 @@
 			"height":141,
 			"color":"4"
 		},
+		{"id":"a2e950f207198e71","type":"file","file":"99. attachments/BLUE_PRINCE_NwGKLFRNB7.png","x":2869,"y":312,"width":400,"height":268},
+		{"id":"47ce4568c4ff5119","type":"file","file":"99. attachments/BLUE_PRINCE_36hE7ZtuNE.png","x":2870,"y":86,"width":399,"height":190},
+		{
+			"id":"f13fe7d767d95bf7",
+			"type":"text",
+			"text":"Suspect is Minor - Less than Age 18",
+			"styleAttributes":{},
+			"x":1304,
+			"y":2140,
+			"width":260,
+			"height":60
+		},
+		{"id":"0707fd59ee9d15a5","type":"file","file":"99. attachments/BLUE_PRINCE_zAbW0tlM5m.png","x":700,"y":2140,"width":400,"height":253},
+		{
+			"id":"922ae7aa9058d3c6",
+			"type":"text",
+			"text":"Bo Lee - Age 16 (Minor) and Small Name, this means that this name is useful for the [[Blackbridge Grotto Hidden Logins Puzzle.canvas|Blackbridge Grotto Hidden Logins Puzzle]]",
+			"styleAttributes":{},
+			"x":720,
+			"y":2460,
+			"width":360,
+			"height":140
+		},
+		{
+			"id":"4f7457ffd7f0e4fd",
+			"type":"text",
+			"text":"[[A New Clue - Original Manuscript.canvas|A New Clue - Original Manuscript]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":-850,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0823e18217bb395c",
+			"type":"text",
+			"text":"# A New Clue - Low Case Clues\n\nOn Page 5:\n\n1 - All\n2 - Checked\n3 - Corner\n4 - Case\n5 - Rooms\n6 - Had\n7 - A\n8 - Low\n9 - Case\n10 - Clue\n11 - Found\n12 - In\n13 - The\n14 - Rooms\n\n**Patio** - **buried**\n**Nook** - **beside**\n**Office** - **west**\n**Pantry** - **bridgette**\n",
+			"styleAttributes":{},
+			"x":2740,
+			"y":-1420,
+			"width":500,
+			"height":655,
+			"color":"4"
+		},
 		{
 			"id":"b4bd4e8be2ff6878",
 			"type":"text",
-			"text":"TENDER CIPHER = THE RED PRINCE\nUNCLE AWE = A NEW CLUE\nDRAFT THE SIXES = THE FIXED STARS\nLUNAR RENAMED = REALM AND RUNE\n\nASSUME THAT PAGE COUNT STARTS ON TITLE PAGES\n\nMAJOR KEY = MA JOR = Small Word?",
+			"text":"TENDER CIPHER = THE RED PRINCE\nUNCLE AWE = A NEW CLUE\nDRAFT THE SIXES = THE FIXED STARS\nLUNAR RENAMED = REALM AND RUNE\n\nASSUME THAT PAGE COUNT STARTS ON TITLE PAGES\n\n",
 			"styleAttributes":{},
-			"x":2620,
+			"x":2930,
 			"y":-560,
 			"width":620,
-			"height":224,
+			"height":190,
 			"color":"4"
 		},
-		{"id":"a2e950f207198e71","type":"file","file":"99. attachments/BLUE_PRINCE_NwGKLFRNB7.png","x":2869,"y":312,"width":400,"height":268}
+		{
+			"id":"4ebb56c6d0d61c97",
+			"type":"text",
+			"text":"# Wrong Solution\n\nRED -  PAGE A WORD X = Clue Low\nGREEN - PAGE C WORD A = The Clue\nVIOLET - PAGE B WORD Y = All A\nBLUE - PAGE Z WORD X = Corner Low",
+			"styleAttributes":{},
+			"x":2400,
+			"y":-742,
+			"width":500,
+			"height":182,
+			"color":"1"
+		},
+		{
+			"id":"b0d40eadd6fc4935",
+			"type":"text",
+			"text":"# The Suspect is Major\nMA|JOR KEY = MA|JOR = Small Name?\nKey = Password or Login",
+			"styleAttributes":{},
+			"x":920,
+			"y":-765,
+			"width":420,
+			"height":143,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{
@@ -316,6 +358,60 @@
 			"fromSide":"bottom",
 			"toNode":"bd7c8d73232a416f",
 			"toSide":"top"
+		},
+		{
+			"id":"455d5ed02a10b797",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f13fe7d767d95bf7",
+			"fromSide":"top",
+			"toNode":"adf5c4a1147e9aa3",
+			"toSide":"bottom"
+		},
+		{
+			"id":"b7a67e909aed1546",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"441c6ffde2ec2293",
+			"fromSide":"bottom",
+			"toNode":"0707fd59ee9d15a5",
+			"toSide":"left"
+		},
+		{
+			"id":"b011bb0a59d2b3c5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f13fe7d767d95bf7",
+			"fromSide":"bottom",
+			"toNode":"0707fd59ee9d15a5",
+			"toSide":"right"
+		},
+		{
+			"id":"d35801a18fd26849",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0707fd59ee9d15a5",
+			"fromSide":"bottom",
+			"toNode":"922ae7aa9058d3c6",
+			"toSide":"top"
+		},
+		{
+			"id":"c1e8a2c1b51e8aee",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4ebb56c6d0d61c97",
+			"fromSide":"top",
+			"toNode":"4f7457ffd7f0e4fd",
+			"toSide":"bottom"
+		},
+		{
+			"id":"99e4869a09d9a318",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b0d40eadd6fc4935",
+			"fromSide":"right",
+			"toNode":"5a570a23c87d4043",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

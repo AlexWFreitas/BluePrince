@@ -9,9 +9,33 @@
 			"y":-760,
 			"width":560,
 			"height":380
+		},
+		{"id":"d15920175afa9a9e","type":"file","file":"99. attachments/BLUE_PRINCE_f9oZuVllkF.png","x":-859,"y":-340,"width":560,"height":315},
+		{
+			"id":"a61a3833a9a10dd3",
+			"type":"text",
+			"text":"[[Turn of Sundial Base.canvas|Turn of Sundial Base]]",
+			"styleAttributes":{},
+			"x":-688,
+			"y":20,
+			"width":219,
+			"height":60
+		},
+		{"id":"932d58886298acb3","type":"file","file":"99. attachments/BLUE_PRINCE_qcaNUbJvLC 1.png","x":-280,"y":-340,"width":560,"height":315},
+		{"id":"0b4d5f1af5ae3ba2","type":"file","file":"99. attachments/BLUE_PRINCE_s7h01ctwtB.png","x":300,"y":-340,"width":560,"height":315},
+		{"id":"14d456456a579503","type":"file","file":"99. attachments/BLUE_PRINCE_rIhzopsyN3.png","x":-280,"y":20,"width":1120,"height":630}
+	],
+	"edges":[
+		{
+			"id":"16335a9c6db09c6d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d15920175afa9a9e",
+			"fromSide":"bottom",
+			"toNode":"a61a3833a9a10dd3",
+			"toSide":"top"
 		}
 	],
-	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

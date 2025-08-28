@@ -1,0 +1,69 @@
+{
+	"nodes":[
+		{
+			"id":"5c96bd252871c7ef",
+			"type":"text",
+			"text":"[[Satellite Dish.canvas|Satellite Dish]]",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-420,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1006e1c9498946f3",
+			"type":"text",
+			"text":"[[036 - Laboratory.canvas|036 - Laboratory]]",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"190dbde06318d2b0",
+			"type":"text",
+			"text":"[[Blackbridge Grotto.canvas|Blackbridge Grotto]]",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-260,
+			"width":260,
+			"height":60
+		},
+		{"id":"cb41da9b827f891e","type":"file","file":"99. attachments/BLUE_PRINCE_9yJ34byP6H.png","x":-400,"y":-160,"width":840,"height":473},
+		{"id":"606bcb3040d26030","type":"file","file":"99. attachments/BLUE_PRINCE_cRZFNbhG54.png","x":-400,"y":340,"width":840,"height":473},
+		{"id":"8fd58ffca5ccffdc","type":"file","file":"99. attachments/BLUE_PRINCE_jmHW8k6qz3.png","x":-400,"y":840,"width":840,"height":473},
+		{"id":"32f807e88a3db1ad","type":"file","file":"99. attachments/BLUE_PRINCE_pNNQem4b3D.png","x":-400,"y":1340,"width":840,"height":473},
+		{"id":"ef42d71cb0eee06b","type":"file","file":"99. attachments/BLUE_PRINCE_55bhFthZZg.png","x":920,"y":-20,"width":960,"height":540},
+		{"id":"eb666e194adb9508","type":"file","file":"99. attachments/BLUE_PRINCE_2ZM8KcrQ6Y.png","x":920,"y":577,"width":960,"height":540},
+		{"id":"43bb52a92800c923","type":"file","file":"99. attachments/BLUE_PRINCE_Kcq9hTsa7c.png","x":920,"y":1160,"width":960,"height":540},
+		{"id":"a2a6c87c1c44a219","type":"file","file":"99. attachments/BLUE_PRINCE_N4Ayrttu5l.png","x":920,"y":1740,"width":960,"height":540},
+		{"id":"0fed74d68355f44b","type":"file","file":"99. attachments/BLUE_PRINCE_zz2GzZZrXb.png","x":920,"y":2320,"width":960,"height":540},
+		{"id":"1016791f47ebbb6d","type":"file","file":"99. attachments/BLUE_PRINCE_AqJwN6nyge.png","x":1960,"y":1900,"width":678,"height":121},
+		{
+			"id":"f694a8590935a7ec",
+			"type":"text",
+			"text":"# SOFTLOCK DANGEROUS ??",
+			"styleAttributes":{},
+			"x":2110,
+			"y":2100,
+			"width":380,
+			"height":120
+		}
+	],
+	"edges":[
+		{
+			"id":"efb5c55fec76b662",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f694a8590935a7ec",
+			"fromSide":"top",
+			"toNode":"1016791f47ebbb6d",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

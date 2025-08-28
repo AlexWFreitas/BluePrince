@@ -33,9 +33,29 @@
 			"height":1100
 		},
 		{"id":"d04cc074be3e573e","type":"file","file":"99. attachments/BLUE_PRINCE_fVPXrm12jV.png","x":-800,"y":1560,"width":400,"height":225},
-		{"id":"137d80cc3810bc07","type":"file","file":"99. attachments/BLUE_PRINCE_Z2zAP5yQrX.png","x":-800,"y":1840,"width":400,"height":225}
+		{"id":"137d80cc3810bc07","type":"file","file":"99. attachments/BLUE_PRINCE_Z2zAP5yQrX.png","x":-800,"y":1840,"width":400,"height":225},
+		{
+			"id":"b02ce6fc5ee97d68",
+			"type":"text",
+			"text":"This spells SACRED when read vertically",
+			"styleAttributes":{},
+			"x":-190,
+			"y":440,
+			"width":260,
+			"height":60
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"1684d3ce5a7a743a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b02ce6fc5ee97d68",
+			"fromSide":"top",
+			"toNode":"d891adeafbc8607c",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

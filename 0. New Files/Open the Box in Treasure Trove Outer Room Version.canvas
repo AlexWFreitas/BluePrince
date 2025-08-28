@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{
+			"id":"9f95c5d6ee49ed73",
+			"type":"text",
+			"text":"[[Treasure Trove.canvas|Treasure Trove]]",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":-820,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2ddd7b1560414192",
+			"type":"text",
+			"text":"[[Blessing of the Monk.canvas|Blessing of the Monk]]",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":-740,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"db0b0801caa85a1c",
+			"type":"text",
+			"text":"[[Unknown.canvas|Unknown]]",
+			"styleAttributes":{},
+			"x":-1480,
+			"y":-660,
+			"width":260,
+			"height":60
+		},
+		{"id":"9b834c8d909af1a8","type":"file","file":"99. attachments/BLUE_PRINCE_SMRRsPvEBu.png","x":-2150,"y":-1320,"width":747,"height":420},
+		{"id":"4eaa49c2a8ca4db4","type":"file","file":"99. attachments/BLUE_PRINCE_AiEfHf641o.png","x":-1350,"y":-1320,"width":747,"height":420},
+		{"id":"dde0b20161cf8ad3","type":"file","file":"99. attachments/BLUE_PRINCE_0H33blVlR6.png","x":-1160,"y":-845,"width":920,"height":518}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

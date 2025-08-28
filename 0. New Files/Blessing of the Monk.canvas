@@ -34,41 +34,87 @@
 		{
 			"id":"98cb3c83ca0e6550",
 			"type":"text",
-			"text":"# Call it a Day in the Room 46 with the Monk Blessing\n\nThe room is slightly different.\n- The copy of the deed is placed on the desk instead of the safe.\n- The Crown of the Blueprints is not on the desk.\n- Windows are blocked.\n- Everything else feels the same.\n\n[[Call it a Day in the Room 46 with Monk Blessing.canvas|Call it a Day in the Room 46 with Monk Blessing]]",
+			"text":"# [[046 - Room 46.canvas|046 - Room 46]] - Minor Change",
 			"styleAttributes":{},
 			"x":-140,
 			"y":-120,
-			"width":580,
-			"height":360
-		},
-		{
-			"id":"6cd1bd8ec3e47c89",
-			"type":"text",
-			"text":"# [[Call it a Day in the Antechamber with Monk Blessing.canvas|Call it a Day in the Antechamber with Monk Blessing]]\n\n[[045 - Antechamber.canvas|045 - Antechamber]]",
-			"styleAttributes":{},
-			"x":460,
-			"y":-120,
-			"width":600,
-			"height":360
+			"width":760,
+			"height":80,
+			"color":"4"
 		},
 		{
 			"id":"bed3cd796ba582f3",
 			"type":"text",
-			"text":"# [[001 - The Foundation.canvas|001 - The Foundation]]",
+			"text":"# [[001 - The Foundation.canvas|001 - The Foundation]] - Interesting",
 			"styleAttributes":{},
 			"x":-140,
-			"y":260,
-			"width":580,
-			"height":80
+			"y":-20,
+			"width":760,
+			"height":72,
+			"color":"4"
+		},
+		{
+			"id":"6cd1bd8ec3e47c89",
+			"type":"text",
+			"text":"# [[045 - Antechamber.canvas|045 - Antechamber]] - Important",
+			"styleAttributes":{},
+			"x":-140,
+			"y":74,
+			"width":760,
+			"height":80,
+			"color":"4"
 		},
 		{
 			"id":"c941ef8639770251",
 			"type":"text",
-			"text":"# [[002 - Entrance Hall.canvas|002 - Entrance Hall]]",
+			"text":"# [[002 - Entrance Hall.canvas|002 - Entrance Hall]] - Resource",
 			"styleAttributes":{},
-			"x":460,
-			"y":260,
-			"width":600,
+			"x":-140,
+			"y":180,
+			"width":760,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"46d0c186430003dc",
+			"type":"text",
+			"text":"# [[Secret Garden.canvas|Secret Garden]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":280,
+			"width":760,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"b0419200f662c2ff",
+			"type":"text",
+			"text":"# [[Treasure Trove.canvas|Treasure Trove]] - Important",
+			"styleAttributes":{},
+			"x":-140,
+			"y":380,
+			"width":760,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"f927c1745c99cb7a",
+			"type":"text",
+			"text":"# [[Throne Room.canvas|Throne Room]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":480,
+			"width":760,
+			"height":80
+		},
+		{
+			"id":"92466628a7ff3fe4",
+			"type":"text",
+			"text":"# [[The Armory.canvas|The Armory]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":580,
+			"width":760,
 			"height":80
 		}
 	],

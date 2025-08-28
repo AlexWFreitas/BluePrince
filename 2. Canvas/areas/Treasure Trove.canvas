@@ -84,7 +84,22 @@
 		{"id":"b19862af6d409996","type":"file","file":"99. attachments/BLUE_PRINCE_aSPsMMqFy3.png","x":-180,"y":7220,"width":400,"height":225},
 		{"id":"df0f142103acd921","type":"file","file":"99. attachments/BLUE_PRINCE_fpfagHMSri.png","x":-180,"y":7480,"width":400,"height":225,"color":"1"},
 		{"id":"59b7def08f210d36","type":"file","file":"99. attachments/BLUE_PRINCE_xXOdIf4M36.png","x":260,"y":7220,"width":400,"height":225},
-		{"id":"89656e8f28be8239","type":"file","file":"99. attachments/BLUE_PRINCE_mxyJ1Ocg63.png","x":260,"y":7480,"width":400,"height":225,"color":"4"}
+		{"id":"89656e8f28be8239","type":"file","file":"99. attachments/BLUE_PRINCE_mxyJ1Ocg63.png","x":260,"y":7480,"width":400,"height":225,"color":"4"},
+		{"id":"935090633bc1bccf","type":"file","file":"99. attachments/BLUE_PRINCE_HalNzBNy4a.png","x":-180,"y":7760,"width":400,"height":225},
+		{"id":"604abc03b0f57d6a","type":"file","file":"99. attachments/BLUE_PRINCE_srgVEgUXKK.png","x":-180,"y":8020,"width":400,"height":225,"color":"1"},
+		{"id":"9f2f763eb9651a50","type":"file","file":"99. attachments/BLUE_PRINCE_iWjTDCQGaR.png","x":260,"y":7760,"width":400,"height":225},
+		{"id":"f6a3cfab1889debb","type":"file","file":"99. attachments/BLUE_PRINCE_1K8l19C50E.png","x":260,"y":8020,"width":400,"height":225,"color":"4"},
+		{"id":"90d847bcaae67d73","type":"file","file":"99. attachments/BLUE_PRINCE_0H33blVlR6.png","x":-2560,"y":-260,"width":480,"height":270},
+		{
+			"id":"f4d9844c02be4436",
+			"type":"text",
+			"text":"# Monk Blessing Version\n- There is a different type of chest in it\n\t- Maybe I need the black key from the [[Unknown.canvas|Unknown]] puzzle",
+			"styleAttributes":{},
+			"x":-2560,
+			"y":-460,
+			"width":680,
+			"height":160
+		}
 	],
 	"edges":[
 		{

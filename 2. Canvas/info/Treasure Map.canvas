@@ -180,6 +180,17 @@
 			"y":280,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"d7ba94c5cf76e4b6",
+			"type":"text",
+			"text":"[[013 - Nook.canvas|013 - Nook]]",
+			"styleAttributes":{},
+			"x":-700,
+			"y":360,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[],

@@ -1,4 +1,63 @@
 
+
+Day 109
+- Drafted a Treasure Trove at the Outer Room
+	- There is a different chest inside it, with the symbols of Orinda Aries, I think I need the Black Key from the Puzzle in Unknown
+- Got a bunch of items and went to the Sundial in the Apple Orchard to try to interact with it
+	- I got a Torch from Armory and was able to interact with the sundial object
+		- Burning Glass should be able to do the same
+	- I changed the rotations a little until the black marks at a certain position
+	- This unlocked a place where I can place three microchips.
+	- I got the microchips from the Blackbridge Grotto and placed it in the sundial
+	- This gave me the upgrade for Satellite Dish
+- Satellite Dish
+	- It seems this upgrade allows me to download packets from the Terminal as a Data Transfer
+	- The first packet offered is 8 new Experiment Triggers and 8 new Experiment Results for the Laboratory
+	- After going to the Laboratory I can make my custom pack of 8+ Experiment Triggers and 8+ Experiment Results
+		- Among the interesting new triggers and results:
+			- Lose 10 steps when opening the map, then activate experiment result
+				- I can do like 10 triggers if I have like 100+ steps by the time I activate the experiment
+				- The experiment can also wait until I feel that I am ready to cash in.
+			- Remove a crate from the Tunnel
+			- Increase lockpicking skill permanently
+			- Reduce water level in Reservoir by 1 permanently
+- Tunnel Crate Puzzle
+	- I need to use the new Laboratory Experiments to remove all boxes, this should clear the path to something that might help progress.
+- I ended the run in the Closed Exhibit to check the Outer Room version through Monk Blessing
+
+Before Day 109
+- I was taking a look at the notes in A New Clue and I think I found something
+	- The clue about the Books with Page X and Word Y are actually number counts
+	- The numbers are related to the stops in the Metro Map
+		- This means that the names of each stop are not important, but the number of the stop.
+	- After finding the words in the books, I found a message saying that I should try "Turning of the Sundial"
+
+Day 108
+- Drafted a Shrine Room and got the Monk Blessing
+- Used the Freezer with a healthy amount of Gems
+- Used Conservatory to make Cloister common, this should help getting a headstart with the Laundry, Study, Attic drafts, plus dices.
+- Started looking for the Grid Messages in the House by listing the rooms in the Unknown Note
+	- I found something in the Vault, it seems that C2R1 and C2R2 or C3R1 and C3R2 are I and D, I am not entirely sure though.
+		- The note has 6 rows, and it fits in both columns, so it must be related.
+- Ended the day at the Treasure Trove to place it in the Outer Room
+
+Day 107
+- I failed to draft the Shrine, so I only got progression things such as
+	- Room 8 - Allowance Token
+	- Quest Bedroom - Allowance Token
+	- Mace for +1 star
+	- Observatory for progression on Spiral of Stars and -1 star
+	- Planetarium for +2 stars
+	- Conservatory check for rooms to change
+	- Treasure Trove Chest
+	- Sauna + Clocktower for the next day
+	- Casino attempt at getting allowance tokens
+- I powered the Red Box in the Boiler Room
+	- I did this because the memo in the Boiler Room says that there are two remote power boxes that are powered by the high pressure boiler box.
+		- I found one in the Red Door Area, but I don't know where the second one is, I feel that this is important.
+- I tried exploring the underground areas in an attempt to find the other remote power box but I couldn't find it.
+
+
 Day 106
 - The repellent at the Entrance Hall doesn't spawn anymore one day after The Foundation is removed.
 - I drafted Secret Garden in the Outer Room and the room is identical.
