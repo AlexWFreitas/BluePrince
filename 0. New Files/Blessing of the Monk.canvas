@@ -100,12 +100,13 @@
 		{
 			"id":"f927c1745c99cb7a",
 			"type":"text",
-			"text":"# [[Throne Room.canvas|Throne Room]]",
+			"text":"# [[Throne Room.canvas|Throne Room]] - Tested, but not sure",
 			"styleAttributes":{},
 			"x":-140,
 			"y":480,
 			"width":760,
-			"height":80
+			"height":80,
+			"color":"3"
 		},
 		{
 			"id":"92466628a7ff3fe4",
@@ -115,7 +116,41 @@
 			"x":-140,
 			"y":580,
 			"width":760,
-			"height":80
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"5dde0b52ac548a88",
+			"type":"text",
+			"text":"# [[Closed Exhibit.canvas|Closed Exhibit]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":680,
+			"width":760,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"8bbc8c377846dbc1",
+			"type":"text",
+			"text":"# [[Chapel.canvas|Chapel]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":780,
+			"width":760,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"62fb1fc20dd5a067",
+			"type":"text",
+			"text":"# [[018 - Wine Cellar.canvas|018 - Wine Cellar]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":880,
+			"width":760,
+			"height":80,
+			"color":"1"
 		}
 	],
 	"edges":[],

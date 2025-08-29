@@ -1,0 +1,102 @@
+{
+	"nodes":[
+		{"id":"2f31ee58dfee7a0c","type":"file","file":"99. attachments/BLUE_PRINCE_BMrSvFFa6D.png","x":-560,"y":-140,"width":408,"height":209},
+		{"id":"29ee1c640ab37a0b","type":"file","file":"99. attachments/BLUE_PRINCE_tS9UZUf7t6.png","x":-140,"y":-140,"width":411,"height":209},
+		{"id":"1b500ded8bb3b6d2","type":"file","file":"99. attachments/BLUE_PRINCE_I9TJnKMsGm.png","x":280,"y":-140,"width":400,"height":209},
+		{"id":"564e47016340828d","type":"file","file":"99. attachments/BLUE_PRINCE_mor4pXnhlo.png","x":280,"y":240,"width":400,"height":263},
+		{
+			"id":"3d4324f40a5e6cbd",
+			"type":"text",
+			"text":"# Experiment Trigger Spam Strategy",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-480,
+			"width":660,
+			"height":100
+		},
+		{
+			"id":"a4c487a7becdea67",
+			"type":"text",
+			"text":"You can combine these rooms together with the Drawing Room experiment from the Laboratory to reroll until you draw a Drawing Room, reroll using gem and then rewind with Chronograph to trigger the experiment again.\n\nWith this it's possible to trigger an experiment more than 40 times in a run.",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-360,
+			"width":620,
+			"height":180
+		},
+		{
+			"id":"16225341b3fdc476",
+			"type":"text",
+			"text":"Reroll with Gems",
+			"styleAttributes":{},
+			"x":-486,
+			"y":180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"919866d0ea7657f6",
+			"type":"text",
+			"text":"Trade Gems for Keys and then Gold for Gems to get a huge amount of Gems to spend in the Study room ability",
+			"styleAttributes":{},
+			"x":-64,
+			"y":180,
+			"width":260,
+			"height":180
+		},
+		{
+			"id":"c2fada6c3fa42abe",
+			"type":"text",
+			"text":"Rewind after rerolling after drawing a Drawing Room to trigger the experiment again.",
+			"styleAttributes":{},
+			"x":350,
+			"y":600,
+			"width":260,
+			"height":120
+		}
+	],
+	"edges":[
+		{
+			"id":"f9cea7ea02fc99a8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1b500ded8bb3b6d2",
+			"fromSide":"bottom",
+			"toNode":"564e47016340828d",
+			"toSide":"top",
+			"label":"Buy"
+		},
+		{
+			"id":"e66d1c5ef3039c39",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2f31ee58dfee7a0c",
+			"fromSide":"bottom",
+			"toNode":"16225341b3fdc476",
+			"toSide":"top"
+		},
+		{
+			"id":"03aa5ebc03366db7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"29ee1c640ab37a0b",
+			"fromSide":"bottom",
+			"toNode":"919866d0ea7657f6",
+			"toSide":"top"
+		},
+		{
+			"id":"1f2a6b9a0fbd163d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"564e47016340828d",
+			"fromSide":"bottom",
+			"toNode":"c2fada6c3fa42abe",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

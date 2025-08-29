@@ -1,27 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"1c5c3bcfbf7d9641",
-			"type":"text",
-			"text":"Microchips are a data item that can be inserted on the [[Blackbridge Grotto.canvas|Blackbridge Grotto]] room for an unknown purpose.",
-			"styleAttributes":{},
-			"x":-400,
-			"y":60,
-			"width":380,
-			"height":100
-		},
-		{
-			"id":"8389e8db8181f635",
-			"type":"text",
-			"text":"[[Items.canvas|Items]]",
-			"styleAttributes":{},
-			"x":-400,
-			"y":-40,
-			"width":260,
-			"height":60
-		},
-		{"id":"24e01d5d45385606","type":"file","file":"99. attachments/BLUE_PRINCE_6Rr19inV5o.png","x":-400,"y":200,"width":400,"height":225},
-		{
 			"id":"d06789be23793e4e",
 			"type":"text",
 			"text":"Progression",
@@ -34,7 +13,7 @@
 		{
 			"id":"3bac61f1914958a6",
 			"type":"text",
-			"text":"Microchip found in [[002 - Entrance Hall.canvas|002 - Entrance Hall]] by breaking the vases with a [[Sledgehammer.canvas|Sledgehammer]]",
+			"text":"Microchip 2 found in [[002 - Entrance Hall.canvas|002 - Entrance Hall]] by breaking the vases with a [[Sledgehammer.canvas|Sledgehammer]]",
 			"styleAttributes":{},
 			"x":260,
 			"y":-60,
@@ -51,8 +30,51 @@
 			"y":-40,
 			"width":260,
 			"height":60,
-			"color":"3"
-		}
+			"color":"4"
+		},
+		{
+			"id":"78f82c6abd9d92e8",
+			"type":"text",
+			"text":"Microchip 1 found in [[Blackbridge Grotto.canvas|Blackbridge Grotto]]",
+			"styleAttributes":{},
+			"x":260,
+			"y":-160,
+			"width":380,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"8136fc40ae754107",
+			"type":"text",
+			"text":"Microchip 3 found by digging near the [[West Path.canvas|West Path]] Bridge",
+			"styleAttributes":{},
+			"x":260,
+			"y":74,
+			"width":380,
+			"height":86,
+			"color":"4"
+		},
+		{
+			"id":"1c5c3bcfbf7d9641",
+			"type":"text",
+			"text":"Microchips are a data item that can be inserted on the [[Blackbridge Grotto.canvas|Blackbridge Grotto]] room for an unknown purpose.",
+			"styleAttributes":{},
+			"x":-240,
+			"y":60,
+			"width":380,
+			"height":100
+		},
+		{
+			"id":"8389e8db8181f635",
+			"type":"text",
+			"text":"[[Items.canvas|Items]]",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-40,
+			"width":260,
+			"height":60
+		},
+		{"id":"24e01d5d45385606","type":"file","file":"99. attachments/BLUE_PRINCE_6Rr19inV5o.png","x":-240,"y":200,"width":400,"height":225}
 	],
 	"edges":[
 		{
@@ -71,6 +93,25 @@
 			"fromNode":"3bac61f1914958a6",
 			"fromSide":"right",
 			"toNode":"ba1dd84981d0b9e3",
+			"toSide":"left"
+		},
+		{
+			"id":"78f420c86ec49bbb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d06789be23793e4e",
+			"fromSide":"right",
+			"toNode":"78f82c6abd9d92e8",
+			"toSide":"left"
+		},
+		{
+			"id":"249b72549350b021",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d06789be23793e4e",
+			"fromSide":"right",
+			"toNode":"8136fc40ae754107",
 			"toSide":"left"
 		}
 	],

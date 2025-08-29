@@ -1,4 +1,102 @@
 
+Day 114
+- Drafted Wine Cellar in the Outer Room
+	- It is identical to the one in the Mansion
+- Crafted a Power Hammer and went in the Tunnel in The Grounds area
+	- Broke the wall and found other doors with different requirements
+		- Door 4 - Boiler Room powering the Remote Box through High Pressure Condenser
+		- Door 5 - Burning Glass
+		- Door 6 - Microchip
+		- Door 7 - I don't know
+	- The last door has the symbol that appears in the Mount Holly Estate, maybe belonging to the families of Sinclair, Epsen, Marigold and Jones.
+		- I tried going to use the Blueprint Crown to enter that room but it didn't react.
+		- The symbol is painted blue.
+- I thought it was a good idea to change into a King and activate the Black color preference and then go into the Throne Room
+	- This did not work.
+	- I tried going into other places with Orinda Aries Symbol as well.
+		- Black Mirror in Reservoir area
+		- Safehouse
+		- Orinda Aries Sanctum
+		- Orindia Ruins
+		- Unknown Area in the Precipice
+	- I will probably stay in this power piece for a while since it's possible that this having this power is important for solving puzzles.
+- Another thing I tried in the Throne Room is drafting it with space available behind the Throne and then drafting a room that has an exit that would lead to the Throne room.
+	- There is nothing there though, just the normal wooden blocked door.
+- I started using the remaining steps to read texts on the areas outside of the mansion
+	- When I went to the Torch Room at the Abandoned Mines I found a map of the Reservoir area.
+	- The map had some hidden text below the described area of number 9.
+		- It said "10. Buried floorplan"
+	- I was able to locate the number 10 in the map and it directed to a specific place in the Basement
+	- After digging in that area I found the Lost and Found floorprint.
+		- This means that I have found all floorprints in the game.
+		- I wonder if I can find the File Cabinet Key in there or even some sort of clue for my runs.
+- Lastly, I have one day left in Blessing of the Monk, so I will use it to draft a Secret Passage in the Outer Room on Day 115.
+- My current plan is to discover how to solve the clock puzzle in Unknown at the Precipice by taking a look at my screenshots from earlier runs, just in case I find something that could help.
+	- I will also take other Outer Rooms for the time being to check if there are any useful clues in them.
+
+Day 113
+- Drafted Chapel in the Outer Room
+	- The room is identical to the one in the mansion.
+- I wanted to try doing a run drafting as many rooms as possible, picking as minimum items as possible and then ending the run to see what would Anne Babbage think about my behavior.
+	- I think this could be related to the Lost and Found room.
+- I found a bunch of messages in the Terminal when viewing Staff Announcements
+	- It seems that after I activated the Satellite Dish, I became able to see the messages from the employees about my journey.
+		- It seems that there are some special dates where things happen
+			- December 25th - Boudoir - There is a christmas cake in the room at Christmas date.
+			- January 11th - Winter Harvest in Mora Jai, celebrating the third paragon Rynna
+			- January 28th - Simon's Birthday, cupcake in the Kitchen
+		- It seems the messages will keep coming, so I should check every once in a while.
+- I cannot find the File Cabinet Key anymore after opening it in the Reservoir mining room.
+	- Maybe because I found the only cabinet it can open already at the previous day.
+- Ended the run in the Wine Cellar
+
+Day 112
+- Drafted Throne Room in the Outer Room and it seems that there is nothing different.
+	- I still couldn't interact with anything.
+	- Should I solve the secrets inside this room, I should check this again.
+- Drafted Conservatory to change Laundry to Common
+- Activated the Experiment that removes Crates from the Tunnel with the condition of Drawing a Drawing Room
+- I have excess gems from the Laundry Room, and bought a Cronograph from the Showroom
+	- With this I can use the rewind from the Chronograph with the excess of gems to activate the trigger multiple times after finding the Drawing Room while drafting a room.
+- I drafted rooms until the experiment activated 46 times, this allowed me to remove all crates in the Tunnel at The Grounds
+- When going into the Tunnels from the Grounds I was able to find a File Cabinet Key
+	- I tried searching for places to use the Cabinet Key
+		- The Den - Nope
+		- Laboratory - Nope
+		- Archive - Couldn't draft
+		- Basement - Nope
+		- Reservoir - Hidden Miner Room
+			- Success
+	- If I think about it, there was a mining hat near the key, so it was very probable that the location I needed to find was the miner room in the Reservoir.
+- When using the File Cabinet Key in the Hidden Miner Room at the Reservoir I found a file talking about Numeric Cores
+	- It seems the file was made for a Baroness from the Mount Holly Family Tree
+		- Maybe Baroness Auravel
+	- The file gave instructions in how to solve the Numeric Core of a number
+		- But parts of it are missing
+- Besides that I was able to go further into the Tunnel and found multiple doors that are blocked by certain requirements
+	- Door 1 - Basement Key
+	- Door 2 - Keycard or disabling Security Locks
+	- Door 3 - Power Hammer on the wall to the side
+- Lastly I ended the run in the Chapel since it was the only interesting room I could investigate with the Monk Blessing effect
+- 
+
+Day 111
+- Drafted The Armory inside the Outer Room
+	- The room is identical, funcionality wise.
+- Improved lockpicking skill 2 times through Laboratory Experiments.
+- The Foundation finally came back to drafting and I placed it on C4R8 to get the Blue Memo and easy access to the Antechamber doors.
+	- Hidden Memo says something similar "Despite the directory being changed multiple times, the Foundation has remained as the first floorplan."
+- Ended the day at the Throne Room to trigger Monk Blessing.
+
+Day 110
+- Drafted Closed Exhibit in the Outer Room
+	- Nothing different, the room is identical to the one in the Mansion
+- Tried to get a good experiment in the Laboratory going, but wasn't that lucky with the results draw.
+- Also tried to draft the Throne Room so I could use the Monk Blessing on it, but no dice.
+- Used Consevatory to reduce rarity of the Solarium to Unusual, because this room is very useful to draw rooms that I couldn't alter rarity but I want to draft eventually.
+- Stored a Master Key into the Coat Check because I have no Emerald Bracelet
+- This run was also very unlucky becuase I wasn't able to get enough gems for rerolls, I didn't draft Laundry and had no Emerald Bracelet because I couldn't get to the Coat Check on previous runs to store it and the Showroom didn't have it.
+- I ended the run in The Armory for the Monk Blessing, but I have no expectations about having something different in this room.
 
 Day 109
 - Drafted a Treasure Trove at the Outer Room

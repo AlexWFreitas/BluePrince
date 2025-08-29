@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{
+			"id":"c4f00e16cde96a40",
+			"type":"text",
+			"text":"[[025 - Drawing Room.canvas|025 - Drawing Room]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-380,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2c8f3593ace8f888",
+			"type":"text",
+			"text":"[[017 - Den.canvas|017 - Den]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-460,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

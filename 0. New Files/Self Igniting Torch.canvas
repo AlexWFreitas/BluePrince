@@ -1,0 +1,50 @@
+{
+	"nodes":[
+		{"id":"c80d84de236166bd","type":"file","file":"99. attachments/BLUE_PRINCE_XtSXtgnfc9.png","x":-400,"y":-120,"width":400,"height":225},
+		{
+			"id":"a877f2ba76310fd2",
+			"type":"text",
+			"text":"[[The Armory.canvas|The Armory]]",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-220,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"13d2411b05d5b441",
+			"type":"text",
+			"text":"[[Burning Glass.canvas|Burning Glass]]",
+			"styleAttributes":{},
+			"x":360,
+			"y":-37,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"bcb9b265d97201bc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"13d2411b05d5b441",
+			"fromSide":"left",
+			"toNode":"c80d84de236166bd",
+			"toSide":"right"
+		},
+		{
+			"id":"af63d70780a1f1e5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c80d84de236166bd",
+			"fromSide":"right",
+			"toNode":"13d2411b05d5b441",
+			"toSide":"left",
+			"label":"Equal"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

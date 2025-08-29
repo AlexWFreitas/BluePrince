@@ -128,7 +128,29 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"a90076c0c746468a","type":"file","file":"99. attachments/BLUE_PRINCE_Dxi2Ss7tdG.png","x":-4100,"y":-560,"width":400,"height":225}
+		{"id":"a90076c0c746468a","type":"file","file":"99. attachments/BLUE_PRINCE_Dxi2Ss7tdG.png","x":-4100,"y":-560,"width":400,"height":225},
+		{
+			"id":"01bec0b761681949",
+			"type":"text",
+			"text":"# Reservoir Cabinet Puzzle",
+			"styleAttributes":{},
+			"x":140,
+			"y":460,
+			"width":559,
+			"height":90
+		},
+		{
+			"id":"790f4489dc0e5c9d",
+			"type":"text",
+			"text":"[[File Cabinet Key.canvas|File Cabinet Key]]",
+			"styleAttributes":{},
+			"x":140,
+			"y":575,
+			"width":260,
+			"height":60
+		},
+		{"id":"2729ee8efff5eb7e","type":"file","file":"99. attachments/BLUE_PRINCE_XMmn9RHwAR.png","x":-500,"y":-697,"width":400,"height":290},
+		{"id":"912c14fa1dd5fe1e","type":"file","file":"99. attachments/BLUE_PRINCE_rsTQUzFeGp.png","x":-500,"y":-1050,"width":400,"height":323}
 	],
 	"edges":[
 		{"id":"fdeb365d6c94ce8c","toFloating":false,"fromNode":"17187e013df02c19","fromSide":"top","toNode":"1c6ea0fa509afe9d","toSide":"bottom"},

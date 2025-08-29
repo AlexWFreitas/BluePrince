@@ -1,18 +1,97 @@
 {
 	"nodes":[
 		{"id":"ebb5ec2acb7bcbc9","type":"file","file":"99. attachments/BLUE_PRINCE_cjaEJ1fkuJ.png","x":-540,"y":-260,"width":740,"height":416},
+		{"id":"390a41a0b5c99a17","type":"file","file":"99. attachments/BLUE_PRINCE_8vG8e3UfAZ.png","x":220,"y":-260,"width":740,"height":416},
+		{
+			"id":"9619b4332ea44592",
+			"type":"text",
+			"text":"Maybe [[Foyer.canvas|Foyer]], if we consider that this is a lie by the color red.",
+			"styleAttributes":{},
+			"x":460,
+			"y":220,
+			"width":320,
+			"height":100
+		},
+		{"id":"5321efdddaf3fbda","type":"file","file":"99. attachments/BLUE_PRINCE_1Zt2nJ0Fp7.png","x":-900,"y":436,"width":1000,"height":563},
+		{"id":"3d43a71d5674d3a4","type":"file","file":"99. attachments/BLUE_PRINCE_rAzrZFB4zS.png","x":120,"y":436,"width":1000,"height":563},
+		{"id":"34fa9d23526be297","type":"file","file":"99. attachments/BLUE_PRINCE_DfyK6oNfXV.png","x":-900,"y":1057,"width":1000,"height":563},
+		{
+			"id":"4880cf1f7f172a9d",
+			"type":"text",
+			"text":"# Numeric Core - 3614\n\n3614\n\n3 6 1 4\n\n+3 , x 6 , / 1, -4 = 14\n\n??",
+			"styleAttributes":{},
+			"x":120,
+			"y":1057,
+			"width":1000,
+			"height":260,
+			"color":"3"
+		},
+		{
+			"id":"1d9ad0c7ab5df2c7",
+			"type":"text",
+			"text":"[[File Cabinet Key.canvas|File Cabinet Key]]",
+			"styleAttributes":{},
+			"x":-530,
+			"y":320,
+			"width":260,
+			"height":60
+		},
 		{
 			"id":"2b9934846003faf6",
 			"type":"text",
 			"text":"[[Wine Cellar Number Puzzle.canvas|Wine Cellar Number Puzzle]]",
 			"styleAttributes":{},
-			"x":-500,
-			"y":220,
+			"x":-860,
+			"y":96,
 			"width":260,
 			"height":60
+		},
+		{"id":"aafb8928fc1e25d3","type":"file","file":"99. attachments/BLUE_PRINCE_GQo9A3Gr4e.jpg","x":1040,"y":43,"width":400,"height":225},
+		{"id":"2cd54de4b4d9a281","type":"file","file":"99. attachments/BLUE_PRINCE_n0UyVg8JAO.png","x":1180,"y":324,"width":400,"height":225},
+		{"id":"ee8bc08eeee9863b","type":"file","file":"99. attachments/BLUE_PRINCE_IJSNdY91SB.png","x":1040,"y":-220,"width":400,"height":225},
+		{
+			"id":"29c8410a86a0b365",
+			"type":"text",
+			"text":"# Check -> [[The Ladyship Chamber.canvas|The Ladyship Chamber]]",
+			"styleAttributes":{},
+			"x":1180,
+			"y":1057,
+			"width":490,
+			"height":130,
+			"color":"3"
+		},
+		{"id":"4c74bd1e2428c10b","type":"file","file":"99. attachments/BLUE_PRINCE_NLNYfj5bki.png","x":120,"y":1360,"width":1340,"height":754},
+		{
+			"id":"d838783395051c32",
+			"type":"text",
+			"text":"# Numeric Core 45292\n\n45 x 2 / 9 - 2 = 8",
+			"styleAttributes":{},
+			"x":1480,
+			"y":1360,
+			"width":620,
+			"height":377
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"a03c68aafc21e442",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9619b4332ea44592",
+			"fromSide":"top",
+			"toNode":"390a41a0b5c99a17",
+			"toSide":"bottom"
+		},
+		{
+			"id":"4d565ebcaa47035d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1d9ad0c7ab5df2c7",
+			"fromSide":"bottom",
+			"toNode":"5321efdddaf3fbda",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

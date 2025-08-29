@@ -60,7 +60,19 @@
 			"width":260,
 			"height":123
 		},
-		{"id":"a47076673e725a4e","type":"file","file":"99. attachments/BLUE_PRINCE_z8PcKxtrBd.png","x":1080,"y":472,"width":840,"height":473}
+		{"id":"a47076673e725a4e","type":"file","file":"99. attachments/BLUE_PRINCE_z8PcKxtrBd.png","x":1080,"y":472,"width":840,"height":473},
+		{
+			"id":"21bc9c97b6a11c50",
+			"type":"text",
+			"text":"# Monk Blessing Version\nIdentical, nothing interesting.",
+			"styleAttributes":{},
+			"x":2440,
+			"y":964,
+			"width":460,
+			"height":136
+		},
+		{"id":"7ef916ba44df2b16","type":"file","file":"99. attachments/BLUE_PRINCE_apQDNocfZ7.png","x":2440,"y":1140,"width":400,"height":225},
+		{"id":"e3340382bee00eea","type":"file","file":"99. attachments/BLUE_PRINCE_VX1QNCbJwO.png","x":2860,"y":1140,"width":400,"height":225}
 	],
 	"edges":[
 		{

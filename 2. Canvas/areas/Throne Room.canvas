@@ -38,7 +38,21 @@
 			"y":-980,
 			"width":380,
 			"height":240
-		}
+		},
+		{
+			"id":"80a06ac01d39771d",
+			"type":"text",
+			"text":"# Outer Room Version\n- Seems identical, but not sure",
+			"styleAttributes":{},
+			"x":1240,
+			"y":-460,
+			"width":580,
+			"height":140,
+			"color":"3"
+		},
+		{"id":"98e507fe44b509d0","type":"file","file":"99. attachments/BLUE_PRINCE_abk9xV2idy.png","x":1240,"y":-267,"width":400,"height":225},
+		{"id":"b86e4c6605a6e57b","type":"file","file":"99. attachments/BLUE_PRINCE_AiElWrmQuM.png","x":-1100,"y":-380,"width":400,"height":225},
+		{"id":"a65537dac2af9433","type":"file","file":"99. attachments/BLUE_PRINCE_wGBPOC6Sg8.png","x":-1100,"y":-113,"width":399,"height":218}
 	],
 	"edges":[],
 	"metadata":{

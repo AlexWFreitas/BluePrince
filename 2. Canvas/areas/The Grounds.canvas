@@ -7,7 +7,6 @@
 		{"id":"94bca5e0d26d2b25","type":"file","file":"99. attachments/BLUE_PRINCE_4HLyNddz5u.png","x":-1080,"y":-195,"width":400,"height":225},
 		{"id":"456e9d99835797c9","type":"text","text":"Power Hammer - [[Items.canvas|Items]]","x":-1054,"y":60,"width":354,"height":60},
 		{"id":"5889330b1e84a344","type":"file","file":"99. attachments/BLUE_PRINCE_bIa2oOi9Dt.png","x":-580,"y":8,"width":400,"height":225},
-		{"id":"835ca88c17ce1fd0","type":"text","text":"Burning Glass - [[Items.canvas|Items]]","x":-487,"y":280,"width":214,"height":60},
 		{"id":"cfb382e572b8c517","type":"file","file":"99. attachments/BLUE_PRINCE_eQjdhqv327.png","x":-40,"y":-52,"width":400,"height":225},
 		{"id":"0d7154f944f489b5","type":"file","file":"99. attachments/BLUE_PRINCE_kHIUg8YuEV.png","x":-40,"y":228,"width":400,"height":225},
 		{
@@ -19,6 +18,31 @@
 			"y":-1000,
 			"width":674,
 			"height":320
+		},
+		{"id":"2e0c3b81afac284d","type":"file","file":"99. attachments/BLUE_PRINCE_cNvlBmSwip.png","x":600,"y":-52,"width":400,"height":225},
+		{"id":"835ca88c17ce1fd0","type":"text","text":"Burning Glass - [[Items.canvas|Items]]","x":-594,"y":341,"width":214,"height":60},
+		{
+			"id":"0b5031d9dc88959a",
+			"type":"text",
+			"text":"[[Remove all Crates from Tunnel.canvas|Remove all Crates from Tunnel]]",
+			"styleAttributes":{},
+			"x":670,
+			"y":560,
+			"width":260,
+			"height":60
+		},
+		{"id":"0e97fbee402e6d54","type":"file","file":"99. attachments/BLUE_PRINCE_HprOrBy7XG.png","x":600,"y":259,"width":400,"height":225},
+		{"id":"c30afc6481943497","type":"file","file":"99. attachments/BLUE_PRINCE_hIUdbGxWC2.png","x":1140,"y":-52,"width":400,"height":225},
+		{"id":"113f96da2daeab5b","type":"file","file":"99. attachments/BLUE_PRINCE_O5PhkjWXpM.png","x":1140,"y":-345,"width":400,"height":225},
+		{
+			"id":"80e8a2783150c70e",
+			"type":"text",
+			"text":"[[Unknown - Tunnel.canvas|Unknown - Tunnel]]",
+			"styleAttributes":{},
+			"x":1210,
+			"y":-480,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -26,7 +50,61 @@
 		{"id":"56ee8d0d7e152bfe","fromNode":"456e9d99835797c9","fromSide":"top","toNode":"94bca5e0d26d2b25","toSide":"bottom"},
 		{"id":"2279848ec5656d29","fromNode":"835ca88c17ce1fd0","fromSide":"top","toNode":"5889330b1e84a344","toSide":"bottom"},
 		{"id":"cd5c974b2976363a","fromNode":"5889330b1e84a344","fromSide":"right","toNode":"cfb382e572b8c517","toSide":"left"},
-		{"id":"1b9c7b6db5feca16","fromNode":"5889330b1e84a344","fromSide":"right","toNode":"0d7154f944f489b5","toSide":"left"}
+		{"id":"1b9c7b6db5feca16","fromNode":"5889330b1e84a344","fromSide":"right","toNode":"0d7154f944f489b5","toSide":"left"},
+		{
+			"id":"affc4db23111b797",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5889330b1e84a344",
+			"fromSide":"bottom",
+			"toNode":"0b5031d9dc88959a",
+			"toSide":"bottom"
+		},
+		{
+			"id":"99a4d0ac806dd34c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0b5031d9dc88959a",
+			"fromSide":"top",
+			"toNode":"0e97fbee402e6d54",
+			"toSide":"bottom"
+		},
+		{
+			"id":"b55a2eec4ed18d5c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0e97fbee402e6d54",
+			"fromSide":"top",
+			"toNode":"2e0c3b81afac284d",
+			"toSide":"bottom"
+		},
+		{
+			"id":"f0ce55f2a3c2a013",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0e97fbee402e6d54",
+			"fromSide":"right",
+			"toNode":"c30afc6481943497",
+			"toSide":"bottom"
+		},
+		{
+			"id":"916bfc843a7fc399",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c30afc6481943497",
+			"fromSide":"top",
+			"toNode":"113f96da2daeab5b",
+			"toSide":"bottom"
+		},
+		{
+			"id":"6d3831a0891ac1c6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"113f96da2daeab5b",
+			"fromSide":"top",
+			"toNode":"80e8a2783150c70e",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

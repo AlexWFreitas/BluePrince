@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{
+			"id":"cbce21f16bb1d3bd",
+			"type":"text",
+			"text":"# Info\nThese messages can be found by logging as swansong in one of the terminals in [[Shelter.canvas|Shelter]], [[024 - Office.canvas|024 - Office]], [[034 - Security.canvas|034 - Security]], [[036 - Laboratory.canvas|036 - Laboratory]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-360,
+			"width":500,
+			"height":200
+		},
+		{"id":"46d99a2d3bbce29e","type":"file","file":"99. attachments/BLUE_PRINCE_G3ZDqlpHQT.png","x":-660,"y":1853,"width":1381,"height":777},
+		{"id":"e630982160ee926e","type":"file","file":"99. attachments/BLUE_PRINCE_Ket9bAaIat.png","x":859,"y":1853,"width":1381,"height":777},
+		{"id":"471c7cf6670591d3","type":"file","file":"99. attachments/BLUE_PRINCE_ZHhq5xltyC.png","x":-660,"y":2820,"width":1381,"height":777},
+		{"id":"8ff3a130de645939","type":"file","file":"99. attachments/BLUE_PRINCE_fltjvBawfv.png","x":859,"y":2820,"width":1381,"height":777},
+		{"id":"801887f9e6d92c54","type":"file","file":"99. attachments/BLUE_PRINCE_z0KPgkGodl.png","x":-660,"y":3787,"width":1381,"height":777},
+		{"id":"67a20f4e95dc5171","type":"file","file":"99. attachments/BLUE_PRINCE_zmJPE8picx.png","x":859,"y":3787,"width":1381,"height":777},
+		{"id":"3a9f8f5b64506e61","type":"file","file":"99. attachments/BLUE_PRINCE_Lbnu9cX4wX.png","x":-660,"y":4753,"width":1381,"height":777},
+		{"id":"bf0b920bec7fd4c8","type":"file","file":"99. attachments/BLUE_PRINCE_iURSoGH6Vr.png","x":859,"y":4753,"width":1381,"height":777},
+		{"id":"8b46d500383b0a60","type":"file","file":"99. attachments/BLUE_PRINCE_wGuHa0c8Nl.png","x":-660,"y":5720,"width":1381,"height":777},
+		{"id":"6d43d5e66772f433","type":"file","file":"99. attachments/BLUE_PRINCE_QVHbSieXVi.png","x":859,"y":5720,"width":1381,"height":777},
+		{"id":"a1e2d833891a94f9","type":"file","file":"99. attachments/BLUE_PRINCE_oLTuHuGDR8.png","x":-660,"y":6687,"width":1381,"height":777},
+		{"id":"fd88a1ae95dd25bc","type":"file","file":"99. attachments/BLUE_PRINCE_UT8M3W9WIs.png","x":859,"y":6687,"width":1381,"height":777},
+		{"id":"3ce1f64d594d5dbc","type":"file","file":"99. attachments/BLUE_PRINCE_Vo0c7139eG.png","x":-660,"y":7653,"width":1381,"height":777},
+		{"id":"b7f4b4317136fb0f","type":"file","file":"99. attachments/BLUE_PRINCE_jL2V4JD57g.png","x":859,"y":7653,"width":1381,"height":777},
+		{"id":"1c9260b5cc06e55f","type":"file","file":"99. attachments/BLUE_PRINCE_Uhyb8v14pw.png","x":-660,"y":-80,"width":1381,"height":777},
+		{"id":"cd098d3580e7f303","type":"file","file":"99. attachments/BLUE_PRINCE_HJxQldG2DE.png","x":859,"y":-80,"width":1381,"height":777},
+		{"id":"2a0d5bf27c4ebfa0","type":"file","file":"99. attachments/BLUE_PRINCE_GdH7FtlcfC.png","x":-660,"y":887,"width":1381,"height":777},
+		{"id":"2f43685019b96ea5","type":"file","file":"99. attachments/BLUE_PRINCE_0FPHS79ytI.png","x":859,"y":887,"width":1381,"height":777}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
