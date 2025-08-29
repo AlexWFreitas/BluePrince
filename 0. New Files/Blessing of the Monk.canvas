@@ -151,6 +151,16 @@
 			"width":760,
 			"height":80,
 			"color":"1"
+		},
+		{
+			"id":"646ad7b5493f06ae",
+			"type":"text",
+			"text":"# [[Secret Passage.canvas|Secret Passage]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":980,
+			"width":760,
+			"height":80
 		}
 	],
 	"edges":[],

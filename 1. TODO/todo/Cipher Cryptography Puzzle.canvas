@@ -27,14 +27,53 @@
 			"text":"The book [[A New Clue.canvas|A New Clue]], also talks about using some sort of Cipher System to solve a cryptographed message",
 			"styleAttributes":{},
 			"x":-880,
-			"y":140,
+			"y":561,
 			"width":320,
 			"height":140
 		},
-		{"id":"8e110b2fce5a8dc4","type":"file","file":"99. attachments/BLUE_PRINCE_X8c9ECnWhj.png","x":-520,"y":139,"width":400,"height":282},
-		{"id":"c679904c7b9f92af","type":"file","file":"99. attachments/BLUE_PRINCE_a69A0AkCgt.png","x":-100,"y":140,"width":347,"height":399}
+		{"id":"c679904c7b9f92af","type":"file","file":"99. attachments/BLUE_PRINCE_a69A0AkCgt.png","x":-100,"y":561,"width":347,"height":399},
+		{"id":"8e110b2fce5a8dc4","type":"file","file":"99. attachments/BLUE_PRINCE_X8c9ECnWhj.png","x":-520,"y":560,"width":400,"height":282},
+		{
+			"id":"e1d85cf66a57a9c1",
+			"type":"text",
+			"text":"This is related to another puzzle related to Metro Stops and Books",
+			"styleAttributes":{},
+			"x":-870,
+			"y":761,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"060ac1b133f04a6c",
+			"type":"text",
+			"text":"[[A New Clue - Original Manuscript.canvas|A New Clue - Original Manuscript]]",
+			"styleAttributes":{},
+			"x":-850,
+			"y":900,
+			"width":260,
+			"height":60
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"4eca7b90277fb332",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5342d2a192dcc0f9",
+			"fromSide":"bottom",
+			"toNode":"e1d85cf66a57a9c1",
+			"toSide":"top"
+		},
+		{
+			"id":"1205ff85f6cba747",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e1d85cf66a57a9c1",
+			"fromSide":"bottom",
+			"toNode":"060ac1b133f04a6c",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
