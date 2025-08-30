@@ -77,15 +77,15 @@
 			"color":"4"
 		},
 		{
-			"id":"e6f41fcc63d2af1b",
+			"id":"67f60b74c2dd3c71",
 			"type":"text",
-			"text":"[[Commissary.canvas|Commissary]]",
+			"text":"[[Lost and Found.canvas|Lost and Found]]",
 			"styleAttributes":{},
 			"x":-740,
-			"y":320,
+			"y":140,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"a2dbd3d9118bd958",
@@ -93,7 +93,18 @@
 			"text":"[[Great Hall.canvas|Great Hall]]",
 			"styleAttributes":{},
 			"x":-740,
-			"y":240,
+			"y":400,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"e6f41fcc63d2af1b",
+			"type":"text",
+			"text":"[[Commissary.canvas|Commissary]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":480,
 			"width":260,
 			"height":60,
 			"color":"3"
@@ -104,7 +115,7 @@
 			"text":"[[Trading Post.canvas|Trading Post]] - Trade Expensive Item",
 			"styleAttributes":{},
 			"x":-740,
-			"y":400,
+			"y":560,
 			"width":260,
 			"height":60,
 			"color":"3"

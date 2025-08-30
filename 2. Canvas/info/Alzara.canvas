@@ -17,7 +17,78 @@
 			"width":340,
 			"height":60
 		},
-		{"id":"10cf293496ddbce4","type":"file","file":"99. attachments/BLUE_PRINCE_xyXdA0Vckx.png","x":-180,"y":-380,"width":400,"height":225}
+		{"id":"10cf293496ddbce4","type":"file","file":"99. attachments/BLUE_PRINCE_xyXdA0Vckx.png","x":-180,"y":-380,"width":400,"height":225},
+		{
+			"id":"822c6fe140c83f79",
+			"type":"text",
+			"text":"# Video Analysis",
+			"styleAttributes":{},
+			"x":-1080,
+			"y":580,
+			"width":700,
+			"height":80
+		},
+		{
+			"id":"774c36315f81bd73",
+			"type":"text",
+			"text":"# Video 1\n- A boy standing on a shore of white sand\n\t- This is probably related to the [[Safehouse Station.canvas|Safehouse Station]]\n- He is looking for something\n- Something he was told he would not find\n\t- The last [[Red Letters.canvas|Red Letter]]\n- I see a black cat tied to a red flag\n\t- Probably Orinda Aries kingdom being tied to Fenn Aries\n- I hear the wind blowing\n- But the flag does not stir\n\t- The Fenn Aries kingdom is a fake kingdom?\n- I see... a door marked by a rogue moon\n\t- [[046 - Room 46.canvas|046 - Room 46]]?\n- A door that is always locked\n\t- Can only be unlocked by a lever.\n- Yet has no key\n- It is the door you have been searching for yet will not find\n- A lost room beyond the dark waters...\n\t- Maybe a reference to the [[Safehouse Station.canvas|Safehouse Station]]\n\n\n\n",
+			"styleAttributes":{},
+			"x":-1080,
+			"y":680,
+			"width":700,
+			"height":580
+		},
+		{
+			"id":"f36ba06a42e769d2",
+			"type":"text",
+			"text":"# Video 2\n- I see the darkened cloud of ruin\n- familiar to us both,\n- now decrepit, rundown and in disrepair\n- I see eight red envelopes\n- resting upon eight pedestals.\n- And in these eight envelopes\n- I see eight letters penned by eight different hands\n- Eight letters of which you will only ever find and read\n- Seven\n\t- A reference to the last [[Red Letters.canvas|Red Letter]] being almost impossible to find\n- Just like the art hanging on the walls of these rooms\n- There is a letter missing\n\t- This is a reference to the paintings where one of the paintings has the same name as the other, but with one lettter missing\n\t- [[With Without Puzzles.canvas|With Without Puzzles]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":680,
+			"width":700,
+			"height":580
+		},
+		{
+			"id":"4a11850c3a544207",
+			"type":"text",
+			"text":"# Video 3\n- Yes... the fog is clearing\n- I see a shadow in the doorway\n- Silent footsteps in the hallways\n- An unlatched gate, you did not open...\n- A missing item, you did not take.\n- I see a young boy watched from afar,\n- a young boy who once was brave,\n- but now...\n- ...afraid\n\nI think this is a reference to [[Bon Margle.canvas|Bon Margle]] who is a detective that was trying to find the culprits of stealing the [[Ruby Crown.canvas|Ruby Crown]] from the Museum and also was investigating [[Marion Marigold.canvas|Marion Marigold]].",
+			"styleAttributes":{},
+			"x":-1080,
+			"y":1280,
+			"width":700,
+			"height":600
+		},
+		{"id":"bccea888cc8673e7","type":"file","file":"99. attachments/BLUE_PRINCE_CmwkJsDRr5.png","x":-2200,"y":1180,"width":880,"height":491},
+		{
+			"id":"fcd5638fc644cf7a",
+			"type":"text",
+			"text":"# Video 4\n- I hear the pattering steps of children running in the forest\n- The joyful echoes of laughter in the courtyard\n- I see an old man\n- an old man sitting in an even older chair\n- A seat that has served many generations\n- each with their own stories\n- each with their own secrets\n- each with their own endings\n- But all...\n- in the same chair",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1280,
+			"width":700,
+			"height":600
+		},
+		{
+			"id":"1e40f1e54e804ddc",
+			"type":"text",
+			"text":"# Video 5\n\n- Faintly in the mist\n- I see a figure\n- A statue cradled in a courtyard of sentinel stone\n\t- A reference to the museum that contained the Ruby Crown that was stolen\n- You will find yourself one day wandering these paths\n- Walking in the footsteps of the past\n- wandering...\n- ...and waiting...\n- Searching for a shadow that will never be cast.\n- Longing for the day to end...\n- the hours to pass.\n\t- A reference to the Sacred Hour, which is around 1:30 and is used in some of the puzzles.",
+			"styleAttributes":{},
+			"x":-1080,
+			"y":1900,
+			"width":700,
+			"height":580
+		},
+		{
+			"id":"bd4a67e99fd03847",
+			"type":"text",
+			"text":"# Video 6\n- Showed the Metro Station\n\t- [[Safehouse Station.canvas|Safehouse Station]] reference\n- Showed a reference to Room Eight and the Shrine\n\t- Maybe a combination of [[008 - Room 8.canvas|008 - Room 8]] and [[Blessing of the Monk.canvas|Blessing of the Monk]]\n- Showed a place to retreat in Lake Trinsdale\n\t- [[Hartley Ruota.canvas|Hartley Ruota]]\n- I see Cavern walls of stone\n\t- [[Unknown - Tunnel.canvas|Unknown - Tunnel]]\n- A hollow lit by a sea of a thousand burning stars...\n\t- [[Gemstone Cavern.canvas|Gemstone Cavern]]\n- I see a treasure, buried beneath the cliff rocks\n\t- [[The Precipice.canvas|The Precipice]]\n- A black mirror, hidden among the memories of falling sands\n\t- Black Mirror with the Orindia Symbol in the [[Reservoir.canvas|Reservoir]] area\n- And within the black mirror\n- I see a figure\n- A figure standing in sullen snow\n\t- Probably a reference to the [[Cursed Effigy.canvas|Cursed Effigy]]\n",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1900,
+			"width":700,
+			"height":580
+		}
 	],
 	"edges":[],
 	"metadata":{

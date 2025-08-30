@@ -184,6 +184,28 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"633adec308bcab69",
+			"type":"text",
+			"text":"[[Lost and Found.canvas|Lost and Found]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":600,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"26d90a7cc1d4efa6",
+			"type":"text",
+			"text":"[[Unknown.canvas|Unknown]]",
+			"styleAttributes":{},
+			"x":-20,
+			"y":680,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[

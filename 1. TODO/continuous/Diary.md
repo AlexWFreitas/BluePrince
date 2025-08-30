@@ -1,3 +1,16 @@
+Day 115
+- Drafted a Secret Passage in the Outer Room
+	- There is nothing interesting there
+- I drafted a Security Room and tried to take a look into the Alzara videos and take notes about it, I can see many references now, but one in particular caught my attention
+	- It was a room that looked like Room 8 mixed with the Shrine
+		- So I will try to use the Monk Blessing in Room 8.
+- I drafted a Lost & Found room and found the last Upgrade Disk
+	- Weirdly it seems there is an extra pawn in that room, I guess they replaced it when it got lost and that's why there is 17 pawns?
+	- I upgraded the Bunk to double gems whenever I have exactly two green rooms
+- Treasure Trove is drip feeding tips to me, every run something that may or may not be a clue is being shown.
+- The Spiral of Stars message continues...
+- I haven't been able to progress in the Clock Puzzle in the Court / Unknown Area
+- I feel I need to visit the Tomb and Shelter again to check if there is anything new.
 
 Day 114
 - Drafted Wine Cellar in the Outer Room
