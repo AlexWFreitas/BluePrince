@@ -52,9 +52,31 @@
 		},
 		{"id":"98e507fe44b509d0","type":"file","file":"99. attachments/BLUE_PRINCE_abk9xV2idy.png","x":1240,"y":-267,"width":400,"height":225},
 		{"id":"b86e4c6605a6e57b","type":"file","file":"99. attachments/BLUE_PRINCE_AiElWrmQuM.png","x":-1100,"y":-380,"width":400,"height":225},
-		{"id":"a65537dac2af9433","type":"file","file":"99. attachments/BLUE_PRINCE_wGBPOC6Sg8.png","x":-1100,"y":-113,"width":399,"height":218}
+		{"id":"a65537dac2af9433","type":"file","file":"99. attachments/BLUE_PRINCE_wGBPOC6Sg8.png","x":-1100,"y":-113,"width":399,"height":218},
+		{"id":"60bfc6b52d8eb1c1","type":"file","file":"99. attachments/BLUE_PRINCE_5219tYbREw.png","x":-200,"y":438,"width":400,"height":375},
+		{
+			"id":"28c995fbed55e797",
+			"type":"text",
+			"text":"[[Scepter.canvas|Scepter]] \n[[Paper Crown.canvas|Paper Crown]] \n[[Cursed Effigy.canvas|Cursed Effigy]]",
+			"styleAttributes":{},
+			"x":-130,
+			"y":860,
+			"width":260,
+			"height":120
+		},
+		{"id":"2432088accdd67d6","type":"file","file":"99. attachments/BLUE_PRINCE_vegnW5rFKH.png","x":220,"y":438,"width":1360,"height":765}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"51717516702bd951",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"28c995fbed55e797",
+			"fromSide":"top",
+			"toNode":"60bfc6b52d8eb1c1",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

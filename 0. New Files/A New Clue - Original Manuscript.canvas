@@ -179,6 +179,17 @@
 			"width":460,
 			"height":320,
 			"color":"4"
+		},
+		{"id":"db653a44117a2e41","type":"file","file":"99. attachments/BLUE_PRINCE_pF95gds6su.png","x":-40,"y":-153,"width":580,"height":521},
+		{
+			"id":"66387700abb393b2",
+			"type":"text",
+			"text":"# Crossed message?\n\nFinds two\nFor clues come together like a pair of new shoes\nGod only searched she for evident when over now",
+			"styleAttributes":{},
+			"x":0,
+			"y":1540,
+			"width":600,
+			"height":200
 		}
 	],
 	"edges":[

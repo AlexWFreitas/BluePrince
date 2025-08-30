@@ -51,8 +51,8 @@
 			"width":840,
 			"height":120
 		},
-		{"id":"f6366fc2c9e893c9","type":"file","file":"99. attachments/BLUE_PRINCE_tTIn7OS3L8.png","x":-400,"y":-1074,"width":413,"height":232},
-		{"id":"b5db2d37acf509f2","type":"file","file":"99. attachments/BLUE_PRINCE_rSHaSMTQhR.png","x":27,"y":-1074,"width":413,"height":232},
+		{"id":"f6366fc2c9e893c9","type":"file","file":"99. attachments/BLUE_PRINCE_tTIn7OS3L8.png","x":-400,"y":-1074,"width":412,"height":232},
+		{"id":"b5db2d37acf509f2","type":"file","file":"99. attachments/BLUE_PRINCE_rSHaSMTQhR.png","x":27,"y":-1074,"width":412,"height":232},
 		{
 			"id":"ec9813f90dad3e29",
 			"type":"text",
@@ -62,9 +62,50 @@
 			"y":-620,
 			"width":500,
 			"height":123
+		},
+		{"id":"3ed333bc1dcb5e69","type":"file","file":"99. attachments/BLUE_PRINCE_jxYLMgMpaR.png","x":-1720,"y":-120,"width":400,"height":225},
+		{"id":"97c43aea674fa0c8","type":"file","file":"99. attachments/BLUE_PRINCE_8EnIJscgze.png","x":-2160,"y":-120,"width":400,"height":225},
+		{
+			"id":"fa4d6c12feb0dbb7",
+			"type":"text",
+			"text":"Tomas Sinclair",
+			"styleAttributes":{},
+			"x":-2090,
+			"y":140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c23c4086ddae62d0",
+			"type":"text",
+			"text":"William Epsen",
+			"styleAttributes":{},
+			"x":-1650,
+			"y":140,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"bfa1c609ce646cbb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"97c43aea674fa0c8",
+			"fromSide":"bottom",
+			"toNode":"fa4d6c12feb0dbb7",
+			"toSide":"top"
+		},
+		{
+			"id":"6303b7663e6c6292",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3ed333bc1dcb5e69",
+			"fromSide":"bottom",
+			"toNode":"c23c4086ddae62d0",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

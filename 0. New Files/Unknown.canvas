@@ -89,26 +89,14 @@
 		{
 			"id":"8b6c133fedcee2ad",
 			"type":"text",
-			"text":"# Clock Puzzle Theories\nBased on these clues I gathered, it seems that instead this puzzle is related to the CASTLE WORD PUZZLE, if we interpret each square as a letter, then it should be something like:\n```\nC__\nA_D\nSIX\nTOR\nLOR\nE_T\n```\n\n\nI am not sure if C__ should be CAT because vertically it fits as well, the could be the one after the cat or the last letter of the puzzle.",
+			"text":"# Clock Puzzle Theories\nBased on these clues I gathered, it seems that instead this puzzle is related to the CASTLE WORD PUZZLE, if we interpret each square as a letter, then it should be something like:\n```\nCIX\nADD\nSIX\nTOR\nLOR\nE_T\n```\n\n\nI am not sure if C__ should be CAT because vertically it fits as well, the could be the one after the cat or the last letter of the puzzle.",
 			"styleAttributes":{},
 			"x":-8000,
 			"y":4049,
 			"width":560,
 			"height":731
 		},
-		{"id":"161042d7a4e05915","type":"file","file":"99. attachments/Obsidian_c2SAFPyldY.png","x":-7360,"y":4049,"width":400,"height":349},
-		{"id":"9c5dc130274cf265","type":"file","file":"99. attachments/BLUE_PRINCE_EN0x1rlrdG.png","x":-7400,"y":4454,"width":960,"height":540},
 		{"id":"a30c0d540b0381f3","type":"file","file":"99. attachments/BLUE_PRINCE_l1aYQ27ycs.png","x":-8000,"y":4840,"width":395,"height":400},
-		{
-			"id":"b784343016d431b6",
-			"type":"text",
-			"text":"# Rooms Checked for Hidden Letters in a Grid\n\n[[002 - Entrance Hall.canvas|002 - Entrance Hall]]\n[[006 - Billiard Room.canvas|006 - Billiard Room]]\n[[011 - Attic.canvas|011 - Attic]]\n[[012 - Storeroom.canvas|012 - Storeroom]]\n[[013 - Nook.canvas|013 - Nook]]\n[[014 - Garage.canvas|014 - Garage]]\n[[015 - Music Room.canvas|015 - Music Room]]\n**[[016 - Locker Room.canvas|016 - Locker Room]]**\n[[017 - Den.canvas|017 - Den]]\n[[019 - Trophy Room.canvas|019 - Trophy Room]]\n[[022 - Rumpus Room.canvas|022 - Rumpus Room]]\n**[[023 - Vault.canvas|023 - Vault]]**\n[[025 - Drawing Room.canvas|025 - Drawing Room]]\n[[026 - Study.canvas|026 - Study]]\n[[031 - Utility Closet.canvas|031 - Utility Closet]]\n[[034 - Security.canvas|034 - Security]]\n[[036 - Laboratory.canvas|036 - Laboratory]]\n[[038 - Coat Check.canvas|038 - Coat Check]]\n[[040 - Freezer.canvas|040 - Freezer]]\n[[041 - Dining Room.canvas|041 - Dining Room]]\n[[042 - Observatory.canvas|042 - Observatory]]\n[[043 - Conference Room.canvas|043 - Conference Room]]\n[[044 - Aquarium.canvas|044 - Aquarium]]\n\n\n**[[Blackbridge Grotto.canvas|Blackbridge Grotto]]**\n[[Chapel.canvas|Chapel]]\n[[Classroom.canvas|Classroom]] 1\n[[Clock Tower.canvas|Clock Tower]]\n[[Cloister.canvas|Cloister]]\n[[Commissary.canvas|Commissary]]\n[[Conservatory.canvas|Conservatory]]\n[[Corridor.canvas|Corridor]]\n[[Courtyard.canvas|Courtyard]]\n[[Foyer.canvas|Foyer]]\n[[Gymnasium.canvas|Gymnasium]]\n[[Hallway.canvas|Hallway]]\n[[Passageway.canvas|Passageway]]\n[[Planetarium.canvas|Planetarium]]\n**[[Secret Passage.canvas|Secret Passage]]**\n[[Showroom.canvas|Showroom]]\n[[Terrace.canvas|Terrace]]\n[[The Armory.canvas|The Armory]]\n**[[The Kennel.canvas|The Kennel]]**\n**[[The Precipice.canvas|The Precipice]]**\n**[[Tomb.canvas|Tomb]]**\n[[Weight Room.canvas|Weight Room]]",
-			"styleAttributes":{},
-			"x":-8820,
-			"y":5720,
-			"width":940,
-			"height":1220
-		},
 		{"id":"94fe71a237bb011e","type":"file","file":"99. attachments/BLUE_PRINCE_jh45VFESzx.png","x":-9920,"y":3200,"width":1360,"height":765},
 		{
 			"id":"543bc6c1cafecc34",
@@ -123,7 +111,87 @@
 		{"id":"23c36010c48c5c4c","type":"file","file":"99. attachments/BLUE_PRINCE_kGivOCxD1C 1.png","x":-6280,"y":4119,"width":3480,"height":1958},
 		{"id":"2e5a20e9015cc0a0","type":"file","file":"99. attachments/BLUE_PRINCE_wGuHa0c8Nl 1.png","x":-1000,"y":3180,"width":680,"height":383},
 		{"id":"3eb4064d8acf0081","type":"file","file":"99. attachments/BLUE_PRINCE_TjdWkDWwHP.png","x":-400,"y":2700,"width":376,"height":400},
-		{"id":"b1bb7301f1d1f94d","type":"file","file":"99. attachments/BLUE_PRINCE_E0hkR7ISab.png","x":-8160,"y":2320,"width":1080,"height":608}
+		{"id":"b1bb7301f1d1f94d","type":"file","file":"99. attachments/BLUE_PRINCE_E0hkR7ISab.png","x":-8160,"y":2320,"width":1080,"height":608},
+		{"id":"0da07b86dace7086","type":"file","file":"99. attachments/BLUE_PRINCE_hekXFkKxF2.png","x":-8620,"y":2621,"width":400,"height":307},
+		{"id":"7da01bdf0ea180b1","type":"file","file":"99. attachments/BLUE_PRINCE_IjhnkZIgNq.png","x":-7560,"y":5040,"width":889,"height":500},
+		{
+			"id":"4e206454b7ee6fee",
+			"type":"text",
+			"text":"[[Cloister.canvas|Cloister]]",
+			"styleAttributes":{},
+			"x":-7245,
+			"y":5600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5b42e0497daad920",
+			"type":"text",
+			"text":"```\nCIX\nADD\nSIX\nTOR\nLOR\nETT\n```",
+			"styleAttributes":{},
+			"x":-10320,
+			"y":5340,
+			"width":660,
+			"height":220
+		},
+		{"id":"cd363b23d19502b1","type":"file","file":"99. attachments/BLUE_PRINCE_pF95gds6su.png","x":-7400,"y":4049,"width":1000,"height":899},
+		{"id":"9c5dc130274cf265","type":"file","file":"99. attachments/BLUE_PRINCE_EN0x1rlrdG.png","x":-7473,"y":5790,"width":960,"height":540},
+		{
+			"id":"f7af44e4c44c7321",
+			"type":"text",
+			"text":"# Solution\nCIX = 01:09\nADD = ADD the number below\nSIX = 01:15\nTOR = Rotate Anti-Clockwise (Inverse of ROT)\nLOR = Word\nETT = East\n\nRotate minute pointer to East",
+			"styleAttributes":{},
+			"x":-9640,
+			"y":5340,
+			"width":360,
+			"height":320
+		},
+		{"id":"7963205d2cdd3383","type":"file","file":"99. attachments/Obsidian_uVeQAnmM0a.png","x":-9990,"y":5600,"width":305,"height":400},
+		{"id":"935d68370720dcb1","type":"file","file":"99. attachments/BLUE_PRINCE_qRlkDzC7RU.png","x":-9638,"y":5700,"width":356,"height":400},
+		{
+			"id":"cfb5ae084a69b2a4",
+			"type":"text",
+			"text":"\n```\nC__\nA__\n___\n___\n___\n_T_\n```",
+			"styleAttributes":{},
+			"x":-9080,
+			"y":5400,
+			"width":260,
+			"height":260
+		},
+		{"id":"b5e3424549c4b301","type":"file","file":"99. attachments/Obsidian_nGnCXoI1w9.png","x":-10440,"y":5618,"width":400,"height":364},
+		{"id":"e04b8d21ecad3dd2","type":"file","file":"99. attachments/BLUE_PRINCE_JnCmWbx4jw.png","x":-10893,"y":6040,"width":853,"height":480},
+		{"id":"c06fa0d6ae20aabc","type":"file","file":"99. attachments/BLUE_PRINCE_As0rjzvUFV.png","x":-9990,"y":6160,"width":853,"height":480},
+		{
+			"id":"b784343016d431b6",
+			"type":"text",
+			"text":"# Rooms Checked for Hidden Letters in a Grid\n\n[[001 - The Foundation.canvas|001 - The Foundation]]\n[[002 - Entrance Hall.canvas|002 - Entrance Hall]]\n[[003 - Spare Room.canvas|003 - Spare Room]]\n[[005 - Parlor.canvas|005 - Parlor]]\n[[006 - Billiard Room.canvas|006 - Billiard Room]]\n\n[[011 - Attic.canvas|011 - Attic]]\n[[012 - Storeroom.canvas|012 - Storeroom]]\n[[013 - Nook.canvas|013 - Nook]]\n[[014 - Garage.canvas|014 - Garage]]\n[[015 - Music Room.canvas|015 - Music Room]]\n**[[016 - Locker Room.canvas|016 - Locker Room]]**\n[[017 - Den.canvas|017 - Den]]\n[[019 - Trophy Room.canvas|019 - Trophy Room]]\n[[020 - Ballroom.canvas|020 - Ballroom]]\n[[022 - Rumpus Room.canvas|022 - Rumpus Room]]\n**[[023 - Vault.canvas|023 - Vault]]**\n[[025 - Drawing Room.canvas|025 - Drawing Room]]\n[[026 - Study.canvas|026 - Study]]\n[[030 - Drafting Studio.canvas|030 - Drafting Studio]]\n[[031 - Utility Closet.canvas|031 - Utility Closet]]\n[[034 - Security.canvas|034 - Security]]\n[[036 - Laboratory.canvas|036 - Laboratory]]\n[[038 - Coat Check.canvas|038 - Coat Check]]\n[[040 - Freezer.canvas|040 - Freezer]]\n[[041 - Dining Room.canvas|041 - Dining Room]]\n[[042 - Observatory.canvas|042 - Observatory]]\n[[043 - Conference Room.canvas|043 - Conference Room]]\n[[044 - Aquarium.canvas|044 - Aquarium]]\n\n[[Archives.canvas|Archives]]\n**[[Blackbridge Grotto.canvas|Blackbridge Grotto]]**\n[[Bedroom.canvas|Bedroom]]\n[[Bookshop.canvas|Bookshop]]\n[[Bunk Room.canvas|Bunk Room]]\n[[Chapel.canvas|Chapel]]\n[[Classroom.canvas|Classroom]] 1'\n[[Clock Tower.canvas|Clock Tower]]\n**[[Cloister.canvas|Cloister]]**\n[[Commissary.canvas|Commissary]]\n[[Conservatory.canvas|Conservatory]]\n[[Corridor.canvas|Corridor]]\n[[Courtyard.canvas|Courtyard]]\n[[Foyer.canvas|Foyer]]\n[[Furnace.canvas|Furnace]]\n[[Gymnasium.canvas|Gymnasium]]\n[[Hallway.canvas|Hallway]]\n[[Lavatory.canvas|Lavatory]]\n[[Maid's Chamber.canvas|Maid's Chamber]]\n[[Nursery.canvas|Nursery]]\n[[Passageway.canvas|Passageway]]\n[[Planetarium.canvas|Planetarium]]\n[[Servant's Quarters.canvas|Servant's Quarters]]\n**[[Secret Passage.canvas|Secret Passage]]**\n[[Shelter.canvas|Shelter]]\n[[Showroom.canvas|Showroom]]\n[[Terrace.canvas|Terrace]]\n[[The Armory.canvas|The Armory]]\n**[[The Kennel.canvas|The Kennel]]**\n**[[The Precipice.canvas|The Precipice]]**\n**[[Tomb.canvas|Tomb]]**\n[[Veranda.canvas|Veranda]]\n[[Weight Room.canvas|Weight Room]]\n\n\n",
+			"styleAttributes":{},
+			"x":-11380,
+			"y":4049,
+			"width":940,
+			"height":1220
+		},
+		{
+			"id":"9387fa6ffd04ca80",
+			"type":"text",
+			"text":"Hello, can you teach me a new word?\nAjlor Ulteach Nevlor\nFirst Word, you teach new word.\n\nThe large house is toward the east\nHewam ovett\nLarge House to the East\n\nI will swim at dawn\nElswim nevdau\nI will swim at start of day\n\nI won't read at night\nReadle nai\nLack of me reading at night\n\nThe branches of the tree are old\nTreivenven\nTree end old\n\nThe trunk of the tree is small\nManevtrei\nSmall Start of Tree\n\nAjlor = Hello\nNevdau = New Day / Tomorrow / Dawn\nUlgo = You will go?",
+			"styleAttributes":{},
+			"x":-11070,
+			"y":5307,
+			"width":604,
+			"height":707
+		},
+		{
+			"id":"2c4a55958eda27e2",
+			"type":"text",
+			"text":"Ovinn Nevarei\n\n**Towards a bright future** ??\n\nJor = Name\nLor = Word",
+			"styleAttributes":{},
+			"x":-11480,
+			"y":5309,
+			"width":380,
+			"height":225
+		},
+		{"id":"4f12ebdd482e7cc6","type":"file","file":"99. attachments/BLUE_PRINCE_5KpS2w1fJD.png","x":-1927,"y":6271,"width":2394,"height":1346}
 	],
 	"edges":[
 		{
@@ -134,6 +202,33 @@
 			"fromSide":"top",
 			"toNode":"a30c0d540b0381f3",
 			"toSide":"bottom"
+		},
+		{
+			"id":"6980c87e8bc8c320",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4e206454b7ee6fee",
+			"fromSide":"top",
+			"toNode":"7da01bdf0ea180b1",
+			"toSide":"bottom"
+		},
+		{
+			"id":"d63310e3bda172e7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cfb5ae084a69b2a4",
+			"fromSide":"top",
+			"toNode":"b8368478263c1e4f",
+			"toSide":"bottom"
+		},
+		{
+			"id":"70349d0053205d66",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4bb620ac139eb76f",
+			"fromSide":"bottom",
+			"toNode":"4f12ebdd482e7cc6",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

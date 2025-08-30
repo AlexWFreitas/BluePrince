@@ -1,3 +1,68 @@
+
+Day 122
+- Drafted Root Cellar as Outer Room and found some hidden text, but not helpful
+	- XYZABC on a note about Mary dispapearance
+	- Simon P. Jones in the Family Tree drawing
+- Tried exploring Bunk Room, Furnace and Closed Exhibit trying to find a hidden clue, but no dice.
+- Ended the room in the Furnace to remove it from the pool through Monk Blessing in the next day.
+
+Day 121
+- Random exploration
+- Triggered Observatory two times with Telescope
+- Stored Master Key
+- Changed power to Knight
+- Activated Freezer
+
+
+Day 120
+- Drafted the Shelter as an Outer Room but did not find anything new
+- When doing a run I found that the Cloister had a clue to the Unknown grid puzzle behind the Statue
+- About the Puzzle
+	- I reorganized the tips I had and I was able to fill most letters except the second one in the last row.
+	- It feels that the first one is CIX and this might be 109 as a Roman Number that can be converted to 01:09.
+	- I don't know about the rest though...
+	- Is ADD meaning to Add or 1000 as the second number
+	- Is SIX 6:09 or add six to the previous number?
+	- What is TOR?
+	- LOR seems to be Erajan for Word
+	- What about the last word? E_T?
+- I drafted some rarer rooms that don't come up that much anymore such as Parlor, Nursery, Servant's Quarter, Music Room, Maid's Chamber, Lavatory and Ballroom but found nothing in them.
+	- Not that this means much, because I marked Cloister as explored but one of the clues was there and I didn't notice.
+- I feel that the next 20-30 runs will be without progress, just progressing the Spiral of Stars, Staff Announcements and Treasure Trove if things keep like this.
+
+Day 119
+- Drafted Archives in the Outer Room and found nothing different
+- DId a experiment where I can't open the map and got like 6-7g allowance increase.
+- Ended the run by dying in a Laboratory with 1 step.
+- Will pick Shelter on my next run.
+- I want to explore the Bedrooms that I didn't explore and also the Parlor, to check if there are hidden messages in it.
+
+
+Day 118
+- Drafted a Tomb in the Outer Room
+	- Got a clear picture of the letters in the 6x3 Puzzle
+- I noticed that the picture in the original Red Prince book might require three items in the Throne Room to solve it
+	- The items are Cursed Effigy, Scepter and one of the two Crowns
+- I drafted a Conservatory and increased the rarity of Lost & Found since I don't like the room that much.
+- I ended the run in the Archives because I feel that the Outer Room version might have some info I need.
+
+Day 117
+- Drafted Room 8 in Outer Room
+	- The room is equal to the one in the Mansion, sadly
+- Triggered Spiral of Stars two times with the Telescope item I got in Found & Lost room
+- Stored the Telescope in the Coat Check Room
+- Run ended fast because I picked the Draxus Constellation
+- Will draft a Tomb or Shelter on the next run
+
+Day 116
+- Drafted a Shrine in the Outer Room and got the Blessing of the Monk
+- Used this run to set up for the next run while trying to get a Gallery to reach Room 8
+	- Got Freezer
+	- Got Gallery
+	- Got Room 8
+- Lost my Emerald Bracelet because I couldn't get back to the Coat Check room
+- Ended the run in Room 8 with Monk Blessing
+
 Day 115
 - Drafted a Secret Passage in the Outer Room
 	- There is nothing interesting there

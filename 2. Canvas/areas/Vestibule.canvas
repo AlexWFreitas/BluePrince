@@ -12,9 +12,30 @@
 			"y":220,
 			"width":400,
 			"height":140
+		},
+		{"id":"f9cb68f219d74da8","type":"file","file":"99. attachments/BLUE_PRINCE_7BT3aUz2UC.png","x":380,"y":-265,"width":400,"height":225},
+		{
+			"id":"ace3387a68af853c",
+			"type":"text",
+			"text":"Normal Reward",
+			"styleAttributes":{},
+			"x":450,
+			"y":35,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"a6585bcffd4f9649",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ace3387a68af853c",
+			"fromSide":"top",
+			"toNode":"f9cb68f219d74da8",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

@@ -162,6 +162,17 @@
 			"width":760,
 			"height":80,
 			"color":"1"
+		},
+		{
+			"id":"e15b5d62bed17f6c",
+			"type":"text",
+			"text":"# [[Archives.canvas|Archives]]",
+			"styleAttributes":{},
+			"x":-140,
+			"y":1080,
+			"width":760,
+			"height":80,
+			"color":"1"
 		}
 	],
 	"edges":[],

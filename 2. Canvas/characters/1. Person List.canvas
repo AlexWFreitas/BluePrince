@@ -2,13 +2,6 @@
 	"nodes":[
 		{"id":"ad15a2faa852258d","type":"text","text":"[[Anne Babbage.canvas|Anne Babbage]] - House Manager","x":-1340,"y":-481,"width":290,"height":60},
 		{"id":"72387fcde653fea2","type":"text","text":"[[Lord Evanson.canvas|Lord Evanson]]","x":-1340,"y":-389,"width":250,"height":60},
-		{"id":"11144b8a9b5647c9","type":"text","text":"[[Simon H Sinclair.canvas|Simon H Sinclair]]","x":5,"y":-538,"width":250,"height":60},
-		{"id":"ac28588f0cff1010","type":"text","text":"[[2. Canvas/characters/Lionel Epsen.canvas|Lionel Epsen]]","x":1040,"y":-538,"width":250,"height":60},
-		{"id":"9eb201508a8e4099","type":"text","text":"[[Herbert S Sinclair.canvas|Herbert S Sinclair]] - Previous owner of [[Mount Holly Estate.canvas|Mount Holly Estate]]","x":-540,"y":-551,"width":250,"height":87},
-		{"id":"0ef32d3ce016f9b7","type":"text","text":"[[Lady Clara Epsen.canvas|Lady Clara Epsen]]","x":515,"y":-537,"width":250,"height":60},
-		{"id":"b236690897e593a8","type":"text","text":"[[Mary Matthew Jones.canvas|Mary Matthew Jones]]","x":215,"y":-240,"width":300,"height":60},
-		{"id":"7ce6d300310eae33","type":"text","text":"[[Simon P Jones.canvas|Simon P Jones]]","x":240,"y":-60,"width":250,"height":60},
-		{"id":"848c9693a19f748b","type":"file","file":"99. attachments/BLUE_PRINCE_a01F3CQmsZ 2.jpg","x":165,"y":80,"width":400,"height":225},
 		{"id":"b67a67f2ec230e84","type":"text","text":"[[Baron Tomas Sinclair.canvas|Baron Tomas Sinclair]]","x":-580,"y":-1020,"width":250,"height":60},
 		{"id":"106d279f3a545a45","type":"text","text":"[[Baroness Auravel.canvas|Baroness Auravel]]","x":-80,"y":-1020,"width":250,"height":60},
 		{"id":"b04a371267a28744","type":"text","text":"[[Lady Ashlynn.canvas|Lady Ashlynn]]","x":1040,"y":-1020,"width":250,"height":60},
@@ -22,10 +15,7 @@
 		{"id":"024905f3eecf4e19","type":"file","file":"99. attachments/Pasted image 20250716212049.png","x":-2279,"y":655,"width":400,"height":225},
 		{"id":"eec717c999661b8d","type":"file","file":"99. attachments/BLUE_PRINCE_9dIdyY6nVi 1.jpg","x":-2279,"y":940,"width":400,"height":225},
 		{"id":"da7d69b67215fd46","type":"file","file":"99. attachments/BLUE_PRINCE_dBzwVrg9no.png","x":-2918,"y":620,"width":316,"height":400},
-		{"id":"6f3c2764ca23cb12","type":"file","file":"99. attachments/Pasted image 20250716202508.png","x":-858,"y":-112,"width":400,"height":225},
-		{"id":"13bb56cf6a7b714f","type":"text","text":"[[Courtney.canvas|Courtney]]","x":-245,"y":-240,"width":250,"height":60},
 		{"id":"0030bfb9057491a7","type":"file","file":"99. attachments/Pasted image 20250716212057.png","x":-2960,"y":1100,"width":400,"height":225},
-		{"id":"79de97dd4101e289","type":"text","text":"[[Daniel Jones.canvas|Daniel Jones]]","x":720,"y":-240,"width":250,"height":60},
 		{"id":"70d3432235c76af8","type":"text","text":"[[Hannah Peterson.canvas|Hannah Peterson]] - Reddington Elementary Principal","x":-1680,"y":-800,"width":250,"height":120},
 		{"id":"df8cd1327fdfdccb","type":"text","text":"[[Kimberly Thompson.canvas|Kimberly Thompson]] - Scientist at SYNKA Labs?","x":-1680,"y":-449,"width":250,"height":90},
 		{"id":"10526523c1d171c9","type":"text","text":"[[Randolph Moore.canvas|Randolph Moore]] - Lead Scientist at SYNKA Labs and also creator of the network of computers","x":-1680,"y":-600,"width":250,"height":119},
@@ -43,7 +33,37 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"5c4da99192761e70","type":"file","file":"99. attachments/BLUE_PRINCE_xuaTfNIgYL 1.png","x":-2404,"y":-584,"width":400,"height":225}
+		{"id":"5c4da99192761e70","type":"file","file":"99. attachments/BLUE_PRINCE_xuaTfNIgYL 1.png","x":-2404,"y":-584,"width":400,"height":225},
+		{"id":"67b6c79aaec2fadd","type":"file","file":"99. attachments/BLUE_PRINCE_BdKXuwDvfd.png","x":-655,"y":-1460,"width":400,"height":399},
+		{"id":"4a96a7c368cbc5bd","type":"file","file":"99. attachments/BLUE_PRINCE_pGBqAZbf2O.png","x":-120,"y":-1438,"width":400,"height":355},
+		{"id":"e0adb1e48f9e6c1c","type":"file","file":"99. attachments/BLUE_PRINCE_ZwyX2c7RYL.png","x":440,"y":-1438,"width":400,"height":382},
+		{"id":"f25d75c4b358714c","type":"file","file":"99. attachments/BLUE_PRINCE_E0w6DXslrw.png","x":965,"y":-1432,"width":400,"height":370},
+		{"id":"6f3c2764ca23cb12","type":"file","file":"99. attachments/Pasted image 20250716202508.png","x":-858,"y":37,"width":400,"height":225},
+		{"id":"9eb201508a8e4099","type":"text","text":"[[Herbert S Sinclair.canvas|Herbert S Sinclair]] - Previous owner of [[Mount Holly Estate.canvas|Mount Holly Estate]]","x":-540,"y":-402,"width":250,"height":87},
+		{"id":"11144b8a9b5647c9","type":"text","text":"[[Simon H Sinclair.canvas|Simon H Sinclair]]","x":5,"y":-389,"width":250,"height":60},
+		{"id":"ac28588f0cff1010","type":"text","text":"[[2. Canvas/characters/Lionel Epsen.canvas|Lionel Epsen]]","x":1040,"y":-389,"width":250,"height":60},
+		{"id":"0ef32d3ce016f9b7","type":"text","text":"[[Lady Clara Epsen.canvas|Lady Clara Epsen]]","x":515,"y":-388,"width":250,"height":60},
+		{"id":"54d1218a688fba8a","type":"file","file":"99. attachments/BLUE_PRINCE_9SPri0BJVE.png","x":475,"y":-851,"width":331,"height":400},
+		{"id":"c597d4905a61fc26","type":"file","file":"99. attachments/BLUE_PRINCE_6cTHvVLRKn.png","x":988,"y":-849,"width":355,"height":399},
+		{"id":"ed09277fe364b013","type":"file","file":"99. attachments/BLUE_PRINCE_WktEylXTLT.png","x":-46,"y":-851,"width":352,"height":400},
+		{"id":"d025dce0b3709012","type":"file","file":"99. attachments/BLUE_PRINCE_BByVOXB5CJ.png","x":-580,"y":-880,"width":346,"height":400},
+		{"id":"b236690897e593a8","type":"text","text":"[[Mary Matthew Jones.canvas|Mary Matthew Jones]]","x":220,"y":400,"width":300,"height":60},
+		{"id":"79de97dd4101e289","type":"text","text":"[[Daniel Jones.canvas|Daniel Jones]]","x":725,"y":400,"width":250,"height":60},
+		{"id":"13bb56cf6a7b714f","type":"text","text":"[[Courtney.canvas|Courtney]]","x":-240,"y":400,"width":250,"height":60},
+		{"id":"4dd1b7341ed49970","type":"file","file":"99. attachments/BLUE_PRINCE_nmzyURCr9d.png","x":179,"y":-80,"width":383,"height":400},
+		{"id":"848c9693a19f748b","type":"file","file":"99. attachments/BLUE_PRINCE_a01F3CQmsZ 2.jpg","x":179,"y":967,"width":400,"height":225},
+		{"id":"7ce6d300310eae33","type":"text","text":"[[Simon P Jones.canvas|Simon P Jones]]","x":254,"y":827,"width":250,"height":60},
+		{"id":"d10031e88fa23016","type":"file","file":"99. attachments/BLUE_PRINCE_I6q7mbUbXS.png","x":725,"y":662,"width":400,"height":330},
+		{
+			"id":"7c9a0bbfe6c4c169",
+			"type":"text",
+			"text":"[[Simon P Jones.canvas|Simon P Jones]]",
+			"styleAttributes":{},
+			"x":795,
+			"y":1020,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{"id":"59fde0bb79bee342","toFloating":false,"fromFloating":false,"fromNode":"b236690897e593a8","fromSide":"top","toNode":"9eb201508a8e4099","toSide":"bottom","label":"Niece"},
@@ -81,7 +101,16 @@
 		{"id":"1e5bcc4f9b72b19b","fromNode":"b236690897e593a8","fromSide":"right","toNode":"79de97dd4101e289","toSide":"left","label":"Married"},
 		{"id":"5fd5b430b4a9b454","fromNode":"79de97dd4101e289","fromSide":"bottom","toNode":"7ce6d300310eae33","toSide":"top","label":"Son"},
 		{"id":"364f36505aedf465","fromNode":"7ce6d300310eae33","fromSide":"top","toNode":"79de97dd4101e289","toSide":"bottom"},
-		{"id":"55b4cec253e07ea0","fromNode":"8b1994d816f52aa9","fromSide":"right","toNode":"89052285674e6af8","toSide":"left"}
+		{"id":"55b4cec253e07ea0","fromNode":"8b1994d816f52aa9","fromSide":"right","toNode":"89052285674e6af8","toSide":"left"},
+		{
+			"id":"f374690a5a004f82",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7c9a0bbfe6c4c169",
+			"fromSide":"top",
+			"toNode":"d10031e88fa23016",
+			"toSide":"bottom"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

@@ -27,10 +27,11 @@
 			"y":-900,
 			"width":380,
 			"height":120
-		}
+		},
+		{"id":"386977cda3f29ad5","type":"file","file":"99. attachments/BLUE_PRINCE_mTCyYRhlMc.png","x":-1560,"y":-40,"width":400,"height":317}
 	],
 	"edges":[
-		{"id":"df4a4a0bc1351039","fromNode":"9647ed25b36039aa","fromSide":"top","toNode":"3097c6314ae7b63d","toSide":"bottom"},
+		{"id":"df4a4a0bc1351039","toFloating":false,"fromNode":"9647ed25b36039aa","fromSide":"top","toNode":"3097c6314ae7b63d","toSide":"bottom"},
 		{
 			"id":"b200b9191d208111",
 			"styleAttributes":{},
