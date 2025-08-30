@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{
+			"id":"318f5e09ec26c51f",
+			"type":"text",
+			"text":"[[Treasure Trove.canvas|Treasure Trove]]",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"23efb70492f18031",
+			"type":"text",
+			"text":"[[Blessing of the Monk.canvas|Blessing of the Monk]]",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"59f96d66845b9173",
+			"type":"text",
+			"text":"[[Key of Aries.canvas|Key of Aries]]",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-120,
+			"width":260,
+			"height":60
+		},
+		{"id":"278f782a9b1389c9","type":"file","file":"99. attachments/BLUE_PRINCE_gmsCoNvPs9 1.png","x":-280,"y":-280,"width":747,"height":420}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

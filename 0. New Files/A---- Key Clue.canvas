@@ -11,6 +11,16 @@
 			"y":320,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"08bc4930ab5351c2",
+			"type":"text",
+			"text":"[[Key of Aries.canvas|Key of Aries]]",
+			"styleAttributes":{},
+			"x":-570,
+			"y":-360,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -31,6 +41,24 @@
 			"fromSide":"top",
 			"toNode":"abf29e9b99d9bdf5",
 			"toSide":"bottom"
+		},
+		{
+			"id":"d263b759a4699628",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4b216e34051a8d02",
+			"fromSide":"top",
+			"toNode":"08bc4930ab5351c2",
+			"toSide":"bottom"
+		},
+		{
+			"id":"65775815d678b49f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"abf29e9b99d9bdf5",
+			"fromSide":"top",
+			"toNode":"08bc4930ab5351c2",
+			"toSide":"right"
 		}
 	],
 	"metadata":{

@@ -1,3 +1,42 @@
+Day 126
+- I was able to do it on this run, but I think I might have made a mistake
+- I had a black color king power active, a black royal scepter, a crown of blueprints of color blue and the paper crown that is red.
+- I was sure that this would solve it, but maybe I am making a mistake, maybe I need to do it on another color.
+
+Day 125
+- I was able to achieve most of the things needed, but I didn't have the hammer to destroy the Cursed Effigy to test the theory about Day 124.
+- I will try again on the next day, but if not, I will try to set it up with a Freezer Room
+
+Day 124
+- Drafted the Treasure Trove in the Outer Room
+- Used Key of Aries to open the Chest in the Treasure Trove
+- Obtained Royal Scepter
+- Obtained Paper Crown from Closed Exhibit
+- Set Royal Scepter to Black
+- Changed Power to King
+- Used King Power to Black
+- Stored Paper Crown in the Coat Check
+- Ended the day in the Treasure Trove in the Outer Room to preserve the Royal Scepter without removing the Throne Room from the Drafting Pool
+- On the next run, my objective is to draft a Shrine, draft a Throne Room close to the start of the House and then get the Cursed Effigy + King Power + Paper Crown + Crown of Blueprints + Royal Scepter at the same time inside the Throne Room.
+
+
+Day 123
+- Since there was an Erajan word (LOR) in the list of words I tried gathering all clues from my notes in Erajan Language from the Classroom Exams, Lady Epsen Erajan Note and lastly the Geography Class Notes that I used the Magnifying Glass to get images of
+- I was able to find the meaning of the word Rot and Tor in the Geography Class
+- On one of the questions of the exams and in the geography class you can also see the cardinal directions, so E_T could be ETT, meaning that the last word is East
+- With this information I was able to test many combinations in the Unknown Clock Puzzle and reached one that worked
+	- Set Clock to CIX Roman Number - 01:09
+	- Then add six - 01:15
+	- Then rotate anti-clockwise to the word East
+	- I tried rotating the hour preserving the minute and the minute
+	- By doing minute it worked.
+- From this puzzle I got the Aries Key, this solves one of the clues in the A New Clue book that says that the suspect is A. Key or A---- Key.
+- I can probably use this key in the Chest in the Treasure Trove of the Outer Room
+- I am guessing that I will be able to obtain the Scepter in that Treasure Trove
+- With the Scepter, I can try to retrieve the Paper Crown or Crown of Blueprints, the Cursed Effigy and the Scepter and then go to the Throne Room, this might trigger something int he Throne Room.
+- I drafted a Shrine and obtained a new Monk Blessing buff for 7 days
+- I drafted a Treasure Trove and ended my day there after using Freezer
+- I plan to draft a Treasure Trove in the Outer Room and use the Aries Key that is in the Coat Check.
 
 Day 122
 - Drafted Root Cellar as Outer Room and found some hidden text, but not helpful

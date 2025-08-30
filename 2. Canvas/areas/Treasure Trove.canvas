@@ -32,17 +32,6 @@
 		{"id":"06ddcc04f285761e","type":"file","file":"99. attachments/BLUE_PRINCE_aBhXyi90B4.png","x":260,"y":1600,"width":400,"height":225},
 		{"id":"09c1fcd896923287","type":"file","file":"99. attachments/BLUE_PRINCE_Lo4ighjNKY.png","x":-180,"y":1880,"width":400,"height":225},
 		{"id":"875c515e7dff055e","type":"file","file":"99. attachments/BLUE_PRINCE_akGvOYMvD6.png","x":-180,"y":2160,"width":400,"height":225},
-		{"id":"3b3576f53866c134","type":"file","file":"99. attachments/BLUE_PRINCE_YyhXLC05qh.png","x":1000,"y":-300,"width":400,"height":225},
-		{
-			"id":"bda21229649c1554",
-			"type":"text",
-			"text":"Normal Treasure",
-			"styleAttributes":{},
-			"x":1070,
-			"y":-40,
-			"width":260,
-			"height":60
-		},
 		{"id":"4865fa348928f0a4","type":"file","file":"99. attachments/BLUE_PRINCE_4Zy03V9XWF.png","x":260,"y":1880,"width":400,"height":225},
 		{"id":"06b95df78f82278a","type":"file","file":"99. attachments/BLUE_PRINCE_0BWF1OnCDA.png","x":260,"y":2160,"width":400,"height":225},
 		{"id":"d7f0ee4e9e3e2ae6","type":"file","file":"99. attachments/BLUE_PRINCE_y4oaOjoOZv.png","x":-180,"y":2440,"width":400,"height":225},
@@ -117,7 +106,65 @@
 		{"id":"c247a092653d400f","type":"file","file":"99. attachments/BLUE_PRINCE_hGkiASP8Bj.png","x":260,"y":9860,"width":400,"height":225},
 		{"id":"4542d366b3e65dd8","type":"file","file":"99. attachments/BLUE_PRINCE_tq7QqMBiU9.png","x":260,"y":10120,"width":400,"height":225,"color":"4"},
 		{"id":"41f8007d25819e97","type":"file","file":"99. attachments/BLUE_PRINCE_uUK7OKSK8K.png","x":-180,"y":10380,"width":400,"height":225},
-		{"id":"8fd08935836aa3ea","type":"file","file":"99. attachments/BLUE_PRINCE_sFylG1gso1.png","x":-180,"y":10640,"width":400,"height":225}
+		{"id":"8fd08935836aa3ea","type":"file","file":"99. attachments/BLUE_PRINCE_sFylG1gso1.png","x":-180,"y":10640,"width":400,"height":225},
+		{"id":"90e5821ee9b6efc4","type":"file","file":"99. attachments/BLUE_PRINCE_RCnBhlscQi.png","x":260,"y":10380,"width":400,"height":225},
+		{"id":"ad4a467306e1e531","type":"file","file":"99. attachments/BLUE_PRINCE_sZ7Zk3OIqv.png","x":260,"y":10640,"width":400,"height":225},
+		{"id":"f3262bbcd345389a","type":"file","file":"99. attachments/BLUE_PRINCE_WyijnARUQO.png","x":1440,"y":-560,"width":400,"height":225},
+		{
+			"id":"582db62f091128d0",
+			"type":"text",
+			"text":"[[Unknown.canvas|Unknown]]",
+			"styleAttributes":{},
+			"x":1510,
+			"y":-660,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ed54f87fc4ed446c",
+			"type":"text",
+			"text":"# Outer Room Version",
+			"styleAttributes":{},
+			"x":1440,
+			"y":-840,
+			"width":760,
+			"height":120
+		},
+		{
+			"id":"0b05da4c178e71d8",
+			"type":"text",
+			"text":"# Treasure Map",
+			"styleAttributes":{},
+			"x":200,
+			"y":-1160,
+			"width":390,
+			"height":80
+		},
+		{"id":"3b3576f53866c134","type":"file","file":"99. attachments/BLUE_PRINCE_YyhXLC05qh.png","x":200,"y":-1040,"width":400,"height":225},
+		{
+			"id":"bda21229649c1554",
+			"type":"text",
+			"text":"Normal Treasure",
+			"styleAttributes":{},
+			"x":270,
+			"y":-780,
+			"width":260,
+			"height":60
+		},
+		{"id":"70eba7b9d4bd9496","type":"file","file":"99. attachments/BLUE_PRINCE_XILNhpqBI7.png","x":1880,"y":-560,"width":400,"height":225},
+		{
+			"id":"67726a44cdc7fc53",
+			"type":"text",
+			"text":"[[Blessing of the Monk.canvas|Blessing of the Monk]]",
+			"styleAttributes":{},
+			"x":1950,
+			"y":-660,
+			"width":260,
+			"height":60
+		},
+		{"id":"4fe8aeb1b1534e7b","type":"file","file":"99. attachments/BLUE_PRINCE_gmsCoNvPs9.png","x":1880,"y":-280,"width":400,"height":225},
+		{"id":"d117a48b25486399","type":"file","file":"99. attachments/BLUE_PRINCE_YPMBOr48HD.png","x":-180,"y":10900,"width":400,"height":225},
+		{"id":"fc45cc98c3801993","type":"file","file":"99. attachments/BLUE_PRINCE_otnEV00GuF.png","x":-180,"y":11160,"width":400,"height":225,"color":"4"}
 	],
 	"edges":[
 		{
@@ -128,6 +175,43 @@
 			"fromSide":"top",
 			"toNode":"3b3576f53866c134",
 			"toSide":"bottom"
+		},
+		{
+			"id":"76e65cead545e76e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"582db62f091128d0",
+			"fromSide":"bottom",
+			"toNode":"f3262bbcd345389a",
+			"toSide":"top"
+		},
+		{
+			"id":"1563813347a21a96",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f3262bbcd345389a",
+			"fromSide":"right",
+			"toNode":"70eba7b9d4bd9496",
+			"toSide":"left"
+		},
+		{
+			"id":"c18fc24442268020",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"67726a44cdc7fc53",
+			"fromSide":"bottom",
+			"toNode":"70eba7b9d4bd9496",
+			"toSide":"top"
+		},
+		{
+			"id":"d9d80398f36bc8ca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"70eba7b9d4bd9496",
+			"fromSide":"bottom",
+			"toNode":"4fe8aeb1b1534e7b",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

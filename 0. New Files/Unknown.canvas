@@ -139,7 +139,7 @@
 		{
 			"id":"f7af44e4c44c7321",
 			"type":"text",
-			"text":"# Solution\nCIX = 01:09\nADD = ADD the number below\nSIX = 01:15\nTOR = Rotate Anti-Clockwise (Inverse of ROT)\nLOR = Word\nETT = East\n\nRotate minute pointer to East",
+			"text":"# Solution\nCIX = 01:09\nADD = ADD the number below\nSIX = 01:15\nTOR = Rotate Anti-Clockwise (Inverse of ROT)\nLOR = to Word\nETT = East\n\nRotate minute pointer to East",
 			"styleAttributes":{},
 			"x":-9640,
 			"y":5340,
@@ -191,7 +191,17 @@
 			"width":380,
 			"height":225
 		},
-		{"id":"4f12ebdd482e7cc6","type":"file","file":"99. attachments/BLUE_PRINCE_5KpS2w1fJD.png","x":-1927,"y":6271,"width":2394,"height":1346}
+		{"id":"4f12ebdd482e7cc6","type":"file","file":"99. attachments/BLUE_PRINCE_5KpS2w1fJD.png","x":-1927,"y":6271,"width":2394,"height":1346},
+		{
+			"id":"9310b5a88b1db60f",
+			"type":"text",
+			"text":"# Solution\nCIX = 01:09\nADD = ADD the number below\nSIX = 01:15\nTOR = Rotate Anti-Clockwise (Inverse of ROT)\nLOR = to Word\nETT = East\n\nRotate minute pointer to East",
+			"styleAttributes":{},
+			"x":-910,
+			"y":5740,
+			"width":360,
+			"height":320
+		}
 	],
 	"edges":[
 		{
@@ -222,10 +232,19 @@
 			"toSide":"bottom"
 		},
 		{
-			"id":"70349d0053205d66",
+			"id":"16936563e4f77b8e",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"4bb620ac139eb76f",
+			"fromSide":"bottom",
+			"toNode":"9310b5a88b1db60f",
+			"toSide":"top"
+		},
+		{
+			"id":"b033fee484e1b84a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9310b5a88b1db60f",
 			"fromSide":"bottom",
 			"toNode":"4f12ebdd482e7cc6",
 			"toSide":"top"

@@ -57,14 +57,24 @@
 		{
 			"id":"28c995fbed55e797",
 			"type":"text",
-			"text":"[[Scepter.canvas|Scepter]] \n[[Paper Crown.canvas|Paper Crown]] \n[[Cursed Effigy.canvas|Cursed Effigy]]",
+			"text":"[[Royal Scepter.canvas|Scepter]] \n[[Paper Crown.canvas|Paper Crown]] \n[[Cursed Effigy.canvas|Cursed Effigy]]",
 			"styleAttributes":{},
 			"x":-130,
 			"y":860,
 			"width":260,
 			"height":120
 		},
-		{"id":"2432088accdd67d6","type":"file","file":"99. attachments/BLUE_PRINCE_vegnW5rFKH.png","x":220,"y":438,"width":1360,"height":765}
+		{"id":"2432088accdd67d6","type":"file","file":"99. attachments/BLUE_PRINCE_vegnW5rFKH.png","x":220,"y":438,"width":1360,"height":765},
+		{
+			"id":"3f7f0cf60179a718",
+			"type":"text",
+			"text":"# Theories\n- I need King piece Power\n- I need the Royal Scepter\n- I need the Paper Crown or Crown of Blueprints\n- I need the Cursed Effigy\n- I need the Throne Room Drafted\n\n- Tested with these conditions on color\n\t- Black - Orindia Aries - Failed\n\t- Blue - ?\n\t- Red - ?",
+			"styleAttributes":{},
+			"x":-620,
+			"y":1020,
+			"width":820,
+			"height":420
+		}
 	],
 	"edges":[
 		{
