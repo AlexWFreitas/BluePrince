@@ -46,12 +46,43 @@
 			"height":260
 		},
 		{
+			"id":"e2f4321f57784427",
+			"type":"text",
+			"text":"There are two other Keys in",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-620,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"350f4331d13ac586",
+			"type":"text",
+			"text":"[[Laundry Room.canvas|Laundry Room]]",
+			"styleAttributes":{},
+			"x":-610,
+			"y":-680,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e8aaa8916d015929",
+			"type":"text",
+			"text":"[[Patio.canvas|Patio]]",
+			"styleAttributes":{},
+			"x":-610,
+			"y":-560,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"b301d11dddfec719",
 			"type":"text",
 			"text":"# File Cabinets Tested",
 			"styleAttributes":{},
-			"x":1860,
-			"y":-440,
+			"x":-180,
+			"y":-859,
 			"width":700,
 			"height":80
 		},
@@ -60,8 +91,8 @@
 			"type":"text",
 			"text":"[[Reservoir.canvas|Reservoir]]",
 			"styleAttributes":{},
-			"x":1860,
-			"y":-320,
+			"x":-180,
+			"y":-739,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -71,8 +102,8 @@
 			"type":"text",
 			"text":"[[Basement.canvas|Basement]]",
 			"styleAttributes":{},
-			"x":1860,
-			"y":-240,
+			"x":-180,
+			"y":-659,
 			"width":260,
 			"height":60,
 			"color":"1"
@@ -82,8 +113,8 @@
 			"type":"text",
 			"text":"[[036 - Laboratory.canvas|036 - Laboratory]]",
 			"styleAttributes":{},
-			"x":1860,
-			"y":-160,
+			"x":-180,
+			"y":-579,
 			"width":260,
 			"height":60,
 			"color":"1"
@@ -93,20 +124,42 @@
 			"type":"text",
 			"text":"[[Archives.canvas|Archives]]",
 			"styleAttributes":{},
-			"x":1860,
-			"y":-80,
+			"x":-180,
+			"y":-499,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"4"
 		},
 		{
 			"id":"f63712f0a36e3605",
 			"type":"text",
 			"text":"[[The Ladyship Chamber.canvas|The Ladyship Chamber]]",
 			"styleAttributes":{},
-			"x":1860,
-			"y":0,
+			"x":-180,
+			"y":-419,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"1a041f5e1d3da4c4",
+			"type":"text",
+			"text":"Key from [[Unknown - Tunnel.canvas|Unknown - Tunnel]]",
+			"styleAttributes":{},
+			"x":200,
+			"y":-740,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"a2337ed8723ad8e0",
+			"type":"text",
+			"text":"Two Cabinets need other keys from Laundry and Patio",
+			"styleAttributes":{},
+			"x":200,
+			"y":-524,
+			"width":260,
+			"height":111
 		}
 	],
 	"edges":[
@@ -154,6 +207,42 @@
 			"fromSide":"bottom",
 			"toNode":"0509e728cb282efc",
 			"toSide":"top"
+		},
+		{
+			"id":"12cd3689a7f93588",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e4082b7a9871c252",
+			"fromSide":"right",
+			"toNode":"a2337ed8723ad8e0",
+			"toSide":"left"
+		},
+		{
+			"id":"4f8658f71301cda0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e2f4321f57784427",
+			"fromSide":"right",
+			"toNode":"350f4331d13ac586",
+			"toSide":"left"
+		},
+		{
+			"id":"56f580b08bb88256",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e2f4321f57784427",
+			"fromSide":"right",
+			"toNode":"e8aaa8916d015929",
+			"toSide":"left"
+		},
+		{
+			"id":"88383355d23652af",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d7172d8bf3fd23f",
+			"fromSide":"right",
+			"toNode":"1a041f5e1d3da4c4",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

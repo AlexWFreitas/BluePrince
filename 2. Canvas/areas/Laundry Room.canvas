@@ -16,6 +16,17 @@
 			"y":-340,
 			"width":500,
 			"height":225
+		},
+		{"id":"5e95ce7479071344","type":"file","file":"99. attachments/BLUE_PRINCE_dbm68kzkCy 1.png","x":-200,"y":560,"width":400,"height":225},
+		{
+			"id":"de5b7f9a67cfa162",
+			"type":"text",
+			"text":"[[044 - Aquarium.canvas|044 - Aquarium]]",
+			"styleAttributes":{},
+			"x":-130,
+			"y":820,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[],

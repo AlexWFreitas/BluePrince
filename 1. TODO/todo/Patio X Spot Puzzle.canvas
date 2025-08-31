@@ -20,9 +20,30 @@
 			"y":160,
 			"width":340,
 			"height":160
+		},
+		{"id":"8f17260bef4da645","type":"file","file":"99. attachments/BLUE_PRINCE_Q5C5XWKRKe 1.png","x":-1160,"y":360,"width":400,"height":225},
+		{
+			"id":"bd746ac173768e9a",
+			"type":"text",
+			"text":"[[Shovel.canvas|Shovel]]",
+			"styleAttributes":{},
+			"x":-1090,
+			"y":620,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"1058cac5725f330d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bd746ac173768e9a",
+			"fromSide":"top",
+			"toNode":"8f17260bef4da645",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

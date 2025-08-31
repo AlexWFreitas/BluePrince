@@ -216,6 +216,28 @@
 			"width":260,
 			"height":60,
 			"color":"3"
+		},
+		{
+			"id":"b4fe22962384def8",
+			"type":"text",
+			"text":"[[Archives.canvas|Archives]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":720,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"1d9563c41906b071",
+			"type":"text",
+			"text":"[[Unknown - Tunnel.canvas|Unknown - Tunnel]]",
+			"styleAttributes":{},
+			"x":440,
+			"y":800,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[

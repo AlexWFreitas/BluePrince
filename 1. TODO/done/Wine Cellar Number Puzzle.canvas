@@ -21,7 +21,8 @@
 			"x":-500,
 			"y":-400,
 			"width":380,
-			"height":60
+			"height":60,
+			"color":"1"
 		},
 		{"id":"fba06fff81b0abba","type":"file","file":"99. attachments/BLUE_PRINCE_XnuhzAaJO8.png","x":-460,"y":10,"width":676,"height":380},
 		{"id":"a91d5f3fe195ac19","type":"file","file":"99. attachments/BLUE_PRINCE_AGHW1xVFOP.png","x":260,"y":10,"width":676,"height":380},
@@ -39,7 +40,7 @@
 			"y":-120,
 			"width":370,
 			"height":130,
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"eeb68d4301c35f93",
@@ -49,7 +50,8 @@
 			"x":-925,
 			"y":60,
 			"width":260,
-			"height":180
+			"height":180,
+			"color":"1"
 		},
 		{
 			"id":"d6d124989ce331f5",
@@ -59,7 +61,8 @@
 			"x":-440,
 			"y":-280,
 			"width":260,
-			"height":60
+			"height":60,
+			"color":"1"
 		},
 		{
 			"id":"4237ef21a3598161",
@@ -71,6 +74,28 @@
 			"width":260,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"dc2754b8d5fb29af",
+			"type":"text",
+			"text":"[[023 - Vault.canvas|023 - Vault]]",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-115,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"fac0131fa67a110d",
+			"type":"text",
+			"text":"[[Family Core.canvas|Family Core]]",
+			"styleAttributes":{},
+			"x":-122,
+			"y":-235,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -91,6 +116,15 @@
 			"fromNode":"4ebf86c24298b7c2",
 			"fromSide":"bottom",
 			"toNode":"d6d124989ce331f5",
+			"toSide":"top"
+		},
+		{
+			"id":"e8138ecbd2849370",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fac0131fa67a110d",
+			"fromSide":"bottom",
+			"toNode":"dc2754b8d5fb29af",
 			"toSide":"top"
 		}
 	],

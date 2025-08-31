@@ -21,16 +21,6 @@
 			"width":600,
 			"height":260
 		},
-		{
-			"id":"e77edf96230cd061",
-			"type":"text",
-			"text":"[[Patio X Spot Puzzle.canvas|Patio X Spot Puzzle]]",
-			"styleAttributes":{},
-			"x":-980,
-			"y":460,
-			"width":260,
-			"height":60
-		},
 		{"id":"8b81e052a2f2738d","type":"file","file":"99. attachments/BLUE_PRINCE_0LVyZsM68b.png","x":800,"y":175,"width":400,"height":225},
 		{
 			"id":"d1bee076239eddc0",
@@ -41,6 +31,36 @@
 			"y":480,
 			"width":260,
 			"height":140
+		},
+		{
+			"id":"e77edf96230cd061",
+			"type":"text",
+			"text":"[[Patio X Spot Puzzle.canvas|Patio X Spot Puzzle]]",
+			"styleAttributes":{},
+			"x":-980,
+			"y":460,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"227394a13e6e4658",
+			"type":"text",
+			"text":"[[Laundry Room X Spot Puzzle.canvas|Laundry Room X Spot Puzzle]]",
+			"styleAttributes":{},
+			"x":-980,
+			"y":540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b7fe2810efd5b105",
+			"type":"text",
+			"text":"[[Archives Marked Spot Puzzle.canvas|Archives Marked Spot Puzzle]]",
+			"styleAttributes":{},
+			"x":-980,
+			"y":620,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[

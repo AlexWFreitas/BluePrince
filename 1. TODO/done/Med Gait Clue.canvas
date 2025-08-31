@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"17050f38e7dd4ebd","type":"file","file":"99. attachments/BLUE_PRINCE_g3hMPp7g6Q.png","x":8,"y":-183,"width":401,"height":383},
+		{
+			"id":"9a5a571ad5ab422a",
+			"type":"text",
+			"text":"This is related to the [[Drawing Room Safe Puzzle.canvas|Drawing Room Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":220,
+			"y":320,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"b3172d88b4dca354",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"17050f38e7dd4ebd",
+			"fromSide":"bottom",
+			"toNode":"9a5a571ad5ab422a",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

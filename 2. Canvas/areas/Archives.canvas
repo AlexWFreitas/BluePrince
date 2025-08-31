@@ -14,7 +14,53 @@
 			"y":-900,
 			"width":400,
 			"height":160
-		}
+		},
+		{
+			"id":"156a5c3c55062b60",
+			"type":"text",
+			"text":"[[Laundry Room X Spot Puzzle.canvas|Laundry Room X Spot Puzzle]]",
+			"styleAttributes":{},
+			"x":-940,
+			"y":280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"103c043abf637b80",
+			"type":"text",
+			"text":"[[Archives Marked Spot Puzzle.canvas|Archives Marked Spot Puzzle]]",
+			"styleAttributes":{},
+			"x":-940,
+			"y":360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"eb51c8071ac65b39",
+			"type":"text",
+			"text":"[[Patio X Spot Puzzle.canvas|Patio X Spot Puzzle]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":280,
+			"width":260,
+			"height":60
+		},
+		{"id":"cabf860a1822a5f6","type":"file","file":"99. attachments/BLUE_PRINCE_RvC7iLTPf8.png","x":-940,"y":460,"width":1140,"height":641},
+		{"id":"9d264a9d9959c688","type":"file","file":"99. attachments/BLUE_PRINCE_HIFi9lw25U.png","x":240,"y":460,"width":1140,"height":641},
+		{"id":"f993f1086163e523","type":"file","file":"99. attachments/BLUE_PRINCE_1KTvVSZyLk.png","x":-940,"y":1160,"width":1140,"height":641},
+		{"id":"d81cf428e4d20343","type":"file","file":"99. attachments/BLUE_PRINCE_DXo0qSndyP.png","x":240,"y":1160,"width":1140,"height":641},
+		{"id":"38ce2a8ed8615bd4","type":"file","file":"99. attachments/BLUE_PRINCE_2DCYAmRxin.png","x":-940,"y":2120,"width":1140,"height":641},
+		{
+			"id":"8f4172b7ca1d4c2a",
+			"type":"text",
+			"text":"# Second File Cabinet",
+			"styleAttributes":{},
+			"x":-940,
+			"y":2000,
+			"width":780,
+			"height":80
+		},
+		{"id":"626c3b0a2c1c0eca","type":"file","file":"99. attachments/BLUE_PRINCE_ZjWDNftYQH.png","x":240,"y":2120,"width":1140,"height":641}
 	],
 	"edges":[],
 	"metadata":{

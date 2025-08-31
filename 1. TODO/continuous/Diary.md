@@ -1,3 +1,34 @@
+
+Day 137
+- I was able to get a Shovel
+- Then drafted the Patio and Laundry Room
+	- I tried digging multiple times around the spots shown in the Aquarium and eventually I was able to dig two File Cabinet Keys
+- I then drafted the Archives and opened two cabinet files.
+- One contained the Birth Certificate of Mary Matthew Epsen
+- The other contained some of the history of the War between Fenn Aries and Orinda Aries and how the royal family fled to Eraja and that the prince had a daughter with the surname Je Ari based on her mother due to Erajan customs.
+	- Reminder that the Foyer contains a statue of Je Ari Yenna and it relates to the legacy of Sinclair Family
+		- This means that the Sinclair family is related to the Royalty of Orinda Aries, since Prince Rolf married to a Je Ari and had a daughter?
+		- The Stamp in Eraja says Ettaries Yenna
+			- I think it means Eastern Reign of Rain?
+				- One of the memos in the Treasure Trove says that Yenna means rain or ruler
+- I guess this bit of lore fits into the idea of the Sinclairs inheriting the Throne of the Blue Prince
+- I guess I finished all Aquarium puzzles, but I didn't find any tip that could be used in the cipher puzzle.
+- I ended the run at the Antechamber with the Monk Blessing to check the contents of the room north of the Antechamber in the Outer Room in the next run
+
+
+Day 136 
+- I had some ideas about the cipher, but still not much progress, I wonder if there are more clues I can find
+- Since the family core note talked about a letter from herbert mom that was researched by his brother, I want to find something about it
+- I was reorganizing my notes after like 30 in-game days and I found some open points that weren't solved.
+- I will try the clues related to the Archives to see if I find something related to Herbert Mom and the cryptographic cipher puzzle
+	- Since the only clue to the Archives is the Aquarium, I am going to try visiting the clues related to the Aquarium again.
+	- The hidden blue memo said that there is a red herring in the Tank
+		- The red herring could be the fish itself and not the marks inside the tank.
+- I think I found the last message of the Treasure Trove but I am not sure.
+	- I will try to reorganize it later by memo color.
+- I visited Room 46 on this run to see if something changed there, and it seems that nothing has changed.
+- I also tried using Key 8 in Vault 008 and on the Mail Room without much success.
+
 Day 135
 - I am still cursed
 - I was talking to Sastre about the Family Core and he said I had all the clues to do it.

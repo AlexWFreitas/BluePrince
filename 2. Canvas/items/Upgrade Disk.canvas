@@ -14,7 +14,7 @@
 		{
 			"id":"3f017a2ac6d92419",
 			"type":"text",
-			"text":"There are 16 Upgrade Disks, some of the disks may not spawn based on RNG\n- Green = Guaranteed\n- Yellow = RNG",
+			"text":"There are 16 (Actually 17) Upgrade Disks, some of the disks may not spawn based on RNG\n- Green = Guaranteed\n- Yellow = RNG",
 			"styleAttributes":{},
 			"x":-740,
 			"y":-600,
@@ -119,9 +119,40 @@
 			"width":260,
 			"height":60,
 			"color":"3"
+		},
+		{
+			"id":"43e061bf2a7f3711",
+			"type":"text",
+			"text":"[[Archives.canvas|Archives]] - [[Archives Marked Spot Puzzle.canvas|Archives Marked Spot Puzzle]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":220,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f780b7ef2a76eec0",
+			"type":"text",
+			"text":"There are only 16 upgradeable rooms, so one of the upgrade will repeat at Disk 17.",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-600,
+			"width":320,
+			"height":160
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"65d6b64edb9dbdcb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3f017a2ac6d92419",
+			"fromSide":"right",
+			"toNode":"f780b7ef2a76eec0",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

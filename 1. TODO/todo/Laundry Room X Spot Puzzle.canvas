@@ -1,6 +1,29 @@
 {
-	"nodes":[],
-	"edges":[],
+	"nodes":[
+		{"id":"0c664e88e9eca677","type":"file","file":"99. attachments/BLUE_PRINCE_hcda6dRqa9.png","x":-200,"y":-621,"width":400,"height":225},
+		{
+			"id":"68cfb72c5526d9e6",
+			"type":"text",
+			"text":"[[Laundry Room.canvas|Laundry Room]]",
+			"styleAttributes":{},
+			"x":-130,
+			"y":-369,
+			"width":260,
+			"height":60
+		},
+		{"id":"e542015d05cf5323","type":"file","file":"99. attachments/BLUE_PRINCE_dbm68kzkCy.png","x":240,"y":-621,"width":400,"height":225}
+	],
+	"edges":[
+		{
+			"id":"e9ca6f5befa0a4db",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"68cfb72c5526d9e6",
+			"fromSide":"top",
+			"toNode":"0c664e88e9eca677",
+			"toSide":"bottom"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

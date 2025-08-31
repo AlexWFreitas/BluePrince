@@ -84,6 +84,17 @@
 			"y":1320,
 			"width":260,
 			"height":60
+		},
+		{"id":"9abe32a2ace20fc0","type":"file","file":"99. attachments/BLUE_PRINCE_Dzm5WyCyUt.png","x":-2320,"y":587,"width":525,"height":650},
+		{
+			"id":"4786f4806e771a54",
+			"type":"text",
+			"text":"# 77 gold",
+			"styleAttributes":{},
+			"x":-2187,
+			"y":1320,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -142,6 +153,15 @@
 			"fromNode":"eff61a9dbae4e8de",
 			"fromSide":"top",
 			"toNode":"5499573a69f0cd14",
+			"toSide":"bottom"
+		},
+		{
+			"id":"be9cbf2df4c6edfb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4786f4806e771a54",
+			"fromSide":"top",
+			"toNode":"9abe32a2ace20fc0",
 			"toSide":"bottom"
 		}
 	],
