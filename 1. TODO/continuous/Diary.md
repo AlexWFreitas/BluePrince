@@ -1,3 +1,48 @@
+Day 134
+- Opened the Blue Box in the Tunnel Parlor Puzzle
+	- There is a blue book inside.
+- I stored a new Cursed Effigy inside the Coat Check Room
+	- I want to try taking the Item Set to the Court of Orinda Aries, to the Black Mirror in the Reservoir, Room 46 and to the Orindia Ruins to see if anything happens.
+- Since I was cursed again, I called a day to skip it.
+
+Day 133
+- Went to the Tunnel in the Grounds and got past the Blue Door because I opened it
+- There are three boxes similar to the Parlor Puzzle and a wind-up key
+	- Blue Box - You have reached the end of your journey.
+	- Whtie Box - There are two true boxes in this room.
+	- Black Box - There is no end to this journey.
+- Opened the Black Box in the Tunnel Parlor Puzzle
+	- The box is empty, but its insides contains an spiral marking.
+
+Day 132
+- I was able to draw the Throne Room with the King Power Piece set to Black
+- I got the Blue Scepter and Blue Crown from Room 46 and Treasure Trove
+- I got the Effigy from the Coat Check Storage
+- I entered the Throne Room and the room was transformed into the Throne of the Blue Prince
+	- The theme of the room changed to the Mount Holly Estate and Family Tree
+		- It seems that we are some sort of royal family based on Baroness Auravel
+	- The room has an effect that allows me to permanently unlock blue sealed doors if I draw 8 blue rooms in a row
+	- I was able to draw 8 blue rooms in a row in this same run, thus unlocking the blue sealed door at the Tunnels at the Grounds.
+- After that the run ended, because of a lack of steps caused by the curse.
+
+Day 131
+- Ruined day because of bad luck
+
+Day 130
+- Skipped because of Curse
+
+Day 129
+- Really hard to draw Throne Room with Blue bias active
+- Stored the Effigy in the Coat Check though.
+
+Day 128
+- Started setting up for the blue scepter run
+- Discovered that the Treasure Trove now brings the Scepter for pickup when you draft the room.
+- Stored the Scepter and activated the Freezer Room.
+
+Day 127 
+- Started Cursed, called a day because I need a blessing.
+
 Day 126
 - I was able to do it on this run, but I think I might have made a mistake
 - I had a black color king power active, a black royal scepter, a crown of blueprints of color blue and the paper crown that is red.

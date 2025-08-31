@@ -120,6 +120,70 @@
 			"height":60
 		},
 		{
+			"id":"855343f1307f6643",
+			"type":"text",
+			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":350,
+			"width":620,
+			"height":80
+		},
+		{
+			"id":"5940a6359e1c06d7",
+			"type":"text",
+			"text":"[[042 - Observatory.canvas|042 - Observatory]] - Complete the message on the Spiral of Stars",
+			"styleAttributes":{},
+			"x":-80,
+			"y":2390,
+			"width":260,
+			"height":115,
+			"color":"3"
+		},
+		{
+			"id":"569fe812d25acf31",
+			"type":"text",
+			"text":"[[Broken Clocks in Room 46.canvas|Broken Clocks in Room 46]] - Blocked?",
+			"styleAttributes":{},
+			"x":200,
+			"y":2390,
+			"width":260,
+			"height":110,
+			"color":"1"
+		},
+		{
+			"id":"c53a2bc47d9c6873",
+			"type":"text",
+			"text":"[[Wine Cellar Number Puzzle.canvas|Wine Cellar Number Puzzle]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":2530,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"97c85204f373867f",
+			"type":"text",
+			"text":"Find all the [[Hidden Blue Memos.canvas|Hidden Blue Memos]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1880,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"513bd8055425152c",
+			"type":"text",
+			"text":"Monk Blessing on [[Master Bedroom.canvas|Master Bedroom]]",
+			"styleAttributes":{},
+			"x":-340,
+			"y":3120,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"e53d38d714b992ba",
 			"type":"text",
 			"text":"Monk Blessing [[The Ladyship Chamber.canvas|The Ladyship Chamber]]",
@@ -138,275 +202,6 @@
 			"y":3200,
 			"width":260,
 			"height":60
-		},
-		{
-			"id":"f8b41d94892acf3f",
-			"type":"text",
-			"text":"Monk Blessing on [[Bookshop.canvas|Bookshop]]",
-			"styleAttributes":{},
-			"x":-340,
-			"y":3280,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"39eb0a9c4cc9df1c",
-			"type":"text",
-			"text":"Monk Blessing in [[008 - Room 8.canvas|008 - Room 8]]",
-			"styleAttributes":{},
-			"x":-60,
-			"y":3280,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"4ab78c2a7202fe93",
-			"type":"text",
-			"text":"Monk Blessing in [[007 - Gallery.canvas|007 - Gallery]]",
-			"styleAttributes":{},
-			"x":-340,
-			"y":3360,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"8dabb8ac88b91498",
-			"type":"text",
-			"text":"Monk Blessing in [[Greenhouse.canvas|Greenhouse]]",
-			"styleAttributes":{},
-			"x":-340,
-			"y":3440,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"51d23e6565a076f5",
-			"type":"text",
-			"text":"Monk Blessing on [[014 - Garage.canvas|014 - Garage]]",
-			"styleAttributes":{},
-			"x":-60,
-			"y":3490,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"967ec0b5d38b3622",
-			"type":"text",
-			"text":"Monk Blessing in [[Tunnel.canvas|Tunnel]]",
-			"styleAttributes":{},
-			"x":-340,
-			"y":3520,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"48b00bdaf393a625",
-			"type":"text",
-			"text":"[[Look under Bed Rooms and Nook with the Shovel and Treasure Maps.canvas|Look under Bed Rooms and Nook with the Shovel and Treasure Maps]]",
-			"styleAttributes":{},
-			"x":-80,
-			"y":2610,
-			"width":260,
-			"height":100,
-			"color":"3"
-		},
-		{
-			"id":"e597d6446f7c182c",
-			"type":"text",
-			"text":"Get a screenshot of the grid on the Secret Passage Clue in A New Clue original manuscript, this seems related to the numbers used in the [[Unknown.canvas|Unknown]] area\n(Need Tomb)",
-			"styleAttributes":{},
-			"x":200,
-			"y":2620,
-			"width":260,
-			"height":210,
-			"color":"3"
-		},
-		{
-			"id":"513bd8055425152c",
-			"type":"text",
-			"text":"Monk Blessing on [[Master Bedroom.canvas|Master Bedroom]]",
-			"styleAttributes":{},
-			"x":-340,
-			"y":3120,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5940a6359e1c06d7",
-			"type":"text",
-			"text":"[[042 - Observatory.canvas|042 - Observatory]] - Complete the message on the Spiral of Stars",
-			"styleAttributes":{},
-			"x":-80,
-			"y":2390,
-			"width":260,
-			"height":115,
-			"color":"3"
-		},
-		{
-			"id":"c53a2bc47d9c6873",
-			"type":"text",
-			"text":"[[Wine Cellar Number Puzzle.canvas|Wine Cellar Number Puzzle]]",
-			"styleAttributes":{},
-			"x":-80,
-			"y":2530,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"2530f212b79511c8",
-			"type":"text",
-			"text":"Solve the puzzle in [[Unknown.canvas|Unknown]]",
-			"styleAttributes":{},
-			"x":200,
-			"y":2510,
-			"width":260,
-			"height":80,
-			"color":"3"
-		},
-		{
-			"id":"569fe812d25acf31",
-			"type":"text",
-			"text":"[[Broken Clocks in Room 46.canvas|Broken Clocks in Room 46]] - Blocked?",
-			"styleAttributes":{},
-			"x":200,
-			"y":2390,
-			"width":260,
-			"height":110,
-			"color":"1"
-		},
-		{
-			"id":"349287a1cb7f3a84",
-			"type":"text",
-			"text":"Try [[Shrine.canvas|Shrine]] Blessing at 8g, 64g and 46g",
-			"styleAttributes":{},
-			"x":480,
-			"y":2440,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"d790982c2a0d5b44",
-			"type":"text",
-			"text":"[[Shelter Radiation Puzzle.canvas|Shelter Radiation Puzzle]]",
-			"styleAttributes":{},
-			"x":480,
-			"y":2520,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"ae3257366a52a7d1",
-			"type":"text",
-			"text":"[[A---- Key Clue.canvas|A---- Key Clue]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":2470,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"7d096e5a9433e94d",
-			"type":"text",
-			"text":"[[Reread Herbert Will on Room 46.canvas|Reread Herbert Will on Room 46]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":2545,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"17890c505aeb98cc",
-			"type":"text",
-			"text":"[[Precipice Castle Word Puzzle.canvas|Precipice Castle Word Puzzle]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":2390,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"24a049b5c260505a",
-			"type":"text",
-			"text":"Revisit [[Shelter.canvas|Shelter]] after Satellite Dish upgrade",
-			"styleAttributes":{},
-			"x":-360,
-			"y":2310,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"6f633a31c82bd2f1",
-			"type":"text",
-			"text":"Solve the puzzles related to [[Family Core.canvas|Family Core]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":2220,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"bdc51a8e72949218",
-			"type":"text",
-			"text":"[[Unknown - Tunnel.canvas|Unknown - Tunnel]] Exploration",
-			"styleAttributes":{},
-			"x":-80,
-			"y":2310,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"fa4fb81d6670b0fc",
-			"type":"text",
-			"text":"[[Open the Box in Treasure Trove Outer Room Version.canvas|Open the Box in Treasure Trove Outer Room Version]]",
-			"styleAttributes":{},
-			"x":200,
-			"y":2310,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"4ef22ea39df71e95",
-			"type":"text",
-			"text":"[[Blessing of the Monk.canvas|Blessing of the Monk]] Room Tests",
-			"styleAttributes":{},
-			"x":480,
-			"y":1917,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"97c85204f373867f",
-			"type":"text",
-			"text":"Find all the [[Hidden Blue Memos.canvas|Hidden Blue Memos]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1880,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"182ee1c177b33953",
-			"type":"text",
-			"text":"[[Treasure Map.canvas|Treasure Map]] - Room Tests",
-			"styleAttributes":{},
-			"x":480,
-			"y":1837,
-			"width":260,
-			"height":60,
-			"color":"3"
 		},
 		{
 			"id":"9edc3b8322278d10",
@@ -431,17 +226,6 @@
 			"color":"4"
 		},
 		{
-			"id":"8cd62dff1a43b544",
-			"type":"text",
-			"text":"Map [[Rooms with Fireplaces.canvas|Rooms with Fireplaces]]",
-			"styleAttributes":{},
-			"x":480,
-			"y":1757,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"9e785e9b62484ff8",
 			"type":"text",
 			"text":"[[Remove all Crates from Tunnel.canvas|Remove all Crates from Tunnel]]",
@@ -451,17 +235,6 @@
 			"width":260,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"1a974f230f6e7007",
-			"type":"text",
-			"text":"[[Baron Bafflers Puzzle - Bedroom Digspot.canvas|Baron Bafflers Puzzle - Bedroom Digspot]]",
-			"styleAttributes":{},
-			"x":760,
-			"y":1742,
-			"width":260,
-			"height":60,
-			"color":"3"
 		},
 		{
 			"id":"4cc9cc4324047b01",
@@ -508,28 +281,6 @@
 			"color":"4"
 		},
 		{
-			"id":"883871c911de58fb",
-			"type":"text",
-			"text":"[[SWNSNG Acronym.canvas|SWNSNG Acronym]]",
-			"styleAttributes":{},
-			"x":760,
-			"y":1672,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"d640f91d676f3f3f",
-			"type":"text",
-			"text":"[[Beat Dare Mode.canvas|Beat Dare Mode]]",
-			"styleAttributes":{},
-			"x":1600,
-			"y":1666,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"039b9b0caf577525",
 			"type":"text",
 			"text":"Monk Blessing in [[Treasure Trove.canvas|Treasure Trove]]",
@@ -541,6 +292,26 @@
 			"color":"4"
 		},
 		{
+			"id":"f8b41d94892acf3f",
+			"type":"text",
+			"text":"Monk Blessing on [[Bookshop.canvas|Bookshop]]",
+			"styleAttributes":{},
+			"x":-340,
+			"y":3280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"39eb0a9c4cc9df1c",
+			"type":"text",
+			"text":"Monk Blessing in [[008 - Room 8.canvas|008 - Room 8]]",
+			"styleAttributes":{},
+			"x":-60,
+			"y":3280,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"09c828e0e61a6a26",
 			"type":"text",
 			"text":"[[File Cabinet Key.canvas|File Cabinet Key]] Exploration",
@@ -549,6 +320,17 @@
 			"y":1623,
 			"width":260,
 			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"634405a0aeff4fcb",
+			"type":"text",
+			"text":"[[Experiment Data Transfers in Laboratory and Blackbridge Grotto.canvas|Experiment Data Transfers in Laboratory and Blackbridge Grotto]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":1557,
+			"width":260,
+			"height":100,
 			"color":"4"
 		},
 		{
@@ -574,28 +356,6 @@
 			"color":"4"
 		},
 		{
-			"id":"634405a0aeff4fcb",
-			"type":"text",
-			"text":"[[Experiment Data Transfers in Laboratory and Blackbridge Grotto.canvas|Experiment Data Transfers in Laboratory and Blackbridge Grotto]]",
-			"styleAttributes":{},
-			"x":480,
-			"y":1557,
-			"width":260,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"148b6db19726f9ce",
-			"type":"text",
-			"text":"Monk Blessing in [[Throne Room.canvas|Throne Room]] - Blocked because of lack of knowledge",
-			"styleAttributes":{},
-			"x":1600,
-			"y":1566,
-			"width":260,
-			"height":90,
-			"color":"1"
-		},
-		{
 			"id":"e4876cf69fa26da3",
 			"type":"text",
 			"text":"[[Unlock Cursed Mode.canvas|Unlock Cursed Mode]]",
@@ -604,17 +364,6 @@
 			"y":1560,
 			"width":260,
 			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"0a2650d4dec26cbe",
-			"type":"text",
-			"text":"[[Solve the Black Mirror Lock Password in the Red Door Area.canvas|Solve the Black Mirror Lock Password in the Red Door Area]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1510,
-			"width":260,
-			"height":110,
 			"color":"4"
 		},
 		{
@@ -651,6 +400,17 @@
 			"color":"4"
 		},
 		{
+			"id":"a5143e1993d9b448",
+			"type":"text",
+			"text":"[[Call it a Day in the Foundation with Monk Blessing.canvas|Call it a Day in the Foundation with Monk Blessing]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":1470,
+			"width":260,
+			"height":105,
+			"color":"4"
+		},
+		{
 			"id":"3dac5b3c6eff0f1f",
 			"type":"text",
 			"text":"[[Unlock Dare Mode.canvas|Unlock Dare Mode]]",
@@ -659,50 +419,6 @@
 			"y":1480,
 			"width":260,
 			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"d820403279139bdb",
-			"type":"text",
-			"text":"[[Sleep in the Bunk Room and then go to the Tomb on the next day.canvas|Sleep in the Bunk Room and then go to the Tomb on the next day]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":1396,
-			"width":260,
-			"height":100,
-			"color":"3"
-		},
-		{
-			"id":"ec310ad90adad2fd",
-			"type":"text",
-			"text":"[[Reach the Safehouse Station by using the Pump Room.canvas|Reach the Safehouse Station by using the Pump Room]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1400,
-			"width":260,
-			"height":90,
-			"color":"4"
-		},
-		{
-			"id":"c7885ae4526eecab",
-			"type":"text",
-			"text":"Solve the mystery about the book [[A New Clue.canvas|A New Clue]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1436,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"e335ff373135f775",
-			"type":"text",
-			"text":"[[Call it a Day in the Room 46 with Monk Blessing.canvas|Call it a Day in the Room 46 with Monk Blessing]]",
-			"styleAttributes":{},
-			"x":1320,
-			"y":1445,
-			"width":260,
-			"height":80,
 			"color":"4"
 		},
 		{
@@ -717,17 +433,6 @@
 			"color":"4"
 		},
 		{
-			"id":"a5143e1993d9b448",
-			"type":"text",
-			"text":"[[Call it a Day in the Foundation with Monk Blessing.canvas|Call it a Day in the Foundation with Monk Blessing]]",
-			"styleAttributes":{},
-			"x":760,
-			"y":1470,
-			"width":260,
-			"height":105,
-			"color":"4"
-		},
-		{
 			"id":"efa8d46b4c285885",
 			"type":"text",
 			"text":"Try entering the [[Secret Passage.canvas|Secret Passage]] from the other side after drafting the room.",
@@ -739,122 +444,12 @@
 			"color":"4"
 		},
 		{
-			"id":"5badf05f764153cc",
-			"type":"text",
-			"text":"[[Blackbridge Grotto Computer Symbols Puzzle.canvas|Blackbridge Grotto Computer Symbols Puzzle]]",
-			"styleAttributes":{},
-			"x":1600,
-			"y":1376,
-			"width":260,
-			"height":110,
-			"color":"1"
-		},
-		{
-			"id":"54196577817faf17",
-			"type":"text",
-			"text":"[[Moon Relic.canvas|Moon Relic]]",
-			"styleAttributes":{},
-			"x":1600,
-			"y":1496,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"a0d9c5dec5558e9b",
 			"type":"text",
 			"text":"[[Eight Months Eight Places Puzzle.canvas|Eight Months Eight Places Puzzle]]",
 			"styleAttributes":{},
 			"x":-360,
 			"y":1480,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"8cb6a2f6fa3b368e",
-			"type":"text",
-			"text":"[[Draft a Servant's Quarter with 7-8 Bedrooms.canvas|Draft a Servant's Quarter with 7-8 Bedrooms]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":1316,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"044027898165e396",
-			"type":"text",
-			"text":"[[Drafting Studio Safe Puzzle.canvas|Drafting Studio Safe Puzzle]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"ca367d3f1c8f02f0",
-			"type":"text",
-			"text":"[[Investigate Rotunda.canvas|Investigate Rotunda]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"af26944be5a758ca",
-			"type":"text",
-			"text":"[[Open the Red Door on Underpass.canvas|Open the Red Door on Underpass]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1320,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"39897c190d962f8c",
-			"type":"text",
-			"text":"[[Lift the Rotating Bridge in the Resevoir.canvas|Lift the Rotating Bridge in the Resevoir]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1360,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"f086163594565d11",
-			"type":"text",
-			"text":"[[Check if Trading Post can have a Upgrade Disk available for trade.canvas|Check if Trading Post can have a Upgrade Disk available for trade]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1240,
-			"width":260,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"884632a33f658137",
-			"type":"text",
-			"text":"[[Find the Ladyship Chamber.canvas|Find the Ladyship Chamber]]",
-			"styleAttributes":{},
-			"x":1880,
-			"y":1234,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"0faf6eee444508e1",
-			"type":"text",
-			"text":"Read [[Lady Epsen Diary.canvas|Lady Epsen Diary]]",
-			"styleAttributes":{},
-			"x":1880,
-			"y":1314,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -871,17 +466,6 @@
 			"color":"4"
 		},
 		{
-			"id":"777b8ca377bd9d9a",
-			"type":"text",
-			"text":"[[Draft a Mechanarium with 8 doors.canvas|Draft a Mechanarium with 8 doors]]",
-			"styleAttributes":{},
-			"x":480,
-			"y":1360,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"49ea8ddef54d855f",
 			"type":"text",
 			"text":"[[Revisit Geography Class - Erajan Words and Map Details.canvas|Revisit Geography Class - Erajan Words and Map Details]]",
@@ -890,83 +474,6 @@
 			"y":1320,
 			"width":260,
 			"height":110,
-			"color":"4"
-		},
-		{
-			"id":"743f2225b28f4d04",
-			"type":"text",
-			"text":"[[Find complete Sigils Book.canvas|Find complete Sigils Book]]",
-			"styleAttributes":{},
-			"x":480,
-			"y":1280,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"ef34f214c605d686",
-			"type":"text",
-			"text":"[[Abandoned Mine Torch Room Puzzle.canvas|Abandoned Mine Torch Room Puzzle]]",
-			"styleAttributes":{},
-			"x":1040,
-			"y":1320,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"edc626d36e49008c",
-			"type":"text",
-			"text":"[[Open Reservoir Trunks.canvas|Open Reservoir Trunks]]",
-			"styleAttributes":{},
-			"x":200,
-			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"1736260ea97b134d",
-			"type":"text",
-			"text":"[[Blackbridge Grotto Microchip Puzzle.canvas|Blackbridge Grotto Puzzle]]",
-			"styleAttributes":{},
-			"x":760,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"cbe45c2fa8f587f8",
-			"type":"text",
-			"text":"[[Blackbridge Grotto Unlock - Laboratory Puzzle.canvas|Blackbridge Grotto Unlock - Laboratory Puzzle]]",
-			"styleAttributes":{},
-			"x":480,
-			"y":1080,
-			"width":260,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"e27573f82babc6a4",
-			"type":"text",
-			"text":"[[Observatory Hidden Floorplan Puzzle.canvas|Observatory Hidden Floorplan Puzzle]]",
-			"styleAttributes":{},
-			"x":1040,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"0ca07c392d83e219",
-			"type":"text",
-			"text":"[[Freezer Room Puzzle.canvas|Freezer Room Puzzle]]",
-			"styleAttributes":{},
-			"x":760,
-			"y":1080,
-			"width":260,
-			"height":60,
 			"color":"4"
 		},
 		{
@@ -992,6 +499,80 @@
 			"color":"4"
 		},
 		{
+			"id":"9bc69c8d4a2eb858",
+			"type":"text",
+			"text":"[[Sigils.canvas|Solve all Sigils Puzzles]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1400,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"9d2772508614fcc8",
+			"type":"text",
+			"text":"[[Red Letters Ransom Room 46 Puzzle.canvas|Red Letters Ransom Room 46 Puzzle]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1403,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4ab78c2a7202fe93",
+			"type":"text",
+			"text":"Monk Blessing in [[007 - Gallery.canvas|007 - Gallery]]",
+			"styleAttributes":{},
+			"x":-340,
+			"y":3360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8dabb8ac88b91498",
+			"type":"text",
+			"text":"Monk Blessing in [[Greenhouse.canvas|Greenhouse]]",
+			"styleAttributes":{},
+			"x":-340,
+			"y":3440,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"51d23e6565a076f5",
+			"type":"text",
+			"text":"Monk Blessing on [[014 - Garage.canvas|014 - Garage]]",
+			"styleAttributes":{},
+			"x":-60,
+			"y":3490,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"967ec0b5d38b3622",
+			"type":"text",
+			"text":"Monk Blessing in [[Tunnel.canvas|Tunnel]]",
+			"styleAttributes":{},
+			"x":-340,
+			"y":3520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"777b8ca377bd9d9a",
+			"type":"text",
+			"text":"[[Draft a Mechanarium with 8 doors.canvas|Draft a Mechanarium with 8 doors]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":1360,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"a519eb6b9eb3d53c",
 			"type":"text",
 			"text":"[[Buy All Gifts from Gift Shop.canvas|Buy All Gifts from Gift Shop]]",
@@ -1003,14 +584,157 @@
 			"color":"4"
 		},
 		{
-			"id":"db1f2409cf3f6fcf",
+			"id":"5fdff2ea0a4892d6",
 			"type":"text",
-			"text":"[[Mansion Paintings Message Puzzle.canvas|Mansion Paintings Message Puzzle]]",
+			"text":"[[Inner Sanctum Key.canvas|Inner Sanctum Keys]]",
 			"styleAttributes":{},
-			"x":480,
-			"y":1200,
+			"x":-360,
+			"y":1320,
 			"width":260,
 			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e8e115326c89e7d1",
+			"type":"text",
+			"text":"[[Precipice Door Puzzle.canvas|Precipice Door Puzzle]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"19591823295f518d",
+			"type":"text",
+			"text":"[[Enter Room 46.canvas|Enter Room 46]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"c0413d1b9078a554",
+			"type":"text",
+			"text":"[[Red Letters.canvas|Red Letters]] Puzzle",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1323,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"ef34f214c605d686",
+			"type":"text",
+			"text":"[[Abandoned Mine Torch Room Puzzle.canvas|Abandoned Mine Torch Room Puzzle]]",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1320,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"1736260ea97b134d",
+			"type":"text",
+			"text":"[[Blackbridge Grotto Microchip Puzzle.canvas|Blackbridge Grotto Puzzle]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e27573f82babc6a4",
+			"type":"text",
+			"text":"[[Observatory Hidden Floorplan Puzzle.canvas|Observatory Hidden Floorplan Puzzle]]",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5f6a0b5ebd4c7508",
+			"type":"text",
+			"text":"[[Office Room Safe Puzzle.canvas|Office Room Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":2160,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"6d3a93c7d8ff83df",
+			"type":"text",
+			"text":"[[Boiler Room Strange Setup.canvas|Boiler Room Strange Setup]]",
+			"styleAttributes":{},
+			"x":1600,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a4e78b28a4d758a7",
+			"type":"text",
+			"text":"[[Precipice Chess Puzzle.canvas|Precipice Chess Puzzle]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ce638537fbe11de9",
+			"type":"text",
+			"text":"[[Enter Room 46 for the First Time - Ending 1.canvas|Enter Room 46 for the First Time - Ending 1]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4c51d68c02962193",
+			"type":"text",
+			"text":"[[Drain Reservoir.canvas|Drain Reservoir]]",
+			"styleAttributes":{},
+			"x":200,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"b6f19b241db344b7",
+			"type":"text",
+			"text":"[[Enter the Secret Garden.canvas|Enter the Secret Garden]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e335ff373135f775",
+			"type":"text",
+			"text":"[[Call it a Day in the Room 46 with Monk Blessing.canvas|Call it a Day in the Room 46 with Monk Blessing]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1445,
+			"width":260,
+			"height":80,
 			"color":"4"
 		},
 		{
@@ -1020,6 +744,303 @@
 			"styleAttributes":{},
 			"x":760,
 			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"8fc1a6dcf2b9c056",
+			"type":"text",
+			"text":"[[Find Room 8.canvas|Find Room 8]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":1312,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5c70513f5736db2a",
+			"type":"text",
+			"text":"Solve [[008 - Room 8.canvas|Room 8]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":1392,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"069e72dbd941e593",
+			"type":"text",
+			"text":"[[Study Room Safe Puzzle.canvas|Study Room Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":2160,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"0980f1c1b5c32939",
+			"type":"text",
+			"text":"[[Discover how to cross the Reservoir Water Body.canvas|Discover how to cross the Reservoir Water Body]]",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1078,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"bd9d029dbf4be7f7",
+			"type":"text",
+			"text":"[[Mirror Chamber Puzzle.canvas|Mirror Chamber Puzzle]]",
+			"styleAttributes":{},
+			"x":1600,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e8b0a46610ac87ca",
+			"type":"text",
+			"text":"[[Enable Security Room Video Playback.canvas|Enable Security Room Video Playback]]",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"bc9a79a9fa7568ca",
+			"type":"text",
+			"text":"[[Tomb Candles Puzzle.canvas|Tomb Candles Puzzle]]",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"044027898165e396",
+			"type":"text",
+			"text":"[[Drafting Studio Safe Puzzle.canvas|Drafting Studio Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":2160,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"7af8b23c498891af",
+			"type":"text",
+			"text":"[[Jack Hammer.canvas|Jack Hammer]] Puzzles",
+			"styleAttributes":{},
+			"x":1040,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"0c54860658dba301",
+			"type":"text",
+			"text":"[[Open the Basement Door under the Foundation.canvas|Open the Basement Door under the Foundation]]",
+			"styleAttributes":{},
+			"x":1600,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2bcd0a542e9c72c6",
+			"type":"text",
+			"text":"[[Drawing Room Safe Puzzle.canvas|Drawing Room Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":2160,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"6f6c63ba5235bc3f",
+			"type":"text",
+			"text":"[[Cloister Puzzle.canvas|Cloister Puzzle]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a3075737fdc90828",
+			"type":"text",
+			"text":"[[Draft and Explore All Rooms.canvas|Draft and Explore All Rooms]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"3e181c269b172055",
+			"type":"text",
+			"text":"[[Discover Workshop Combinations.canvas|Discover Workshop Combinations]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"c0cd54c0bc4ee524",
+			"type":"text",
+			"text":"[[Attic Paper Puzzle.canvas|Attic Paper Puzzle]]",
+			"styleAttributes":{},
+			"x":1880,
+			"y":998,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"0a2650d4dec26cbe",
+			"type":"text",
+			"text":"[[Solve the Black Mirror Lock Password in the Red Door Area.canvas|Solve the Black Mirror Lock Password in the Red Door Area]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1510,
+			"width":260,
+			"height":110,
+			"color":"4"
+		},
+		{
+			"id":"ec310ad90adad2fd",
+			"type":"text",
+			"text":"[[Reach the Safehouse Station by using the Pump Room.canvas|Reach the Safehouse Station by using the Pump Room]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1400,
+			"width":260,
+			"height":90,
+			"color":"4"
+		},
+		{
+			"id":"ca367d3f1c8f02f0",
+			"type":"text",
+			"text":"[[Investigate Rotunda.canvas|Investigate Rotunda]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"af26944be5a758ca",
+			"type":"text",
+			"text":"[[Open the Red Door on Underpass.canvas|Open the Red Door on Underpass]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1320,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a734ab6b4281305a",
+			"type":"text",
+			"text":"[[Explore the Precipice.canvas|Explore the Precipice]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"faab0ab15ff1f969",
+			"type":"text",
+			"text":"[[Enter the Antechamber Room.canvas|Enter the Antechamber Room]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"623955262dfe7be6",
+			"type":"text",
+			"text":"[[Cipher Cryptography Puzzle.canvas|Cipher Cryptography Puzzle]]",
+			"styleAttributes":{},
+			"x":1600,
+			"y":1236,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"743f2225b28f4d04",
+			"type":"text",
+			"text":"[[Find complete Sigils Book.canvas|Find complete Sigils Book]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":1280,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"edc626d36e49008c",
+			"type":"text",
+			"text":"[[Open Reservoir Trunks.canvas|Open Reservoir Trunks]]",
+			"styleAttributes":{},
+			"x":200,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"cbe45c2fa8f587f8",
+			"type":"text",
+			"text":"[[Blackbridge Grotto Unlock - Laboratory Puzzle.canvas|Blackbridge Grotto Unlock - Laboratory Puzzle]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":1080,
+			"width":260,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"0ca07c392d83e219",
+			"type":"text",
+			"text":"[[Freezer Room Puzzle.canvas|Freezer Room Puzzle]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"db1f2409cf3f6fcf",
+			"type":"text",
+			"text":"[[Mansion Paintings Message Puzzle.canvas|Mansion Paintings Message Puzzle]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":1200,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -1069,37 +1090,26 @@
 			"color":"4"
 		},
 		{
-			"id":"8fc1a6dcf2b9c056",
+			"id":"8a8bcdd038fc6030",
 			"type":"text",
-			"text":"[[Find Room 8.canvas|Find Room 8]]",
+			"text":"[[The Pool room Puzzle.canvas|The Pool room Puzzle]]",
 			"styleAttributes":{},
-			"x":760,
-			"y":1312,
+			"x":-360,
+			"y":1000,
 			"width":260,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"5c70513f5736db2a",
+			"id":"81e722a6c94803aa",
 			"type":"text",
-			"text":"Solve [[008 - Room 8.canvas|Room 8]]",
+			"text":"[[Laundry Room Power Puzzle.canvas|Laundry Room Puzzle]]",
 			"styleAttributes":{},
-			"x":760,
-			"y":1392,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"7af8b23c498891af",
-			"type":"text",
-			"text":"[[Jack Hammer.canvas|Jack Hammer]] Puzzles",
-			"styleAttributes":{},
-			"x":1040,
+			"x":-80,
 			"y":1002,
 			"width":260,
 			"height":60,
-			"color":"6"
+			"color":"4"
 		},
 		{
 			"id":"cec25431ee083a15",
@@ -1110,94 +1120,6 @@
 			"y":920,
 			"width":260,
 			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"0c54860658dba301",
-			"type":"text",
-			"text":"[[Open the Basement Door under the Foundation.canvas|Open the Basement Door under the Foundation]]",
-			"styleAttributes":{},
-			"x":1600,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"2bcd0a542e9c72c6",
-			"type":"text",
-			"text":"[[Drawing Room Safe Puzzle.canvas|Drawing Room Safe Puzzle]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"5f6a0b5ebd4c7508",
-			"type":"text",
-			"text":"[[Office Room Safe Puzzle.canvas|Office Room Safe Puzzle]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"069e72dbd941e593",
-			"type":"text",
-			"text":"[[Study Room Safe Puzzle.canvas|Study Room Safe Puzzle]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"e50b1ef928311206",
-			"type":"text",
-			"text":"[[Locker Room Full Exploration.canvas|Locker Room Full Exploration]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"3be0d0076a7d8179",
-			"type":"text",
-			"text":"[[Chapel Candle Puzzle.canvas|Chapel Candle Puzzle]]",
-			"styleAttributes":{},
-			"x":3560,
-			"y":921,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"f2e20250bb4ceeed",
-			"type":"text",
-			"text":"[[Unlock All Drafting Studio Rooms.canvas|Unlock All Drafting Studio Rooms]]",
-			"styleAttributes":{},
-			"x":3560,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"5a958861dfec3dc1",
-			"type":"text",
-			"text":"[[Use Burning Glass to Illuminate the Tunnel on The Grounds.canvas|Use Burning Glass to Illuminate the Tunnel on The Grounds]]",
-			"styleAttributes":{},
-			"x":3560,
-			"y":1007,
-			"width":260,
-			"height":110,
 			"color":"4"
 		},
 		{
@@ -1221,6 +1143,259 @@
 			"width":260,
 			"height":60,
 			"color":"6"
+		},
+		{
+			"id":"cc8a39a9228e2621",
+			"type":"text",
+			"text":"[[Burning Glass.canvas|Burning Glass]] Puzzles",
+			"styleAttributes":{},
+			"x":1320,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"cb49d1a87b6551fc",
+			"type":"text",
+			"text":"[[Classroom 9 Puzzle.canvas|Classroom 9]] Exam",
+			"styleAttributes":{},
+			"x":1880,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"39408cf8af48f12c",
+			"type":"text",
+			"text":"[[Buy All Books from Bookshop.canvas|Buy All Books from Bookshop]]",
+			"styleAttributes":{},
+			"x":2160,
+			"y":919,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f7e2fb31ba8f3846",
+			"type":"text",
+			"text":"[[Identify All The Angels.canvas|Identify All The Angels]]",
+			"styleAttributes":{},
+			"x":2440,
+			"y":919,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"defa7d55e9a81af8",
+			"type":"text",
+			"text":"[[Find all Antechamber Levers.canvas|Find all Antechamber Levers]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a3e52399a1f8645d",
+			"type":"text",
+			"text":"[[Tomb Statues Puzzle.canvas|Tomb Statues Puzzle]]",
+			"styleAttributes":{},
+			"x":200,
+			"y":921,
+			"width":260,
+			"height":59,
+			"color":"4"
+		},
+		{
+			"id":"35a14ea51be4e32e",
+			"type":"text",
+			"text":"[[Shelter Safe Puzzle.canvas|Shelter Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":921,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"526c4949870985e8",
+			"type":"text",
+			"text":"[[Mora Jai Puzzleboxes.canvas|Mora Jai Puzzleboxes]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":921,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"8cd62dff1a43b544",
+			"type":"text",
+			"text":"Map [[Rooms with Fireplaces.canvas|Rooms with Fireplaces]]",
+			"styleAttributes":{},
+			"x":840,
+			"y":2220,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"182ee1c177b33953",
+			"type":"text",
+			"text":"[[Treasure Map.canvas|Treasure Map]] - Room Tests",
+			"styleAttributes":{},
+			"x":840,
+			"y":2310,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"4ef22ea39df71e95",
+			"type":"text",
+			"text":"[[Blessing of the Monk.canvas|Blessing of the Monk]] Room Tests",
+			"styleAttributes":{},
+			"x":840,
+			"y":2390,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"349287a1cb7f3a84",
+			"type":"text",
+			"text":"Try [[Shrine.canvas|Shrine]] Blessing at 8g, 64g and 46g",
+			"styleAttributes":{},
+			"x":840,
+			"y":2470,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"d790982c2a0d5b44",
+			"type":"text",
+			"text":"[[Shelter Radiation Puzzle.canvas|Shelter Radiation Puzzle]]",
+			"styleAttributes":{},
+			"x":840,
+			"y":2550,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"7d096e5a9433e94d",
+			"type":"text",
+			"text":"[[Reread Herbert Will on Room 46.canvas|Reread Herbert Will on Room 46]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":1757,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"24a049b5c260505a",
+			"type":"text",
+			"text":"Revisit [[Shelter.canvas|Shelter]] after Satellite Dish upgrade",
+			"styleAttributes":{},
+			"x":200,
+			"y":1830,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"bdc51a8e72949218",
+			"type":"text",
+			"text":"[[Unknown - Tunnel.canvas|Unknown - Tunnel]] Exploration",
+			"styleAttributes":{},
+			"x":200,
+			"y":1910,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"fa4fb81d6670b0fc",
+			"type":"text",
+			"text":"[[Open the Box in Treasure Trove Outer Room Version.canvas|Open the Box in Treasure Trove Outer Room Version]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1850,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ae3257366a52a7d1",
+			"type":"text",
+			"text":"[[A---- Key Clue.canvas|A---- Key Clue]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":1940,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"17890c505aeb98cc",
+			"type":"text",
+			"text":"[[Precipice Castle Word Puzzle.canvas|Precipice Castle Word Puzzle]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":1970,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2530f212b79511c8",
+			"type":"text",
+			"text":"Solve the puzzle in [[Unknown.canvas|Unknown]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":2060,
+			"width":260,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"6f633a31c82bd2f1",
+			"type":"text",
+			"text":"Find the [[Family Core.canvas|Family Core]] and how to start and solve puzzles related to Numeric Cores",
+			"styleAttributes":{},
+			"x":-360,
+			"y":2390,
+			"width":260,
+			"height":115,
+			"color":"3"
+		},
+		{
+			"id":"e597d6446f7c182c",
+			"type":"text",
+			"text":"Get a screenshot of the grid on the Secret Passage Clue in A New Clue original manuscript, this seems related to the numbers used in the [[Unknown.canvas|Unknown]] area\n(Need Tomb)",
+			"styleAttributes":{},
+			"x":480,
+			"y":1835,
+			"width":260,
+			"height":210,
+			"color":"4"
+		},
+		{
+			"id":"48b00bdaf393a625",
+			"type":"text",
+			"text":"[[Look under Bed Rooms and Nook with the Shovel and Treasure Maps.canvas|Look under Bed Rooms and Nook with the Shovel and Treasure Maps]]",
+			"styleAttributes":{},
+			"x":200,
+			"y":2530,
+			"width":260,
+			"height":100,
+			"color":"3"
 		},
 		{
 			"id":"936bab1927f80b92",
@@ -1256,72 +1431,6 @@
 			"color":"4"
 		},
 		{
-			"id":"6f6c63ba5235bc3f",
-			"type":"text",
-			"text":"[[Cloister Puzzle.canvas|Cloister Puzzle]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"a3075737fdc90828",
-			"type":"text",
-			"text":"[[Draft and Explore All Rooms.canvas|Draft and Explore All Rooms]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"3e181c269b172055",
-			"type":"text",
-			"text":"[[Discover Workshop Combinations.canvas|Discover Workshop Combinations]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"cac2f8cf3da5d4c2",
-			"type":"text",
-			"text":"[[Find the Hidden Floorplan on the Reservoir Gear Bridge.canvas|Find the Hidden Floorplan on the Reservoir Gear Bridge]]",
-			"styleAttributes":{},
-			"x":3560,
-			"y":1140,
-			"width":260,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"416fa22915f3931d",
-			"type":"text",
-			"text":"[[Clock Tower Puzzle.canvas|Clock Tower Puzzle]]",
-			"styleAttributes":{},
-			"x":2720,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"cc8a39a9228e2621",
-			"type":"text",
-			"text":"[[Burning Glass.canvas|Burning Glass]] Puzzles",
-			"styleAttributes":{},
-			"x":1320,
-			"y":920,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"abccba8ed5eb8759",
 			"type":"text",
 			"text":"[[Magnifying Glass.canvas|Magnifying Glass]] Puzzles",
@@ -1330,7 +1439,7 @@
 			"y":840,
 			"width":260,
 			"height":60,
-			"color":"3"
+			"color":"6"
 		},
 		{
 			"id":"d750f6c502824487",
@@ -1344,81 +1453,114 @@
 			"color":"4"
 		},
 		{
-			"id":"af94154a4cdde82f",
+			"id":"e59afe391f96779c",
 			"type":"text",
-			"text":"[[Tunnel.canvas|Tunnel]] Exploration",
+			"text":"[[Gemstone Cavern Unlock.canvas|Gemstone Cavern Unlock]]",
 			"styleAttributes":{},
-			"x":2720,
-			"y":1160,
+			"x":200,
+			"y":840,
 			"width":260,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"cb49d1a87b6551fc",
+			"id":"847b2ec8e742652e",
 			"type":"text",
-			"text":"[[Classroom 9 Puzzle.canvas|Classroom 9]] Exam",
+			"text":"[[Apple Orchard Puzzle.canvas|Apple Orchard Puzzle]]",
 			"styleAttributes":{},
-			"x":1880,
-			"y":920,
+			"x":-80,
+			"y":841,
 			"width":260,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"e1b1aa1c46086111",
+			"id":"4d823aad9af72103",
 			"type":"text",
-			"text":"Translate [[Lady Epsen Note.canvas|Lady Epsen Note]]",
+			"text":"[[Outer Room Unlock.canvas|Outer Room Unlock]]",
 			"styleAttributes":{},
-			"x":1880,
-			"y":1154,
+			"x":-360,
+			"y":841,
 			"width":260,
+			"height":59,
+			"color":"4"
+		},
+		{
+			"id":"328982b8302a369c",
+			"type":"text",
+			"text":"[[Bourdoir Safe Puzzle.canvas|Bourdoir Safe Puzzle]]",
+			"styleAttributes":{},
+			"x":480,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"883871c911de58fb",
+			"type":"text",
+			"text":"[[SWNSNG Acronym.canvas|SWNSNG Acronym]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":2530,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"1a974f230f6e7007",
+			"type":"text",
+			"text":"[[Baron Bafflers Puzzle - Bedroom Digspot.canvas|Baron Bafflers Puzzle - Bedroom Digspot]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":2610,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"0c9bdbeb9c6155dc",
+			"type":"text",
+			"text":"Top to Bottom = Earliest to Latest in Terms of List of Requirements to Start",
+			"styleAttributes":{},
+			"x":-400,
+			"y":660,
+			"width":480,
 			"height":60,
 			"color":"6"
 		},
 		{
-			"id":"c0cd54c0bc4ee524",
+			"id":"747ba75062e5db87",
 			"type":"text",
-			"text":"[[Attic Paper Puzzle.canvas|Attic Paper Puzzle]]",
+			"text":"[[Read All Books from Library.canvas|Read All Books from Library]]",
 			"styleAttributes":{},
-			"x":1880,
-			"y":998,
+			"x":2160,
+			"y":840,
 			"width":260,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"0980f1c1b5c32939",
+			"id":"765fd6de18524e15",
 			"type":"text",
-			"text":"[[Discover how to cross the Reservoir Water Body.canvas|Discover how to cross the Reservoir Water Body]]",
+			"text":"[[Send Water to Greenhouse.canvas|Send Water to Greenhouse]]",
 			"styleAttributes":{},
-			"x":1880,
-			"y":1078,
+			"x":2440,
+			"y":840,
 			"width":260,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"bd9d029dbf4be7f7",
+			"id":"a956a5541f834306",
 			"type":"text",
-			"text":"[[Mirror Chamber Puzzle.canvas|Mirror Chamber Puzzle]]",
+			"text":"[[Use Blueprint Crown to remove all Red Rooms in a Run.canvas|Use Blueprint Crown to remove all Red Rooms in a Run]]",
 			"styleAttributes":{},
-			"x":1600,
-			"y":1080,
+			"x":2360,
+			"y":410,
 			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"6d3a93c7d8ff83df",
-			"type":"text",
-			"text":"[[Boiler Room Strange Setup.canvas|Boiler Room Strange Setup]]",
-			"styleAttributes":{},
-			"x":1600,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
+			"height":90,
+			"color":"2"
 		},
 		{
 			"id":"7e95c769e9f3ab22",
@@ -1465,61 +1607,6 @@
 			"color":"2"
 		},
 		{
-			"id":"747ba75062e5db87",
-			"type":"text",
-			"text":"[[Read All Books from Library.canvas|Read All Books from Library]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"39408cf8af48f12c",
-			"type":"text",
-			"text":"[[Buy All Books from Bookshop.canvas|Buy All Books from Bookshop]]",
-			"styleAttributes":{},
-			"x":2160,
-			"y":919,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"f7e2fb31ba8f3846",
-			"type":"text",
-			"text":"[[Identify All The Angels.canvas|Identify All The Angels]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":919,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"765fd6de18524e15",
-			"type":"text",
-			"text":"[[Send Water to Greenhouse.canvas|Send Water to Greenhouse]]",
-			"styleAttributes":{},
-			"x":2440,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"a956a5541f834306",
-			"type":"text",
-			"text":"[[Use Blueprint Crown to remove all Red Rooms in a Run.canvas|Use Blueprint Crown to remove all Red Rooms in a Run]]",
-			"styleAttributes":{},
-			"x":2360,
-			"y":410,
-			"width":260,
-			"height":90,
-			"color":"2"
-		},
-		{
 			"id":"f650690f6e0fbbe0",
 			"type":"text",
 			"text":"[[Reach Pool on a Run without Running.canvas|Reach Pool on a Run without Running]]",
@@ -1529,6 +1616,83 @@
 			"width":260,
 			"height":60,
 			"color":"2"
+		},
+		{
+			"id":"0631b79eced0394d",
+			"type":"text",
+			"text":"[[Discover Den Secret.canvas|Discover Den Secret]]",
+			"styleAttributes":{},
+			"x":2660,
+			"y":410,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"c7885ae4526eecab",
+			"type":"text",
+			"text":"Solve the mystery about the book [[A New Clue.canvas|A New Clue]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1436,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"39897c190d962f8c",
+			"type":"text",
+			"text":"[[Lift the Rotating Bridge in the Resevoir.canvas|Lift the Rotating Bridge in the Resevoir]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1360,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f086163594565d11",
+			"type":"text",
+			"text":"[[Check if Trading Post can have a Upgrade Disk available for trade.canvas|Check if Trading Post can have a Upgrade Disk available for trade]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1240,
+			"width":260,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"e50b1ef928311206",
+			"type":"text",
+			"text":"[[Locker Room Full Exploration.canvas|Locker Room Full Exploration]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1002,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"416fa22915f3931d",
+			"type":"text",
+			"text":"[[Clock Tower Puzzle.canvas|Clock Tower Puzzle]]",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1080,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"af94154a4cdde82f",
+			"type":"text",
+			"text":"[[Tunnel.canvas|Tunnel]] Exploration",
+			"styleAttributes":{},
+			"x":2720,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
 		},
 		{
 			"id":"3b4c0c9ead1572e3",
@@ -1553,124 +1717,14 @@
 			"color":"4"
 		},
 		{
-			"id":"0631b79eced0394d",
+			"id":"117b629f2e7c734d",
 			"type":"text",
-			"text":"[[Discover Den Secret.canvas|Discover Den Secret]]",
-			"styleAttributes":{},
-			"x":2660,
-			"y":410,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"c9fb31c12e476530",
-			"type":"text",
-			"text":"[[Enter the Throne Room with Crown of Blueprints in the Inventory.canvas|Enter the Throne Room with Crown of Blueprints in the Inventory]]",
-			"styleAttributes":{},
-			"x":2360,
-			"y":177,
-			"width":260,
-			"height":115,
-			"color":"2"
-		},
-		{
-			"id":"6a46cc863d8e8aa0",
-			"type":"text",
-			"text":"[[Get all Special Keys and order a Special Key in the Locksmith.canvas|Get all Special Keys and order a Special Key in the Locksmith]]",
-			"styleAttributes":{},
-			"x":2660,
-			"y":172,
-			"width":260,
-			"height":120,
-			"color":"2"
-		},
-		{
-			"id":"43ba7a82c4f9e962",
-			"type":"text",
-			"text":"Try using Burning Glass in the [[Throne Room.canvas|Throne Room]] ",
-			"styleAttributes":{},
-			"x":2360,
-			"y":73,
-			"width":260,
-			"height":65,
-			"color":"2"
-		},
-		{
-			"id":"de8420fd22ec54a0",
-			"type":"text",
-			"text":"[[Try using the Secret Garden Key from the Pool but not on the Wings.canvas|Try using the Secret Garden Key from the Pool but not on the Wings]]",
-			"styleAttributes":{},
-			"x":2660,
-			"y":30,
-			"width":260,
-			"height":110,
-			"color":"2"
-		},
-		{
-			"id":"5c7500eb1160f8ff",
-			"type":"text",
-			"text":"[[View all Alzara Videos.canvas|View all Alzara Videos]]",
-			"styleAttributes":{},
-			"x":3280,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"e916245bf30fbb85",
-			"type":"text",
-			"text":"Monk Blessing [[Closed Exhibit.canvas|Closed Exhibit]]",
+			"text":"Monk Blessing in [[Secret Passage.canvas|Secret Passage]]",
 			"styleAttributes":{},
 			"x":2960,
-			"y":117,
+			"y":350,
 			"width":260,
 			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"6e328dabb0be074b",
-			"type":"text",
-			"text":"[[Check the Precipice Elevator in underground by going through the Tomb shortcut instead of taking the Elevator.canvas|Check the Precipice Elevator in underground by going through the Tomb shortcut instead of taking the Elevator]]",
-			"styleAttributes":{},
-			"x":1760,
-			"y":140,
-			"width":260,
-			"height":155,
-			"color":"4"
-		},
-		{
-			"id":"2ce4cc8e4281ff86",
-			"type":"text",
-			"text":"[[Trading Post - Check if I can restore the Stillery.canvas|Trading Post - Check if I can restore the Stillery]]",
-			"styleAttributes":{},
-			"x":2060,
-			"y":235,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"d9739fb46e0a404d",
-			"type":"text",
-			"text":"[[Investigate Black Water and RLCF.canvas|Investigate Black Water and RLCF]]",
-			"styleAttributes":{},
-			"x":2060,
-			"y":140,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"c03bc6e1020af6b8",
-			"type":"text",
-			"text":"[[Do a run finding many items, but not picking any items.canvas|Do a run finding many items, but not picking any items]]",
-			"styleAttributes":{},
-			"x":2960,
-			"y":200,
-			"width":260,
-			"height":110,
 			"color":"2"
 		},
 		{
@@ -1740,278 +1794,15 @@
 			"color":"4"
 		},
 		{
-			"id":"9bc69c8d4a2eb858",
+			"id":"5c7500eb1160f8ff",
 			"type":"text",
-			"text":"[[Sigils.canvas|Solve all Sigils Puzzles]]",
+			"text":"[[View all Alzara Videos.canvas|View all Alzara Videos]]",
 			"styleAttributes":{},
-			"x":-360,
-			"y":1400,
+			"x":3280,
+			"y":840,
 			"width":260,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"5fdff2ea0a4892d6",
-			"type":"text",
-			"text":"[[Inner Sanctum Key.canvas|Inner Sanctum Keys]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1320,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"e8e115326c89e7d1",
-			"type":"text",
-			"text":"[[Precipice Door Puzzle.canvas|Precipice Door Puzzle]]",
-			"styleAttributes":{},
-			"x":-80,
-			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"19591823295f518d",
-			"type":"text",
-			"text":"[[Enter Room 46.canvas|Enter Room 46]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"a4e78b28a4d758a7",
-			"type":"text",
-			"text":"[[Precipice Chess Puzzle.canvas|Precipice Chess Puzzle]]",
-			"styleAttributes":{},
-			"x":-80,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"ce638537fbe11de9",
-			"type":"text",
-			"text":"[[Enter Room 46 for the First Time - Ending 1.canvas|Enter Room 46 for the First Time - Ending 1]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"a734ab6b4281305a",
-			"type":"text",
-			"text":"[[Explore the Precipice.canvas|Explore the Precipice]]",
-			"styleAttributes":{},
-			"x":-80,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"faab0ab15ff1f969",
-			"type":"text",
-			"text":"[[Enter the Antechamber Room.canvas|Enter the Antechamber Room]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1080,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"8a8bcdd038fc6030",
-			"type":"text",
-			"text":"[[The Pool room Puzzle.canvas|The Pool room Puzzle]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":1000,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"81e722a6c94803aa",
-			"type":"text",
-			"text":"[[Laundry Room Power Puzzle.canvas|Laundry Room Puzzle]]",
-			"styleAttributes":{},
-			"x":-80,
-			"y":1002,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"e8b0a46610ac87ca",
-			"type":"text",
-			"text":"[[Enable Security Room Video Playback.canvas|Enable Security Room Video Playback]]",
-			"styleAttributes":{},
-			"x":1040,
-			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"bc9a79a9fa7568ca",
-			"type":"text",
-			"text":"[[Tomb Candles Puzzle.canvas|Tomb Candles Puzzle]]",
-			"styleAttributes":{},
-			"x":1320,
-			"y":1240,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"4c51d68c02962193",
-			"type":"text",
-			"text":"[[Drain Reservoir.canvas|Drain Reservoir]]",
-			"styleAttributes":{},
-			"x":200,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"b6f19b241db344b7",
-			"type":"text",
-			"text":"[[Enter the Secret Garden.canvas|Enter the Secret Garden]]",
-			"styleAttributes":{},
-			"x":1320,
-			"y":1160,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"9d2772508614fcc8",
-			"type":"text",
-			"text":"[[Red Letters Ransom Room 46 Puzzle.canvas|Red Letters Ransom Room 46 Puzzle]]",
-			"styleAttributes":{},
-			"x":-80,
-			"y":1403,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"c0413d1b9078a554",
-			"type":"text",
-			"text":"[[Red Letters.canvas|Red Letters]] Puzzle",
-			"styleAttributes":{},
-			"x":-80,
-			"y":1323,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"623955262dfe7be6",
-			"type":"text",
-			"text":"[[Cipher Cryptography Puzzle.canvas|Cipher Cryptography Puzzle]]",
-			"styleAttributes":{},
-			"x":1600,
-			"y":1236,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"d89acb1a395d323a",
-			"type":"text",
-			"text":"[[Boiler Room Plate Puzzle.canvas|Boiler Room Plate Puzzle]]",
-			"styleAttributes":{},
-			"x":1600,
-			"y":1307,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"8ac302d10cf7bfab",
-			"type":"text",
-			"text":"Write about [[Bedrooms Rooms - Sleep Effects.canvas|Bedrooms Rooms - Sleep Effects]]",
-			"styleAttributes":{},
-			"x":3000,
-			"y":1369,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"8cfde50c25b55750",
-			"type":"text",
-			"text":"[[Reach 100 Stars on Observatory.canvas|Reach 100 Stars on Observatory]]",
-			"styleAttributes":{},
-			"x":3000,
-			"y":1442,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"06929be2943545c1",
-			"type":"text",
-			"text":"# Removed - Probably Nothing\n- Orange is useless or tried and did nothing.",
-			"styleAttributes":{},
-			"x":1760,
-			"y":-100,
-			"width":480,
-			"height":151
-		},
-		{
-			"id":"d7854c2440346de0",
-			"type":"text",
-			"text":"Monk Blessing on [[Secret Garden.canvas|Secret Garden]]",
-			"styleAttributes":{},
-			"x":2660,
-			"y":-65,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"eb472ff815ed5f1e",
-			"type":"text",
-			"text":"Revisit [[024 - Office.canvas|024 - Office]] after Sattelite Dish upgrade",
-			"styleAttributes":{},
-			"x":2960,
-			"y":30,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"59c1ec57e4292f51",
-			"type":"text",
-			"text":"Revisit [[034 - Security.canvas|034 - Security]] after Satellite Dish upgrade",
-			"styleAttributes":{},
-			"x":2960,
-			"y":-60,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"7f0b96601da58feb",
-			"type":"text",
-			"text":"Monk Blessing in [[001 - The Foundation.canvas|001 - The Foundation]], but underground",
-			"styleAttributes":{},
-			"x":2360,
-			"y":-64,
-			"width":260,
-			"height":115,
-			"color":"2"
 		},
 		{
 			"id":"5ee11c37ab29b9bc",
@@ -2058,93 +1849,6 @@
 			"color":"4"
 		},
 		{
-			"id":"915367909800b73d",
-			"type":"text",
-			"text":"[[042 - Observatory.canvas|042 - Observatory]] - Complete the message on the Spiral of Stars",
-			"styleAttributes":{},
-			"x":3000,
-			"y":1520,
-			"width":260,
-			"height":115,
-			"color":"3"
-		},
-		{
-			"id":"defa7d55e9a81af8",
-			"type":"text",
-			"text":"[[Find all Antechamber Levers.canvas|Find all Antechamber Levers]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":920,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"526c4949870985e8",
-			"type":"text",
-			"text":"[[Mora Jai Puzzleboxes.canvas|Mora Jai Puzzleboxes]]",
-			"styleAttributes":{},
-			"x":-80,
-			"y":921,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"e59afe391f96779c",
-			"type":"text",
-			"text":"[[Gemstone Cavern Unlock.canvas|Gemstone Cavern Unlock]]",
-			"styleAttributes":{},
-			"x":200,
-			"y":840,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"847b2ec8e742652e",
-			"type":"text",
-			"text":"[[Apple Orchard Puzzle.canvas|Apple Orchard Puzzle]]",
-			"styleAttributes":{},
-			"x":-80,
-			"y":841,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"4d823aad9af72103",
-			"type":"text",
-			"text":"[[Outer Room Unlock.canvas|Outer Room Unlock]]",
-			"styleAttributes":{},
-			"x":-360,
-			"y":841,
-			"width":260,
-			"height":59,
-			"color":"4"
-		},
-		{
-			"id":"e1318216890e03a7",
-			"type":"text",
-			"text":"Green - Done\nPurple - Done, but may have more\nRed - Blocked progress",
-			"styleAttributes":{},
-			"x":120,
-			"y":660,
-			"width":360,
-			"height":100
-		},
-		{
-			"id":"0c9bdbeb9c6155dc",
-			"type":"text",
-			"text":"Top to Bottom = Earliest to Latest in Terms of List of Requirements to Start",
-			"styleAttributes":{},
-			"x":-400,
-			"y":660,
-			"width":480,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"6bf40a574ea8d4ab",
 			"type":"text",
 			"text":"[[Search Boiler Room again to see if it can power up the Red Door Button in the Inner Sanctum Area.canvas|Search Boiler Room again to see if it can power up the Red Door Button in the Inner Sanctum Area]]",
@@ -2167,6 +1871,61 @@
 			"color":"4"
 		},
 		{
+			"id":"e1b1aa1c46086111",
+			"type":"text",
+			"text":"Translate [[Lady Epsen Note.canvas|Lady Epsen Note]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":2610,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"3be0d0076a7d8179",
+			"type":"text",
+			"text":"[[Chapel Candle Puzzle.canvas|Chapel Candle Puzzle]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":921,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f2e20250bb4ceeed",
+			"type":"text",
+			"text":"[[Unlock All Drafting Studio Rooms.canvas|Unlock All Drafting Studio Rooms]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5a958861dfec3dc1",
+			"type":"text",
+			"text":"[[Use Burning Glass to Illuminate the Tunnel on The Grounds.canvas|Use Burning Glass to Illuminate the Tunnel on The Grounds]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":1007,
+			"width":260,
+			"height":110,
+			"color":"4"
+		},
+		{
+			"id":"cac2f8cf3da5d4c2",
+			"type":"text",
+			"text":"[[Find the Hidden Floorplan on the Reservoir Gear Bridge.canvas|Find the Hidden Floorplan on the Reservoir Gear Bridge]]",
+			"styleAttributes":{},
+			"x":3560,
+			"y":1140,
+			"width":260,
+			"height":100,
+			"color":"4"
+		},
+		{
 			"id":"17234b829195ab5e",
 			"type":"text",
 			"text":"[[Draft the Sixes.canvas|Draft the Sixes]]",
@@ -2178,103 +1937,278 @@
 			"color":"4"
 		},
 		{
-			"id":"a3e52399a1f8645d",
+			"id":"d89acb1a395d323a",
 			"type":"text",
-			"text":"[[Tomb Statues Puzzle.canvas|Tomb Statues Puzzle]]",
-			"styleAttributes":{},
-			"x":200,
-			"y":921,
-			"width":260,
-			"height":59,
-			"color":"4"
-		},
-		{
-			"id":"35a14ea51be4e32e",
-			"type":"text",
-			"text":"[[Shelter Safe Puzzle.canvas|Shelter Safe Puzzle]]",
+			"text":"[[Boiler Room Plate Puzzle.canvas|Boiler Room Plate Puzzle]]",
 			"styleAttributes":{},
 			"x":480,
-			"y":921,
+			"y":2390,
 			"width":260,
 			"height":60,
-			"color":"4"
+			"color":"1"
 		},
 		{
-			"id":"328982b8302a369c",
+			"id":"5badf05f764153cc",
 			"type":"text",
-			"text":"[[Bourdoir Safe Puzzle.canvas|Bourdoir Safe Puzzle]]",
+			"text":"[[Blackbridge Grotto Computer Symbols Puzzle.canvas|Blackbridge Grotto Computer Symbols Puzzle]]",
 			"styleAttributes":{},
 			"x":480,
-			"y":840,
+			"y":2470,
 			"width":260,
-			"height":60,
-			"color":"4"
+			"height":110,
+			"color":"1"
 		},
 		{
-			"id":"6f7d90c8bbdbec31",
+			"id":"c03bc6e1020af6b8",
 			"type":"text",
-			"text":"Solve the mystery about the book [[A New Clue.canvas|A New Clue]]",
-			"styleAttributes":{},
-			"x":890,
-			"y":138,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"1f836c5f770acfee",
-			"type":"text",
-			"text":"[[Treasure Map.canvas|Treasure Map]] - Room Tests",
-			"styleAttributes":{},
-			"x":610,
-			"y":138,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"e8b4facd595668c0",
-			"type":"text",
-			"text":"[[SWNSNG Acronym.canvas|SWNSNG Acronym]]",
-			"styleAttributes":{},
-			"x":610,
-			"y":53,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"193c6f3c6adbfb78",
-			"type":"text",
-			"text":"Find the [[Closed Exhibit.canvas|Closed Exhibit]]",
-			"styleAttributes":{},
-			"x":40,
-			"y":53,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"9144692ae521ba31",
-			"type":"text",
-			"text":"Translate [[Lady Epsen Note.canvas|Lady Epsen Note]]",
-			"styleAttributes":{},
-			"x":890,
-			"y":51,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"117b629f2e7c734d",
-			"type":"text",
-			"text":"Monk Blessing in [[Secret Passage.canvas|Secret Passage]]",
+			"text":"[[Do a run finding many items, but not picking any items.canvas|Do a run finding many items, but not picking any items]]",
 			"styleAttributes":{},
 			"x":2960,
-			"y":350,
+			"y":200,
+			"width":260,
+			"height":110,
+			"color":"2"
+		},
+		{
+			"id":"c9fb31c12e476530",
+			"type":"text",
+			"text":"[[Enter the Throne Room with Crown of Blueprints in the Inventory.canvas|Enter the Throne Room with Crown of Blueprints in the Inventory]]",
+			"styleAttributes":{},
+			"x":2360,
+			"y":177,
+			"width":260,
+			"height":115,
+			"color":"2"
+		},
+		{
+			"id":"6a46cc863d8e8aa0",
+			"type":"text",
+			"text":"[[Get all Special Keys and order a Special Key in the Locksmith.canvas|Get all Special Keys and order a Special Key in the Locksmith]]",
+			"styleAttributes":{},
+			"x":2660,
+			"y":172,
+			"width":260,
+			"height":120,
+			"color":"2"
+		},
+		{
+			"id":"6e328dabb0be074b",
+			"type":"text",
+			"text":"[[Check the Precipice Elevator in underground by going through the Tomb shortcut instead of taking the Elevator.canvas|Check the Precipice Elevator in underground by going through the Tomb shortcut instead of taking the Elevator]]",
+			"styleAttributes":{},
+			"x":1760,
+			"y":140,
+			"width":260,
+			"height":155,
+			"color":"4"
+		},
+		{
+			"id":"2ce4cc8e4281ff86",
+			"type":"text",
+			"text":"[[Trading Post - Check if I can restore the Stillery.canvas|Trading Post - Check if I can restore the Stillery]]",
+			"styleAttributes":{},
+			"x":2060,
+			"y":235,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"43ba7a82c4f9e962",
+			"type":"text",
+			"text":"Try using Burning Glass in the [[Throne Room.canvas|Throne Room]] ",
+			"styleAttributes":{},
+			"x":2360,
+			"y":73,
+			"width":260,
+			"height":65,
+			"color":"2"
+		},
+		{
+			"id":"de8420fd22ec54a0",
+			"type":"text",
+			"text":"[[Try using the Secret Garden Key from the Pool but not on the Wings.canvas|Try using the Secret Garden Key from the Pool but not on the Wings]]",
+			"styleAttributes":{},
+			"x":2660,
+			"y":30,
+			"width":260,
+			"height":110,
+			"color":"2"
+		},
+		{
+			"id":"e916245bf30fbb85",
+			"type":"text",
+			"text":"Monk Blessing [[Closed Exhibit.canvas|Closed Exhibit]]",
+			"styleAttributes":{},
+			"x":2960,
+			"y":117,
 			"width":260,
 			"height":60,
 			"color":"2"
+		},
+		{
+			"id":"d9739fb46e0a404d",
+			"type":"text",
+			"text":"[[Investigate Black Water and RLCF.canvas|Investigate Black Water and RLCF]]",
+			"styleAttributes":{},
+			"x":2060,
+			"y":140,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"06929be2943545c1",
+			"type":"text",
+			"text":"# Removed - Probably Nothing\n- Orange is useless or tried and did nothing.",
+			"styleAttributes":{},
+			"x":1760,
+			"y":-100,
+			"width":480,
+			"height":151
+		},
+		{
+			"id":"eb472ff815ed5f1e",
+			"type":"text",
+			"text":"Revisit [[024 - Office.canvas|024 - Office]] after Sattelite Dish upgrade",
+			"styleAttributes":{},
+			"x":2960,
+			"y":30,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"7f0b96601da58feb",
+			"type":"text",
+			"text":"Monk Blessing in [[001 - The Foundation.canvas|001 - The Foundation]], but underground",
+			"styleAttributes":{},
+			"x":2360,
+			"y":-64,
+			"width":260,
+			"height":115,
+			"color":"2"
+		},
+		{
+			"id":"d7854c2440346de0",
+			"type":"text",
+			"text":"Monk Blessing on [[Secret Garden.canvas|Secret Garden]]",
+			"styleAttributes":{},
+			"x":2660,
+			"y":-65,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"59c1ec57e4292f51",
+			"type":"text",
+			"text":"Revisit [[034 - Security.canvas|034 - Security]] after Satellite Dish upgrade",
+			"styleAttributes":{},
+			"x":2960,
+			"y":-60,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"48ffa4827d16b7d4",
+			"type":"text",
+			"text":"[[Moon Relic.canvas|Moon Relic]]",
+			"styleAttributes":{},
+			"x":2660,
+			"y":320,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"148b6db19726f9ce",
+			"type":"text",
+			"text":"Monk Blessing in [[Throne Room.canvas|Throne Room]] after solving the Blue Throne Puzzle",
+			"styleAttributes":{},
+			"x":200,
+			"y":2660,
+			"width":260,
+			"height":90,
+			"color":"3"
+		},
+		{
+			"id":"d640f91d676f3f3f",
+			"type":"text",
+			"text":"[[Beat Dare Mode.canvas|Beat Dare Mode]]",
+			"styleAttributes":{},
+			"x":760,
+			"y":1677,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"d820403279139bdb",
+			"type":"text",
+			"text":"[[Sleep in the Bunk Room and then go to the Tomb on the next day.canvas|Sleep in the Bunk Room and then go to the Tomb on the next day]]",
+			"styleAttributes":{},
+			"x":3320,
+			"y":370,
+			"width":260,
+			"height":100,
+			"color":"3"
+		},
+		{
+			"id":"8cb6a2f6fa3b368e",
+			"type":"text",
+			"text":"[[Draft a Servant's Quarter with 7-8 Bedrooms.canvas|Draft a Servant's Quarter with 7-8 Bedrooms]]",
+			"styleAttributes":{},
+			"x":3600,
+			"y":410,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"8ac302d10cf7bfab",
+			"type":"text",
+			"text":"Write about [[Bedrooms Rooms - Sleep Effects.canvas|Bedrooms Rooms - Sleep Effects]]",
+			"styleAttributes":{},
+			"x":3600,
+			"y":320,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"884632a33f658137",
+			"type":"text",
+			"text":"[[Find the Ladyship Chamber.canvas|Find the Ladyship Chamber]]",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1160,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"0faf6eee444508e1",
+			"type":"text",
+			"text":"Read [[Lady Epsen Diary.canvas|Lady Epsen Diary]]",
+			"styleAttributes":{},
+			"x":1880,
+			"y":1240,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"8cfde50c25b55750",
+			"type":"text",
+			"text":"[[Reach 100 Stars on Observatory.canvas|Reach 100 Stars on Observatory]]",
+			"styleAttributes":{},
+			"x":3000,
+			"y":1360,
+			"width":260,
+			"height":60,
+			"color":"4"
 		},
 		{
 			"id":"6c389afab7ff78c7",
@@ -2327,14 +2261,34 @@
 			"height":60
 		},
 		{
-			"id":"855343f1307f6643",
+			"id":"e1318216890e03a7",
 			"type":"text",
-			"text":"[[Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining rooms.canvas|Drafted rooms are consumed for the run, so draft strategically to manipulate the remaining room pool]]",
+			"text":"Green - Done\nPurple - Done, but may have more\nRed - Blocked progress\nOrange - Nothing when tried / gave up",
 			"styleAttributes":{},
-			"x":-1380,
-			"y":350,
-			"width":620,
-			"height":80
+			"x":120,
+			"y":640,
+			"width":360,
+			"height":130
+		},
+		{
+			"id":"de0f6eeada189a45",
+			"type":"text",
+			"text":"[[Try the Orinda Aries Trifecta Item on Black Mirror and on Unknown Old Man Sitting Painting.canvas|Try the Orinda Aries Trifecta Item on Black Mirror and on Unknown Old Man Sitting Painting]]",
+			"styleAttributes":{},
+			"x":-360,
+			"y":2705,
+			"width":260,
+			"height":140
+		},
+		{
+			"id":"22e5b34a4c47898a",
+			"type":"text",
+			"text":"[[Try going to Antechamber in the Outer Room or Room 46 with the Trifecta Items.canvas|Try going to Antechamber in the Outer Room or Room 46 with the Trifecta Items]]",
+			"styleAttributes":{},
+			"x":-80,
+			"y":2705,
+			"width":260,
+			"height":105
 		}
 	],
 	"edges":[]

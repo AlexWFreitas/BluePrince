@@ -206,6 +206,17 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"03ccef67bbf7f26b",
+			"type":"text",
+			"text":"[[Throne Room.canvas|Throne Room]]",
+			"styleAttributes":{},
+			"x":-320,
+			"y":120,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
