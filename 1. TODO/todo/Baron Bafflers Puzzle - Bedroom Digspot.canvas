@@ -10,18 +10,7 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"b10955736ef7503c","type":"file","file":"99. attachments/BLUE_PRINCE_EN0x1rlrdG.png","x":-1020,"y":-20,"width":400,"height":225},
 		{"id":"e864809b9c19943e","type":"file","file":"99. attachments/BLUE_PRINCE_P8roicN2KA.png","x":-1020,"y":-300,"width":400,"height":225},
-		{
-			"id":"b44e176b2ad67fd1",
-			"type":"text",
-			"text":"Treasure Map led me to this.",
-			"styleAttributes":{},
-			"x":-950,
-			"y":240,
-			"width":260,
-			"height":60
-		},
 		{"id":"038f60b45913d080","type":"file","file":"99. attachments/BLUE_PRINCE_jMYaGVCGk7.png","x":-560,"y":-187,"width":400,"height":225},
 		{"id":"1573a96141812620","type":"file","file":"99. attachments/BLUE_PRINCE_ADi0cEDyc8.png","x":-140,"y":-60,"width":400,"height":225},
 		{
@@ -33,6 +22,27 @@
 			"y":53,
 			"width":400,
 			"height":140
+		},
+		{"id":"b10955736ef7503c","type":"file","file":"99. attachments/BLUE_PRINCE_EN0x1rlrdG.png","x":-1476,"y":33,"width":756,"height":425},
+		{
+			"id":"b44e176b2ad67fd1",
+			"type":"text",
+			"text":"Treasure Map led me to this.",
+			"styleAttributes":{},
+			"x":-1343,
+			"y":524,
+			"width":491,
+			"height":113
+		},
+		{
+			"id":"3dfd349ce5b48bd3",
+			"type":"text",
+			"text":"```\n______\n_______\n[NOT]ARY\n______\nNOT[ICE]\n______\n```",
+			"styleAttributes":{},
+			"x":-1660,
+			"y":136,
+			"width":160,
+			"height":204
 		}
 	],
 	"edges":[

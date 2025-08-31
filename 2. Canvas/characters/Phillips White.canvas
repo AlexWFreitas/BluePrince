@@ -3,12 +3,12 @@
 		{
 			"id":"f105818abcb016a8",
 			"type":"text",
-			"text":"Has a fake name called Paul With(e?)",
+			"text":"Has a fake name called Paul Withers\n\nThe name can be seen in the borrowers list of the Pump Book in the Library\n\nCollaborated with [[Caleb Manning.canvas|Caleb Manning]] and [[Mary Matthew Jones.canvas|Mary Matthew Jones]] to do some bad things",
 			"styleAttributes":{},
 			"x":-680,
 			"y":-380,
-			"width":340,
-			"height":60
+			"width":540,
+			"height":220
 		}
 	],
 	"edges":[],
