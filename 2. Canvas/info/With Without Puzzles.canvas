@@ -380,7 +380,43 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"2c14b29760161839","type":"file","file":"99. attachments/BLUE_PRINCE_Ib8Lgf2zDd.png","x":-5787,"y":1620,"width":400,"height":225,"color":"4"}
+		{"id":"2c14b29760161839","type":"file","file":"99. attachments/BLUE_PRINCE_Ib8Lgf2zDd.png","x":-5787,"y":1620,"width":400,"height":225,"color":"4"},
+		{
+			"id":"937241a5b584b04e",
+			"type":"text",
+			"text":"Stair - Star = I - C2R2",
+			"styleAttributes":{},
+			"x":-6730,
+			"y":3860,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"4c7fe890d89ac05c","type":"file","file":"99. attachments/BLUE_PRINCE_CrHVgg4XO0.png","x":-6800,"y":3580,"width":400,"height":239,"color":"4"},
+		{
+			"id":"b9e325fa99df618a",
+			"type":"text",
+			"text":"Crown - Crow = N - C4R8",
+			"styleAttributes":{},
+			"x":-5690,
+			"y":1057,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"09075031bf6536ca","type":"file","file":"99. attachments/BLUE_PRINCE_kLCXBU20N1.png","x":-5760,"y":746,"width":400,"height":225,"color":"4"},
+		{"id":"be0cad1280182edb","type":"file","file":"99. attachments/BLUE_PRINCE_rGhC02ZEYJ.png","x":-5282,"y":1620,"width":400,"height":225,"color":"4"},
+		{
+			"id":"dbc1cbda6c339f1e",
+			"type":"text",
+			"text":"Coast - Coat = S - C5R6",
+			"styleAttributes":{},
+			"x":-5239,
+			"y":1910,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{"id":"f0bf7057f76d0b57","fromNode":"835c28f1c76a8239","fromSide":"top","toNode":"d5fdcadbab846d6c","toSide":"bottom"},
@@ -598,6 +634,24 @@
 			"fromNode":"5b7de22d352e962c",
 			"fromSide":"top",
 			"toNode":"2def81631654e15a",
+			"toSide":"bottom"
+		},
+		{
+			"id":"b27637026cbee2b3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"937241a5b584b04e",
+			"fromSide":"top",
+			"toNode":"4c7fe890d89ac05c",
+			"toSide":"bottom"
+		},
+		{
+			"id":"1a09ce0580a1f7c3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b9e325fa99df618a",
+			"fromSide":"top",
+			"toNode":"09075031bf6536ca",
 			"toSide":"bottom"
 		}
 	],

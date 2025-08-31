@@ -1,3 +1,15 @@
+Day 135
+- I am still cursed
+- I was talking to Sastre about the Family Core and he said I had all the clues to do it.
+	- So after trying to figure the numbers, I found the number 53, one clue said that I should add the numerals together.
+	- This resulted in 8.
+	- Since I found one of the clues in the Vault, I tried to open Vault 53, with Key 8
+		- I had the wrong assumption that I needed to find the Vault to be able to input the numbers, but the puzzle was simpler than I thought.
+	- The vault contained a cipher made of 25 words with 4 letters each in a 5x5 grid.
+		- I feel that this puzzle is related to the Mansion Grid
+		- The cipher has many words that appeared in the paintings on the mansion, so this is very suspicious to me.
+		- There was also a note talking about a cipher in the Freezer Room, so this adds to the idea that the true cipher is this thing.
+
 Day 134
 - Opened the Blue Box in the Tunnel Parlor Puzzle
 	- There is a blue book inside.

@@ -82,6 +82,44 @@
 			"y":500,
 			"width":540,
 			"height":120
+		},
+		{
+			"id":"09a1f0b4028793d1",
+			"type":"text",
+			"text":"# Family Core",
+			"styleAttributes":{},
+			"x":282,
+			"y":1040,
+			"width":518,
+			"height":80
+		},
+		{
+			"id":"2b1779763787aec9",
+			"type":"text",
+			"text":"5+3 = 8 = Key 8",
+			"styleAttributes":{},
+			"x":440,
+			"y":1440,
+			"width":260,
+			"height":60
+		},
+		{"id":"21fe05f5edfb855a","type":"file","file":"99. attachments/chrome_ZkVZWGdGke.png","x":278,"y":1200,"width":584,"height":200},
+		{"id":"7a4bc7eb9d4ea984","type":"file","file":"99. attachments/BLUE_PRINCE_Y2uuqXmnmz.png","x":340,"y":1560,"width":400,"height":225},
+		{"id":"a731f64d64111f0d","type":"file","file":"99. attachments/BLUE_PRINCE_Lq3z1XqxQL.png","x":780,"y":1500,"width":400,"height":225},
+		{"id":"1081f0a381e49acd","type":"file","file":"99. attachments/BLUE_PRINCE_zDZmzzldLW.png","x":780,"y":1760,"width":920,"height":518},
+		{"id":"fd50ec76fe9d3207","type":"file","file":"99. attachments/BLUE_PRINCE_P83gbLJNwZ.png","x":1720,"y":1760,"width":920,"height":518},
+		{"id":"8715ba0f87ea27a9","type":"file","file":"99. attachments/BLUE_PRINCE_oSHwpun75N.png","x":780,"y":2320,"width":919,"height":517},
+		{"id":"641810bc00414584","type":"file","file":"99. attachments/BLUE_PRINCE_NC2JLGygZx.png","x":1721,"y":2320,"width":919,"height":517},
+		{"id":"edd09410713b82aa","type":"file","file":"99. attachments/BLUE_PRINCE_2E8TP8Ar32.png","x":781,"y":2860,"width":919,"height":517},
+		{
+			"id":"803b77fe4662ae9b",
+			"type":"text",
+			"text":"[[Family Core.canvas|Family Core]]",
+			"styleAttributes":{},
+			"x":900,
+			"y":1200,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -93,6 +131,15 @@
 			"fromSide":"left",
 			"toNode":"fe54933dd28f12b4",
 			"toSide":"right"
+		},
+		{
+			"id":"142831a9fc2b36aa",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2b1779763787aec9",
+			"fromSide":"top",
+			"toNode":"21fe05f5edfb855a",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{
