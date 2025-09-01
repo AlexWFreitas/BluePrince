@@ -78,9 +78,9 @@
 			"text":"\nW\nA\nL\nL\n",
 			"styleAttributes":{},
 			"x":-1620,
-			"y":-16240,
+			"y":-12860,
 			"width":160,
-			"height":17440
+			"height":14060
 		},
 		{
 			"id":"1bf7f08a5ae1a923",
@@ -171,9 +171,9 @@
 			"text":"\nW\nA\nL\nL\n",
 			"styleAttributes":{},
 			"x":5120,
-			"y":-16240,
+			"y":-12860,
 			"width":160,
-			"height":17440
+			"height":14060
 		},
 		{
 			"id":"353e9e86e325dea2",
@@ -300,31 +300,6 @@
 			"width":760,
 			"height":520
 		},
-		{
-			"id":"9ad092c33894b409",
-			"type":"text",
-			"text":"# Tracker\n- [x] 1-3 needs Vase check with Sledgehammer - Nothing\n- 1-4 - painting solution seems incorrect\n- 2-1  - needs shovel test on room\n- 2-3 - Gallery has new words to complete\n- 5-2 - Needs to solve painting puzzle\n- 5-3 - Needs to solve painting puzzle\n\t- Crook - Cook seems plausible\n- 6-2 - Painting puzzle missing\n- 7-4 - Painting puzzle missing\n- 7-5 - Painting puzzle missing",
-			"styleAttributes":{},
-			"x":-1540,
-			"y":1760,
-			"width":1160,
-			"height":1280
-		},
-		{
-			"id":"df60b082c9f01788",
-			"type":"text",
-			"text":"# Gallery Puzzle",
-			"styleAttributes":{},
-			"x":-2320,
-			"y":1760,
-			"width":700,
-			"height":80,
-			"color":"3"
-		},
-		{"id":"62e48d5fcb7882fd","type":"file","file":"99. attachments/BLUE_PRINCE_ebL6jNFHY9.png","x":-2320,"y":1880,"width":400,"height":118,"color":"3"},
-		{"id":"ea6463f82ca10ad0","type":"file","file":"99. attachments/BLUE_PRINCE_Gepj6ddjxT.png","x":-2320,"y":2040,"width":398,"height":91,"color":"3"},
-		{"id":"f1710b3136450bc4","type":"file","file":"99. attachments/BLUE_PRINCE_2pnxL0dT13.png","x":-2320,"y":2180,"width":398,"height":81,"color":"3"},
-		{"id":"48ed46b8f8af9fea","type":"file","file":"99. attachments/BLUE_PRINCE_92DgPwW9Li.png","x":-2320,"y":2300,"width":398,"height":74,"color":"3"},
 		{"id":"66e979f154eee398","type":"file","file":"99. attachments/BLUE_PRINCE_4885UkO5vc.png","x":2040,"y":2580,"width":400,"height":225},
 		{"id":"a2c5a8cf6588966f","type":"file","file":"99. attachments/BLUE_PRINCE_DDaSHERrUi.png","x":2000,"y":2540,"width":400,"height":225},
 		{
@@ -371,26 +346,6 @@
 			"color":"6"
 		},
 		{"id":"d0e9510b80d6569b","type":"file","file":"99. attachments/BLUE_PRINCE_uGSe1MS632.png","x":-320,"y":2337,"width":760,"height":1308},
-		{
-			"id":"bdbe2845310015c2",
-			"type":"text",
-			"text":"# Big Word Phrase\n\n\nPAST WE SEEK WHAT'S LEFT\nOF THE LIES WE CAST",
-			"styleAttributes":{},
-			"x":-2840,
-			"y":1070,
-			"width":1120,
-			"height":580
-		},
-		{
-			"id":"e3a915107887641f",
-			"type":"text",
-			"text":"# Painting Character Phrase\n\nHEWAM\nBLE_T",
-			"styleAttributes":{},
-			"x":-2840,
-			"y":520,
-			"width":1120,
-			"height":520
-		},
 		{
 			"id":"3923714e0a3c153d",
 			"type":"text",
@@ -615,7 +570,7 @@
 		{
 			"id":"f6831a5002a1a32e",
 			"type":"text",
-			"text":"### Room 1-4 =  Pantry (21)\n\nHarpoon - Harpon = O **????**\nWE\n![[BLUE_PRINCE_VWVfk9psxX.png]]\n![[BLUE_PRINCE_1ry6eZAXo9.png]]\n\n\n",
+			"text":"### Room 1-4 =  Pantry (21)\n\nSharp - Harp = S\nWE\n![[BLUE_PRINCE_VWVfk9psxX.png]]\n![[BLUE_PRINCE_1ry6eZAXo9.png]]\n\n\n",
 			"styleAttributes":{},
 			"x":2600,
 			"y":-260,
@@ -1174,7 +1129,7 @@
 		{
 			"id":"8c44404e15ea47c6",
 			"type":"text",
-			"text":"### Room 4-2 =  Kitchen\n\nPier - Pie = R\n\n![[BLUE_PRINCE_IfRuC7P4qS.png]]\n![[BLUE_PRINCE_frJS3Ec0uH.png]]",
+			"text":"### Room 4-2 =  Kitchen\n\nPier - Pie = R\nTO\n![[BLUE_PRINCE_IfRuC7P4qS.png]]\n![[BLUE_PRINCE_frJS3Ec0uH.png]]",
 			"styleAttributes":{},
 			"x":160,
 			"y":-4780,
@@ -1459,7 +1414,7 @@
 		{
 			"id":"a7bebdbb19e40174",
 			"type":"text",
-			"text":"### Room 5-2 =  Trophy Room (019)\nCrate Dock?\nRIGHT\n![[BLUE_PRINCE_DWD9dpkCrr.png]]\n![[BLUE_PRINCE_ZRaUGSGpyP.png]]\n\n\n",
+			"text":"### Room 5-2 =  Trophy Room (019)\n\nLaunch - Lunch = A\nRIGHT\n![[BLUE_PRINCE_DWD9dpkCrr.png]]\n![[BLUE_PRINCE_ZRaUGSGpyP.png]]\n\n\n",
 			"styleAttributes":{},
 			"x":160,
 			"y":-6280,
@@ -1501,7 +1456,7 @@
 		{
 			"id":"8d12d3b98545b309",
 			"type":"text",
-			"text":"### Room 6-2 - Passageway\n\nOF\n![[BLUE_PRINCE_7UeZG7qO51.png]]\n![[BLUE_PRINCE_jvb07dUzvZ.png]]\n",
+			"text":"### Room 6-2 - Passageway\nOpen - Pen = O\nOF\n![[BLUE_PRINCE_7UeZG7qO51.png]]\n![[BLUE_PRINCE_jvb07dUzvZ.png]]\n",
 			"styleAttributes":{},
 			"x":160,
 			"y":-7780,
@@ -1563,7 +1518,7 @@
 		{
 			"id":"9b906e28c74c907d",
 			"type":"text",
-			"text":"### Room 5-3 =  Foundation (001)\n\n??\nA\n![[BLUE_PRINCE_7D4vklJyxZ.png]]\n\n![[BLUE_PRINCE_MN8rK94Klh.png]]\n",
+			"text":"### Room 5-3 =  Foundation (001)\n\nStream - Steam = R\nA\n![[BLUE_PRINCE_7D4vklJyxZ.png]]\n\n![[BLUE_PRINCE_MN8rK94Klh.png]]\n",
 			"styleAttributes":{},
 			"x":1380,
 			"y":-6280,
@@ -1766,7 +1721,7 @@
 		{
 			"id":"6b48d09278dc3273",
 			"type":"text",
-			"text":"### Room 7-1 =  Gymnasiun\n\nTO\n![[BLUE_PRINCE_er99RAlcxE.png]]\n![[BLUE_PRINCE_o7hb303lxU.png]]\n\n",
+			"text":"### Room 7-1 =  Gymnasiun\nPlace - Lace = L\nTO\n![[BLUE_PRINCE_er99RAlcxE.png]]\n![[BLUE_PRINCE_o7hb303lxU.png]]\n\n",
 			"styleAttributes":{},
 			"x":-1060,
 			"y":-9280,
@@ -2007,7 +1962,7 @@
 		{
 			"id":"a385010fc1a5a440",
 			"type":"text",
-			"text":"### Room 7-2 - Laundry Room\n\nFIND\n![[BLUE_PRINCE_R3TotYr0lI 1.png]]\n![[BLUE_PRINCE_xZODlM0XXE.png]]\n\n",
+			"text":"### Room 7-2 - Laundry Room\n\nPLIER - PIER = L\nFIND\n![[BLUE_PRINCE_R3TotYr0lI 1.png]]\n![[BLUE_PRINCE_xZODlM0XXE.png]]\n\n",
 			"styleAttributes":{},
 			"x":160,
 			"y":-9280,
@@ -2028,7 +1983,7 @@
 		{
 			"id":"190ebe64e5f35974",
 			"type":"text",
-			"text":"### Room 7-3 - Guest Bedroom\nPawn\nOUR\n![[BLUE_PRINCE_Nd7GSxIGmi 1.png]]\n![[BLUE_PRINCE_BKpX9QmXJp.png]]\n\n",
+			"text":"### Room 7-3 - Guest Bedroom\nPawn\nSteam - Stem = A\nOUR\n![[BLUE_PRINCE_Nd7GSxIGmi 1.png]]\n![[BLUE_PRINCE_BKpX9QmXJp.png]]\n\n",
 			"styleAttributes":{},
 			"x":1380,
 			"y":-9280,
@@ -2080,7 +2035,7 @@
 		{
 			"id":"937a0ae2dd1723c4",
 			"type":"text",
-			"text":"### Room 7-4 - Conference Room (043)\n\nPATH\n![[BLUE_PRINCE_LeOjSTmSjz.png]]\n![[BLUE_PRINCE_LbvG0bTB6A.png]]\n",
+			"text":"### Room 7-4 - Conference Room (043)\nBarn - Bar = N\nPATH\n![[BLUE_PRINCE_LeOjSTmSjz.png]]\n![[BLUE_PRINCE_LbvG0bTB6A.png]]\n",
 			"styleAttributes":{},
 			"x":2600,
 			"y":-9280,
@@ -2113,7 +2068,7 @@
 		{
 			"id":"b5c9c48ec4000da8",
 			"type":"text",
-			"text":"### Room 7-5 =  Den (017)\nPawn\n\nA\n![[BLUE_PRINCE_4iLL5uzKWV.png]]\n![[BLUE_PRINCE_y6UGBHZzhN.png]]",
+			"text":"### Room 7-5 =  Den (017)\nPawn\nSpike - Pike = S\nA\n![[BLUE_PRINCE_4iLL5uzKWV.png]]\n![[BLUE_PRINCE_y6UGBHZzhN.png]]",
 			"styleAttributes":{},
 			"x":3820,
 			"y":-9280,
@@ -2197,52 +2152,57 @@
 		{
 			"id":"51c4a9877b57ed47",
 			"type":"text",
-			"text":"### Room 1-1 =  Template\nRook\nBear - Ear = B!\nOF\n![[BLUE_PRINCE_KD4tjkQfKw 1.png]]\n\n![[BLUE_PRINCE_p58k7LK2A5.png]]\n",
+			"text":"### Room 8-3 - Servant's Quarter\nBait - Bat = I\nTINT\n![[BLUE_PRINCE_qJrocY7PKT.png]]\n![[BLUE_PRINCE_2qoxG8yUKD 2.png]]\n\n",
 			"styleAttributes":{},
 			"x":1380,
 			"y":-10780,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"6"
 		},
 		{
 			"id":"9b9cb774b8389193",
 			"type":"text",
-			"text":"### Room 1-1 =  Template\nRook\nBear - Ear = B!\nOF\n![[BLUE_PRINCE_KD4tjkQfKw 1.png]]\n\n![[BLUE_PRINCE_p58k7LK2A5.png]]\n",
+			"text":"### Room 8-4 = Pump Room (033)\nPin - Pi = N\nOF\n![[BLUE_PRINCE_mzg1xw2Xk4.png]]\n![[BLUE_PRINCE_4MvT6Wuvtl.png]]\n\n\n",
 			"styleAttributes":{},
 			"x":2600,
 			"y":-10780,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"5"
 		},
 		{
 			"id":"3fedc1937b04772f",
 			"type":"text",
-			"text":"### Room 8-5 - Furnace\nGlobe - Lobe = G\n\n\n![[BLUE_PRINCE_mWAT0qZSPe.png]]\n\n\n",
+			"text":"### Room 8-5 - Furnace\nGlobe - Lobe = G\nTRUTH\n![[BLUE_PRINCE_DYHBTvMBLi.png]]\n![[BLUE_PRINCE_mWAT0qZSPe.png]]\n\n\n",
 			"styleAttributes":{},
 			"x":3820,
 			"y":-10780,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"1"
 		},
 		{
 			"id":"7173baeda8ea2499",
 			"type":"text",
-			"text":"### Room 1-1 =  Template\nRook\nBear - Ear = B!\nOF\n![[BLUE_PRINCE_KD4tjkQfKw 1.png]]\n\n![[BLUE_PRINCE_p58k7LK2A5.png]]\n",
+			"text":"### Room 8-1 - Foyer\nNovel - Noel = V?\nCAST\n![[BLUE_PRINCE_2poJBK5MHp.png]]\n![[BLUE_PRINCE_XF0VhEWSOO.png]]\n\n",
 			"styleAttributes":{},
 			"x":-1060,
 			"y":-10780,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"2"
 		},
 		{
 			"id":"5042a628eb223b51",
 			"type":"text",
-			"text":"### Room 1-1 =  Template\nRook\nBear - Ear = B!\nOF\n![[BLUE_PRINCE_KD4tjkQfKw 1.png]]\n\n![[BLUE_PRINCE_p58k7LK2A5.png]]\n",
+			"text":"### Room 8-2 - The Pool (029)\n\nYear - Ear = Y\nA\n![[BLUE_PRINCE_4R4MlSARS6.png]]\n![[BLUE_PRINCE_WOV1Lac5un.png]]\n\n\n",
 			"styleAttributes":{},
 			"x":160,
 			"y":-10780,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"5"
 		},
 		{
 			"id":"14f92933c1540524",
@@ -2540,52 +2500,57 @@
 		{
 			"id":"6fb56bfcdbac0fce",
 			"type":"text",
-			"text":"### Room 1-1 =  Template\nRook\nBear - Ear = B!\nOF\n![[BLUE_PRINCE_KD4tjkQfKw 1.png]]\n\n![[BLUE_PRINCE_p58k7LK2A5.png]]\n",
+			"text":"### Room 9-5 - Aquarium (044)\nLeash - Lash = E\nSKETCHES\n![[BLUE_PRINCE_rKoJTv85Wm.png]]\n![[BLUE_PRINCE_hSCIUNaV4p.png]]\n\n\n",
 			"styleAttributes":{},
 			"x":3820,
 			"y":-12280,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"5"
 		},
 		{
 			"id":"1bbfe23523916ee9",
 			"type":"text",
-			"text":"### Room 1-1 =  Template\nRook\nBear - Ear = B!\nOF\n![[BLUE_PRINCE_KD4tjkQfKw 1.png]]\n\n![[BLUE_PRINCE_p58k7LK2A5.png]]\n",
+			"text":"### Room 9-1 - Archives\nTROT - ROT = T\nTHROUGH\n![[BLUE_PRINCE_twI5GSmeET.png]]\n![[BLUE_PRINCE_H0iIliqfu5.png]]\n",
 			"styleAttributes":{},
 			"x":-1060,
 			"y":-12280,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"1"
 		},
 		{
 			"id":"466935b08a976475",
 			"type":"text",
-			"text":"### Room 1-1 =  Template\nRook\nBear - Ear = B!\nOF\n![[BLUE_PRINCE_KD4tjkQfKw 1.png]]\n\n![[BLUE_PRINCE_p58k7LK2A5.png]]\n",
+			"text":"### Room 9-2 - Chapel\nBishop\nThree - Tree = H\nLANTERN\n![[BLUE_PRINCE_oY4huUZVkf.png]]\n![[BLUE_PRINCE_W4E6E9Z0It.png]]\n\n\n",
 			"styleAttributes":{},
 			"x":160,
 			"y":-12280,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"1"
 		},
 		{
 			"id":"be0dcb10bbe30fdd",
 			"type":"text",
-			"text":"### Room 1-1 =  Template\nRook\nBear - Ear = B!\nOF\n![[BLUE_PRINCE_KD4tjkQfKw 1.png]]\n\n![[BLUE_PRINCE_p58k7LK2A5.png]]\n",
+			"text":"### Room 9-3 - Vestibule\n\nWine - Win = E\nLIGHT\n![[BLUE_PRINCE_8utFVLipYB.png]]\n![[BLUE_PRINCE_q33IwvRI0v.png]]\n\n\n\n",
 			"styleAttributes":{},
 			"x":1380,
 			"y":-12280,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"2"
 		},
 		{
 			"id":"68b56f0884b20ea8",
 			"type":"text",
-			"text":"### Room 1-1 =  Template\nRook\nBear - Ear = B!\nOF\n![[BLUE_PRINCE_KD4tjkQfKw 1.png]]\n\n![[BLUE_PRINCE_p58k7LK2A5.png]]\n",
+			"text":"### Room 9-4 - Coat Check (038)\n\nSpear - Pear = S\nIN\n![[BLUE_PRINCE_LJ98zB56mf.png]]\n![[BLUE_PRINCE_H6plBHzsji.png]]\n\n\n",
 			"styleAttributes":{},
 			"x":2600,
 			"y":-12280,
 			"width":820,
-			"height":1080
+			"height":1080,
+			"color":"5"
 		},
 		{
 			"id":"0d19a279d301882b",
@@ -2608,7 +2573,538 @@
 			"width":60,
 			"height":60,
 			"color":"3"
-		}
+		},
+		{
+			"id":"3252ca43743fbdd9",
+			"type":"text",
+			"text":"W\nA\nL\nL\n",
+			"styleAttributes":{},
+			"x":2600,
+			"y":-11200,
+			"width":80,
+			"height":420
+		},
+		{
+			"id":"dfe76c7c1ee60efe",
+			"type":"text",
+			"text":"P",
+			"styleAttributes":{},
+			"x":2980,
+			"y":-11020,
+			"width":60,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"256f7faf1c5b16a0",
+			"type":"text",
+			"text":"Entrance",
+			"styleAttributes":{},
+			"x":2880,
+			"y":-10840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"cb3ef7d6740255a9",
+			"type":"text",
+			"text":"W\nA\nL\nL\n",
+			"styleAttributes":{},
+			"x":2120,
+			"y":-12700,
+			"width":80,
+			"height":420
+		},
+		{
+			"id":"7c66d15a56ffce9c",
+			"type":"text",
+			"text":"WALL",
+			"styleAttributes":{},
+			"x":-1460,
+			"y":-12860,
+			"width":6580,
+			"height":160
+		},
+		{
+			"id":"32f43a35eea64fe1",
+			"type":"text",
+			"text":"P",
+			"styleAttributes":{},
+			"x":2980,
+			"y":-12520,
+			"width":60,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"c38d7cec5f326d3c",
+			"type":"text",
+			"text":"R",
+			"styleAttributes":{},
+			"x":4200,
+			"y":-12520,
+			"width":60,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"0cb9467c2ec9f030",
+			"type":"text",
+			"text":"P",
+			"styleAttributes":{},
+			"x":2370,
+			"y":-11770,
+			"width":60,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"67570225db990578",
+			"type":"text",
+			"text":"P",
+			"styleAttributes":{},
+			"x":3590,
+			"y":-11770,
+			"width":60,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"74ae7b1d5be18ba0",
+			"type":"text",
+			"text":"W\nA\nL\nL\n",
+			"styleAttributes":{},
+			"x":900,
+			"y":-11200,
+			"width":80,
+			"height":420
+		},
+		{
+			"id":"1721db8d06f6db9e",
+			"type":"text",
+			"text":"R",
+			"styleAttributes":{},
+			"x":1760,
+			"y":-11020,
+			"width":60,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"07fc3ae7c4780541",
+			"type":"text",
+			"text":"R",
+			"styleAttributes":{},
+			"x":1150,
+			"y":-10270,
+			"width":60,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"53f2b11b74335c0b",
+			"type":"text",
+			"text":"Wall",
+			"styleAttributes":{},
+			"x":980,
+			"y":-12280,
+			"width":400,
+			"height":60
+		},
+		{
+			"id":"381d6071a8ff561e",
+			"type":"text",
+			"text":"O",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-10270,
+			"width":60,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"24400b039f58ec99",
+			"type":"text",
+			"text":"R",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-11770,
+			"width":60,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"88fceb2730c8b78f",
+			"type":"text",
+			"text":"O",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-11020,
+			"width":60,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"70eab16521cf3e2b",
+			"type":"text",
+			"text":"R",
+			"styleAttributes":{},
+			"x":540,
+			"y":-11020,
+			"width":60,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"1045de9146aad936",
+			"type":"text",
+			"text":"R",
+			"styleAttributes":{},
+			"x":-1280,
+			"y":-11770,
+			"width":60,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"4b1ad6b0b93bd188",
+			"type":"text",
+			"text":"O",
+			"styleAttributes":{},
+			"x":-680,
+			"y":-12520,
+			"width":60,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"ef58147a43dc9e3e",
+			"type":"text",
+			"text":"O",
+			"styleAttributes":{},
+			"x":540,
+			"y":-12520,
+			"width":60,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"b33bf5fb9b313f6e",
+			"type":"text",
+			"text":"W\nA\nL\nL\n",
+			"styleAttributes":{},
+			"x":1380,
+			"y":-12700,
+			"width":80,
+			"height":420
+		},
+		{
+			"id":"834392a1925bc5bc",
+			"type":"text",
+			"text":"O",
+			"styleAttributes":{},
+			"x":1150,
+			"y":-11770,
+			"width":60,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"373c44031ca13c28",
+			"type":"text",
+			"text":"Entrance",
+			"styleAttributes":{},
+			"x":440,
+			"y":-10840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"31ce51a340884a71",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":100,
+			"y":-10360,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"077c777874fb6d49",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":980,
+			"y":-10360,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"88fa540167d3f8ae",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-10360,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"ee935797e4e9f9df",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-10360,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"8a1cf96d80befecd",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-11860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"53b591ab6f851329",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-11860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"7ef06a713e6306b1",
+			"type":"text",
+			"text":"Entrance",
+			"styleAttributes":{},
+			"x":-780,
+			"y":-11200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9be0d64da6013f76",
+			"type":"text",
+			"text":"Entrance",
+			"styleAttributes":{},
+			"x":-780,
+			"y":-12340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d4a7bd2d42a8706d",
+			"type":"text",
+			"text":"Entrance",
+			"styleAttributes":{},
+			"x":440,
+			"y":-12340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6a31490ffc44180d",
+			"type":"text",
+			"text":"Entrance",
+			"styleAttributes":{},
+			"x":440,
+			"y":-11200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8e426e17deb32450",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":980,
+			"y":-11860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"bfc3fcf75d33296e",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":3420,
+			"y":-11860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"976fd7f21d1e969d",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":3760,
+			"y":-11860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"85ea2782ee59fee1",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":4640,
+			"y":-11860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"e1c67c5d041bfb16",
+			"type":"text",
+			"text":"Entrance",
+			"styleAttributes":{},
+			"x":4100,
+			"y":-12340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fb6e5e83732e18c4",
+			"type":"text",
+			"text":"# Big Word Phrase\n\nTHROUGH LANTERN LIGHT IN SKETCHES\nCAST A TINT OF TRUTH\nTO FIND OUR PATH A\nHUE OF WISDOM TO TURN\nUS RIGHT A SHADE OF\nRAIN TO PASS THE LIGHT\nTHROUGH LANTERN LIGHT IN SHADOWS\nPAST WE SEEK WHAT'S LEFT\nOF THE LIES WE CAST",
+			"styleAttributes":{},
+			"x":-4320,
+			"y":-12040,
+			"width":1120,
+			"height":360
+		},
+		{
+			"id":"086c517276f13e10",
+			"type":"text",
+			"text":"# Gallery Puzzle",
+			"styleAttributes":{},
+			"x":-3800,
+			"y":-11350,
+			"width":700,
+			"height":80,
+			"color":"3"
+		},
+		{"id":"c5d280a02f0a714f","type":"file","file":"99. attachments/BLUE_PRINCE_92DgPwW9Li.png","x":-3800,"y":-10730,"width":398,"height":74,"color":"3"},
+		{"id":"5d9105d84e43cb36","type":"file","file":"99. attachments/BLUE_PRINCE_ebL6jNFHY9.png","x":-3800,"y":-11150,"width":400,"height":118,"color":"3"},
+		{"id":"3fa9b9b0ace618f8","type":"file","file":"99. attachments/BLUE_PRINCE_2pnxL0dT13.png","x":-3800,"y":-10850,"width":398,"height":81,"color":"3"},
+		{"id":"c6655980426c14f7","type":"file","file":"99. attachments/BLUE_PRINCE_Gepj6ddjxT.png","x":-3800,"y":-10990,"width":398,"height":91,"color":"3"},
+		{
+			"id":"c15ecbd95948c08d",
+			"type":"text",
+			"text":"# Painting Character Phrase\nTHESE\nVYING\nPLANS\nFORGE\nBARON\nCREST\nAMONG\nHEWAM\nBLEST",
+			"styleAttributes":{},
+			"x":-4320,
+			"y":-12590,
+			"width":1120,
+			"height":520
+		},
+		{
+			"id":"314bdaeb7dc9195c",
+			"type":"text",
+			"text":"# AMONG",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-2770,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"80d8f0f68ba679e8",
+			"type":"text",
+			"text":"# CREST",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-4270,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8cde69431fd6b9c8",
+			"type":"text",
+			"text":"# HEWAM",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-1250,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e035bd9666c532b7",
+			"type":"text",
+			"text":"# BLEST",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":250,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"da737924bc3a64e2",
+			"type":"text",
+			"text":"# BARON",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-5770,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f8a63d0fb3059f0e",
+			"type":"text",
+			"text":"# FORGE",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-7270,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"27763522ebb9aa16",
+			"type":"text",
+			"text":"# Tracker\n- [x] 1-3 needs Vase check with Sledgehammer - Nothing\n- 2-3 - Gallery has new words to complete\n",
+			"styleAttributes":{},
+			"x":-5200,
+			"y":-11480,
+			"width":1160,
+			"height":448
+		},
+		{
+			"id":"d93501341499eae8",
+			"type":"text",
+			"text":"# VYING",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-10270,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9dd8e7c5115cfec0",
+			"type":"text",
+			"text":"# THESE",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-11770,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"15392c89f8c6042f",
+			"type":"text",
+			"text":"# PLANS",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-8770,
+			"width":260,
+			"height":60
+		},
+		{"id":"3cd0da576a3f11c3","type":"file","file":"99. attachments/BLUE_PRINCE_HQRZCJATwn.png","x":-2030,"y":1760,"width":1580,"height":889}
 	],
 	"edges":[
 		{

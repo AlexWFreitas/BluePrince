@@ -1,3 +1,30 @@
+Day 154
+- I think I finished mapping the two messages in the Mount Holly Blueprints Rough Draft
+	- THROUGH LANTERN LIGHT IN SKETCHES
+		CAST A TINT OF TRUTH
+		TO FIND OUR PATH A
+		HUE OF WISDOM TO TURN
+		US RIGHT A SHADE OF
+		RAIN TO PASS THE LIGHT
+		THROUGH LANTERN LIGHT IN SHADOWS
+		PAST WE SEEK WHAT'S LEFT
+		OF THE LIES WE CAST
+	- THESE
+		D/VYING
+		PLANS
+		FORGE
+		BARON
+		CREST
+		AMONG
+		HEWAM
+		BLEST
+- I did not finish the Gallery words, I don't think I can solve it very easily.
+- There are a few theories I think
+	- I can try to create a House with the same rooms as the one shown in the Blueprints Draft and then try to use the Furnace to craft a Baron Crest or something
+	- I can try to set the Secret Garden into the Moon Position and then get a Moon Pendant and try to explore the Blueprints Area again to see if anything changes
+	- I can try to make a path through the Lanterns in the Blueprint Area to reach the Moon door at the Vestibule.
+		- Like there is some condition such as starting on Green, then Purple, until we make a Prism
+		- Or only go through Blue Lanterns until the end.
 
 Day 151
 - Mapped the first two rows of Mount Holly Blueprints area
