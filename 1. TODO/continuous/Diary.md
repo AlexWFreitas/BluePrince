@@ -1,4 +1,8 @@
 
+Day 151
+- Mapped the first two rows of Mount Holly Blueprints area
+- It's very fun.
+
 Day 149
 - I was able to pull the blue book in the Secret Passage at the Outer Room
 - I found a room named The Atelier, where Baroness Auravel made the early designs for the 45 Rooms of the Mount Holly Estate
