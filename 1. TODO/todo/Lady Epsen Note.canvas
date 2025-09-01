@@ -87,26 +87,6 @@
 			"height":140
 		},
 		{
-			"id":"138c2c0a53fa555c",
-			"type":"text",
-			"text":"Dauvenja - End of Yesterday / Last Day?\n\n**Ulraajoram - Your first name large**\n\nNai Dau = Night Day ( Eclipse? )\n\nLorlu Raadau - You are not word night",
-			"styleAttributes":{},
-			"x":250,
-			"y":-1100,
-			"width":300,
-			"height":280
-		},
-		{
-			"id":"e9d2292d190a3ea1",
-			"type":"text",
-			"text":"Eraja Nai - Eraja Night\n\n**Elcountvo - Me Count Away**\n\nLeavelu - Leave you not\n\nLe - I am not\n",
-			"styleAttributes":{},
-			"x":250,
-			"y":-760,
-			"width":300,
-			"height":200
-		},
-		{
 			"id":"533c53d70bf28f2b",
 			"type":"text",
 			"text":"Inn Ett Iss - North East South\n\nEtt Trei - East Tree\n\n**Ajinn Ett Ovtrei Issja Treivo -** \n**First East Toward Tree, South Last Away From Tree**\n\nMainn Ettam Matrei Ettiss Maorr - \nSmall North, Long East, Small Tree, South East, Small West",
@@ -129,7 +109,29 @@
 		{"id":"e363d67224f0371b","type":"file","file":"99. attachments/Obsidian_uVeQAnmM0a.png","x":-1000,"y":-1620,"width":305,"height":400},
 		{"id":"3ce55cc1ab26415e","type":"file","file":"99. attachments/Obsidian_819jUunvBf.png","x":-640,"y":-1691,"width":400,"height":201},
 		{"id":"ad9c1a76baf5f3ff","type":"file","file":"99. attachments/Obsidian_ouwvVNJ06y.png","x":-210,"y":-1485,"width":400,"height":211},
-		{"id":"a4fe3271c0640243","type":"file","file":"99. attachments/BLUE_PRINCE_wiCSyH5HOZ.png","x":-2660,"y":-2140,"width":1636,"height":920}
+		{"id":"a4fe3271c0640243","type":"file","file":"99. attachments/BLUE_PRINCE_wiCSyH5HOZ.png","x":-2660,"y":-2140,"width":1636,"height":920},
+		{
+			"id":"138c2c0a53fa555c",
+			"type":"text",
+			"text":"Dauvenja - End of Yesterday / Last Day?\n\n**Ulraajoram - Your first name large**\n\nNai Dau = Night Day ( Eclipse? )\n\nLorlu Raadau - You are not word night",
+			"styleAttributes":{},
+			"x":600,
+			"y":-1770,
+			"width":300,
+			"height":280
+		},
+		{
+			"id":"e9d2292d190a3ea1",
+			"type":"text",
+			"text":"Eraja Nai - Eraja Night\n\n**Elcountvo - Me Count Away**\n\nLeavelu - Leave you not\n\nLe - I am not\n",
+			"styleAttributes":{},
+			"x":600,
+			"y":-1430,
+			"width":300,
+			"height":200
+		},
+		{"id":"a332153aaf4d3948","type":"file","file":"99. attachments/BLUE_PRINCE_0nR8VhD3PL.png","x":160,"y":-1179,"width":400,"height":225,"color":"4"},
+		{"id":"a2989f9694860433","type":"file","file":"99. attachments/BLUE_PRINCE_sFylG1gso1.png","x":160,"y":-905,"width":400,"height":225}
 	],
 	"edges":[],
 	"metadata":{

@@ -1,0 +1,56 @@
+{
+	"nodes":[
+		{"id":"9b24b4212da52d55","type":"file","file":"99. attachments/BLUE_PRINCE_JhTzoP5IVz.png","x":-920,"y":-560,"width":1120,"height":630},
+		{"id":"47e8ae5834a71d99","type":"file","file":"99. attachments/BLUE_PRINCE_KJ3B4WtHwc.png","x":-920,"y":100,"width":1120,"height":630},
+		{
+			"id":"8350e0329cce517a",
+			"type":"text",
+			"text":"# Room Info\n- Come from the [[Secret Passage.canvas|Secret Passage]] placed in the [[Outer Room.canvas|Outer Room]]",
+			"styleAttributes":{},
+			"x":-920,
+			"y":-780,
+			"width":900,
+			"height":140
+		},
+		{"id":"ce1917361001b352","type":"file","file":"99. attachments/BLUE_PRINCE_Se5Z1sg9OH.png","x":-920,"y":760,"width":1120,"height":630},
+		{"id":"0b029efd26e09829","type":"file","file":"99. attachments/BLUE_PRINCE_UQHVuESq3S.png","x":240,"y":100,"width":1120,"height":630},
+		{"id":"38a27ca65e131e6d","type":"file","file":"99. attachments/BLUE_PRINCE_HqjTiRVbMV.png","x":1380,"y":100,"width":1120,"height":630},
+		{"id":"43c4835099df612f","type":"file","file":"99. attachments/BLUE_PRINCE_aJmagioVko.png","x":240,"y":760,"width":1120,"height":630},
+		{"id":"ec194906302d0e69","type":"file","file":"99. attachments/BLUE_PRINCE_hLzEPsuIqs.png","x":1380,"y":760,"width":1120,"height":630},
+		{"id":"2ddaa477767ff2bb","type":"file","file":"99. attachments/BLUE_PRINCE_igq2Mhll4o.png","x":-920,"y":1440,"width":1120,"height":630},
+		{"id":"f692964d70982ba3","type":"file","file":"99. attachments/BLUE_PRINCE_lL9fCe9DJP.png","x":240,"y":1440,"width":1120,"height":630},
+		{"id":"4f3e6b25d9de26be","type":"file","file":"99. attachments/BLUE_PRINCE_alCVasRbpq.png","x":1380,"y":1440,"width":1120,"height":630},
+		{"id":"89c6a50cd26ab768","type":"file","file":"99. attachments/BLUE_PRINCE_nZbsnf2oxJ.png","x":-920,"y":2100,"width":1120,"height":630},
+		{"id":"1d44b5c61470f906","type":"file","file":"99. attachments/BLUE_PRINCE_XzjpIPBhaR.png","x":240,"y":2100,"width":1120,"height":630},
+		{"id":"570e912dad305fc6","type":"file","file":"99. attachments/BLUE_PRINCE_kXZIAlVKEf.png","x":1380,"y":2100,"width":1120,"height":630},
+		{"id":"24be068358646afc","type":"file","file":"99. attachments/BLUE_PRINCE_jc6bfswfCB.png","x":240,"y":-560,"width":1120,"height":630},
+		{"id":"4b3b5d13690a4063","type":"file","file":"99. attachments/BLUE_PRINCE_m1FpbzY9zr.png","x":1380,"y":-560,"width":1120,"height":630},
+		{"id":"c35c55b65988e2bd","type":"file","file":"99. attachments/BLUE_PRINCE_L1oKLiIkHP.png","x":-920,"y":2960,"width":1120,"height":630},
+		{"id":"3add566a5809bb91","type":"file","file":"99. attachments/BLUE_PRINCE_yjbPtyCjaR.png","x":240,"y":2960,"width":1120,"height":630},
+		{
+			"id":"368b25688cd36b4e",
+			"type":"text",
+			"text":"# [[Mount Holly Blueprints.canvas|Mount Holly Blueprints]]",
+			"styleAttributes":{},
+			"x":1560,
+			"y":3205,
+			"width":420,
+			"height":140
+		}
+	],
+	"edges":[
+		{
+			"id":"0b2d462624fd7526",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3add566a5809bb91",
+			"fromSide":"right",
+			"toNode":"368b25688cd36b4e",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

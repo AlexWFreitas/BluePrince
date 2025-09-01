@@ -21,6 +21,17 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"332d0334806956c1",
+			"type":"text",
+			"text":"[[The Armory.canvas|The Armory]]",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-300,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[],

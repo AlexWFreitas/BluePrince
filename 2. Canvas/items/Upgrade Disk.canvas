@@ -88,39 +88,6 @@
 			"color":"4"
 		},
 		{
-			"id":"a2dbd3d9118bd958",
-			"type":"text",
-			"text":"[[Great Hall.canvas|Great Hall]]",
-			"styleAttributes":{},
-			"x":-740,
-			"y":400,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"e6f41fcc63d2af1b",
-			"type":"text",
-			"text":"[[Commissary.canvas|Commissary]]",
-			"styleAttributes":{},
-			"x":-740,
-			"y":480,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"00776eb920ea8c68",
-			"type":"text",
-			"text":"[[Trading Post.canvas|Trading Post]] - Trade Expensive Item",
-			"styleAttributes":{},
-			"x":-740,
-			"y":560,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"43e061bf2a7f3711",
 			"type":"text",
 			"text":"[[Archives.canvas|Archives]] - [[Archives Marked Spot Puzzle.canvas|Archives Marked Spot Puzzle]]",
@@ -140,7 +107,75 @@
 			"y":-600,
 			"width":320,
 			"height":160
-		}
+		},
+		{
+			"id":"ca2c5c2eb987d969",
+			"type":"text",
+			"text":"[[040 - Freezer.canvas|040 - Freezer]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":300,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a2dbd3d9118bd958",
+			"type":"text",
+			"text":"[[Great Hall.canvas|Great Hall]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":380,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"85aec305a4aa74cb",
+			"type":"text",
+			"text":"[[Tomb.canvas|Tomb]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":460,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e6f41fcc63d2af1b",
+			"type":"text",
+			"text":"[[Commissary.canvas|Commissary]]",
+			"styleAttributes":{},
+			"x":-740,
+			"y":920,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"00776eb920ea8c68",
+			"type":"text",
+			"text":"[[Trading Post.canvas|Trading Post]] - Trade Expensive Item",
+			"styleAttributes":{},
+			"x":-740,
+			"y":1000,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"f57c2ea057bdd763",
+			"type":"text",
+			"text":"[[Morning Room.canvas|Morning Room]] ??",
+			"styleAttributes":{},
+			"x":-740,
+			"y":840,
+			"width":260,
+			"height":60
+		},
+		{"id":"11be7da2bde84c40","type":"file","file":"99. attachments/BLUE_PRINCE_IpIVIkkR0J.png","x":-220,"y":380,"width":1220,"height":686},
+		{"id":"5de2c37d56c39685","type":"file","file":"99. attachments/BLUE_PRINCE_TqvaJky793.png","x":-220,"y":1120,"width":1220,"height":686},
+		{"id":"9d17d5e41494ea78","type":"file","file":"99. attachments/BLUE_PRINCE_G2pW3v97mA.png","x":-220,"y":-340,"width":1220,"height":686}
 	],
 	"edges":[
 		{

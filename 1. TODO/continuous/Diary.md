@@ -1,4 +1,137 @@
 
+Day 149
+- I was able to pull the blue book in the Secret Passage at the Outer Room
+- I found a room named The Atelier, where Baroness Auravel made the early designs for the 45 Rooms of the Mount Holly Estate
+- Behind it there is a Rough Draft of the Mansion with 45 Rooms divided in a 9x5 grid.
+	- The grid feels bigger than that because there are hallways between each room, both horizontally and vertically.
+	- At least when thinking about vertical columns, it seems there are at least 11 columns.
+	- When thinking horizontally, it should be 9 + 8 + 2 rows or 19 rows.
+	- Maybe this is like 19x11 grid?
+- It seems that this is the final area
+- Walking between rooms in this place uses steps, so exploration will be slow.
+
+Day 148
+- ...
+
+Day 147
+- I was able to use the Watering Can with still water on the Blank Book in the Outer Room Secret Passage
+	- But I pulled the green book instead.
+- Next 2 days are getting a new Secret Passage.
+
+Day 146
+- Drafted a Secret Passage and died in it for the Outer Room.
+
+Day 145
+- Drafted a Trading Post and used the Coat Check to get the Watering Can and refill it with the water from the Still
+- Stored the Watering Can in the Coat Check and died
+
+Day 144
+- Drafted the Secret Passage in the Outer Room
+	- Found a White Book inside it
+		- Going by the message that still water tints blank books, I need to water it with the watering can
+		- I tried getting the Blue Scepter and Blue Crown and going into the room, but nothing happens
+- I got a new watering can into the Coat Check and ended the run.
+
+Day 143
+- Drafted Shrine and got Monk Blessing
+- Drafted a Secret Passage
+- Obtained a Prism Key from the Freezer with Armory Torch
+- Ended the run at the Secret Passage
+
+Day 142
+- I tried to draft the Secret Passage at the West Wing, but I wasn't able to even after using the Cloister of Draxus
+	- Thus the idea of drafting the room at the west wing is incorrect
+- I got a Prism Key but lost it lmao due to lack of steps...
+- Since I think the secret is related to the water river / spring that flows out of the house and goes toward west, I will try to get Monk Blessing and get the Secret Passage into the Outer Room again just to check.
+
+Day 141
+- Drafted the Trading Post in the Outer Room
+	- The Trading Post has still water
+		- The water is inside the still
+		- I think this should be the one
+- Staff announcement showed a message about finding something buried under the grill in the Patio, but I already found it.
+- I retrieved the Watering Can and brought it to the still in the Trading Post
+	- I was able to refill the Watering Can with the water from the Trading Post still
+- I took the Watering Can to a Library and was able to water the two blank books.
+	- One of them had a message about a secret being hidden by the west springs
+		- The words west spring, secret and passage were more evident than the rest.
+		- I think I need to place a Secret Passage oriented to the west wing at the second row, which is where the spring water leaves.
+	- The other book had a grid of the mansion, one place was more blurred than the rest
+	- There was a message talking about a hidden hue, a prism, three colors and a something about a hidden one.
+		- I think this is related to the usage of Prism Key, I don't know if I need to use it from a locked door in a blackprint room or if I need to use the Prism Key at an specific place.
+		- I might need to use Number Core to understand this message.
+	- There is also a message saying Tended Rose Vine
+		- I tried to translate from Number Core Theory and I wasn't able to, so maybe this refers to something else.
+- My plan is to store the Prism Key in the Coat Check and try to draft the Secret Passage at the second row of the House on the west wing extremity
+- I ended the day at the Planetarium
+
+Day 140
+- I am cursed, but have 70 steps
+- I drafted a Hovel in the Outer Room
+	- There is no still water in the Hovel.
+- The Wine Cellar has no still water.
+- Not much progress though.
+	- I should be uncursed tomorrow.
+
+
+Day 139
+- Drafted a Root Cellar in the Outer Room
+	- The root cellar does have still water.
+- Also I drafted a Greenhouse and there is an item that can be used to water things
+	- Watering Can
+	- I guess I can try to refill it with the still water and then use it on the Library?
+	- For now I am going to store the item in the Coat Check, since it seems relevant.
+- I got cursed by removing the Effigy from the Coat Check, so the run ends early.
+- I was trying to draft the Wine Cellar for a while though.
+
+Day 138
+- I drafted the Antechamber in the Outer Room
+	- I opened the moon door and the place is still the same, so there is no changes here.
+- I was able to solve the cipher message that was found in Vault 53
+	- It says that "Still Water Tints Blank Books"
+	- Blank books seems to refer to the blank books in the library
+	- Still water seems to refer to water that is staying still
+- I think I should take water from places where the water is still to the Library
+- But I have no way of taking water from one place to another except for the Pump Room.
+- For now I am going to visit areas I think might have still water.
+	- The Fountain at the grounds
+	- The Reservoir water
+	- The water things on The Grounds where the birds drink
+		- I think they are without water though, it's hard to see.
+	- I remember that the Root Cellar has a wooden bucket of water.
+	- I think Greenhouse has something too.
+	- I should check Wine Cellar
+	- Maybe The Pool
+		- Has some still water depending on level.
+	- Garage
+		- Has no still water.
+	- Secret Garden
+		- Has no still water in the buckets, but there is some in the water fountain?
+	- Laundry
+		- Has no still water.
+	- Lavatory
+		- Has no still water.
+	- Locker Room 
+		- No still water.
+	- Conservatory
+		- Has no water
+	- Courtyard
+		- Has no still water.
+	- I should check the Outer Rooms as well
+		- I think Root Cellar, Toolshed, Trading Post and Hovel might have still water.
+- I ended the run on the underground part of the Foundation to see what happens.
+
+Before Day 138
+- I am still thinking about the letter to Herbert mom
+- Looking at the family tree drawing, Herbert's mother is Baroness Auravel
+- The cipher puzzle was unlocked through the use of Family Core and Number Core theory
+- The place where I first learned the number core theory is at the file cabinet I found in the mining room
+	- The number core theory letter was sent to the Baroness
+		- This is probably the letter that the Baroness wanted to use on the cryptographic puzzle
+- Does this mean that I need to transform the cipher words into a number core?
+- The words have 4 letters each and a number core requires 4 numbers.
+- If each letter is a number, then I will be able to do a number core puzzle with them.
+
 Day 137
 - I was able to get a Shovel
 - Then drafted the Patio and Laundry Room
