@@ -293,7 +293,7 @@
 		{
 			"id":"67b06e0584e59553",
 			"type":"text",
-			"text":"# Info\n\n- Steps consumed are doubled?",
+			"text":"# Info\n",
 			"styleAttributes":{},
 			"x":-320,
 			"y":1760,
@@ -1721,7 +1721,7 @@
 		{
 			"id":"6b48d09278dc3273",
 			"type":"text",
-			"text":"### Room 7-1 =  Gymnasiun\nPlace - Lace = L\nTO\n![[BLUE_PRINCE_er99RAlcxE.png]]\n![[BLUE_PRINCE_o7hb303lxU.png]]\n\n",
+			"text":"### Room 7-1 =  Gymnasiun\nPlace - Lace = P\nTO\n![[BLUE_PRINCE_er99RAlcxE.png]]\n![[BLUE_PRINCE_o7hb303lxU.png]]\n\n",
 			"styleAttributes":{},
 			"x":-1060,
 			"y":-9280,
@@ -2976,7 +2976,7 @@
 			"styleAttributes":{},
 			"x":-4320,
 			"y":-12040,
-			"width":1120,
+			"width":400,
 			"height":360
 		},
 		{
@@ -2991,7 +2991,6 @@
 			"color":"3"
 		},
 		{"id":"c5d280a02f0a714f","type":"file","file":"99. attachments/BLUE_PRINCE_92DgPwW9Li.png","x":-3800,"y":-10730,"width":398,"height":74,"color":"3"},
-		{"id":"5d9105d84e43cb36","type":"file","file":"99. attachments/BLUE_PRINCE_ebL6jNFHY9.png","x":-3800,"y":-11150,"width":400,"height":118,"color":"3"},
 		{"id":"3fa9b9b0ace618f8","type":"file","file":"99. attachments/BLUE_PRINCE_2pnxL0dT13.png","x":-3800,"y":-10850,"width":398,"height":81,"color":"3"},
 		{"id":"c6655980426c14f7","type":"file","file":"99. attachments/BLUE_PRINCE_Gepj6ddjxT.png","x":-3800,"y":-10990,"width":398,"height":91,"color":"3"},
 		{
@@ -3105,19 +3104,6 @@
 			"height":60
 		},
 		{"id":"3cd0da576a3f11c3","type":"file","file":"99. attachments/BLUE_PRINCE_HQRZCJATwn.png","x":-2030,"y":1760,"width":1580,"height":889},
-		{"id":"2b44b9ddd4cacd97","type":"file","file":"99. attachments/BLUE_PRINCE_to0bcRl9Go.png","x":1130,"y":-14520,"width":1400,"height":788},
-		{"id":"b95e1987594a9b86","type":"file","file":"99. attachments/BLUE_PRINCE_0xsJG87uAV.png","x":2610,"y":-14520,"width":1401,"height":788},
-		{"id":"08a94bbdfe05777f","type":"file","file":"99. attachments/BLUE_PRINCE_pYFGmnFzqq.png","x":4080,"y":-14520,"width":1401,"height":788},
-		{
-			"id":"d1e32c91dcd46e7d",
-			"type":"text",
-			"text":"# Only go through Purple Lanterns",
-			"styleAttributes":{},
-			"x":1130,
-			"y":-14680,
-			"width":750,
-			"height":80
-		},
 		{
 			"id":"6543ad0f17756040",
 			"type":"text",
@@ -3145,6 +3131,172 @@
 			"styleAttributes":{},
 			"x":1660,
 			"y":-11200,
+			"width":260,
+			"height":60
+		},
+		{"id":"513fda2525c090d5","type":"file","file":"99. attachments/BLUE_PRINCE_dtMiUvKPkC.png","x":-4480,"y":-13360,"width":1260,"height":709},
+		{"id":"15a7cf5665ce6c95","type":"file","file":"99. attachments/BLUE_PRINCE_225Mz2AZeW.png","x":-3200,"y":-13360,"width":1260,"height":709},
+		{
+			"id":"88a45f640433518d",
+			"type":"text",
+			"text":"Entrance",
+			"styleAttributes":{},
+			"x":4100,
+			"y":-3700,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ef080cf937b1d0e6",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":4640,
+			"y":-5860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"7e5bc256afa31b09",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":3760,
+			"y":-5860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"5b50aa65474e99ab",
+			"type":"text",
+			"text":"# Interpretation\n- Through Lantern Light in Sketches\n- Cast a Tint of Truth\n- To find our path a\n\t- Blue is associated with tint of truth\n\t- Enter the room at the starting point of blue lantern\n\t- When exiting the rooms, to find a path, look at the lantern\n- A hue of wisdom to turn us right\n\t- Corarica is associated with Study and Wisdom\n\t- Turn right on orange lanterns?\n- A shade of rain to pass the light\n\t- Eraja - Rainy country?\n\t- Pass under the purple lanterns?\n- Through lantern light in shadows past \n\t- Go through otherwise?\n- we seek what's left of the lies we cast\n\t- Red is associated with lies\n\t\t- Such as the memo\n\t- Go left when seeing red lanterns?",
+			"styleAttributes":{},
+			"x":-3900,
+			"y":-12040,
+			"width":580,
+			"height":620
+		},
+		{"id":"6514a548dbf654f4","type":"file","file":"99. attachments/BLUE_PRINCE_ztxAJCRNUO.png","x":-3580,"y":-16661,"width":1180,"height":664},
+		{"id":"634d79b2f134ab57","type":"file","file":"99. attachments/BLUE_PRINCE_qtHpM4YEtu.png","x":-3580,"y":-15960,"width":1180,"height":664},
+		{"id":"0300d800f037c5e7","type":"file","file":"99. attachments/BLUE_PRINCE_AdD0KhC7a1.png","x":-2360,"y":-15960,"width":1180,"height":664},
+		{"id":"9fc042e0ed74c3fe","type":"file","file":"99. attachments/BLUE_PRINCE_1o8Vb3b8uh.png","x":-3580,"y":-15240,"width":1180,"height":664},
+		{"id":"8186c3df6287cd6b","type":"file","file":"99. attachments/BLUE_PRINCE_yduqiNILWn.png","x":-2360,"y":-15240,"width":1180,"height":664},
+		{"id":"e4f66469c5d84f90","type":"file","file":"99. attachments/BLUE_PRINCE_rH7NxwC1zt.png","x":-3580,"y":-14540,"width":1180,"height":664},
+		{"id":"842d4254679dcf1c","type":"file","file":"99. attachments/BLUE_PRINCE_H6058Z9Ndq.png","x":-2360,"y":-14540,"width":1180,"height":664},
+		{
+			"id":"56005c1427b440f0",
+			"type":"text",
+			"text":"# Mora Jai Box Message Results\n- Furnace room that contains the word Truth becomes Room 46\n- The mora jai box in this room says Blue\n- Truth = Blue?\n- The room sequence messages say \n- We Seek What's In The Shade Of Truth\n\t- This seems to be a reference to the message in the Safehouse\n- The characters from the paintings in the room also spell Swansong",
+			"styleAttributes":{},
+			"x":-3580,
+			"y":-17040,
+			"width":760,
+			"height":300
+		},
+		{
+			"id":"c03242a6d8838f85",
+			"type":"text",
+			"text":"R\no\no\nm\n4\n6",
+			"styleAttributes":{},
+			"x":4640,
+			"y":-10360,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"b4bb723d66bd8eb7",
+			"type":"text",
+			"text":"Swansong",
+			"styleAttributes":{},
+			"x":-3320,
+			"y":-10723,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"50a1c4721bb4fc51",
+			"type":"text",
+			"text":"Empty",
+			"styleAttributes":{},
+			"x":-3320,
+			"y":-11121,
+			"width":260,
+			"height":60
+		},
+		{"id":"5d9105d84e43cb36","type":"file","file":"99. attachments/BLUE_PRINCE_ebL6jNFHY9.png","x":-3801,"y":-11150,"width":400,"height":118,"color":"3"},
+		{
+			"id":"2a8c0de6615bb746",
+			"type":"text",
+			"text":"Mother",
+			"styleAttributes":{},
+			"x":-3320,
+			"y":-10974,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"983e22297e4920a5",
+			"type":"text",
+			"text":"Oneself",
+			"styleAttributes":{},
+			"x":-3320,
+			"y":-10839,
+			"width":260,
+			"height":60
+		},
+		{"id":"3acd9f3c9a9551b8","type":"file","file":"99. attachments/BLUE_PRINCE_GytqhTftlv.png","x":1130,"y":-16720,"width":1400,"height":788},
+		{
+			"id":"87cd9fcbe406ff4b",
+			"type":"text",
+			"text":"# Only go through Orange Lanterns\n- Passed rooms make the word M-O-R-T-H-E\n- This translates to Mother",
+			"styleAttributes":{},
+			"x":1130,
+			"y":-16960,
+			"width":700,
+			"height":160
+		},
+		{
+			"id":"72bdeca2cc49dc02",
+			"type":"text",
+			"text":"# Only go through Red Lanterns\n- Character - MPTYE\n- Word - Empty",
+			"styleAttributes":{},
+			"x":1130,
+			"y":-15880,
+			"width":680,
+			"height":160
+		},
+		{"id":"d8dd9f105f8f8304","type":"file","file":"99. attachments/BLUE_PRINCE_sTrr46iIq7.png","x":1130,"y":-15660,"width":1400,"height":788},
+		{
+			"id":"d1e32c91dcd46e7d",
+			"type":"text",
+			"text":"# Only go through Purple Lanterns\n- Characters - LEFOSNE\n- Word - Oneself",
+			"styleAttributes":{},
+			"x":1130,
+			"y":-14820,
+			"width":750,
+			"height":180
+		},
+		{"id":"2b44b9ddd4cacd97","type":"file","file":"99. attachments/BLUE_PRINCE_to0bcRl9Go.png","x":1130,"y":-14560,"width":1400,"height":788},
+		{"id":"b95e1987594a9b86","type":"file","file":"99. attachments/BLUE_PRINCE_0xsJG87uAV.png","x":2610,"y":-14560,"width":1401,"height":788},
+		{"id":"08a94bbdfe05777f","type":"file","file":"99. attachments/BLUE_PRINCE_pYFGmnFzqq.png","x":4080,"y":-14560,"width":1401,"height":788},
+		{"id":"14d9f4de06d30da4","type":"file","file":"99. attachments/Pasted image 20250902081556.png","x":-3300,"y":-12040,"width":400,"height":258},
+		{
+			"id":"823eb8ca0b150842",
+			"type":"text",
+			"text":"Moon",
+			"styleAttributes":{},
+			"x":-3320,
+			"y":-11210,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2396755b4c95a5ae",
+			"type":"text",
+			"text":"MEMOS",
+			"styleAttributes":{},
+			"x":-3320,
+			"y":-10600,
 			"width":260,
 			"height":60
 		}
@@ -3185,6 +3337,42 @@
 			"fromSide":"top",
 			"toNode":"afae2ed0fff03c41",
 			"toSide":"bottom"
+		},
+		{
+			"id":"423753adb88d80e8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c5d280a02f0a714f",
+			"fromSide":"right",
+			"toNode":"b4bb723d66bd8eb7",
+			"toSide":"left"
+		},
+		{
+			"id":"bb7dd6d8d95466f2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d9105d84e43cb36",
+			"fromSide":"right",
+			"toNode":"50a1c4721bb4fc51",
+			"toSide":"left"
+		},
+		{
+			"id":"763fe1c10a2b7e99",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c6655980426c14f7",
+			"fromSide":"right",
+			"toNode":"2a8c0de6615bb746",
+			"toSide":"left"
+		},
+		{
+			"id":"143a469de0a29529",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3fa9b9b0ace618f8",
+			"fromSide":"right",
+			"toNode":"983e22297e4920a5",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

@@ -35,7 +35,7 @@ Day 151
 
 Day 149
 - I was able to pull the blue book in the Secret Passage at the Outer Room
-- I found a room named The Atelier, where Baroness Auravel made the early designs for the 45 Rooms of the Mount Holly Estate
+- I found a room named The Atelier, where Baroness Auravei made the early designs for the 45 Rooms of the Mount Holly Estate
 - Behind it there is a Rough Draft of the Mansion with 45 Rooms divided in a 9x5 grid.
 	- The grid feels bigger than that because there are hallways between each room, both horizontally and vertically.
 	- At least when thinking about vertical columns, it seems there are at least 11 columns.
@@ -157,7 +157,7 @@ Day 138
 
 Before Day 138
 - I am still thinking about the letter to Herbert mom
-- Looking at the family tree drawing, Herbert's mother is Baroness Auravel
+- Looking at the family tree drawing, Herbert's mother is Baroness Auravei
 - The cipher puzzle was unlocked through the use of Family Core and Number Core theory
 - The place where I first learned the number core theory is at the file cabinet I found in the mining room
 	- The number core theory letter was sent to the Baroness
@@ -230,7 +230,7 @@ Day 132
 - I got the Effigy from the Coat Check Storage
 - I entered the Throne Room and the room was transformed into the Throne of the Blue Prince
 	- The theme of the room changed to the Mount Holly Estate and Family Tree
-		- It seems that we are some sort of royal family based on Baroness Auravel
+		- It seems that we are some sort of royal family based on Baroness Auravei
 	- The room has an effect that allows me to permanently unlock blue sealed doors if I draw 8 blue rooms in a row
 	- I was able to draw 8 blue rooms in a row in this same run, thus unlocking the blue sealed door at the Tunnels at the Grounds.
 - After that the run ended, because of a lack of steps caused by the curse.
@@ -442,7 +442,7 @@ Day 112
 	- If I think about it, there was a mining hat near the key, so it was very probable that the location I needed to find was the miner room in the Reservoir.
 - When using the File Cabinet Key in the Hidden Miner Room at the Reservoir I found a file talking about Numeric Cores
 	- It seems the file was made for a Baroness from the Mount Holly Family Tree
-		- Maybe Baroness Auravel
+		- Maybe Baroness Auravei
 	- The file gave instructions in how to solve the Numeric Core of a number
 		- But parts of it are missing
 - Besides that I was able to go further into the Tunnel and found multiple doors that are blocked by certain requirements
