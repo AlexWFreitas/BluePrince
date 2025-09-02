@@ -3104,7 +3104,50 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"3cd0da576a3f11c3","type":"file","file":"99. attachments/BLUE_PRINCE_HQRZCJATwn.png","x":-2030,"y":1760,"width":1580,"height":889}
+		{"id":"3cd0da576a3f11c3","type":"file","file":"99. attachments/BLUE_PRINCE_HQRZCJATwn.png","x":-2030,"y":1760,"width":1580,"height":889},
+		{"id":"2b44b9ddd4cacd97","type":"file","file":"99. attachments/BLUE_PRINCE_to0bcRl9Go.png","x":1130,"y":-14520,"width":1400,"height":788},
+		{"id":"b95e1987594a9b86","type":"file","file":"99. attachments/BLUE_PRINCE_0xsJG87uAV.png","x":2610,"y":-14520,"width":1401,"height":788},
+		{"id":"08a94bbdfe05777f","type":"file","file":"99. attachments/BLUE_PRINCE_pYFGmnFzqq.png","x":4080,"y":-14520,"width":1401,"height":788},
+		{
+			"id":"d1e32c91dcd46e7d",
+			"type":"text",
+			"text":"# Only go through Purple Lanterns",
+			"styleAttributes":{},
+			"x":1130,
+			"y":-14680,
+			"width":750,
+			"height":80
+		},
+		{
+			"id":"6543ad0f17756040",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":2200,
+			"y":-11860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"17ba4f156778d4cd",
+			"type":"text",
+			"text":"E\nn\nt\nr\na\nn\nc\ne",
+			"styleAttributes":{},
+			"x":1320,
+			"y":-11860,
+			"width":60,
+			"height":240
+		},
+		{
+			"id":"df12b1cde5915bb3",
+			"type":"text",
+			"text":"Entrance",
+			"styleAttributes":{},
+			"x":1660,
+			"y":-11200,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{

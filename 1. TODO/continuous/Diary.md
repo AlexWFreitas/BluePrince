@@ -1,3 +1,6 @@
+Day 155
+- I tried only going through purple lanterns until I reached the Vestibule and the door was purple, I was able to open it, but it said that this was not the true path.
+
 Day 154
 - I think I finished mapping the two messages in the Mount Holly Blueprints Rough Draft
 	- THROUGH LANTERN LIGHT IN SKETCHES
